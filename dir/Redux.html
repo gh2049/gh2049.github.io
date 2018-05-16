@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>浮生六记</title>
+    <meta name="description" content="Just playing around">
+    <meta name="theme-color" content="#3eaf7c">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="msapplication-TileColor" content="#000000">
+    
+    <link rel="preload" href="/assets/css/24.styles.fe2c85d3.css" as="style"><link rel="preload" href="/assets/js/app.30461cdf.js" as="script"><link rel="preload" href="/assets/js/21.397de84d.js" as="script"><link rel="prefetch" href="/assets/js/12.cc1b21fd.js"><link rel="prefetch" href="/assets/js/0.01165e77.js"><link rel="prefetch" href="/assets/js/1.ab7ff7e4.js"><link rel="prefetch" href="/assets/js/2.2e9a2c6e.js"><link rel="prefetch" href="/assets/js/3.868041e5.js"><link rel="prefetch" href="/assets/js/4.627e96b5.js"><link rel="prefetch" href="/assets/js/5.ac7555dd.js"><link rel="prefetch" href="/assets/js/6.831fe20d.js"><link rel="prefetch" href="/assets/js/7.2958aa67.js"><link rel="prefetch" href="/assets/js/8.40d7211d.js"><link rel="prefetch" href="/assets/js/9.8fae06a8.js"><link rel="prefetch" href="/assets/js/10.fc82ce8a.js"><link rel="prefetch" href="/assets/js/11.0dfe841b.js"><link rel="prefetch" href="/assets/js/13.26d3ea56.js"><link rel="prefetch" href="/assets/js/14.aabf7231.js"><link rel="prefetch" href="/assets/js/15.fc6c5f4e.js"><link rel="prefetch" href="/assets/js/16.095a5454.js"><link rel="prefetch" href="/assets/js/17.e814a0d2.js"><link rel="prefetch" href="/assets/js/18.d7e49a94.js"><link rel="prefetch" href="/assets/js/19.2d14bc1b.js"><link rel="prefetch" href="/assets/js/20.45dfe896.js"><link rel="prefetch" href="/assets/js/22.2690f6c3.js"><link rel="prefetch" href="/assets/js/23.2a168d4d.js">
+    <link rel="stylesheet" href="/assets/css/24.styles.fe2c85d3.css">
+  </head>
+  <body>
+    <div id="app" data-server-rendered="true"><div class="theme-container no-sidebar"><header class="navbar"><div class="sidebar-button"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon"><path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path></svg></div><a href="/" class="home-link router-link-active"><!----><span class="site-name">
+      浮生六记
+    </span></a><div class="links"><!----><nav class="nav-links can-hide"><div class="nav-item"><a href="/" class="nav-link">Home</a></div><div class="nav-item"><a href="/markdown.html" class="nav-link">markdown</a></div><div class="nav-item"><a href="https://google.com" target="_blank" rel="noopener noreferrer" class="nav-link">External</a></div><!----></nav></div></header><div class="sidebar-mask"></div><div class="sidebar"><nav class="nav-links"><div class="nav-item"><a href="/" class="nav-link">Home</a></div><div class="nav-item"><a href="/markdown.html" class="nav-link">markdown</a></div><div class="nav-item"><a href="https://google.com" target="_blank" rel="noopener noreferrer" class="nav-link">External</a></div><!----></nav><!----></div><div class="page"><div class="content"><p>如果你已经能很熟练的使用React，我觉得学习Redux需要了解的基础知识，你应该都已经了解了。具体说来主要有以下内容；</p><p>React（Redux是flux架构的实现，虽然其也可以配合其它框架使用，但是它和React可能还是更配一些吧）；</p><p>基础的ES6知识（Redux重视函数式编程，会使得编程的结构看起来更加简洁）；</p><p>用了ES6（甚至ES7）当然免不了要学习使用Webpack，Babel等；</p><p>还有一点，我觉得学习编程应该不怕折腾，使用Redux管理一个状态可能需要改好几个文件里的代码才能实现，编程不再显得那么直接（比如 通过connect.js调用action.js里的某个action,并依据这个action触发reducer.js里面的某个reducer函数依据现有的state,创建一个新的state）,redux把一些操作给抽象化了，如果思维没有跟着改变，会让人有一种redux文档里面的东西我都看懂了，但是我怎么就是编不出来呢？那种痛苦的感觉。</p><h3 id="学习使用redux"><a href="#学习使用redux" aria-hidden="true" class="header-anchor">#</a> 学习使用Redux</h3><p>网上关于Redux的教程特别多了（官方文档写的特别好），学习新概念是比较恼人的一个过程，所以我还是会对Redux提供的api做一个简洁的描述，然后我会把我这段时间看过的我觉得比较好的文章的链接放在下面以供大家参考。</p><pre class="language-text"><code>Redux中的一些概念
+state:app中的状态存放的地方，并且state是只读的，不同于React，Redux中state的更改，其实是创建了一个全新的state；
+action:是一个对象，作用和他的名字一样，用来表明，你想要做的那件事情，该对象的属性type，用来标记，你要做的事情；
+reducer:是一个函数，接收当前state，和一个action作为参数，依据action基于当前的state生成新的state;
+dispatch:推送某个action给reducer;
+action creater:一个创建action的函数，返回一个action对象；
+异步action：返回一个函数，和中间件配合可以很容易的实现异步操作；
+store:可以理解为state的家，全局只有一个，有以下方法
+getState():获取当前的state树；
+dispatch(action):触发一个action,创建state;
+subscribe(listener):
+replaceReducer(nextReducer)
+combineRedecers(reducers)：当我们的应用比较复杂的时候，我们可能会分开写好几个reducer，这个函数的作用就是把这些单独的reduce合并为一个大的reduce，需要注意的是我们的state的结构和我们的各个reducer是一一对应的。
+applyMiddleware(...middlewares):告诉redux我们会用到那些中间件，比如说要用到基础的异步，我们会用到thunk中间件；
+let store = createStore(
+    comReducer,
+    applyMiddleware(thunk)
+);
+bindActionCreators(actionCreators, dispatch):绑定actionCreator和dispatch以供直接使用；
+配合 React 使用Redux需要掌握的一些概念
+redux只是管理状态的一种方法，真的用在React里，使用作者提供的一个工具react-redux会更加方便，其api很简单，主要有以下几个；
+
+&lt;Provider store&gt;,嵌套在React组件的最外层，因此可以把state传给所有的组件（利用了React的context）；
+把React组件分为容器组件和UI组件两类，容器组件管理逻辑，UI组件管理显示效果二者通过connect方法连接，容器组件一般由UI组件依据connect生成；
+mapStateToProps()，存在于容器组件中，针对UI组件的各状态(依据state，或者父组件的props)生成；
+mapDispatchToProps()，存在于容器组件中，针对UI组件中的各可能改变state的事件定义的一系列的函数，依据props传给UI组件；
+</code></pre><p>原文链接：http://www.jianshu.com/p/94d8f8a36ab0</p></div><!----><!----></div></div></div>
+    <script src="/assets/js/21.397de84d.js" defer></script><script src="/assets/js/app.30461cdf.js" defer></script>
+  </body>
+</html>

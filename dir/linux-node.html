@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>浮生六记 | 花了一些时间搭了个基于Node.js的服务器环境，当中踩了许多坑，记录下大致的流程与大家分享</title>
+    <meta name="description" content="Just playing around">
+    <meta name="theme-color" content="#3eaf7c">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="msapplication-TileColor" content="#000000">
+    
+    <link rel="preload" href="/assets/css/24.styles.fe2c85d3.css" as="style"><link rel="preload" href="/assets/js/app.30461cdf.js" as="script"><link rel="preload" href="/assets/js/15.fc6c5f4e.js" as="script"><link rel="prefetch" href="/assets/js/12.cc1b21fd.js"><link rel="prefetch" href="/assets/js/0.01165e77.js"><link rel="prefetch" href="/assets/js/1.ab7ff7e4.js"><link rel="prefetch" href="/assets/js/2.2e9a2c6e.js"><link rel="prefetch" href="/assets/js/3.868041e5.js"><link rel="prefetch" href="/assets/js/4.627e96b5.js"><link rel="prefetch" href="/assets/js/5.ac7555dd.js"><link rel="prefetch" href="/assets/js/6.831fe20d.js"><link rel="prefetch" href="/assets/js/7.2958aa67.js"><link rel="prefetch" href="/assets/js/8.40d7211d.js"><link rel="prefetch" href="/assets/js/9.8fae06a8.js"><link rel="prefetch" href="/assets/js/10.fc82ce8a.js"><link rel="prefetch" href="/assets/js/11.0dfe841b.js"><link rel="prefetch" href="/assets/js/13.26d3ea56.js"><link rel="prefetch" href="/assets/js/14.aabf7231.js"><link rel="prefetch" href="/assets/js/16.095a5454.js"><link rel="prefetch" href="/assets/js/17.e814a0d2.js"><link rel="prefetch" href="/assets/js/18.d7e49a94.js"><link rel="prefetch" href="/assets/js/19.2d14bc1b.js"><link rel="prefetch" href="/assets/js/20.45dfe896.js"><link rel="prefetch" href="/assets/js/21.397de84d.js"><link rel="prefetch" href="/assets/js/22.2690f6c3.js"><link rel="prefetch" href="/assets/js/23.2a168d4d.js">
+    <link rel="stylesheet" href="/assets/css/24.styles.fe2c85d3.css">
+  </head>
+  <body>
+    <div id="app" data-server-rendered="true"><div class="theme-container no-sidebar"><header class="navbar"><div class="sidebar-button"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon"><path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path></svg></div><a href="/" class="home-link router-link-active"><!----><span class="site-name">
+      浮生六记
+    </span></a><div class="links"><!----><nav class="nav-links can-hide"><div class="nav-item"><a href="/" class="nav-link">Home</a></div><div class="nav-item"><a href="/markdown.html" class="nav-link">markdown</a></div><div class="nav-item"><a href="https://google.com" target="_blank" rel="noopener noreferrer" class="nav-link">External</a></div><!----></nav></div></header><div class="sidebar-mask"></div><div class="sidebar"><nav class="nav-links"><div class="nav-item"><a href="/" class="nav-link">Home</a></div><div class="nav-item"><a href="/markdown.html" class="nav-link">markdown</a></div><div class="nav-item"><a href="https://google.com" target="_blank" rel="noopener noreferrer" class="nav-link">External</a></div><!----></nav><!----></div><div class="page"><div class="content"><h4 id="花了一些时间搭了个基于node-js的服务器环境，当中踩了许多坑，记录下大致的流程与大家分享"><a href="#花了一些时间搭了个基于node-js的服务器环境，当中踩了许多坑，记录下大致的流程与大家分享" aria-hidden="true" class="header-anchor">#</a> 花了一些时间搭了个基于Node.js的服务器环境，当中踩了许多坑，记录下大致的流程与大家分享</h4><h3 id="域名和服务器的购买、解析"><a href="#域名和服务器的购买、解析" aria-hidden="true" class="header-anchor">#</a> 域名和服务器的购买、解析</h3><ul><li>域名的购买：
+<ul><li>国内有阿里云、腾讯云等等,国外有 GoDaddy(支持支付宝)，这些都能满足要求。</li></ul></li><li>服务器的租用：
+<ul><li>由于国内的服务器需要备案，为了省时省力，我选择去 taobao 租用香港的云服务器，满足基础就好，等以后需求更大再选择扩大服务器也不迟。</li><li>服务器有许多种选择，有基于 <code>windows</code> 的，也有基于 <code>linux</code> 的，根据要跑的东西来选择相应的服务器，这里我选择 <code>linux Centos_6.4</code>版本，下面的操作也是基于此版本。
+<p style="text-align:center"><img src="http://i1.piimg.com/567571/8672fceae05806b8.png" width="250" alt="图片名称" align="center"></p></li><li>租完服务器你会得到一个服务器IP（xxx xx xx xx），还有服务器的账号密码，记得保存好。</li></ul></li><li>域名解析：
+<ul><li>在购买域名的网站解析你的域名，把IP地址填入相关的栏目，此时你的域名和服务器就已经关联了，你可以 <code>ping</code> 一下你的域名看看是否生效。</li></ul></li></ul><h3 id="远程连接"><a href="#远程连接" aria-hidden="true" class="header-anchor">#</a> 远程连接</h3><ul><li>下载 <code>PuTTY</code> 和 <code>WinSCP</code><ul><li><code>PuTTY</code> 是在 <code>windows</code> 平台上远程连接（<code>ssh</code>） <code>linux</code> 的一个工具，使用此工具连接服务器IP，输入帐号和密码，登录成功！
+<a href="http://www.putty.ws/putty002" target="_blank" rel="noopener noreferrer">使用方法在这里</a>，<a href="http://jingyan.baidu.com/article/d5c4b52b386e37da560dc5eb.html" target="_blank" rel="noopener noreferrer">实在不明白可以看这里</a>。</li><li><code>WinSCP</code> 可以用来传输本地文件到远程服务器，也可以进行查看、修改等操作，把它理解成半个图形操作界面就OK。</li></ul></li></ul><h3 id="搭建-node-js-环境"><a href="#搭建-node-js-环境" aria-hidden="true" class="header-anchor">#</a> 搭建 <code>Node.js</code> 环境</h3><ul><li>下载安装包：</li></ul><pre class="language-text"><code>wget https://nodejs.org/dist/v4.6.0/node-v4.6.0.tar.gz
+</code></pre><ul><li>解压：</li></ul><pre class="language-text"><code>tar -xzvf node-v4.6.0.tar.gz
+</code></pre><ul><li>预编译：</li></ul><pre class="language-text"><code>cd node-v4.6.0
+./configure
+</code></pre><p>你会遇到如下错误:</p><blockquote><p>WARNING: failed to autodetect C++ compiler version (CXX=g++)</p></blockquote><blockquote><p>WARNING: failed to autodetect C compiler version (CC=gcc)</p></blockquote><blockquote><p>Node.js configure error: No acceptable C compiler found!</p></blockquote><p>此时你需要安装 <code>c++</code> 编译器：</p><pre class="language-text"><code>yum groupinstall 'Development Tools'
+./configure
+</code></pre><blockquote><p>WARNING: C++ compiler too old, need g++ 4.8 or clang++ 3.4 (CXX=g++)</p></blockquote><p>提示你版本过旧需要升级，此时你需要一步一步执行以下命令：</p><pre class="language-text"><code>curl http://linuxsoft.cern.ch/cern/scl/slc6-scl.repo &gt; /etc/yum.repos.d/slc6-scl.repo
+rpm --import http://ftp.mirrorservice.org/sites/ftp.scientificlinux.org/linux/scientific/51/i386/RPM-GPG-KEYs/RPM-GPG-KEY-cern
+yum install -y devtoolset-3
+scl enable devtoolset-3 bash
+./configure
+make &amp;&amp; make install
+</code></pre><blockquote><p><code>./configure</code> 是用来检测你的安装平台的目标特征的。比如它会检测你是不是有 <code>CC</code>或 <code>GCC</code>，并不是需要 <code>CC</code> 或 <code>GCC</code> ，它是个 <code>shell</code> 脚本。
+<code>configure</code> 根据平台和配置自动生成 <code>makefile</code>。</p></blockquote><blockquote><p><code>make</code> 是用来编译的，它从 <code>Makefile</code> 中读取指令，然后编译。</p></blockquote><blockquote><p><code>make install</code> 是用来安装的，它也从 <code>Makefile</code> 中读取指令，安装到指定的位置。</p></blockquote><p>这个编译过程我等了三个多小时，祝你好运吧。
+完成命令后测试一下:</p><pre class="language-text"><code>node -v
+</code></pre><blockquote><p>v4.6.0</p></blockquote><p>成功！此时你可以在这台主机上运行<code>Nodejs</code>环境了。</p><h3 id="安装-nginx"><a href="#安装-nginx" aria-hidden="true" class="header-anchor">#</a> 安装 <code>nginx</code></h3><h4 id="nginx-engine-x-是一个高性能的http和反向代理服务器"><a href="#nginx-engine-x-是一个高性能的http和反向代理服务器" aria-hidden="true" class="header-anchor">#</a><code>Nginx</code> (<code>engine x</code>) 是一个高性能的HTTP和反向代理服务器</h4><p style="text-align:center"><img src="https://pic1.zhimg.com/480c1c45d2565e2f92fd930d25b73a18_b.jpg" width="500" alt="图片名称" align="center"></p>转自 [阿笠博士](https://www.zhihu.com/people/sun-guan-jun-92)
+<ul><li>在nginx官方网站下载一个rpm包，下载地址是</li></ul><pre class="language-text"><code>wget http://nginx.org/packages/centos/6/noarch/RPMS/nginx-release-centos-6-0.el6.ngx.noarch.rpm
+</code></pre><ul><li>安装这个rpm包</li></ul><pre class="language-text"><code>rpm -ivh nginx-release-centos-6-0.el6.ngx.noarch.rpm
+</code></pre><ul><li>安装过程中会出现错误提示：</li></ul><pre class="language-text"><code>warning: nginx-release-centos-6-0.el6.ngx.noarch.rpm: Header V4 RSA/SHA1 Signature, key ID 7bd9bf62: NOKEY
+</code></pre><p>忽略即可</p><ul><li>安装nginx:</li></ul><pre class="language-text"><code>yum install nginx
+</code></pre><ul><li>成功以后，输入:</li></ul><pre class="language-text"><code>whereis nginx
+</code></pre><blockquote><p>nginx: /usr/sbin/nginx /etc/nginx /usr/share/nginx</p></blockquote><p>可以进这几个文件看看里面的结构</p><ul><li>启动</li></ul><pre class="language-text"><code>/usr/sbin/nginx
+</code></pre><ul><li>打开防火墙端口</li></ul><pre class="language-text"><code>iptables -I INPUT -p tcp --dport 80 -j ACCEPT
+</code></pre><p>打开你的浏览器访问一下你的服务器IP，如果出现 <code>nginx</code> 字样表示设置成功。</p><p>成功以后，开始配置 <code>nginx</code>，<a href="http://www.nginx.cn/591.html" target="_blank" rel="noopener noreferrer">具体看这篇文章</a>。</p><p>我这里说点简单的，找到：</p><pre class="language-text"><code>include /etc/nginx/conf.d/*.conf;
+</code></pre><p>注释掉这句话（在 <code>include</code> 前加上 <code>#</code>），
+然后在下一行加上如下语句：</p><pre class="language-text"><code>server {
+    listen       80; //监听的端口
+
+    server_name  www.xxx.com xxx.com; //你自己的域名
+
+    access_log  /var/log/nginx/log/main.host.access.log  main; //日志记录
+
+    location / {  
+        //`location` 下的 `proxy_pass` 表示跳转的端口，比如你的服务起在8088端口，
+        //`nginx`就可以监听80并跳转到8088，你的服务就可以运行在公网上了。
+        
+        proxy_set_header   X-Real-IP $remote_addr;
+        proxy_set_header   Host      $http_host;
+        proxy_set_header   X-NginX-Proxy true;
+        proxy_pass   http://127.0.0.1:8088; //跳转端口，你的node服务器设置端口为8088
+    }
+}
+</code></pre><p>全部设置好以后重启 <code>nginx</code>：</p><pre class="language-text"><code>/usr/sbin/nginx -s reload
+</code></pre><p>运行你的服务如在8088端口，然后在公网访问你的域名，
+大功告成！</p></div><!----><!----></div></div></div>
+    <script src="/assets/js/15.fc6c5f4e.js" defer></script><script src="/assets/js/app.30461cdf.js" defer></script>
+  </body>
+</html>

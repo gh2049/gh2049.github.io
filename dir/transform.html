@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>浮生六记</title>
+    <meta name="description" content="Just playing around">
+    <meta name="theme-color" content="#3eaf7c">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="msapplication-TileColor" content="#000000">
+    
+    <link rel="preload" href="/assets/css/24.styles.fe2c85d3.css" as="style"><link rel="preload" href="/assets/js/app.30461cdf.js" as="script"><link rel="preload" href="/assets/js/12.cc1b21fd.js" as="script"><link rel="prefetch" href="/assets/js/0.01165e77.js"><link rel="prefetch" href="/assets/js/1.ab7ff7e4.js"><link rel="prefetch" href="/assets/js/2.2e9a2c6e.js"><link rel="prefetch" href="/assets/js/3.868041e5.js"><link rel="prefetch" href="/assets/js/4.627e96b5.js"><link rel="prefetch" href="/assets/js/5.ac7555dd.js"><link rel="prefetch" href="/assets/js/6.831fe20d.js"><link rel="prefetch" href="/assets/js/7.2958aa67.js"><link rel="prefetch" href="/assets/js/8.40d7211d.js"><link rel="prefetch" href="/assets/js/9.8fae06a8.js"><link rel="prefetch" href="/assets/js/10.fc82ce8a.js"><link rel="prefetch" href="/assets/js/11.0dfe841b.js"><link rel="prefetch" href="/assets/js/13.26d3ea56.js"><link rel="prefetch" href="/assets/js/14.aabf7231.js"><link rel="prefetch" href="/assets/js/15.fc6c5f4e.js"><link rel="prefetch" href="/assets/js/16.095a5454.js"><link rel="prefetch" href="/assets/js/17.e814a0d2.js"><link rel="prefetch" href="/assets/js/18.d7e49a94.js"><link rel="prefetch" href="/assets/js/19.2d14bc1b.js"><link rel="prefetch" href="/assets/js/20.45dfe896.js"><link rel="prefetch" href="/assets/js/21.397de84d.js"><link rel="prefetch" href="/assets/js/22.2690f6c3.js"><link rel="prefetch" href="/assets/js/23.2a168d4d.js">
+    <link rel="stylesheet" href="/assets/css/24.styles.fe2c85d3.css">
+  </head>
+  <body>
+    <div id="app" data-server-rendered="true"><div class="theme-container no-sidebar"><header class="navbar"><div class="sidebar-button"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon"><path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path></svg></div><a href="/" class="home-link router-link-active"><!----><span class="site-name">
+      浮生六记
+    </span></a><div class="links"><!----><nav class="nav-links can-hide"><div class="nav-item"><a href="/" class="nav-link">Home</a></div><div class="nav-item"><a href="/markdown.html" class="nav-link">markdown</a></div><div class="nav-item"><a href="https://google.com" target="_blank" rel="noopener noreferrer" class="nav-link">External</a></div><!----></nav></div></header><div class="sidebar-mask"></div><div class="sidebar"><nav class="nav-links"><div class="nav-item"><a href="/" class="nav-link">Home</a></div><div class="nav-item"><a href="/markdown.html" class="nav-link">markdown</a></div><div class="nav-item"><a href="https://google.com" target="_blank" rel="noopener noreferrer" class="nav-link">External</a></div><!----></nav><!----></div><div class="page"><div class="content"><pre class="language-text"><code>//变换函数的工具类
+function css(obj,attr,value){
+    if(!obj.transform){
+      obj.transform={};
+    }
+
+    if(arguments.length&gt;2){//设置
+      obj.transform[attr]=value;
+      var text =&quot;&quot;;
+      for(var item in obj.transform){
+        switch (item){
+          case &quot;rotate&quot;:
+          case &quot;skewX&quot;:
+          case &quot;skewY&quot;:
+          case &quot;skew&quot;:
+            text += item+&quot;(&quot;+obj.transform[item]+&quot;deg) &quot; 
+            break;
+          case &quot;translateX&quot;:
+          case &quot;translateY&quot;:
+          case &quot;translateZ&quot;:
+          case &quot;translate&quot;:
+            text += item+&quot;(&quot;+obj.transform[item]+&quot;px) &quot; 
+            break;
+          case &quot;scale&quot;:
+          case &quot;scaleX&quot;:
+          case &quot;scaleY&quot;:
+            text += item+&quot;(&quot;+obj.transform[item]+&quot;) &quot; 
+            break;
+        }
+      }
+      obj.style.webkitTransform=obj.style.transform = text;
+
+    }else{//读取
+
+      value = obj.transform[attr];
+      if(typeof value == &quot;undefined&quot;){
+        //返回默认值
+        if(attr == &quot;scale&quot; || attr == &quot;scaleX&quot; || attr == &quot;scaleY&quot;){
+          return 1;
+        }else{
+          return 0;
+        }
+      }
+
+      return value;
+    }
+  }
+
+//自定义滑屏组件
+function drag(wrap,index,callBack){
+    var child = wrap.children[index];
+    css(child,&quot;translateZ&quot;,0.001);//3d加速 开启我们的GPU进程
+
+    var step = 0;
+//	var stratY =0;
+//	var elementY = 0;
+    var startPoint={};
+    var elementPoint={};
+    var min = wrap.clientHeight - child.offsetHeight;
+
+    var lastTime =0;
+    var lastPoint = 0;
+    var timeValue = 1;//时间差值,避免初始点击speed值为undefined
+    var disValue = 0;//距离的差值
+
+    var isY=true;
+    var isFirst=true;
+
+    var Tween ={
+      SineOut: function(t,b,c,d){
+                  return c * Math.sin(t/d * (Math.PI/2)) + b;
+              },	
+          BackOut: function(t,b,c,d,s){
+                  if (s == undefined) s = 1.70158;
+              return c*((t=t/d-1)*t*((s+1)*t + s) + 1) + b;
+          }
+    }
+
+    wrap.addEventListener(&quot;touchstart&quot;,function(ev){
+      min = wrap.clientHeight - child.offsetHeight;
+//				child.style.transition =&quot;none&quot;;
+      clearInterval(child.clear);
+
+//		var touch = ev.changedTouches[0];
+//		stratY = touch.clientY;
+//		elementY = css(child,&quot;translateY&quot;);
+      startPoint = {clientX:ev.changedTouches[0].clientX,clientY:ev.changedTouches[0].clientY};
+      elementPoint.elementY = css(child,&quot;translateY&quot;);
+      elementPoint.elementX = css(child,&quot;translateX&quot;);
+
+      lastTime=new Date().getTime();//毫秒数
+      lastPoint = startPoint.clientY;
+      timeValue = 1;//时间差值,避免初始点击speed值为undefined
+      disValue = 0;//距离的差值
+
+      if(callBack&amp;&amp;callBack[&quot;start&quot;]){
+        callBack[&quot;start&quot;]();
+      }
+
+      isY=true;
+      isFirst=true;
+    })
+
+    wrap.addEventListener(&quot;touchmove&quot;,function(ev){
+      if(!isY){
+        return;
+      }
+
+//		var touch = ev.changedTouches[0]; 
+//		var nowY = touch.clientY;
+//		var dis = nowY -stratY;
+      var movePoint =ev.changedTouches[0]; 
+      var	disX = movePoint.clientX - startPoint.clientX;
+      var	disY = movePoint.clientY - startPoint.clientY;
+
+
+      if(isFirst){
+        isFirst=false;
+        if(Math.abs(disX)&gt;Math.abs(disY)){
+          isY=false;
+          return;
+        }
+      }
+
+      var translateY = elementPoint.elementY+disY;
+
+      if(translateY&gt;0){
+        step =0.6- translateY / (document.documentElement.clientHeight*3);
+        translateY=step*translateY;
+      }
+      if(translateY&lt;min){
+        var overDis = min - translateY;
+        step =0.6 - overDis / (document.documentElement.clientHeight*3);
+        translateY =min - overDis*step;
+      }
+
+
+      var nowTime = new Date().getTime();
+      var nowPoint = movePoint.clientY;
+      timeValue = nowTime - lastTime;
+      disValue = nowPoint - lastPoint;
+      lastTime = nowTime;
+      lastPoint = nowPoint;
+
+      css(child,&quot;translateY&quot;,translateY);
+
+      if(callBack&amp;&amp;callBack[&quot;moving&quot;]){
+        callBack[&quot;moving&quot;]();
+      }
+    })
+
+    wrap.addEventListener(&quot;touchend&quot;,function(){
+      var speed = disValue/timeValue;
+//				if(Math.abs(speed)&lt;0.2){
+//					return;
+//				}
+      var left = speed*300;
+      var translateY = css(child,&quot;translateY&quot;);
+      var target = translateY + left;
+//				var bessel = &quot;&quot;;
+      var type=&quot;SineOut&quot;;
+      var time =0;
+      time=Math.abs(speed)*0.4;
+      time=time&lt;0.3?0.3:time;
+
+      if(target&gt;0){
+        target = 0;
+        type=&quot;BackOut&quot;;
+//					bessel =&quot;cubic-bezier(.08,1.44,.6,1.46)&quot;;
+      }
+      if(target&lt;min){
+        target = min;
+        type=&quot;BackOut&quot;;
+//					bessel =&quot;cubic-bezier(.08,1.44,.6,1.46)&quot;;
+      }
+
+
+//		child.style.transition =time+&quot;s &quot;+bessel;
+//		css(child,&quot;translateY&quot;,target);
+      move(target,time,type);
+
+      if(callBack&amp;&amp;callBack[&quot;end&quot;]){
+        callBack[&quot;end&quot;]();
+      }
+    })
+
+
+
+    function move(target,time,type){
+      //		t:代表当前次数
+      //		b:代表初始的运动位置
+      //		c:代表目标位置与初始位置之间的差值
+      //		d:总次数
+      //		s:回弹距离
+      var t=0;
+      var b=css(child,&quot;translateY&quot;);
+      var c=target - b;
+      var d=time/0.01;
+
+      clearInterval(child.clear);
+      child.clear=setInterval(function(){
+          t++;
+          if(t&gt;d){
+            clearInterval(child.clear);
+            if(callBack&amp;&amp;callBack[&quot;over&quot;]){
+              callBack[&quot;over&quot;]();
+            }
+          }else{
+            var top =Tween[type](t,b,c,d);
+            css(child,&quot;translateY&quot;,top);
+            if(callBack&amp;&amp;callBack[&quot;moving&quot;]){
+              callBack[&quot;moving&quot;]();
+            }
+          }
+        },10);
+      }
+  }
+</code></pre></div><!----><!----></div></div></div>
+    <script src="/assets/js/12.cc1b21fd.js" defer></script><script src="/assets/js/app.30461cdf.js" defer></script>
+  </body>
+</html>

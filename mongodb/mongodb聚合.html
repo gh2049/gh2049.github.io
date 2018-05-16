@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>浮生六记 | **MongoDB 聚合**</title>
+    <meta name="description" content="Just playing around">
+    <meta name="theme-color" content="#3eaf7c">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="msapplication-TileColor" content="#000000">
+    
+    <link rel="preload" href="/assets/css/24.styles.fe2c85d3.css" as="style"><link rel="preload" href="/assets/js/app.30461cdf.js" as="script"><link rel="preload" href="/assets/js/0.01165e77.js" as="script"><link rel="prefetch" href="/assets/js/12.cc1b21fd.js"><link rel="prefetch" href="/assets/js/1.ab7ff7e4.js"><link rel="prefetch" href="/assets/js/2.2e9a2c6e.js"><link rel="prefetch" href="/assets/js/3.868041e5.js"><link rel="prefetch" href="/assets/js/4.627e96b5.js"><link rel="prefetch" href="/assets/js/5.ac7555dd.js"><link rel="prefetch" href="/assets/js/6.831fe20d.js"><link rel="prefetch" href="/assets/js/7.2958aa67.js"><link rel="prefetch" href="/assets/js/8.40d7211d.js"><link rel="prefetch" href="/assets/js/9.8fae06a8.js"><link rel="prefetch" href="/assets/js/10.fc82ce8a.js"><link rel="prefetch" href="/assets/js/11.0dfe841b.js"><link rel="prefetch" href="/assets/js/13.26d3ea56.js"><link rel="prefetch" href="/assets/js/14.aabf7231.js"><link rel="prefetch" href="/assets/js/15.fc6c5f4e.js"><link rel="prefetch" href="/assets/js/16.095a5454.js"><link rel="prefetch" href="/assets/js/17.e814a0d2.js"><link rel="prefetch" href="/assets/js/18.d7e49a94.js"><link rel="prefetch" href="/assets/js/19.2d14bc1b.js"><link rel="prefetch" href="/assets/js/20.45dfe896.js"><link rel="prefetch" href="/assets/js/21.397de84d.js"><link rel="prefetch" href="/assets/js/22.2690f6c3.js"><link rel="prefetch" href="/assets/js/23.2a168d4d.js">
+    <link rel="stylesheet" href="/assets/css/24.styles.fe2c85d3.css">
+  </head>
+  <body>
+    <div id="app" data-server-rendered="true"><div class="theme-container no-sidebar"><header class="navbar"><div class="sidebar-button"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon"><path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path></svg></div><a href="/" class="home-link router-link-active"><!----><span class="site-name">
+      浮生六记
+    </span></a><div class="links"><!----><nav class="nav-links can-hide"><div class="nav-item"><a href="/" class="nav-link">Home</a></div><div class="nav-item"><a href="/markdown.html" class="nav-link">markdown</a></div><div class="nav-item"><a href="https://google.com" target="_blank" rel="noopener noreferrer" class="nav-link">External</a></div><!----></nav></div></header><div class="sidebar-mask"></div><div class="sidebar"><nav class="nav-links"><div class="nav-item"><a href="/" class="nav-link">Home</a></div><div class="nav-item"><a href="/markdown.html" class="nav-link">markdown</a></div><div class="nav-item"><a href="https://google.com" target="_blank" rel="noopener noreferrer" class="nav-link">External</a></div><!----></nav><!----></div><div class="page"><div class="content"><h1 id="mongodb-聚合"><a href="#mongodb-聚合" aria-hidden="true" class="header-anchor">#</a><strong>MongoDB 聚合</strong></h1><p>MongoDB中聚合(aggregate)主要用于处理数据(诸如统计平均值,求和等)，并返回计算后的数据结果。有点类似sql语句中的 count(*)。</p><h2 id="aggregate-方法"><a href="#aggregate-方法" aria-hidden="true" class="header-anchor">#</a><strong>aggregate() 方法</strong></h2><p>MongoDB中聚合的方法使用aggregate()。</p><h3 id="语法"><a href="#语法" aria-hidden="true" class="header-anchor">#</a><strong>语法</strong></h3><p>aggregate() 方法的基本语法格式如下所示：</p><pre class="language-text"><code>&gt;db.COLLECTION_NAME.aggregate(AGGREGATE_OPERATION)
+</code></pre><h3 id="实例"><a href="#实例" aria-hidden="true" class="header-anchor">#</a><strong>实例</strong></h3><p>userinfo集合中的数据如下：</p><pre class="language-text"><code>{{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b597&quot;), &quot;userId&quot; : 21, &quot;age&quot; : 39 }
+ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b598&quot;), &quot;userId&quot; : 22, &quot;age&quot; : 40 }
+{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b599&quot;), &quot;userId&quot; : 23, &quot;age&quot; : 41 }
+{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b59a&quot;), &quot;userId&quot; : 24, &quot;age&quot; : 42 }
+{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b59b&quot;), &quot;userId&quot; : 25, &quot;age&quot; : 43 }
+{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b59c&quot;), &quot;userId&quot; : 26, &quot;age&quot; : 44 }
+{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b59d&quot;), &quot;userId&quot; : 27, &quot;age&quot; : 45 }
+{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b59e&quot;), &quot;userId&quot; : 28, &quot;age&quot; : 46 }
+{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b59f&quot;), &quot;userId&quot; : 29, &quot;age&quot; : 47 }
+{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b5a0&quot;), &quot;userId&quot; : 30, &quot;age&quot; : 48 }
+{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b5a1&quot;), &quot;userId&quot; : 31, &quot;age&quot; : 49 }
+{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b5a2&quot;), &quot;userId&quot; : 32, &quot;age&quot; : 50 }
+{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b5a3&quot;), &quot;userId&quot; : 33, &quot;age&quot; : 51 }
+{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b5a4&quot;), &quot;userId&quot; : 34, &quot;age&quot; : 52 }
+{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b5a5&quot;), &quot;userId&quot; : 35, &quot;age&quot; : 53 }
+{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b5a6&quot;), &quot;userId&quot; : 36, &quot;age&quot; : 54 }
+
+</code></pre><p>我们先来新增方便group(分组)的一个 school 学校字段。</p><pre class="language-text"><code>db.userinfo.update({&quot;userId&quot;:{$gt:50}}, {$set: {&quot;school&quot;: 'Tsinghua'}}, {multi: 1});
+db.userinfo.update({&quot;userId&quot;:{$lt:50}}, {$set: {&quot;school&quot;: 'PKU'}}, {multi: 1});
+</code></pre><p>现在我们通过以上集合计算按照学校分组的总人数，使用aggregate()计算结果如下：</p><pre class="language-text"><code>&gt; db.userinfo.aggregate([{$group : {_id : &quot;$school&quot;, count_user : {$sum : 1}}}]);{ &quot;_id&quot; : &quot;Tsinghua&quot;, &quot;count_user&quot; : 49 }{ &quot;_id&quot; : &quot;PKU&quot;, &quot;count_user&quot; : 49 }
+</code></pre><p>在上面的例子中，我们通过字段school字段对数据进行分组。下表展示了一些聚合的表达式。</p><table><thead><tr><th></th></tr></thead><tbody><tr><td>$sum</td></tr><tr><td>$avg</td></tr><tr><td>$min</td></tr><tr><td>$max</td></tr></tbody></table></div><!----><!----></div></div></div>
+    <script src="/assets/js/0.01165e77.js" defer></script><script src="/assets/js/app.30461cdf.js" defer></script>
+  </body>
+</html>

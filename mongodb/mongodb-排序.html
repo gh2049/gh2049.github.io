@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>浮生六记 | **MongoDB 排序**</title>
+    <meta name="description" content="Just playing around">
+    <meta name="theme-color" content="#3eaf7c">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="msapplication-TileColor" content="#000000">
+    
+    <link rel="preload" href="/assets/css/24.styles.fe2c85d3.css" as="style"><link rel="preload" href="/assets/js/app.30461cdf.js" as="script"><link rel="preload" href="/assets/js/7.2958aa67.js" as="script"><link rel="prefetch" href="/assets/js/12.cc1b21fd.js"><link rel="prefetch" href="/assets/js/0.01165e77.js"><link rel="prefetch" href="/assets/js/1.ab7ff7e4.js"><link rel="prefetch" href="/assets/js/2.2e9a2c6e.js"><link rel="prefetch" href="/assets/js/3.868041e5.js"><link rel="prefetch" href="/assets/js/4.627e96b5.js"><link rel="prefetch" href="/assets/js/5.ac7555dd.js"><link rel="prefetch" href="/assets/js/6.831fe20d.js"><link rel="prefetch" href="/assets/js/8.40d7211d.js"><link rel="prefetch" href="/assets/js/9.8fae06a8.js"><link rel="prefetch" href="/assets/js/10.fc82ce8a.js"><link rel="prefetch" href="/assets/js/11.0dfe841b.js"><link rel="prefetch" href="/assets/js/13.26d3ea56.js"><link rel="prefetch" href="/assets/js/14.aabf7231.js"><link rel="prefetch" href="/assets/js/15.fc6c5f4e.js"><link rel="prefetch" href="/assets/js/16.095a5454.js"><link rel="prefetch" href="/assets/js/17.e814a0d2.js"><link rel="prefetch" href="/assets/js/18.d7e49a94.js"><link rel="prefetch" href="/assets/js/19.2d14bc1b.js"><link rel="prefetch" href="/assets/js/20.45dfe896.js"><link rel="prefetch" href="/assets/js/21.397de84d.js"><link rel="prefetch" href="/assets/js/22.2690f6c3.js"><link rel="prefetch" href="/assets/js/23.2a168d4d.js">
+    <link rel="stylesheet" href="/assets/css/24.styles.fe2c85d3.css">
+  </head>
+  <body>
+    <div id="app" data-server-rendered="true"><div class="theme-container no-sidebar"><header class="navbar"><div class="sidebar-button"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon"><path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path></svg></div><a href="/" class="home-link router-link-active"><!----><span class="site-name">
+      浮生六记
+    </span></a><div class="links"><!----><nav class="nav-links can-hide"><div class="nav-item"><a href="/" class="nav-link">Home</a></div><div class="nav-item"><a href="/markdown.html" class="nav-link">markdown</a></div><div class="nav-item"><a href="https://google.com" target="_blank" rel="noopener noreferrer" class="nav-link">External</a></div><!----></nav></div></header><div class="sidebar-mask"></div><div class="sidebar"><nav class="nav-links"><div class="nav-item"><a href="/" class="nav-link">Home</a></div><div class="nav-item"><a href="/markdown.html" class="nav-link">markdown</a></div><div class="nav-item"><a href="https://google.com" target="_blank" rel="noopener noreferrer" class="nav-link">External</a></div><!----></nav><!----></div><div class="page"><div class="content"><h1 id="mongodb-排序"><a href="#mongodb-排序" aria-hidden="true" class="header-anchor">#</a><strong>MongoDB 排序</strong></h1><h2 id="mongodb-sort-方法"><a href="#mongodb-sort-方法" aria-hidden="true" class="header-anchor">#</a><strong>MongoDB sort()方法</strong></h2><p>在MongoDB中使用使用sort()方法对数据进行排序，sort()方法可以通过参数指定排序的字段，并使用 1 和 -1 来指定排序的方式，其中 1 为升序排序，而-1是用于降序排列。</p><h3 id="语法"><a href="#语法" aria-hidden="true" class="header-anchor">#</a><em><strong>语法</strong></em></h3><p>sort()方法基本语法如下所示：</p><pre class="language-text"><code>db.COLLECTION_NAME.find().sort({KEY:1})
+
+</code></pre><h3 id="实例"><a href="#实例" aria-hidden="true" class="header-anchor">#</a><strong>实例</strong></h3><p>userinfo 集合中的数据如下：</p><pre class="language-text"><code>{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b597&quot;), &quot;userId&quot; : 21, &quot;age&quot; : 39 }
+{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b598&quot;), &quot;userId&quot; : 22, &quot;age&quot; : 40 }
+{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b599&quot;), &quot;userId&quot; : 23, &quot;age&quot; : 41 }
+{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b59a&quot;), &quot;userId&quot; : 24, &quot;age&quot; : 42 }
+{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b59b&quot;), &quot;userId&quot; : 25, &quot;age&quot; : 43 }
+{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b59c&quot;), &quot;userId&quot; : 26, &quot;age&quot; : 44 }
+{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b59d&quot;), &quot;userId&quot; : 27, &quot;age&quot; : 45 }
+{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b59e&quot;), &quot;userId&quot; : 28, &quot;age&quot; : 46 }
+</code></pre><pre class="language-text"><code>&gt;db.userinfo.find({},{&quot;userId&quot;:1}).sort({&quot;userId&quot;:-1});
+
+{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b5e5&quot;), &quot;userId&quot; : 99 }
+{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b5e4&quot;), &quot;userId&quot; : 98 }
+{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b5e3&quot;), &quot;userId&quot; : 97 }
+{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b5e2&quot;), &quot;userId&quot; : 96 }
+{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b5e1&quot;), &quot;userId&quot; : 95 }
+{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b5e0&quot;), &quot;userId&quot; : 94 }
+{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b5df&quot;), &quot;userId&quot; : 93 }
+{ &quot;_id&quot; : ObjectId(&quot;57a07aace6cf836271b9b5de&quot;), &quot;userId&quot; : 92 }
+</code></pre><p><strong>注：</strong> 如果没有指定sort()方法的排序方式，默认按照文档的升序排序</p></div><!----><!----></div></div></div>
+    <script src="/assets/js/7.2958aa67.js" defer></script><script src="/assets/js/app.30461cdf.js" defer></script>
+  </body>
+</html>

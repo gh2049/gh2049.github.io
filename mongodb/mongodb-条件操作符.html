@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>浮生六记 | **MongoDB条件操作符**</title>
+    <meta name="description" content="Just playing around">
+    <meta name="theme-color" content="#3eaf7c">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="msapplication-TileColor" content="#000000">
+    
+    <link rel="preload" href="/assets/css/24.styles.fe2c85d3.css" as="style"><link rel="preload" href="/assets/js/app.30461cdf.js" as="script"><link rel="preload" href="/assets/js/6.831fe20d.js" as="script"><link rel="prefetch" href="/assets/js/12.cc1b21fd.js"><link rel="prefetch" href="/assets/js/0.01165e77.js"><link rel="prefetch" href="/assets/js/1.ab7ff7e4.js"><link rel="prefetch" href="/assets/js/2.2e9a2c6e.js"><link rel="prefetch" href="/assets/js/3.868041e5.js"><link rel="prefetch" href="/assets/js/4.627e96b5.js"><link rel="prefetch" href="/assets/js/5.ac7555dd.js"><link rel="prefetch" href="/assets/js/7.2958aa67.js"><link rel="prefetch" href="/assets/js/8.40d7211d.js"><link rel="prefetch" href="/assets/js/9.8fae06a8.js"><link rel="prefetch" href="/assets/js/10.fc82ce8a.js"><link rel="prefetch" href="/assets/js/11.0dfe841b.js"><link rel="prefetch" href="/assets/js/13.26d3ea56.js"><link rel="prefetch" href="/assets/js/14.aabf7231.js"><link rel="prefetch" href="/assets/js/15.fc6c5f4e.js"><link rel="prefetch" href="/assets/js/16.095a5454.js"><link rel="prefetch" href="/assets/js/17.e814a0d2.js"><link rel="prefetch" href="/assets/js/18.d7e49a94.js"><link rel="prefetch" href="/assets/js/19.2d14bc1b.js"><link rel="prefetch" href="/assets/js/20.45dfe896.js"><link rel="prefetch" href="/assets/js/21.397de84d.js"><link rel="prefetch" href="/assets/js/22.2690f6c3.js"><link rel="prefetch" href="/assets/js/23.2a168d4d.js">
+    <link rel="stylesheet" href="/assets/css/24.styles.fe2c85d3.css">
+  </head>
+  <body>
+    <div id="app" data-server-rendered="true"><div class="theme-container no-sidebar"><header class="navbar"><div class="sidebar-button"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon"><path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path></svg></div><a href="/" class="home-link router-link-active"><!----><span class="site-name">
+      浮生六记
+    </span></a><div class="links"><!----><nav class="nav-links can-hide"><div class="nav-item"><a href="/" class="nav-link">Home</a></div><div class="nav-item"><a href="/markdown.html" class="nav-link">markdown</a></div><div class="nav-item"><a href="https://google.com" target="_blank" rel="noopener noreferrer" class="nav-link">External</a></div><!----></nav></div></header><div class="sidebar-mask"></div><div class="sidebar"><nav class="nav-links"><div class="nav-item"><a href="/" class="nav-link">Home</a></div><div class="nav-item"><a href="/markdown.html" class="nav-link">markdown</a></div><div class="nav-item"><a href="https://google.com" target="_blank" rel="noopener noreferrer" class="nav-link">External</a></div><!----></nav><!----></div><div class="page"><div class="content"><h1 id="mongodb条件操作符"><a href="#mongodb条件操作符" aria-hidden="true" class="header-anchor">#</a><strong>MongoDB条件操作符</strong></h1><p>条件操作符用于比较两个表达式并从mongoDB集合中获取数据。</p><p>在本章节中，我们将讨论如何在MongoDB中使用条件操作符。</p><p>MongoDB中条件操作符有：</p><ul><li>(&gt;) 大于 - $gt</li><li>(&lt;) 小于 - $lt</li><li>(&gt;=) 大于等于 - $gte</li><li>(&lt;= ) 小于等于 - $lte</li></ul><h2 id="mongodb-大于操作符-gt"><a href="#mongodb-大于操作符-gt" aria-hidden="true" class="header-anchor">#</a><strong>MongoDB (&gt;) 大于操作符 - $gt</strong></h2><p>如果你想获取&quot;userinfo&quot;集合中&quot;age&quot; 大于22的数据，你可以使用以下命令：</p><pre class="language-text"><code>&gt; db.userinfo.find({age : {$gt : 22}})
+</code></pre><p>类似于SQL语句：</p><pre class="language-text"><code>Select * from userinfo where age &gt;22;
+</code></pre><p>输出结果：</p><h2 id="mongodb（-）大于等于操作符-gte"><a href="#mongodb（-）大于等于操作符-gte" aria-hidden="true" class="header-anchor">#</a><strong>MongoDB（&gt;=）大于等于操作符 - $gte</strong></h2><p>如果你想获取&quot;userinfo&quot;集合中&quot;age&quot; 大于等于22的数据，你可以执行以下命令:</p><pre class="language-text"><code>&gt; db.userinfo.find({age : {$gte : 22}})
+</code></pre><p>类似于SQL语句：</p><pre class="language-text"><code>Select * from userinfo where age &gt;=22;
+</code></pre><p>输出结果：</p><h2 id="mongodb-小于操作符-lt"><a href="#mongodb-小于操作符-lt" aria-hidden="true" class="header-anchor">#</a><strong>MongoDB (&lt;) 小于操作符 - $lt</strong></h2><p>如果你想获取&quot;userinfo&quot;集合中&quot;age&quot; 小于19的数据，你可以执行以下命令：</p><p>类似于SQL语句：</p><pre class="language-text"><code>Select * from userinfo where age &lt;19;
+</code></pre><p>输出结果：</p><h2 id="mongodb-小于操作符-lte"><a href="#mongodb-小于操作符-lte" aria-hidden="true" class="header-anchor">#</a><strong>MongoDB (&lt;=) 小于操作符 - $lte</strong></h2><p>如果你想获取&quot;userinfo&quot;集合中&quot;age&quot; 小于等于19的数据，你可以执行以下命令：</p><pre class="language-text"><code>&gt; db.userinfo.find({age : {$lte : 19}})
+</code></pre><p>类似于SQL语句：</p><pre class="language-text"><code>Select * from userinfo where age &lt;=19;
+</code></pre><p>输出结果：</p><h2 id="mongodb-使用-和-查询operator-lt-和-gt"><a href="#mongodb-使用-和-查询operator-lt-和-gt" aria-hidden="true" class="header-anchor">#</a><strong>MongoDB 使用 (&lt;) 和 (&gt;) 查询operator - $lt 和 $gt</strong></h2><p>如果你想获取&quot;userinfo&quot;集合中&quot;age&quot; 大于17以及小于24的数据，你可以执行以下命令：</p><pre class="language-text"><code>&gt; db.userinfo.find({age : {$lt :24, $gt : 17}})
+</code></pre><p>类似于SQL语句：</p><pre class="language-text"><code>Select * from userinfo where age &gt; 17 and age &lt; 24;
+</code></pre></div><!----><!----></div></div></div>
+    <script src="/assets/js/6.831fe20d.js" defer></script><script src="/assets/js/app.30461cdf.js" defer></script>
+  </body>
+</html>
