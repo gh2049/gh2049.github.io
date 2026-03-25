@@ -3,87 +3,244 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>每日信息聚合 - 2026-03-25</title>
+  <title>每日信息聚合</title>
   <style>
-    body{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;max-width:980px;margin:0 auto;padding:20px;line-height:1.55;color:#111}
-    h1{margin:0 0 6px} .sub{color:#666;margin-bottom:24px}
-    section{margin:28px 0}
-    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px}
-    .card{border:1px solid #e5e7eb;border-radius:10px;padding:12px;background:#fff}
-    .meta{display:flex;justify-content:space-between;color:#666;font-size:12px}
-    h2{margin:0 0 12px} h3{margin:6px 0 8px;font-size:16px}
-    p{margin:0 0 8px} a{text-decoration:none;color:#0b57d0} a:hover{text-decoration:underline}
-    .stars{font-weight:600} .empty{color:#666}
-    .footer{margin-top:28px;color:#666;font-size:13px}
+    :root {
+      --bg: #f8fafc;
+      --card: #ffffff;
+      --text: #111827;
+      --muted: #6b7280;
+      --line: #e5e7eb;
+      --link: #2563eb;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      padding: 24px;
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.5;
+    }
+    .wrap { max-width: 1100px; margin: 0 auto; }
+    h1 { margin: 0 0 8px; }
+    .sub { color: var(--muted); margin-bottom: 18px; }
+    .row { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 16px; }
+    .badge {
+      background: #eef2ff;
+      color: #3730a3;
+      border: 1px solid #c7d2fe;
+      padding: 6px 10px;
+      border-radius: 999px;
+      font-size: 13px;
+    }
+    .panel {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 14px;
+      margin-bottom: 16px;
+    }
+    .panel h2 { margin: 0 0 10px; font-size: 20px; }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+      gap: 12px;
+    }
+    .item {
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 10px;
+      background: #fff;
+    }
+    .meta {
+      display: flex;
+      justify-content: space-between;
+      font-size: 12px;
+      color: var(--muted);
+      margin-bottom: 6px;
+    }
+    .item h3 {
+      margin: 0 0 6px;
+      font-size: 16px;
+      line-height: 1.4;
+    }
+    .item p { margin: 0 0 6px; color: #374151; }
+    .item small { color: var(--muted); }
+    a { color: var(--link); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .toolbar { display:flex; gap:8px; align-items:center; flex-wrap:wrap; margin: 8px 0 12px; }
+    input[type="date"] {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 6px 10px;
+      font-size: 14px;
+    }
+    button {
+      border: 1px solid var(--line);
+      background: #fff;
+      border-radius: 8px;
+      padding: 6px 10px;
+      cursor: pointer;
+    }
+    .warn { color: #b45309; font-size: 13px; }
+    .muted { color: var(--muted); }
+    .empty { color: var(--muted); }
   </style>
 </head>
 <body>
-  <h1>📰 每日信息聚合</h1>
-  <div class="sub">新闻 + GitHub Trending 自动聚合 · 2026年3月25日 星期三</div>
+  <div class="wrap">
+    <h1>📰 每日信息聚合</h1>
+    <div class="sub">架构：OpenClaw 只产出 JSON，GitHub Pages 前端渲染</div>
 
-  <section>
-    <h2>📰 新闻摘要</h2>
-    <p class="sub">数据日期：2026-03-25</p>
-    <div class="grid">
-      <article class="card">
-        <div class="meta"><span>国际</span><span>08:00</span></div>
-        <h3><a href="https://example.com/news/1" target="_blank" rel="noopener">中东和平进程取得重要进展</a></h3>
-        <p>地区各方就长期和平协议达成初步共识</p>
-        <small>来源：新华社</small>
-      </article>
+    <div class="toolbar">
+      <label for="dateInput" class="muted">查看日期：</label>
+      <input id="dateInput" type="date" />
+      <button id="loadBtn">加载</button>
+      <button id="latestBtn">最新</button>
+      <span id="status" class="muted"></span>
+    </div>
 
-      <article class="card">
-        <div class="meta"><span>财经</span><span>08:05</span></div>
-        <h3><a href="https://example.com/news/2" target="_blank" rel="noopener">A股市场今日开盘预测</a></h3>
-        <p>分析师预计科技股将延续上涨趋势</p>
-        <small>来源：财经网</small>
-      </article>
+    <div id="summary" class="row"></div>
 
-      <article class="card">
-        <div class="meta"><span>体育</span><span>08:10</span></div>
-        <h3><a href="https://example.com/news/3" target="_blank" rel="noopener">欧冠半决赛前瞻</a></h3>
-        <p>两大豪门今晚将展开激烈对决</p>
-        <small>来源：体育周刊</small>
-      </article></div>
-  </section>
+    <div class="panel">
+      <h2>📰 新闻</h2>
+      <div id="news" class="grid"></div>
+    </div>
 
-  <section>
-    <h2>🏆 GitHub 总榜</h2>
-    <p class="sub">数据日期：2026-03-25</p>
-    <div class="grid">
-      <article class="card">
-        <h3><a href="https://github.com/bytedance/deer-flow" target="_blank" rel="noopener">bytedance/deer-flow</a></h3>
-        <p class="stars">⭐ 44,365</p>
-        <p>开源SuperAgent框架，用于研究、编码和创作</p>
-        <small>Python</small>
-      </article>
+    <div class="panel">
+      <h2>🏆 GitHub 总榜</h2>
+      <div id="general" class="grid"></div>
+    </div>
 
-      <article class="card">
-        <h3><a href="https://github.com/openclaw/openclaw" target="_blank" rel="noopener">openclaw/openclaw</a></h3>
-        <p class="stars">⭐ 210,000+</p>
-        <p>个人AI助手，完全在用户设备上运行</p>
-        <small>TypeScript</small>
-      </article></div>
-  </section>
+    <div class="panel">
+      <h2>🤖 GitHub AI 专项</h2>
+      <div id="ai" class="grid"></div>
+    </div>
 
-  <section>
-    <h2>🤖 GitHub AI 专项</h2>
-    <div class="grid">
-      <article class="card">
-        <h3><a href="https://github.com/ollama/ollama" target="_blank" rel="noopener">ollama/ollama</a></h3>
-        <p class="stars">⭐ 快速增长</p>
-        <p>本地AI的&quot;Docker&quot;，简化在本地硬件上运行强大大型语言模型</p>
-        <small>Go</small>
-      </article>
+    <div class="panel">
+      <h2>📅 历史索引</h2>
+      <div id="archive" class="muted">加载中...</div>
+    </div>
+  </div>
 
-      <article class="card">
-        <h3><a href="https://github.com/langgenius/dify" target="_blank" rel="noopener">langgenius/dify</a></h3>
-        <p class="stars">⭐ 25,000+</p>
-        <p>全栈、生产就绪的AI应用构建平台</p>
-        <small>Python</small>
-      </article></div>
-  </section>
+  <script>
+    const qs = new URLSearchParams(location.search);
+    const dateInQuery = qs.get('date');
 
-  <div class="footer">自动生成时间：2026/3/25 16:31:41</div>
+    const els = {
+      dateInput: document.getElementById('dateInput'),
+      loadBtn: document.getElementById('loadBtn'),
+      latestBtn: document.getElementById('latestBtn'),
+      status: document.getElementById('status'),
+      summary: document.getElementById('summary'),
+      news: document.getElementById('news'),
+      general: document.getElementById('general'),
+      ai: document.getElementById('ai'),
+      archive: document.getElementById('archive')
+    };
+
+    if (dateInQuery) els.dateInput.value = dateInQuery;
+
+    function esc(s) {
+      return String(s ?? '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+    }
+
+    async function fetchJson(url) {
+      const r = await fetch(url, { cache: 'no-store' });
+      if (!r.ok) throw new Error(`${url} -> ${r.status}`);
+      return r.json();
+    }
+
+    function cardNews(n) {
+      return `<article class="item">
+        <div class="meta"><span>${esc(n.category)}</span><span>${esc(n.time || '')}</span></div>
+        <h3><a href="${esc(n.url || '#')}" target="_blank" rel="noopener">${esc(n.title)}</a></h3>
+        <p>${esc(n.summary || '')}</p>
+        <small>来源：${esc(n.source || '')}</small>
+      </article>`;
+    }
+
+    function cardRepo(p) {
+      return `<article class="item">
+        <h3><a href="${esc(p.url || '#')}" target="_blank" rel="noopener">${esc(p.name)}</a></h3>
+        <p><strong>⭐ ${esc(p.stars || '-')}</strong></p>
+        <p>${esc(p.description || '')}</p>
+        <small>${esc(p.language || '')}</small>
+      </article>`;
+    }
+
+    function renderSummary(bundle) {
+      const badges = [
+        `日期：${bundle.date}`,
+        `新闻：${bundle.stats?.news ?? 0}`,
+        `总榜：${bundle.stats?.githubGeneral ?? 0}`,
+        `AI：${bundle.stats?.githubAi ?? 0}`,
+        `生成：${new Date(bundle.generatedAt).toLocaleString('zh-CN', { hour12: false })}`
+      ];
+      els.summary.innerHTML = badges.map(x => `<span class="badge">${esc(x)}</span>`).join('');
+    }
+
+    function renderList(container, html) {
+      container.innerHTML = html && html.length ? html : '<p class="empty">暂无数据</p>';
+    }
+
+    function renderBundle(bundle) {
+      renderSummary(bundle);
+      renderList(els.news, (bundle.news || []).map(cardNews).join(''));
+      renderList(els.general, (bundle.github?.general || []).map(cardRepo).join(''));
+      renderList(els.ai, (bundle.github?.ai || []).map(cardRepo).join(''));
+    }
+
+    async function loadArchive() {
+      try {
+        const idx = await fetchJson('./data/index.json');
+        const dates = Array.isArray(idx.dates) ? idx.dates : [];
+        if (!dates.length) {
+          els.archive.textContent = '暂无历史数据';
+          return;
+        }
+        els.archive.innerHTML = dates.slice(0, 30).map(d =>
+          `<a href="?date=${encodeURIComponent(d)}">${esc(d)}</a>`
+        ).join(' · ');
+      } catch (e) {
+        els.archive.innerHTML = `<span class="warn">历史索引加载失败：${esc(e.message)}</span>`;
+      }
+    }
+
+    async function load(date) {
+      try {
+        els.status.textContent = '加载中...';
+        let bundle;
+        if (date) {
+          bundle = await fetchJson(`./data/${date}.json`);
+          history.replaceState(null, '', `?date=${encodeURIComponent(date)}`);
+        } else {
+          bundle = await fetchJson('./data/latest.json');
+          history.replaceState(null, '', location.pathname);
+          els.dateInput.value = bundle.date || '';
+        }
+        renderBundle(bundle);
+        els.status.textContent = '已更新';
+      } catch (e) {
+        els.status.textContent = '加载失败';
+        els.summary.innerHTML = `<span class="warn">数据加载失败：${esc(e.message)}</span>`;
+        renderList(els.news, '');
+        renderList(els.general, '');
+        renderList(els.ai, '');
+      }
+    }
+
+    els.loadBtn.addEventListener('click', () => load(els.dateInput.value || null));
+    els.latestBtn.addEventListener('click', () => load(null));
+
+    loadArchive();
+    load(dateInQuery || null);
+  </script>
 </body>
 </html>
