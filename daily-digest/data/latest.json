@@ -1,7 +1,7 @@
 {
   "version": 1,
   "date": "2026-03-25",
-  "generatedAt": "2026-03-25T09:53:21.727Z",
+  "generatedAt": "2026-03-25T10:02:33.361Z",
   "source": {
     "news": {
       "usedDate": "2026-03-25",
@@ -118,166 +118,273 @@
   "github": {
     "general": [
       {
-        "name": "pascalorg/editor",
-        "stars": "6156",
-        "description": "Create and share 3D architectural projects.",
+        "name": "editor",
+        "stars": 6296,
+        "description": "创建和分享3D建筑项目",
         "url": "https://github.com/pascalorg/editor",
         "language": "TypeScript",
-        "topics": []
+        "topics": [
+          "3d",
+          "architecture",
+          "typescript"
+        ]
       },
       {
-        "name": "bytedance/deer-flow",
-        "stars": "44801",
-        "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+        "name": "deer-flow",
+        "stars": 45001,
+        "description": "开源SuperAgent框架，用于研究、编码和创建。借助沙盒、记忆、工具、技能、子代理和消息网关，处理不同级别的任务",
         "url": "https://github.com/bytedance/deer-flow",
         "language": "Python",
-        "topics": []
+        "topics": [
+          "ai",
+          "superagent",
+          "python",
+          "framework"
+        ]
       },
       {
-        "name": "supermemoryai/supermemory",
-        "stars": "18867",
-        "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+        "name": "supermemory",
+        "stars": 18908,
+        "description": "极快、可扩展的内存引擎和应用。AI时代的内存API",
         "url": "https://github.com/supermemoryai/supermemory",
         "language": "TypeScript",
-        "topics": []
+        "topics": [
+          "memory",
+          "ai",
+          "typescript",
+          "api"
+        ]
       },
       {
-        "name": "FujiwaraChoki/MoneyPrinterV2",
-        "stars": "25146",
-        "description": "Automate the process of making money online.",
+        "name": "MoneyPrinterV2",
+        "stars": 25183,
+        "description": "自动化在线赚钱过程",
         "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
         "language": "Python",
-        "topics": []
+        "topics": [
+          "automation",
+          "money",
+          "python",
+          "tools"
+        ]
       },
       {
-        "name": "harry0703/MoneyPrinterTurbo",
-        "stars": "52955",
-        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+        "name": "MoneyPrinterTurbo",
+        "stars": "-",
+        "description": "利用AI大模型，一键生成高清短视频",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "language": "Python",
-        "topics": []
+        "language": "未指定",
+        "topics": [
+          "ai",
+          "video-generation",
+          "automation"
+        ]
       },
       {
-        "name": "Crosstalk-Solutions/project-nomad",
-        "stars": "15772",
-        "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+        "name": "project-nomad",
+        "stars": 15825,
+        "description": "项目N.O.M.A.D，是一个自包含的离线生存计算机，包含关键工具、知识和AI，让您随时随地保持信息灵通和强大",
         "url": "https://github.com/Crosstalk-Solutions/project-nomad",
         "language": "TypeScript",
-        "topics": []
+        "topics": [
+          "offline",
+          "survival",
+          "ai",
+          "typescript"
+        ]
       },
       {
-        "name": "TauricResearch/TradingAgents",
-        "stars": "41355",
-        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "name": "TradingAgents",
+        "stars": 41428,
+        "description": "TradingAgents：多智能体LLM金融交易框架",
         "url": "https://github.com/TauricResearch/TradingAgents",
         "language": "Python",
-        "topics": []
+        "topics": [
+          "trading",
+          "ai",
+          "finance",
+          "python",
+          "llm"
+        ]
       },
       {
-        "name": "mvanhorn/last30days-skill",
-        "stars": "6014",
-        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "name": "last30days-skill",
+        "stars": 6061,
+        "description": "AI代理技能，研究Reddit、X、YouTube、HN、Polymarket和网络上的任何主题，然后合成一个有根据的摘要",
         "url": "https://github.com/mvanhorn/last30days-skill",
         "language": "Python",
-        "topics": []
+        "topics": [
+          "ai",
+          "research",
+          "summary",
+          "python",
+          "agent"
+        ]
       },
       {
-        "name": "ruvnet/ruflo",
-        "stars": "25435",
-        "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+        "name": "ruflo",
+        "stars": 25478,
+        "description": "Claude的领先代理编排平台。部署智能多代理群、协调自主工作流并构建对话AI系统",
         "url": "https://github.com/ruvnet/ruflo",
         "language": "TypeScript",
-        "topics": []
+        "topics": [
+          "orchestration",
+          "ai",
+          "claude",
+          "typescript",
+          "agents"
+        ]
       },
       {
-        "name": "NousResearch/hermes-agent",
-        "stars": "12840",
-        "description": "The agent that grows with you",
+        "name": "hermes-agent",
+        "stars": 12879,
+        "description": "随你成长的代理",
         "url": "https://github.com/NousResearch/hermes-agent",
         "language": "Python",
-        "topics": []
+        "topics": [
+          "ai",
+          "agent",
+          "python",
+          "growth"
+        ]
       }
     ],
     "ai": [
       {
-        "name": "supermemoryai/supermemory",
-        "stars": "18867",
-        "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+        "name": "OpenClaw",
+        "stars": 210000,
+        "description": "个人AI助手，完全在您自己的设备上运行。连接AI模型到50多个集成，包括流行的消息平台，可以浏览网页、填写表单、运行shell命令、编写代码和控制智能家居设备",
+        "url": "https://github.com/openclaw/openclaw",
+        "language": "多种语言",
+        "topics": [
+          "ai-assistant",
+          "personal-ai",
+          "automation",
+          "integration"
+        ]
+      },
+      {
+        "name": "n8n",
+        "stars": "-",
+        "description": "开源工作流自动化平台，提供可视化、无代码界面，结合自定义代码的灵活性，现在增强了原生AI功能",
+        "url": "https://github.com/n8n-io/n8n",
+        "language": "TypeScript",
+        "topics": [
+          "workflow",
+          "automation",
+          "no-code",
+          "ai",
+          "typescript"
+        ]
+      },
+      {
+        "name": "Dify",
+        "stars": "-",
+        "description": "构建AI应用的全栈、生产就绪平台。Dify集成了AI工作流、RAG（检索增强生成）、代理功能、模型管理和应用可观察性",
+        "url": "https://github.com/langgenius/dify",
+        "language": "Python",
+        "topics": [
+          "ai-apps",
+          "rag",
+          "workflow",
+          "python",
+          "platform"
+        ]
+      },
+      {
+        "name": "Langflow",
+        "stars": "-",
+        "description": "提供拖放式可视化构建器，用于部署AI代理",
+        "url": "https://github.com/logspace-ai/langflow",
+        "language": "Python",
+        "topics": [
+          "visual-builder",
+          "ai-agents",
+          "drag-drop",
+          "python"
+        ]
+      },
+      {
+        "name": "LangChain",
+        "stars": "-",
+        "description": "继续作为支持AI代理生态系统的基础框架",
+        "url": "https://github.com/langchain-ai/langchain",
+        "language": "Python",
+        "topics": [
+          "framework",
+          "ai-agents",
+          "llm",
+          "python",
+          "ecosystem"
+        ]
+      },
+      {
+        "name": "CrewAI",
+        "stars": "-",
+        "description": "用于组装AI代理团队的轻量级库",
+        "url": "https://github.com/joaomdmoura/crewai",
+        "language": "Python",
+        "topics": [
+          "multi-agent",
+          "teamwork",
+          "python",
+          "lightweight"
+        ]
+      },
+      {
+        "name": "MoneyPrinterTurbo",
+        "stars": "-",
+        "description": "利用大型AI模型，一键生成高清短视频",
+        "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+        "language": "未指定",
+        "topics": [
+          "ai",
+          "video-generation",
+          "automation",
+          "llm"
+        ]
+      },
+      {
+        "name": "deer-flow",
+        "stars": 45001,
+        "description": "字节跳动的开源SuperAgent框架，进行研究、编写代码和创建，利用沙盒、记忆、工具、技能、子代理和消息网关来处理复杂任务",
+        "url": "https://github.com/bytedance/deer-flow",
+        "language": "Python",
+        "topics": [
+          "superagent",
+          "research",
+          "coding",
+          "python",
+          "framework"
+        ]
+      },
+      {
+        "name": "supermemory",
+        "stars": 18908,
+        "description": "被宣传为极快、可扩展的内存引擎和应用，作为AI时代的内存API",
         "url": "https://github.com/supermemoryai/supermemory",
         "language": "TypeScript",
-        "topics": []
+        "topics": [
+          "memory",
+          "api",
+          "ai-era",
+          "typescript",
+          "scalable"
+        ]
       },
       {
-        "name": "harry0703/MoneyPrinterTurbo",
-        "stars": "52955",
-        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-        "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "language": "Python",
-        "topics": []
-      },
-      {
-        "name": "Crosstalk-Solutions/project-nomad",
-        "stars": "15772",
-        "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-        "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-        "language": "TypeScript",
-        "topics": []
-      },
-      {
-        "name": "TauricResearch/TradingAgents",
-        "stars": "41355",
-        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-        "url": "https://github.com/TauricResearch/TradingAgents",
-        "language": "Python",
-        "topics": []
-      },
-      {
-        "name": "mvanhorn/last30days-skill",
-        "stars": "6014",
-        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-        "url": "https://github.com/mvanhorn/last30days-skill",
-        "language": "Python",
-        "topics": []
-      },
-      {
-        "name": "ruvnet/ruflo",
-        "stars": "25435",
-        "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-        "url": "https://github.com/ruvnet/ruflo",
-        "language": "TypeScript",
-        "topics": []
-      },
-      {
-        "name": "hesreallyhim/awesome-claude-code",
-        "stars": "32164",
-        "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
-        "url": "https://github.com/hesreallyhim/awesome-claude-code",
-        "language": "Python",
-        "topics": []
-      },
-      {
-        "name": "hsliuping/TradingAgents-CN",
-        "stars": "21060",
-        "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
-        "url": "https://github.com/hsliuping/TradingAgents-CN",
-        "language": "Python",
-        "topics": []
-      },
-      {
-        "name": "aquasecurity/trivy",
-        "stars": "34073",
-        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-        "url": "https://github.com/aquasecurity/trivy",
+        "name": "Ollama",
+        "stars": "-",
+        "description": "通常被称为'本地AI的Docker'，Ollama使得通过单个命令在您的硬件上拉取和运行强大的大型语言模型（如Llama、DeepSeek、Mistral和Gemma）变得异常容易，绕过了Python环境和依赖问题",
+        "url": "https://github.com/ollama/ollama",
         "language": "Go",
-        "topics": []
-      },
-      {
-        "name": "usestrix/strix",
-        "stars": "21376",
-        "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
-        "url": "https://github.com/usestrix/strix",
-        "language": "Python",
-        "topics": []
+        "topics": [
+          "local-ai",
+          "llm",
+          "docker-like",
+          "go",
+          "models"
+        ]
       }
     ]
   }
