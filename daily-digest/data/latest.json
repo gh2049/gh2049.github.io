@@ -1,0 +1,172 @@
+{
+  "version": 1,
+  "date": "2026-03-25",
+  "generatedAt": "2026-03-25T08:48:22.552Z",
+  "source": {
+    "news": {
+      "usedDate": "2026-03-25",
+      "fallback": false
+    },
+    "github": {
+      "usedDate": "2026-03-25",
+      "fallback": false
+    }
+  },
+  "stats": {
+    "news": 12,
+    "githubGeneral": 2,
+    "githubAi": 2
+  },
+  "news": [
+    {
+      "category": "国际秩序",
+      "title": "伊朗称“非敌对”船只可通行霍尔木兹海峡",
+      "summary": "在中东冲突与能源运输紧张背景下，伊朗释放对“非敌对”航运的有限通行信号，显示其在维持威慑与避免全面海上封锁之间寻求平衡。霍尔木兹海峡作为全球关键油气通道，该表态直接影响航运风险定价与地缘博弈预期。",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQUc5Y0lJZVhJcldnOEpUT2JjNkNRTktmaEdJNHpmQVdiNWlIblBrZXd2b3haYm1qWHJVdGhCbG9hMmNfb2VMY0pCWUNNUjlVcnY3M2FCZGh3d0dOeWVEN0gtTmNMM1NnR0V0UzdCOVNITVFCb3FlRi1PUUt3cmljekFjeGc1clBKcE95VQ?oc=5",
+      "source": "The New York Times",
+      "time": "2026-03-25T10:25:47+08:00"
+    },
+    {
+      "category": "国际秩序",
+      "title": "俄罗斯对乌克兰发动近千架无人机攻击",
+      "summary": "乌克兰战场再现高强度无人机打击，显示冲突进入更大规模的消耗与防空压制阶段。密集空袭不仅加重前线与后方民用基础设施压力，也进一步推高欧洲安全与军援协调难度。",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzEtWDRpQ2lNa2o4NVVISk0taG5CTk5hbkxmbERmNmlTeWJQRTB3NDhLWjNBZHRNVWFiU2c3N0R1VmFwMlB2ZjRoNmlmTXg3LU5kT0VPRGY2WUVJdENSWUp1SV9BU1FUZUFEUzI5c25uRTN5MldsYUIxWE1HWnBEeFhyQTU2ZkRSRWNn?oc=5",
+      "source": "CNN",
+      "time": "2026-03-25T00:10:39+08:00"
+    },
+    {
+      "category": "国际秩序",
+      "title": "美国国务卿拟赴法与G7盟友协调伊朗战争议题",
+      "summary": "美方推动在G7框架内就伊朗战事形成更一致立场，反映西方阵营在军事升级、停火路径与能源稳定之间的政策拉扯。法国外长层面的沟通将影响后续对伊谈判窗口与制裁工具组合。",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeUZBRmZ3NHBCOEk5b1BWLUNLTnFlbFRNOGxsb3YxX2Q0S3F6TnNYWFpreHNRcl9iWElxSzdmb2dYc2xoazY4NmdWRnpHSmk5c1llVlRCWXBzUXcxWllSdUVSQmUzTWRmcDhwSkZCQjY3UHYyVUNnal9MRU12WHN6SEFZNXZiUQ?oc=5",
+      "source": "AP News",
+      "time": "2026-03-25T00:53:00+08:00"
+    },
+    {
+      "category": "财经",
+      "title": "美股期货因“结束伊朗战争方案”预期上涨",
+      "summary": "市场对地缘冲突降温的预期推动风险资产回升，反映投资者正在重新定价能源冲击与通胀二次抬头风险。若外交进展被证伪，波动率与避险资产可能快速反弹。",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqSGJxRE1sLUtxSGxhMnBKQl9aSF9lb2Z0NUZoUElITlR3dHZsb0l4T0dnSlByQjdGV0dCNTFVM3lfN3h6RjRIa1FHaGp4Q3Z0c25UNXdDelJZVUtEbUxCLTJsdWFMUW9uRVJBbjJrOE1zc08weHUw0gF8QVVfeXFMTTJWaWRzZHBCd0NidnpmNUoxRmNBbW82aEZYSnlBbnpwa0o1dTdLaGM3bVhIVVA5aHdFQ2s4clV4d1ZkSnRPUTVSdkRhVnFpZ2JUb0stLTcwckRfSWJkSTVDMENCX0JJUnBVMVFnUC03TUVOYW9CU1RCem9NWg?oc=5",
+      "source": "CNBC",
+      "time": "2026-03-25T15:03:00+08:00"
+    },
+    {
+      "category": "财经",
+      "title": "Meta据报首次向高管重启股票期权激励",
+      "summary": "在AI竞争与组织重构并行的阶段，Meta通过股权激励强化核心管理层绑定，传递对中长期增长与资本效率的信号。该动作也可能带动科技巨头在人力资本策略上的新一轮调整。",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX1hMN2NuVDNhMVk4OEozdUhpd1drYXdhR0MyczRFd1V6X1oybHI2MFQ5d0VFVjJ2aFE0MjM4dUVBamFISDRQTjZWMHd5emZLd2NRSXdSN0FZNHJVaHFDN3pYZUt1YlNzTnJMOWZzLUE5UkJvdXBlWjJEZDZjV3I2NHlHelJJZGZZWkFpWm54UElYN3ZuRjZTU1pGZGdxeW53Q3pSWkRYMzNfdlR1RHNHSA?oc=5",
+      "source": "Bloomberg.com",
+      "time": "2026-03-25T10:08:00+08:00"
+    },
+    {
+      "category": "财经",
+      "title": "默克接近达成约60亿美元生物科技并购交易",
+      "summary": "大型药企继续通过并购补充肿瘤管线，反映全球医药行业在专利周期与创新压力下的外延扩张逻辑。若交易落地，将影响肿瘤赛道估值中枢及后续同业并购节奏。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZXUxTGU5MTl5QzF6aEx3WGxpYlVmYnhRazZUWFhnVF9XV0xpT2JVbHB6TDJ6dTFSa1ozdTRJalNxaGc2dE51Nzkzc282MllPbEhOaHE0NXAwUk1jd2FCdlBlbG55c2RWcDlsc2JVeDdnekM4SDlHcklwazdrSElfOWlQelo?oc=5",
+      "source": "Financial Times",
+      "time": "2026-03-25T09:00:40+08:00"
+    },
+    {
+      "category": "体育",
+      "title": "高夫2-1淘汰本西奇，晋级迈阿密站半决赛",
+      "summary": "迈阿密站进入关键轮次，高夫在对抗中展现更稳定的发接发与关键分处理能力，继续巩固其在北美硬地赛季的竞争地位。该结果也将影响后续种子对位与冠军走势。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PcVhicDhRTGd1NHZ1UU52X01tREJRTjNLZkhDcFNQdjFWZlJ4MVVUTElNOExzbEo0a1hZM3E0cE94MktxbzFWSHBENDk3XzFnNldlSWdvZU9GcnBfUTNJ?oc=5",
+      "source": "中工网",
+      "time": "2026-03-25T11:00:00+08:00"
+    },
+    {
+      "category": "体育",
+      "title": "郑钦文止步迈阿密站16强，再负萨巴伦卡",
+      "summary": "郑钦文在高强度对抗中再次遭遇萨巴伦卡，暴露出在发球稳定性与相持转换上的压制难题。连续交锋失利提示其在硬地顶级赛需进一步提升关键分执行与战术变化。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5reEpZbG40ZUgwWlFBZlYydHlWMmpKRGRHanktSHpLVXpfamY3MGJCUEpWV3hWY3BMaDNwcm1WQ29scHloQzduVVExOWRWZnRjcUVha3NKU1UxRU0wT2FN?oc=5",
+      "source": "中工网",
+      "time": "2026-03-25T09:17:00+08:00"
+    },
+    {
+      "category": "体育",
+      "title": "北京京狮队卫冕中国男子冰球职业联赛",
+      "summary": "北京京狮完成卫冕，显示其在国内冰球职业体系中的阵容深度与稳定输出。连续夺冠有望进一步提升联赛关注度，并带动青训与商业化资源向冰球项目集聚。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ibDNneExiSXYtVVRFZ2xGUUM3X09xM0lWeDVxQlNQZ0pYMlBMOXdSa1drOE9zM05qdTQzN1BKSlh4eXcwa2R2OWZxQUVvUWtjT05XUklHMlpacjFOZUxlNFduWQ?oc=5",
+      "source": "光明网",
+      "time": "2026-03-25T14:21:00+08:00"
+    },
+    {
+      "category": "国内国际民生",
+      "title": "世卫组织推荐结核病新诊断工具",
+      "summary": "WHO发布新的结核病诊断建议，目标是缩短确诊路径、提高早筛与治疗衔接效率。该举措对高负担国家的基层防治体系与公共卫生资金配置具有直接指导意义。",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWUhodGkyeHNlb0hISHEwWXM3aDFLTU1HaTEyM2pGbXUzSGxoWjVxbVU3d1FLaGdDa2JKT0RqWWFKQ2pZdXhFVFdwd2d6dm1EU1hCYjBRN012YXpNZ1Z0Q3BKVVc2czRQMU9nRWtRTkVxMkFaV0F0QmVDSkEyZU41N1pMaFNBdDhGQ3V1b0VVWmFBNjdYV1E?oc=5",
+      "source": "World Health Organization (WHO)",
+      "time": "2026-03-24T16:33:07+08:00"
+    },
+    {
+      "category": "国内国际民生",
+      "title": "美国加州出现新冠新变体并引发监测关注",
+      "summary": "加州报告新冠变体动态，提示疫情虽进入常态化阶段，但地区性波动与医疗资源压力仍需持续监测。对普通居民而言，重点在于高风险人群防护、基层筛查与接种策略更新。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcW5DUURhWGdkUHIxeWR5YktCUUNIeDlLVUlhQlBPLTRNUFk4RXVlRi1sN214VGJXdE9OTktrOXdOR2JsWGxYbWE1a2U0Y3pFSzdJZUwteW5ZZzdZM01fTERzamgzbzhESmFQb1EtSk9PSXBHZzR6VnpLODRhVTd6WkNobGk?oc=5",
+      "source": "San Francisco Chronicle",
+      "time": "2026-03-25T04:28:13+08:00"
+    },
+    {
+      "category": "国内国际民生",
+      "title": "广州新机场开工，大湾区西翼综合交通枢纽提速",
+      "summary": "广州新机场正式开工，标志粤港澳大湾区机场群进入新一轮扩容与分工优化阶段。该项目将重塑珠江西岸通达性，对区域就业、物流效率与都市圈协同发展产生中长期民生与产业外溢效应。",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWnp1SzFhdDI5N09mS1l5X0ZFaDFLSjliNlZlZDBTQWEzVlhobTFzWnBkZDM3Z0s1eVhlOW50NVdNUkRjbjBta2NnWmJFLVZKYzVjd29VQm93YVppcFV2SUVMZ1Q5YmVpRVBUUmt4Z0NMeTMxUmJGQ3prd2prMHRNYjE0b3hpUnAzNExJUUdDOA?oc=5",
+      "source": "21财经",
+      "time": "2026-03-25T15:09:00+08:00"
+    }
+  ],
+  "github": {
+    "general": [
+      {
+        "name": "bytedance/deer-flow",
+        "stars": "44,365",
+        "description": "开源SuperAgent框架，用于研究、编码和创作",
+        "url": "https://github.com/bytedance/deer-flow",
+        "language": "Python",
+        "topics": [
+          "ai",
+          "framework",
+          "agent"
+        ]
+      },
+      {
+        "name": "openclaw/openclaw",
+        "stars": "210,000+",
+        "description": "个人AI助手，完全在用户设备上运行",
+        "url": "https://github.com/openclaw/openclaw",
+        "language": "TypeScript",
+        "topics": [
+          "ai",
+          "assistant",
+          "local"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "name": "ollama/ollama",
+        "stars": "快速增长",
+        "description": "本地AI的\"Docker\"，简化在本地硬件上运行强大大型语言模型",
+        "url": "https://github.com/ollama/ollama",
+        "language": "Go",
+        "topics": [
+          "ai",
+          "llm",
+          "local"
+        ]
+      },
+      {
+        "name": "langgenius/dify",
+        "stars": "25,000+",
+        "description": "全栈、生产就绪的AI应用构建平台",
+        "url": "https://github.com/langgenius/dify",
+        "language": "Python",
+        "topics": [
+          "ai",
+          "platform",
+          "rag"
+        ]
+      }
+    ]
+  }
+}
