@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body {
+    margin: 0;
+    @apply bg-bg text-text font-sans selection:bg-primary/20;
+    min-height: 100%;
+    background-image: 
+      radial-gradient(circle at center, transparent 0%, transparent 100%),
+      url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='0.04'/%3E%3C/svg%3E");
+  }
+
+  body {
+    position: relative;
+    overflow-x: hidden;
+  }
+}
+
+@layer utilities {
+  .newspaper-card {
+    /* Instead of full boxed borders, we use strong top borders separating content naturally */
+    @apply bg-transparent border-t-2 border-text pt-4 pb-8 transition-all duration-300 ease-out relative;
+  }
+  .newspaper-card:hover {
+    @apply -translate-y-[2px];
+  }
+  .newspaper-feature {
+    @apply border-t-[6px] border-text pt-6 pb-12 mb-8 flex flex-col md:flex-row gap-6 md:gap-12 relative transition-all duration-300;
+  }
+  .newspaper-tabular-card {
+    /* For repositories / dense data lists */
+    @apply border-b border-line py-3 flex flex-col justify-between transition-colors duration-200 hover:bg-bg-soft/70 px-2;
+  }
+  .editorial-button {
+    @apply border-2 border-text text-text font-mono text-xs uppercase tracking-[0.1em] px-4 py-2 transition-all duration-300 hover:bg-text hover:text-bg disabled:opacity-30 disabled:hover:bg-transparent disabled:hover:text-text cursor-pointer;
+  }
+  .editorial-input {
+    @apply border-b-2 border-text/40 bg-transparent font-mono text-sm uppercase tracking-wide focus:outline-none focus:border-primary transition-colors pb-1;
+  }
+  .editorial-heading {
+    @apply font-serif font-bold text-text tracking-tight;
+  }
+  .industrial-tag {
+    @apply font-mono text-[9px] uppercase tracking-widest text-bg bg-text px-2 py-1 inline-block;
+  }
+  .stagger-1 { animation-delay: 100ms; }
+  .stagger-2 { animation-delay: 200ms; }
+  .stagger-3 { animation-delay: 300ms; }
+  .stagger-4 { animation-delay: 400ms; }
+}
