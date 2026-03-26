@@ -96,6 +96,11 @@ export function HackerNewsCard({ item }: { item: HackerNewsItem }) {
             {item.score}
           </span>
         </div>
+        {item.description && (
+          <p className="m-0 mb-2 text-[13px] text-text/70 leading-snug line-clamp-2">
+            {item.description}
+          </p>
+        )}
         <div className="flex items-center justify-between mt-auto pt-2">
           <div className="flex items-center gap-3">
             <span className="font-mono text-[9px] uppercase tracking-widest text-text/70">

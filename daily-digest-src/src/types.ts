@@ -18,6 +18,7 @@ export interface RepoItem {
 export interface HackerNewsItem {
   rank: number;
   title: string;
+  description?: string;
   url?: string;
   score: number;
   by?: string;
