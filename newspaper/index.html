@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Daily Chronicle - A Modern Newspaper</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Lora:wght@400;500;600&family=Source+Sans+Pro:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="icon" type="image/x-icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📰</text></svg>">
+</head>
+<body>
+    <!-- Reading Progress Indicator -->
+    <div class="reading-progress">
+        <div class="reading-progress-bar"></div>
+    </div>
+
+    <!-- Header -->
+    <header class="newspaper-header">
+        <div class="header-top">
+            <div class="date-display">
+                <span class="day">WEDNESDAY</span>
+                <span class="date">MARCH 26, 2026</span>
+                <span class="edition">EVENING EDITION</span>
+            </div>
+            <div class="weather">
+                <i class="fas fa-sun"></i>
+                <span>72°F • SUNNY</span>
+            </div>
+        </div>
+
+        <div class="masthead">
+            <div class="masthead-decoration">
+                <div class="decoration-line"></div>
+                <div class="decoration-dot"></div>
+                <div class="decoration-line"></div>
+            </div>
+            <h1 class="newspaper-title">THE DAILY CHRONICLE</h1>
+            <div class="masthead-subtitle">ESTABLISHED 1892 • TRUTH IN EVERY LINE</div>
+            <div class="masthead-decoration">
+                <div class="decoration-line"></div>
+                <div class="decoration-dot"></div>
+                <div class="decoration-line"></div>
+            </div>
+        </div>
+
+        <nav class="newspaper-nav">
+            <ul>
+                <li><a href="#" class="nav-link active">FRONT PAGE</a></li>
+                <li><a href="#" class="nav-link">WORLD</a></li>
+                <li><a href="#" class="nav-link">POLITICS</a></li>
+                <li><a href="#" class="nav-link">BUSINESS</a></li>
+                <li><a href="#" class="nav-link">TECHNOLOGY</a></li>
+                <li><a href="#" class="nav-link">CULTURE</a></li>
+                <li><a href="#" class="nav-link">SPORTS</a></li>
+                <li><a href="#" class="nav-link">OPINION</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main class="newspaper-content">
+        <div class="container">
+            <!-- Lead Story -->
+            <section class="lead-story">
+                <div class="lead-story-content">
+                    <div class="category-tag breaking">BREAKING NEWS</div>
+                    <h2 class="lead-headline">Historic Climate Agreement Reached at Global Summit</h2>
+                    <div class="lead-subheadline">World leaders commit to unprecedented carbon reduction targets by 2030</div>
+
+                    <div class="lead-meta">
+                        <span class="byline">By <strong>Eleanor Vance</strong></span>
+                        <span class="dateline">• FROM OUR BUREAU IN PARIS •</span>
+                        <span class="timestamp">UPDATED 2 HOURS AGO</span>
+                    </div>
+
+                    <div class="lead-image">
+                        <div class="image-placeholder">
+                            <div class="image-caption">Global leaders at the Climate Summit in Paris yesterday</div>
+                        </div>
+                    </div>
+
+                    <div class="lead-body">
+                        <p class="drop-cap">In a landmark decision that could shape the future of the planet, representatives from 195 countries have agreed to the most ambitious climate targets ever set. The agreement, reached after marathon negotiations that stretched into the early hours, commits signatories to reduce carbon emissions by 55% below 1990 levels by 2030.</p>
+
+                        <p>The historic accord includes binding provisions for developed nations to provide $100 billion annually in climate financing to developing countries, a point of contention that nearly derailed the talks on multiple occasions.</p>
+
+                        <blockquote class="pull-quote">
+                            <div class="quote-mark">"</div>
+                            <p>This is not just an agreement on paper—it's a commitment to our children's future. The science is clear, and the time for action is now.</p>
+                            <cite>— Dr. Aisha Chen, Lead Negotiator</cite>
+                        </blockquote>
+
+                        <p>Environmental groups have praised the agreement as "a turning point in human history," while industry representatives expressed cautious optimism about the economic implications of the rapid transition to renewable energy sources.</p>
+
+                        <p>The agreement comes as climate scientists report that global temperatures have already risen 1.2°C above pre-industrial levels, with devastating effects including more frequent and intense wildfires, hurricanes, and sea-level rise.</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Secondary Stories Grid -->
+            <div class="secondary-stories">
+                <!-- Left Column -->
+                <div class="story-column">
+                    <article class="news-card">
+                        <div class="category-tag politics">POLITICS</div>
+                        <h3 class="story-headline">Senate Passes Landmark Digital Privacy Act</h3>
+                        <p class="story-excerpt">The bipartisan bill establishes new consumer data protections and limits how tech companies can collect and monetize personal information.</p>
+                        <div class="story-meta">
+                            <span class="byline">By Marcus Johnson</span>
+                            <span class="timestamp">• 4 HOURS AGO</span>
+                        </div>
+                    </article>
+
+                    <article class="news-card">
+                        <div class="category-tag business">BUSINESS</div>
+                        <h3 class="story-headline">Tech Giants Report Record Quarterly Earnings</h3>
+                        <p class="story-excerpt">Despite economic uncertainties, major technology companies have posted stronger-than-expected results, driven by cloud services and AI adoption.</p>
+                        <div class="story-meta">
+                            <span class="byline">By Samantha Lee</span>
+                            <span class="timestamp">• 6 HOURS AGO</span>
+                        </div>
+                    </article>
+
+                    <article class="news-card">
+                        <div class="category-tag culture">CULTURE</div>
+                        <h3 class="story-headline">Virtual Reality Art Exhibition Breaks Attendance Records</h3>
+                        <p class="story-excerpt">The immersive experience, which allows visitors to 'walk through' famous paintings, has drawn over 500,000 visitors in its first month.</p>
+                        <div class="story-meta">
+                            <span class="byline">By Isabel Rivera</span>
+                            <span class="timestamp">• YESTERDAY</span>
+                        </div>
+                    </article>
+                </div>
+
+                <!-- Middle Column -->
+                <div class="story-column">
+                    <article class="news-card featured">
+                        <div class="category-tag technology">TECHNOLOGY</div>
+                        <h3 class="story-headline">Breakthrough in Quantum Computing Announced</h3>
+                        <p class="story-excerpt">Researchers have demonstrated a quantum processor that maintains coherence for over 10 seconds, a milestone that could accelerate practical quantum applications.</p>
+                        <div class="story-meta">
+                            <span class="byline">By Dr. Kenji Tanaka</span>
+                            <span class="timestamp">• 8 HOURS AGO</span>
+                        </div>
+                        <div class="featured-image">
+                            <div class="image-caption">The quantum processor in a cryogenic chamber</div>
+                        </div>
+                    </article>
+
+                    <article class="news-card">
+                        <div class="category-tag world">WORLD</div>
+                        <h3 class="story-headline">Archaeologists Uncover Ancient City in Amazon</h3>
+                        <p class="story-excerpt">The discovery challenges previous assumptions about pre-Columbian civilizations in the region and reveals sophisticated urban planning dating back 2,500 years.</p>
+                        <div class="story-meta">
+                            <span class="byline">By Carlos Mendez</span>
+                            <span class="timestamp">• 2 DAYS AGO</span>
+                        </div>
+                    </article>
+                </div>
+
+                <!-- Right Column -->
+                <div class="story-column">
+                    <article class="news-card opinion">
+                        <div class="opinion-label">OPINION</div>
+                        <h3 class="story-headline">The Future of Work Isn't Remote—It's Adaptive</h3>
+                        <p class="story-excerpt">As companies experiment with hybrid models, we're discovering that flexibility, not location, is the key to productivity and employee satisfaction.</p>
+                        <div class="story-meta">
+                            <span class="byline">By Dr. Maya Patel</span>
+                            <span class="timestamp">• YESTERDAY</span>
+                        </div>
+                        <div class="opinion-author">
+                            <div class="author-avatar"></div>
+                            <div class="author-info">
+                                <div class="author-name">Dr. Maya Patel</div>
+                                <div class="author-title">Workplace Futurist & Author</div>
+                            </div>
+                        </div>
+                    </article>
+
+                    <div class="briefs-section">
+                        <h4 class="briefs-title">IN BRIEF</h4>
+                        <ul class="news-briefs">
+                            <li class="brief-item">
+                                <span class="brief-category sports">SPORTS</span>
+                                <span class="brief-text">Local team advances to finals after stunning upset victory.</span>
+                            </li>
+                            <li class="brief-item">
+                                <span class="brief-category business">BUSINESS</span>
+                                <span class="brief-text">Stock markets rally on positive inflation data.</span>
+                            </li>
+                            <li class="brief-item">
+                                <span class="brief-category world">WORLD</span>
+                                <span class="brief-text">Humanitarian aid reaches conflict zone after ceasefire.</span>
+                            </li>
+                            <li class="brief-item">
+                                <span class="brief-category technology">TECH</span>
+                                <span class="brief-text">New smartphone feature detects early signs of skin cancer.</span>
+                            </li>
+                            <li class="brief-item">
+                                <span class="brief-category culture">CULTURE</span>
+                                <span class="brief-text">Award-winning novelist announces new book series.</span>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="weather-widget">
+                        <h4 class="widget-title">WEATHER FORECAST</h4>
+                        <div class="weather-content">
+                            <div class="weather-day">
+                                <div class="day-name">TODAY</div>
+                                <div class="weather-icon"><i class="fas fa-sun"></i></div>
+                                <div class="weather-temp">72°F</div>
+                            </div>
+                            <div class="weather-day">
+                                <div class="day-name">THU</div>
+                                <div class="weather-icon"><i class="fas fa-cloud-sun"></i></div>
+                                <div class="weather-temp">68°F</div>
+                            </div>
+                            <div class="weather-day">
+                                <div class="day-name">FRI</div>
+                                <div class="weather-icon"><i class="fas fa-cloud-rain"></i></div>
+                                <div class="weather-temp">62°F</div>
+                            </div>
+                            <div class="weather-day">
+                                <div class="day-name">SAT</div>
+                                <div class="weather-icon"><i class="fas fa-sun"></i></div>
+                                <div class="weather-temp">75°F</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Sports Section -->
+            <section class="section-divider">
+                <div class="section-title">SPORTS</div>
+                <div class="divider-line"></div>
+            </section>
+
+            <div class="sports-stories">
+                <article class="sports-card">
+                    <div class="sports-image"></div>
+                    <div class="sports-content">
+                        <div class="category-tag sports">SPORTS</div>
+                        <h3 class="story-headline">Underdog Team Clinches Championship in Overtime Thriller</h3>
+                        <p class="story-excerpt">The city's beloved underdogs secured their first championship in 42 years with a last-second goal in double overtime.</p>
+                        <div class="story-meta">
+                            <span class="byline">By Ryan Cooper</span>
+                            <span class="timestamp">• 5 HOURS AGO</span>
+                        </div>
+                    </div>
+                </article>
+
+                <article class="sports-card">
+                    <div class="sports-image image-2"></div>
+                    <div class="sports-content">
+                        <div class="category-tag sports">SPORTS</div>
+                        <h3 class="story-headline">Olympic Committee Announces Host City for 2032 Games</h3>
+                        <p class="story-excerpt">After a close vote, the International Olympic Committee has selected the host city for the 2032 Summer Olympics.</p>
+                        <div class="story-meta">
+                            <span class="byline">By Maria Gonzalez</span>
+                            <span class="timestamp">• YESTERDAY</span>
+                        </div>
+                    </div>
+                </article>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="newspaper-footer">
+        <div class="footer-content">
+            <div class="footer-section">
+                <div class="footer-title">THE DAILY CHRONICLE</div>
+                <p class="footer-motto">Delivering trusted journalism since 1892.</p>
+                <div class="footer-contact">
+                    <p>123 Press Avenue • News City, NC 10001</p>
+                    <p>Contact: editor@dailychronicle.com • (555) 123-4567</p>
+                </div>
+            </div>
+
+            <div class="footer-section">
+                <div class="footer-title">SECTIONS</div>
+                <ul class="footer-links">
+                    <li><a href="#">Front Page</a></li>
+                    <li><a href="#">World</a></li>
+                    <li><a href="#">Politics</a></li>
+                    <li><a href="#">Business</a></li>
+                    <li><a href="#">Technology</a></li>
+                    <li><a href="#">Culture</a></li>
+                    <li><a href="#">Sports</a></li>
+                    <li><a href="#">Opinion</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-section">
+                <div class="footer-title">SUBSCRIBE</div>
+                <p class="footer-subscribe">Stay informed with our daily edition.</p>
+                <div class="subscribe-form">
+                    <input type="email" placeholder="Your email address" class="subscribe-input">
+                    <button class="subscribe-btn">SUBSCRIBE</button>
+                </div>
+                <div class="social-links">
+                    <a href="#" class="social-link"><i class="fab fa-twitter"></i></a>
+                    <a href="#" class="social-link"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#" class="social-link"><i class="fab fa-instagram"></i></a>
+                    <a href="#" class="social-link"><i class="fab fa-linkedin-in"></i></a>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer-bottom">
+            <div class="copyright">© 2026 The Daily Chronicle. All rights reserved.</div>
+            <div class="footer-links-bottom">
+                <a href="#">Privacy Policy</a>
+                <a href="#">Terms of Service</a>
+                <a href="#">Cookie Policy</a>
+                <a href="#">Accessibility</a>
+                <a href="#">Contact Us</a>
+            </div>
+        </div>
+
+        <!-- Newspaper fold effect -->
+        <div class="newspaper-fold"></div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="script.js"></script>
+</body>
+</html>
