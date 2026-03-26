@@ -1,502 +1,374 @@
 {
   "version": 1,
   "date": "2026-03-26",
-  "generatedAt": "2026-03-26T01:09:23.616Z",
+  "generatedAt": "2026-03-26T15:02:42.908Z",
   "source": {
-    "news": {
-      "usedDate": "2026-03-26",
-      "fallback": false
-    },
-    "github": {
+    "dailySources": {
       "usedDate": "2026-03-26",
       "fallback": false
     }
   },
   "stats": {
     "news": 12,
+    "hackerNews": 5,
     "githubGeneral": 10,
     "githubAi": 10
   },
   "news": [
     {
       "category": "国际秩序",
-      "title": "伊朗称任何停火安排须覆盖黎巴嫩战线",
-      "summary": "路透援引地区消息称，伊朗向斡旋方表示，美以与伊朗相关的停火若不同时约束黎以边境行动，将难以达成，反映谈判条件从单一战场转向多线捆绑。",
-      "url": "https://www.reuters.com/world/asia-pacific/iran-wants-lebanon-included-any-ceasefire-sources-say-2026-03-25/",
-      "source": "Reuters",
-      "time": "Wed, 25 Mar 2026 22:01:34 GMT"
+      "title": "First Thing: Iran rejects US ceasefire plan and submits its own",
+      "summary": "The Guardian报道：First Thing: Iran rejects US ceasefire plan and submits its own The Guardian Iran counters US ceasefire proposal, denies",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRGFFNGVWSzdQeGFTTDdPZHcySTdMS0RCUXpPVl9vUzNHVFBqM3k1dGYwZTc3YkxmYkpaZmctamx6ZXdVMkx4OVNTa1c4bW54YlVKUDA1LTROVWtadWlSMmNFdFRlQUpKMDhtUWJvdWJRc3VpUW9XV2YwRGdsbWtRb1VCdk1GN2RSY3FLS0R3T3lxdzNuWTlkdU1MNWxTVmdkT016WTZtQmh2c0hFaW1V?oc=5",
+      "source": "The Guardian",
+      "time": "2026-03-26T11:43:00Z"
     },
     {
       "category": "国际秩序",
-      "title": "泽连斯基称美方将安全承诺与顿巴斯让渡挂钩",
-      "summary": "路透独家采访显示，乌克兰总统泽连斯基称美方安全保障提议与乌方在顿巴斯问题上的让步存在关联，显示俄乌谈判框架仍围绕领土与安全交换展开。",
-      "url": "https://www.reuters.com/business/aerospace-defense/us-links-security-guarantees-ukraine-giving-up-donbas-zelenskiy-says-2026-03-25/",
-      "source": "Reuters",
-      "time": "Wed, 25 Mar 2026 18:24:55 GMT"
+      "title": "Live updates: Israel says it killed key Iranian commander involved in Strait of Hormuz blockade",
+      "summary": "CNN报道：Live updates: Israel says it killed key Iranian commander involved in Strait of Hormuz blockade CNN Israel says it has k",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NZFNZQUw3NGJ0Yk5DT3FuTXU4VGJLTFFDZkVGYlY4elhFdkwtdWNzYWRnVzlRV2ZHWUtNcjh3YzVKLWFIblY2M3AwaEw0eEJsYnRadDlBY1c0eVVTbmhOR2lLUUVnSDlyQ1o5NkRUXzBQUk9zcWppR3RUZw?oc=5",
+      "source": "CNN",
+      "time": "2026-03-26T13:44:00Z"
     },
     {
       "category": "国际秩序",
-      "title": "丹麦首相在选举失利后提交政府辞呈",
-      "summary": "路透报道，丹麦首相弗雷泽里克森在议会选举后向国王递交辞呈，后续将进入组阁谈判阶段，欧洲北部政治版图与政策连续性面临调整。",
-      "url": "https://www.reuters.com/world/europe/denmarks-prime-minister-hands-government-resignation-after-election-defeat-2026-03-25/",
+      "title": "Bus falls into river while boarding ferry in Bangladesh, leaving 24 dead",
+      "summary": "Reuters报道：Bus falls into river while boarding ferry in Bangladesh, leaving 24 dead Reuters View Full Coverage on Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWDdidGxtUjBvczUxd1o4TFVjZlZpVm50bVVkZzZrdDZNcHZIMFFodDBQMXN2eldhREtqc3FWSTMyNFQ3UFlHY3hnLXFnVE12RzRzVWVPZm1tM1FUT1ZNdnRkZmwyNkM1VUJlb1o4Y0ExaFNheFV1M0hvN003Qy12Q21qNE5tT2dEYUxQLUVQLW45UWdQSEFtVG03aUZaZktxRjk2azM4V1JqeFU1d3Vnb1VvdDNZcmV1MDc3NENMc2Y?oc=5",
       "source": "Reuters",
-      "time": "Wed, 25 Mar 2026 10:01:17 GMT"
+      "time": "2026-03-26T05:08:00Z"
     },
     {
       "category": "财经",
-      "title": "停火预期推动油价大跌、亚洲股市反弹",
-      "summary": "美联社称，受美伊可能展开谈判预期影响，国际油价一度下跌逾5%，亚洲主要股指走高，市场短线从“地缘冲突溢价”转向“风险偏好修复”。",
-      "url": "https://apnews.com/article/stock-markets-trump-iran-oil-826e691e2fd93a63ac8ec8ed98924a17",
-      "source": "AP News",
-      "time": "Wed, 25 Mar 2026 03:10:35 GMT"
+      "title": "Stock Market Today: Dow Slips, Oil Pushes Past $100 Again — Live Updates",
+      "summary": "WSJ报道：Stock Market Today: Dow Slips, Oil Pushes Past $100 Again — Live Updates WSJ Stock market today: Dow, S&P 500, Nasdaq sl",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYnI5emtmNEJTWlNqM1E0SEJzbzJzT0w5VlEtTl9ZTVoxZi00amNRZHpNaVRXN0ZXcFRWTTBkbGs3b1ZaYU9BSWtpM3dqd1RObkZzWlRUY19HcVNHWnItRmpWdXI5dWZOM0NHZHdNT2RiZFA4amNrYlprUERWem05MHNTdVZQbWs?oc=5",
+      "source": "WSJ",
+      "time": "2026-03-26T14:30:36Z"
     },
     {
       "category": "财经",
-      "title": "汇市观望：交易员对结束伊朗冲突前景仍谨慎",
-      "summary": "路透指出，尽管股债与油市出现波动修复，外汇市场整体表现谨慎，投资者仍在评估冲突持续时间及其对通胀和央行路径的二次冲击。",
-      "url": "https://www.reuters.com/world/asia-pacific/currency-markets-drift-traders-sceptical-us-efforts-end-iran-war-2026-03-25/",
-      "source": "Reuters",
-      "time": "Wed, 25 Mar 2026 01:23:57 GMT"
+      "title": "Meta and Google just lost a landmark social media addiction case. A tech law expert explains the fallout",
+      "summary": "The Conversation报道：Meta and Google just lost a landmark social media addiction case. A tech law expert explains the fallout The Conversatio",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPS2tIeUlNTGo5NXAyVEZGZ3hzQjRETUREdkJxZThVT0VwdWVCTWZFVG5YTnNuRktvMFpncHI5MnJBWlFyX1dRZW16ckpKNTFhRkR0dFpUU0dtYVZkOFl4XzdsWWV1dzZMRXF6WHRTOG12SGRmdkdEUXhkcFJYT1BCX0Vmalp2Nmh0MlBwd2tUNE12T09hRGE2b1ByemdTZk1PRUIzR2NxZno3VU9JRFlfRjZuMlBrQS1TclEzS1RDZVRhTEtnNG15RkVrYlgteHNPWGxLVw?oc=5",
+      "source": "The Conversation",
+      "time": "2026-03-25T23:14:42Z"
     },
     {
       "category": "财经",
-      "title": "澳大利亚2月通胀放缓但能源冲击风险抬头",
-      "summary": "路透报道，澳洲2月CPI同比小幅回落，但中东冲突导致的能源价格不确定性上升，市场对后续加息路径与家庭成本压力重新定价。",
-      "url": "https://www.reuters.com/world/asia-pacific/australias-inflation-slows-slightly-february-ahead-war-driven-energy-shock-2026-03-25/",
-      "source": "Reuters",
-      "time": "Wed, 25 Mar 2026 01:26:42 GMT"
+      "title": "Trump's attacks on offshore wind could hurt infrastructure spending across the economy",
+      "summary": "NPR报道：Trump's attacks on offshore wind could hurt infrastructure spending across the economy NPR Trump’s $1B payoff to stop of",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORUlQZDhMdENfTS1KNnhJWlRSRWx1OXNIeE9kcWVKeUZNaWR6aE1yQ3FoMVY2R0FBbE9oS1dKZXZuMEJVeXd6RjZybVVrWnVSTTIwUFVDUWFUVEFaMDZ2WnF4WWpnQUtndlpkbWdQeUU0VlN0Nk44UlJvX25CMk5rUHpZOWhMdnZZX0Zha1hlMA?oc=5",
+      "source": "NPR",
+      "time": "2026-03-26T09:19:00Z"
     },
     {
       "category": "体育",
-      "title": "希弗林锁定第六个高山滑雪世界杯总冠军",
-      "summary": "美联社报道，美国名将米凯拉·希弗林在赛季收官战中守住领先，追平女子高山滑雪世界杯总冠军纪录，巩固其在该项目的历史地位。",
-      "url": "https://apnews.com/article/mikaela-shiffrin-emma-aicher-world-cup-skiing-c8837d50b32388106e04f26db70e55f3",
+      "title": "MLB season predictions 1.0: World Series winner, dark horse, playoff teams and more",
+      "summary": "The New York Times报道：MLB season predictions 1.0: World Series winner, dark horse, playoff teams and more The New York Times 2026 MLB predicti",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOC1aT2RFNGlYczZHWnA4WURkSHBVcXNZRW1XNVRLd09aR29SR0llTlRDNllGdWhqWkpDSWo3cUE2VHdjZ0Y1R3UzdTU0Rlg1R2Y0NVBEWEt0MnRkLTNLSEhXbFVyNFpwMkNxb2tXV0t1bTVSVjZIbVJHZzA0ZGpZUUVReDdCZTA?oc=5",
+      "source": "The New York Times",
+      "time": "2026-03-26T09:30:55Z"
+    },
+    {
+      "category": "体育",
+      "title": "NCAA Tournament Picks, Predictions: Stuckey’s Betting Card for 2026 Sweet 16",
+      "summary": "Action Network报道：NCAA Tournament Picks, Predictions: Stuckey’s Betting Card for 2026 Sweet 16 Action Network 2026 March Madness predictio",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcVJkQlBBaWU2cWhRSWFDc2NNU3dDajRQVUFLWVBBVXpfN1E4VzdBclhpeFptOHdwY09lU1kteS1qY1BuZGpkOFltTWp4T01YZC1ib2RwV1VmMHp0UHlnZlQtSEpCbUs4dUZJaGZtV3I3d1lGNEN5YlBuUEd1bVFGaXJoQWtpZ3BSakNhVFIxX3Baa0phTE1xQWFKdS1TblZR?oc=5",
+      "source": "Action Network",
+      "time": "2026-03-26T11:41:00Z"
+    },
+    {
+      "category": "体育",
+      "title": "NC State Basketball Hoop Scoop: Intel on Will Wade, Boo Corrigan Meeting",
+      "summary": "247Sports报道：NC State Basketball Hoop Scoop: Intel on Will Wade, Boo Corrigan Meeting 247Sports NC State's Wade to leave after one se",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTGxVMlAtcDBwVXp1bUhsRmFpOU02SGFScEQ2R1lMc3VGTFBGY2ZISzRGS094N3h3eHJJUjNYSWRRdHF1cjQ4RHE0anJqT0NKckNmQzgyUlRpZWlEaFY5NUU5U21jTXNvcXZiejdWSExOTmFZM2pJNENvMkRUYWloT1FIcmlUOXJianVnLUx5bmNkaVNvV0dvXzluM0JXVUpzazc2Q3I4TzBGQjVuS2pqdGZTcTRmaXh3SG5EZ1RXTm1wY0hEODUwNUF0UnNsdjVzeWdsNGQxNA?oc=5",
+      "source": "247Sports",
+      "time": "2026-03-26T03:22:35Z"
+    },
+    {
+      "category": "国内国际民生",
+      "title": "Capitol agenda: DHS despair takes hold on the Hill",
+      "summary": "Politico报道：Capitol agenda: DHS despair takes hold on the Hill Politico ‘I just want to go home’: Despair settles over the Capitol a",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU21wdzRodGRjX2pROFRjOEJkbkp5SHUxNlNrTU1xRkNabEhHaWw3ekpXc3JxWWdCSFVYVDFzcDVDeVpBYkxCZnJnRnIzUHFuNHVZUElrdFlkQUZ6ejNjek1MYTlvM3hpTGZYLWFDX3dZeGVmWVA0RmU1NXdUVEUwTll2Y1QxcDJtVjBfSGFROUZiamcxaXFrQ2MtRW5Db1pLanRiNG5LRUx5ekVDd3NFMURn?oc=5",
+      "source": "Politico",
+      "time": "2026-03-26T12:00:00Z"
+    },
+    {
+      "category": "国内国际民生",
+      "title": "What a GOP loss in Trump’s Mar-a-Lago district says about the midterms",
+      "summary": "The Washington Post报道：What a GOP loss in Trump’s Mar-a-Lago district says about the midterms The Washington Post Special election shocker has ",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYWJHdW0zdURaelY3ZlhCYmRhQzh1c2w3S0NwSEgyNjJFaVFRZnpQV29ScjIzRzZpQlFVVGR5UTVua2V6alBtT01idjU2RFdFLUJ5OW9MbUdkNndrZ05EQVdJS0lselJ4R2JaTXNFMjVtYksxNVdXbTI2VTFnRUJqdDY1TE9aM1NEOHByWmw5Nk1FZ1FKNXhB?oc=5",
+      "source": "The Washington Post",
+      "time": "2026-03-26T02:37:00Z"
+    },
+    {
+      "category": "国内国际民生",
+      "title": "Missed paychecks and airport delays: Pressure mounts on Congress to end the funding shutdown",
+      "summary": "AP News报道：Missed paychecks and airport delays: Pressure mounts on Congress to end the funding shutdown AP News Travelers are facin",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZGFEOE9QMEVQNGU3dnJUYmFPZEdna1VJZ2VmZktZOGhzcXZ4REhxNW5nRW04bjM3RzhWUFp0My1DTTk5RUxiRVFvYWota0xGUXR5M29xUm1LMFlmUkRUY0FVWWlTanRfUXp1VmdOaHN1OV9pWDlTdmxyMEtETng1NEtmSUhFTE4yQllITllkSTNUQ2Zxb0M3ZlJES0NDaHhpSkNXUDhTUU96cWM?oc=5",
       "source": "AP News",
-      "time": "Wed, 25 Mar 2026 09:25:54 GMT"
+      "time": "2026-03-26T10:50:00Z"
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Moving from GitHub to Codeberg, for lazy people",
+      "url": "https://unterwaditzer.net/2025/codeberg.html",
+      "score": 71,
+      "by": "jslakro",
+      "time": "2026-03-26T13:38:25Z",
+      "descendants": 7,
+      "hnLink": "https://news.ycombinator.com/item?id=47530330"
     },
     {
-      "category": "体育",
-      "title": "NFL宣布2026赛季揭幕战由卫冕冠军海鹰主场出战",
-      "summary": "美联社称，NFL将于9月第二周以周三夜赛开启新赛季，由超级碗冠军西雅图海鹰坐镇揭幕，体现联盟在赛历与转播窗口上的商业化调整。",
-      "url": "https://apnews.com/article/nfl-opening-week-2026-season-4dae9178b122b4d407b86f47d3566adf",
-      "source": "AP News",
-      "time": "Wed, 25 Mar 2026 19:59:24 GMT"
+      "rank": 2,
+      "title": "European Parliament decided that Chat Control 1.0 must stop",
+      "url": "https://bsky.app/profile/tuta.com/post/3mhxkfowv322c",
+      "score": 330,
+      "by": "lemoncookiechip",
+      "time": "2026-03-26T12:30:59Z",
+      "descendants": 90,
+      "hnLink": "https://news.ycombinator.com/item?id=47529646"
     },
     {
-      "category": "体育",
-      "title": "意大利再陷世界杯附加赛压力，连续缺席风险升高",
-      "summary": "路透专访2006年冠军成员称，青训与年轻球员使用不足使意大利持续承压，球队正面临连续第三届无缘世界杯正赛的现实风险。",
-      "url": "https://www.reuters.com/sports/soccer/italy-risk-third-straight-world-cup-absence-2006-winners-lament-twodecade-2026-03-25/",
-      "source": "Reuters",
-      "time": "Wed, 25 Mar 2026 11:52:09 GMT"
+      "rank": 3,
+      "title": "Personal Encyclopedias",
+      "url": "https://whoami.wiki/blog/personal-encyclopedias",
+      "score": 521,
+      "by": "jrmyphlmn",
+      "time": "2026-03-25T19:41:51Z",
+      "descendants": 100,
+      "hnLink": "https://news.ycombinator.com/item?id=47522173"
     },
     {
-      "category": "国内国际民生",
-      "title": "中办国办发文：加快建立长期护理保险制度",
-      "summary": "新华社消息显示，中办、国办发布意见推动长期护理保险制度建设，聚焦失能人群基本生活照料与相关医疗护理保障，完善老龄化社会基础民生托底机制。",
-      "url": "http://politics.people.com.cn/n1/2026/0325/c1001-40688893.html",
-      "source": "人民网/新华社",
-      "time": "2026-03-25"
+      "rank": 4,
+      "title": "From zero to a RAG system: successes and failures",
+      "url": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
+      "score": 147,
+      "by": "andros",
+      "time": "2026-03-24T06:53:30Z",
+      "descendants": 44,
+      "hnLink": "https://news.ycombinator.com/item?id=47499356"
     },
     {
-      "category": "国内国际民生",
-      "title": "英国警方逮捕两名涉嫌纵火袭击犹太社区救护车男子",
-      "summary": "路透报道，伦敦北部犹太社区救护车辆遭纵火后，警方以仇恨犯罪方向侦办并实施逮捕，事件引发对社区安全与公共服务韧性的关注。",
-      "url": "https://www.reuters.com/world/uk/uk-police-arrest-two-men-over-arson-attack-jewish-community-ambulances-2026-03-25/",
-      "source": "Reuters",
-      "time": "Wed, 25 Mar 2026 08:30:02 GMT"
-    },
-    {
-      "category": "国内国际民生",
-      "title": "洛杉矶陪审团就青少年社媒成瘾案判Meta与Google担责",
-      "summary": "路透称，美国加州陪审团在社交媒体成瘾诉讼中裁定Meta与Google需承担赔偿责任，案件被视为未成年人网络健康治理的重要司法节点。",
-      "url": "https://www.reuters.com/legal/litigation/jury-reaches-verdict-meta-google-trial-social-media-addiction-2026-03-25/",
-      "source": "Reuters",
-      "time": "Wed, 25 Mar 2026 16:56:35 GMT"
+      "rank": 5,
+      "title": "Swift 6.3",
+      "url": "https://www.swift.org/blog/swift-6.3-released/",
+      "score": 201,
+      "by": "ingve",
+      "time": "2026-03-26T07:27:11Z",
+      "descendants": 117,
+      "hnLink": "https://news.ycombinator.com/item?id=47527590"
     }
   ],
   "github": {
     "general": [
       {
         "name": "mvanhorn/last30days-skill",
-        "stars": 7601,
-        "description": "一个 AI Agent 技能，可在 Reddit、X、YouTube、HN、Polymarket 和全网研究任意主题，并综合生成有依据的总结。",
+        "stars": "9,277",
+        "description": "GitHub 热门开源项目：mvanhorn/last30days-skill，主要使用Python，聚焦智能体与自动化。",
         "url": "https://github.com/mvanhorn/last30days-skill",
         "language": "Python",
         "topics": [
-          "ai-prompts",
-          "ai-skill",
-          "bluesky",
-          "claude",
-          "claude-code",
-          "clawhub",
-          "deep-research",
-          "hackernews",
-          "instagram",
-          "openclaw",
-          "polymarket",
-          "recency",
-          "reddit",
-          "research",
-          "social-media",
-          "tiktok",
-          "trends",
-          "twitter",
-          "web-search",
-          "youtube"
+          "agent",
+          "ai"
+        ]
+      },
+      {
+        "name": "Yeachan-Heo/oh-my-claudecode",
+        "stars": "12,150",
+        "description": "GitHub 热门开源项目：Yeachan-Heo/oh-my-claudecode，主要使用TypeScript，聚焦智能体与自动化。",
+        "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+        "language": "TypeScript",
+        "topics": [
+          "agent"
+        ]
+      },
+      {
+        "name": "virattt/dexter",
+        "stars": "18,742",
+        "description": "GitHub 热门开源项目：virattt/dexter，主要使用TypeScript，聚焦智能体与自动化。",
+        "url": "https://github.com/virattt/dexter",
+        "language": "TypeScript",
+        "topics": [
+          "agent"
+        ]
+      },
+      {
+        "name": "ruvnet/RuView",
+        "stars": "42,858",
+        "description": "GitHub 热门开源项目：ruvnet/RuView，主要使用Rust，聚焦多媒体与生成能力。",
+        "url": "https://github.com/ruvnet/RuView",
+        "language": "Rust",
+        "topics": [
+          "video"
         ]
       },
       {
         "name": "bytedance/deer-flow",
-        "stars": 46152,
-        "description": "一个开源的 SuperAgent 运行框架，集研究、编程与创作于一体；借助沙箱、记忆、工具、技能、子代理和消息网关，可处理从几分钟到数小时不等的多层级任务。",
+        "stars": "47,844",
+        "description": "GitHub 热门开源项目：bytedance/deer-flow，主要使用Python，聚焦智能体与自动化。",
         "url": "https://github.com/bytedance/deer-flow",
         "language": "Python",
         "topics": [
           "agent",
-          "agentic",
-          "agentic-framework",
-          "agentic-workflow",
-          "ai",
-          "ai-agents",
-          "deep-research",
-          "harness",
-          "langchain",
-          "langgraph",
-          "langmanus",
-          "llm",
-          "multi-agent",
-          "nodejs",
-          "podcast",
-          "python",
-          "superagent",
-          "typescript"
+          "rag"
         ]
       },
       {
-        "name": "BerriAI/litellm",
-        "stars": 40643,
-        "description": "提供 Python SDK 与代理服务器（AI 网关），可用 OpenAI（或原生）格式调用 100+ LLM API，并支持成本追踪、安全护栏、负载均衡与日志记录。",
-        "url": "https://github.com/BerriAI/litellm",
+        "name": "Vaibhavs10/insanely-fast-whisper",
+        "stars": "10,771",
+        "description": "GitHub 热门开源项目：Vaibhavs10/insanely-fast-whisper，主要使用Jupyter Notebook，聚焦工程实践与社区热度。",
+        "url": "https://github.com/Vaibhavs10/insanely-fast-whisper",
+        "language": "Jupyter Notebook",
+        "topics": [
+          "ai",
+          "speech"
+        ]
+      },
+      {
+        "name": "agentscope-ai/agentscope",
+        "stars": "20,143",
+        "description": "GitHub 热门开源项目：agentscope-ai/agentscope，主要使用Python，聚焦智能体与自动化。",
+        "url": "https://github.com/agentscope-ai/agentscope",
         "language": "Python",
         "topics": [
-          "ai-gateway",
-          "anthropic",
-          "azure-openai",
-          "bedrock",
-          "gateway",
-          "langchain",
-          "litellm",
-          "llm",
-          "llm-gateway",
-          "llmops",
-          "mcp-gateway",
-          "openai",
-          "openai-proxy",
-          "vertex-ai"
+          "agent",
+          "ai"
         ]
       },
       {
-        "name": "pascalorg/editor",
-        "stars": 6819,
-        "description": "用于创建并分享 3D 建筑项目。",
-        "url": "https://github.com/pascalorg/editor",
+        "name": "twentyhq/twenty",
+        "stars": "41,060",
+        "description": "GitHub 热门开源项目：twentyhq/twenty，主要使用TypeScript，聚焦工程实践与社区热度。",
+        "url": "https://github.com/twentyhq/twenty",
         "language": "TypeScript",
         "topics": []
       },
       {
-        "name": "letta-ai/claude-subconscious",
-        "stars": 1443,
-        "description": "让 Claude Code 拥有“潜意识”。",
-        "url": "https://github.com/letta-ai/claude-subconscious",
-        "language": "TypeScript",
+        "name": "datalab-to/chandra",
+        "stars": "5,832",
+        "description": "GitHub 热门开源项目：datalab-to/chandra，主要使用Python，聚焦工程实践与社区热度。",
+        "url": "https://github.com/datalab-to/chandra",
+        "language": "Python",
         "topics": []
-      },
-      {
-        "name": "ruvnet/ruflo",
-        "stars": 26198,
-        "description": "面向 Claude 的领先智能体编排平台，可部署多智能体协作群、协调自治工作流并构建对话式 AI 系统，具备企业级架构、分布式群体智能、RAG 集成及原生 Claude Code/Codex 集成。",
-        "url": "https://github.com/ruvnet/ruflo",
-        "language": "TypeScript",
-        "topics": [
-          "agentic-ai",
-          "agentic-engineering",
-          "agentic-framework",
-          "agentic-rag",
-          "agentic-workflow",
-          "agents",
-          "ai-assistant",
-          "ai-tools",
-          "anthropic-claude",
-          "autonomous-agents",
-          "claude-code",
-          "claude-code-skills",
-          "codex",
-          "huggingface",
-          "mcp-server",
-          "model-context-protocol",
-          "multi-agent",
-          "multi-agent-systems",
-          "swarm",
-          "swarm-intelligence"
-        ]
-      },
-      {
-        "name": "Crosstalk-Solutions/project-nomad",
-        "stars": 16608,
-        "description": "Project N.O.M.A.D 是一台自包含的离线生存计算机，内置关键工具、知识与 AI，帮助你随时随地获取信息并保持行动力。",
-        "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-        "language": "TypeScript",
-        "topics": []
-      },
-      {
-        "name": "ruvnet/RuView",
-        "stars": 42275,
-        "description": "RuView 通过 WiFi DensePose 将普通 WiFi 信号转化为实时人体姿态估计、生命体征监测与在场检测，全程无需任何视频像素。",
-        "url": "https://github.com/ruvnet/RuView",
-        "language": "Rust",
-        "topics": [
-          "agentic-ai",
-          "densepose",
-          "esp32",
-          "firmware",
-          "mcu",
-          "mincut",
-          "monitoring",
-          "pose-estimation",
-          "rf",
-          "self",
-          "self-learning",
-          "wifi",
-          "wifi-hacking",
-          "wifi-security"
-        ]
-      },
-      {
-        "name": "supermemoryai/supermemory",
-        "stars": 19202,
-        "description": "一个速度极快且可扩展的记忆引擎与应用，是面向 AI 时代的 Memory API。",
-        "url": "https://github.com/supermemoryai/supermemory",
-        "language": "TypeScript",
-        "topics": [
-          "agent-memory",
-          "ai-memory",
-          "cloudflare-kv",
-          "cloudflare-pages",
-          "cloudflare-workers",
-          "drizzle-orm",
-          "memory",
-          "postgres",
-          "remix",
-          "tailwindcss",
-          "typescript",
-          "vite"
-        ]
       },
       {
         "name": "FujiwaraChoki/MoneyPrinterV2",
-        "stars": 25580,
-        "description": "自动化在线赚钱流程。",
+        "stars": "26,010",
+        "description": "GitHub 热门开源项目：FujiwaraChoki/MoneyPrinterV2，主要使用Python，聚焦工程实践与社区热度。",
         "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
         "language": "Python",
-        "topics": [
-          "automation",
-          "cli",
-          "json",
-          "money",
-          "outreach",
-          "python",
-          "twitter",
-          "youtube"
-        ]
+        "topics": []
       }
     ],
     "ai": [
       {
+        "name": "mvanhorn/last30days-skill",
+        "stars": "9,277",
+        "description": "AI方向热门开源项目：mvanhorn/last30days-skill，主要使用Python，聚焦智能体与自动化。",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "language": "Python",
+        "topics": [
+          "agent",
+          "ai"
+        ]
+      },
+      {
+        "name": "Yeachan-Heo/oh-my-claudecode",
+        "stars": "12,150",
+        "description": "AI方向热门开源项目：Yeachan-Heo/oh-my-claudecode，主要使用TypeScript，聚焦智能体与自动化。",
+        "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+        "language": "TypeScript",
+        "topics": [
+          "agent"
+        ]
+      },
+      {
+        "name": "virattt/dexter",
+        "stars": "18,742",
+        "description": "AI方向热门开源项目：virattt/dexter，主要使用TypeScript，聚焦智能体与自动化。",
+        "url": "https://github.com/virattt/dexter",
+        "language": "TypeScript",
+        "topics": [
+          "agent"
+        ]
+      },
+      {
         "name": "bytedance/deer-flow",
-        "stars": 46152,
-        "description": "一个开源的 SuperAgent 运行框架，集研究、编程与创作于一体；借助沙箱、记忆、工具、技能、子代理和消息网关，可处理从几分钟到数小时不等的多层级任务。",
+        "stars": "47,844",
+        "description": "AI方向热门开源项目：bytedance/deer-flow，主要使用Python，聚焦智能体与自动化。",
         "url": "https://github.com/bytedance/deer-flow",
         "language": "Python",
         "topics": [
           "agent",
-          "agentic",
-          "agentic-framework",
-          "agentic-workflow",
+          "rag"
+        ]
+      },
+      {
+        "name": "Vaibhavs10/insanely-fast-whisper",
+        "stars": "10,771",
+        "description": "AI方向热门开源项目：Vaibhavs10/insanely-fast-whisper，主要使用Jupyter Notebook，聚焦工程实践与社区热度。",
+        "url": "https://github.com/Vaibhavs10/insanely-fast-whisper",
+        "language": "Jupyter Notebook",
+        "topics": [
           "ai",
-          "ai-agents",
-          "deep-research",
-          "harness",
-          "langchain",
-          "langgraph",
-          "langmanus",
-          "llm",
-          "multi-agent",
-          "nodejs",
-          "podcast",
-          "python",
-          "superagent",
-          "typescript"
+          "speech"
         ]
       },
       {
-        "name": "BerriAI/litellm",
-        "stars": 40643,
-        "description": "提供 Python SDK 与代理服务器（AI 网关），可用 OpenAI（或原生）格式调用 100+ LLM API，并支持成本追踪、安全护栏、负载均衡与日志记录。",
-        "url": "https://github.com/BerriAI/litellm",
+        "name": "agentscope-ai/agentscope",
+        "stars": "20,143",
+        "description": "AI方向热门开源项目：agentscope-ai/agentscope，主要使用Python，聚焦智能体与自动化。",
+        "url": "https://github.com/agentscope-ai/agentscope",
         "language": "Python",
         "topics": [
-          "ai-gateway",
-          "anthropic",
-          "azure-openai",
-          "bedrock",
-          "gateway",
-          "langchain",
-          "litellm",
-          "llm",
-          "llm-gateway",
-          "llmops",
-          "mcp-gateway",
-          "openai",
-          "openai-proxy",
-          "vertex-ai"
+          "agent",
+          "ai"
         ]
       },
       {
-        "name": "ruvnet/ruflo",
-        "stars": 26198,
-        "description": "面向 Claude 的领先智能体编排平台，可部署多智能体协作群、协调自治工作流并构建对话式 AI 系统，具备企业级架构、分布式群体智能、RAG 集成及原生 Claude Code/Codex 集成。",
-        "url": "https://github.com/ruvnet/ruflo",
-        "language": "TypeScript",
-        "topics": [
-          "agentic-ai",
-          "agentic-engineering",
-          "agentic-framework",
-          "agentic-rag",
-          "agentic-workflow",
-          "agents",
-          "ai-assistant",
-          "ai-tools",
-          "anthropic-claude",
-          "autonomous-agents",
-          "claude-code",
-          "claude-code-skills",
-          "codex",
-          "huggingface",
-          "mcp-server",
-          "model-context-protocol",
-          "multi-agent",
-          "multi-agent-systems",
-          "swarm",
-          "swarm-intelligence"
-        ]
-      },
-      {
-        "name": "supermemoryai/supermemory",
-        "stars": 19202,
-        "description": "一个速度极快且可扩展的记忆引擎与应用，是面向 AI 时代的 Memory API。",
-        "url": "https://github.com/supermemoryai/supermemory",
-        "language": "TypeScript",
-        "topics": [
-          "agent-memory",
-          "ai-memory",
-          "cloudflare-kv",
-          "cloudflare-pages",
-          "cloudflare-workers",
-          "drizzle-orm",
-          "memory",
-          "postgres",
-          "remix",
-          "tailwindcss",
-          "typescript",
-          "vite"
-        ]
-      },
-      {
-        "name": "usestrix/strix",
-        "stars": 21732,
-        "description": "开源 AI 安全代理，可发现并修复应用中的漏洞。",
-        "url": "https://github.com/usestrix/strix",
-        "language": "Python",
-        "topics": [
-          "agents",
-          "artificial-intelligence",
-          "cybersecurity",
-          "generative-ai",
-          "llm",
-          "penetration-testing"
-        ]
-      },
-      {
-        "name": "hsliuping/TradingAgents-CN",
-        "stars": 21299,
-        "description": "基于多智能体 LLM 的中文金融交易框架（TradingAgents 中文增强版）。",
-        "url": "https://github.com/hsliuping/TradingAgents-CN",
+        "name": "datalab-to/chandra",
+        "stars": "5,832",
+        "description": "AI方向热门开源项目：datalab-to/chandra，主要使用Python，聚焦工程实践与社区热度。",
+        "url": "https://github.com/datalab-to/chandra",
         "language": "Python",
         "topics": []
       },
       {
-        "name": "harry0703/MoneyPrinterTurbo",
-        "stars": 53148,
-        "description": "利用 AI 大模型一键生成高清短视频。",
-        "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "language": "Python",
+        "name": "Crosstalk-Solutions/project-nomad",
+        "stars": "17,161",
+        "description": "AI方向热门开源项目：Crosstalk-Solutions/project-nomad，主要使用TypeScript，聚焦工程实践与社区热度。",
+        "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+        "language": "TypeScript",
         "topics": [
-          "ai",
-          "automation",
-          "chatgpt",
-          "moviepy",
-          "python",
-          "shortvideo",
-          "tiktok"
+          "ai"
         ]
       },
       {
         "name": "TauricResearch/TradingAgents",
-        "stars": 41807,
-        "description": "TradingAgents：多智能体 LLM 金融交易框架。",
+        "stars": "42,230",
+        "description": "AI方向热门开源项目：TauricResearch/TradingAgents，主要使用Python，聚焦智能体与自动化。",
         "url": "https://github.com/TauricResearch/TradingAgents",
         "language": "Python",
         "topics": [
           "agent",
-          "finance",
           "llm",
-          "multiagent",
-          "trading"
+          "fintech"
         ]
       },
       {
-        "name": "jingyaogong/minimind",
-        "stars": 43707,
-        "description": "“大模型”项目：2 小时从零训练一个 64M 参数的 GPT 小模型。",
-        "url": "https://github.com/jingyaogong/minimind",
-        "language": "Python",
+        "name": "affaan-m/everything-claude-code",
+        "stars": "109,612",
+        "description": "AI方向热门开源项目：affaan-m/everything-claude-code，主要使用JavaScript，聚焦智能体与自动化。",
+        "url": "https://github.com/affaan-m/everything-claude-code",
+        "language": "JavaScript",
         "topics": [
-          "artificial-intelligence",
-          "large-language-model"
-        ]
-      },
-      {
-        "name": "microsoft/generative-ai-for-beginners",
-        "stars": 108528,
-        "description": "21 节课程，带你从零开始构建生成式 AI 应用。",
-        "url": "https://github.com/microsoft/generative-ai-for-beginners",
-        "language": "Jupyter Notebook",
-        "topics": [
-          "ai",
-          "azure",
-          "chatgpt",
-          "dall-e",
-          "generative-ai",
-          "generativeai",
-          "gpt",
-          "language-model",
-          "llms",
-          "microsoft-for-beginners",
-          "openai",
-          "prompt-engineering",
-          "semantic-search",
-          "transformers"
+          "agent",
+          "security"
         ]
       }
     ]
