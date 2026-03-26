@@ -15,21 +15,33 @@ export interface RepoItem {
   stars?: string | number;
 }
 
+export interface HackerNewsItem {
+  rank: number;
+  title: string;
+  url?: string;
+  score: number;
+  by?: string;
+  time?: string;
+  descendants?: number;
+  hnLink?: string;
+}
+
 export interface DigestData {
   date: string;
   generatedAt: string;
   stats?: {
     news?: number;
+    hackerNews?: number;
     githubGeneral?: number;
     githubAi?: number;
   };
   news?: NewsItem[];
+  hackernews?: HackerNewsItem[];
   github?: {
     general?: RepoItem[];
     ai?: RepoItem[];
   };
   source?: {
-    news?: { usedDate?: string };
-    github?: { usedDate?: string };
+    dailySources?: { usedDate?: string; fallback?: boolean };
   };
 }

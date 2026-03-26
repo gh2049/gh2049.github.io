@@ -1,6 +1,6 @@
 import { useState, useMemo } from 'react';
 import { useDigestData } from './hooks/useDigestData';
-import { NewsCard, NewsFeatureCard, RepoCard } from './components/CardItem';
+import { NewsCard, NewsFeatureCard, RepoCard, HackerNewsCard } from './components/CardItem';
 import { MustRead } from './components/MustRead';
 import React from 'react';
 
@@ -29,6 +29,12 @@ function App() {
     return data.github.ai.filter(n => `${n.name} ${n.description} ${n.language}`.toLowerCase().includes(filterText));
   }, [data?.github?.ai, filterText]);
 
+  const filterHackerNews = useMemo(() => {
+    if (!data?.hackernews) return [];
+    if (!filterText) return data.hackernews;
+    return data.hackernews.filter(n => `${n.title} ${n.by}`.toLowerCase().includes(filterText));
+  }, [data?.hackernews, filterText]);
+
   const featureNews = filterNews.length > 0 ? filterNews[0] : null;
   const standardNews = filterNews.length > 1 ? filterNews.slice(1) : [];
 
@@ -49,6 +55,7 @@ function App() {
           <div className="text-left md:text-right flex flex-col font-mono text-[10px] text-text uppercase tracking-widest md:border-l-2 md:border-text pl-0 md:pl-4">
             <span className="mb-2 border-b border-text/20 pb-2">Printed: <br/><strong>{data ? new Date(data.generatedAt).toLocaleString('en-US', {hour12: false}) : '--'}</strong></span>
             <span className="mb-2">Articles_ <br/><strong className="text-sm">{data?.stats?.news || 0}</strong></span>
+            <span className="mb-2">HN_ <br/><strong className="text-sm">{data?.stats?.hackerNews || 0}</strong></span>
             <span>Repos_ <br/><strong className="text-sm">{data?.stats?.githubGeneral || 0}</strong></span>
           </div>
         </div>
@@ -91,7 +98,7 @@ function App() {
       </div>
 
       {/* Sections */}
-      <Section title="GLOBAL INTELLIGENCE" subtitle={`SYS_DATE // ${data?.source?.news?.usedDate || data?.date || '--'}`} delayClass="stagger-2">
+      <Section title="GLOBAL INTELLIGENCE" subtitle={`SYS_DATE // ${data?.source?.dailySources?.usedDate || data?.date || '--'}`} delayClass="stagger-2">
         {filterNews.length === 0 ? <p className="text-muted font-mono italic py-8 border-t-[3px] border-text border-dashed">NO DATA FEED.</p> : 
           <div>
             {featureNews && <NewsFeatureCard item={featureNews} />}
@@ -106,11 +113,11 @@ function App() {
         }
       </Section>
 
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 mt-20 animate-fade-in-up stagger-3 opacity-0 pb-16 border-b-[4px] border-text">
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-12 mt-20 animate-fade-in-up stagger-3 opacity-0 pb-16 border-b-[4px] border-text">
         <div>
           <h2 className="editorial-heading text-3xl m-0 uppercase border-b-[3px] border-text pb-2 mb-4 flex justify-between items-baseline">
             <span>Trending Repos</span>
-            <span className="font-mono text-[10px] font-normal tracking-widest text-muted">{data?.source?.github?.usedDate || data?.date || '--'}</span>
+            <span className="font-mono text-[10px] font-normal tracking-widest text-muted">{data?.source?.dailySources?.usedDate || data?.date || '--'}</span>
           </h2>
           {filterGen.length === 0 ? <p className="font-mono text-xs text-muted">AWAITING DATA.</p> : 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2">
@@ -121,11 +128,26 @@ function App() {
         <div>
            <h2 className="editorial-heading text-3xl m-0 uppercase border-b-[3px] border-text pb-2 mb-4 flex justify-between items-baseline">
             <span>AI Chronicles</span>
-            <span className="font-mono text-[10px] font-normal tracking-widest text-muted">{data?.source?.github?.usedDate || data?.date || '--'}</span>
+            <span className="font-mono text-[10px] font-normal tracking-widest text-muted">{data?.source?.dailySources?.usedDate || data?.date || '--'}</span>
           </h2>
           {filterAi.length === 0 ? <p className="font-mono text-xs text-muted">AWAITING DATA.</p> : 
             <div className="flex flex-col border-t border-line">
               {filterAi.map((r, i) => <div key={i} className="w-full border-b border-line border-dashed last:border-solid last:border-line"><RepoCard item={r} /></div>)}
+            </div>
+          }
+        </div>
+        <div>
+          <h2 className="editorial-heading text-3xl m-0 uppercase border-b-[3px] border-text pb-2 mb-4 flex justify-between items-baseline">
+            <span>Hacker News</span>
+            <span className="font-mono text-[10px] font-normal tracking-widest text-muted">{data?.source?.dailySources?.usedDate || data?.date || '--'}</span>
+          </h2>
+          {filterHackerNews.length === 0 ? <p className="font-mono text-xs text-muted">AWAITING DATA.</p> : 
+            <div className="flex flex-col border-t border-line">
+              {filterHackerNews.map((hn, i) => (
+                <div key={i} className="w-full border-b border-line border-dashed last:border-solid last:border-line">
+                  <HackerNewsCard item={hn} />
+                </div>
+              ))}
             </div>
           }
         </div>
