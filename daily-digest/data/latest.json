@@ -1,11 +1,11 @@
 {
   "version": 1,
   "date": "2026-03-28",
-  "generatedAt": "2026-03-28T00:10:24.099Z",
+  "generatedAt": "2026-03-28T01:45:08.143Z",
   "source": {
     "dailySources": {
-      "usedDate": "2026-03-27",
-      "fallback": true
+      "usedDate": "2026-03-28",
+      "fallback": false
     }
   },
   "stats": {
@@ -17,159 +17,159 @@
   "news": [
     {
       "category": "国际秩序",
-      "title": "泽连斯基访问沙特，提出与乌克兰无人机能力相关合作",
-      "summary": "在美国战略重心更多转向伊朗的背景下，乌克兰正加速推动无人机合作与安全议题，以争取更多外部支持。",
-      "url": "https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "time": "Thu, 26 Mar 2026 18:24:13 GMT"
+      "title": "因国土安全部“停摆”持续 美国机场安检排起长队",
+      "summary": "美国国土安全部预算僵局持续，机场安检效率下降，旅客排队时间显著拉长。",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRGFGN09qLUVjNzBwVmQzS01MWWQ0bHRyX3NGcmxtTHBJRHZXVDlqTWVtQmVpUjZRWFg2X0FlZ2FMMTVJcmswT1M4bFNrYW9WOXhrRHo0eG1kRGk3OVluR2t5UlY4dklNb2oxMUZHcWFPTGtfSW9HX2w3VWdtbGZFTWJsWW5KUQ?oc=5",
+      "source": "新华网",
+      "time": "Fri, 27 Mar 2026 18:41:57 GMT"
     },
     {
       "category": "国际秩序",
-      "title": "伊朗战争外溢冲击非洲，多国限电并调配燃油",
-      "summary": "油品供应受扰引发连锁反应，部分非洲国家出现能源紧张，政府通过限电、燃料配给等方式应对民生与工业压力。",
-      "url": "https://www.bbc.com/news/articles/cq8wkq1n9epo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "time": "Thu, 26 Mar 2026 17:57:41 GMT"
+      "title": "中国代表在人权理事会谴责美国、以色列袭击伊朗学校的暴行",
+      "summary": "中方在联合国人权理事会就伊朗校园遇袭发声，聚焦冲突中的平民与儿童保护议题。",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wUThUeU1xTnNSM0JodnhGV1pvVnhPSmFVU0dEa0h4enFiTXgtckY3amcwcUhMamhDRzhYazVBWXF5YlIwSE84S0FzbGY0cUNJbUY4U3BaSFl2ZXFsWDBjbkI5M0tsUGVJS0JvbGttNA?oc=5",
+      "source": "中国经济网",
+      "time": "Sat, 28 Mar 2026 00:29:00 GMT"
     },
     {
       "category": "国际秩序",
-      "title": "美方在法庭争议马杜罗案相关律师费来源",
-      "summary": "美国检方称委内瑞拉国家资金不应被用于相关被告法律支出，法官则强调被告辩护权的重要性，案件继续推进。",
-      "url": "https://www.bbc.com/news/articles/c4g8wxyq7v5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "time": "Thu, 26 Mar 2026 18:49:46 GMT"
+      "title": "七国集团外长会议在法国举行 探讨伊朗和中东局势",
+      "summary": "七国集团外长会在法国讨论伊朗与中东局势，外交协调与地区安全成为重点。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pMFZMYkd6bHY3Zjk4bGtSUlNrMWRrUU5Rd0tsT3JwdzRJT21LbU4tRDRDRExydmdzdGFLaTZuVC13aHVMem0yaHRzRDJ0cFE2WXVVQllwYWNvT250NnkwMDdEZ3RMay0z?oc=5",
+      "source": "chinanews.com.cn",
+      "time": "Fri, 27 Mar 2026 23:11:47 GMT"
     },
     {
       "category": "财经",
-      "title": "特朗普签名将首次出现在美国纸币上",
-      "summary": "美国新一版纸币将同时印有总统与财政部长签名，这一安排引发市场与公众对货币象征意义的讨论。",
-      "url": "https://www.bbc.com/news/articles/cz0el909yp3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "time": "Thu, 26 Mar 2026 23:36:14 GMT"
+      "title": "纽约股市三大股指27日显著下跌",
+      "summary": "纽约股市三大股指当日明显下跌，风险资产承压，市场避险情绪有所升温。",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ENl9XV2NlcUY1WmRvcXM3R1pMTHF1TFFkYWVBNU1veTdmRzNDUVdPY2JNN3dIQkNzdVQwM3NNYjJDWmxyaGtLd1RqR0x3MDZpd1g5bnZEcXNGVWZUdHJ6dHRPa2daTjRNakpsMG11X3VLVHcxWHF4c1N1eGFPZw?oc=5",
+      "source": "新华网",
+      "time": "Fri, 27 Mar 2026 21:40:49 GMT"
     },
     {
       "category": "财经",
-      "title": "英国国家储蓄机构负责人被更换，储户资金处理延误引关注",
-      "summary": "因大量储户长期等待资金处理结果，英国相关部门启动管理层调整，并表示将对符合条件的受影响人群进行补偿。",
-      "url": "https://www.bbc.com/news/articles/c3w3eg4n9zwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "time": "Thu, 26 Mar 2026 16:14:54 GMT"
+      "title": "A股主要股指集体回暖医药、锂电板块携手发力",
+      "summary": "A股主要指数回暖，医药与锂电板块联动走强，带动市场风险偏好修复。",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaZ3NGb2xqal90ajE2emszN3lodzFRaWxKU3d1WnpiSm5MTmhlVjQ1MFVjXy1Ta2tCYzhGU1pobDlIRHV1Q051RWZ2UTNKYlQ1NWVMT05XMGNodWhqXzIxZi1QUEc2THFEc3FtNFh3?oc=5",
+      "source": "上海证券报电子版",
+      "time": "Fri, 27 Mar 2026 21:55:17 GMT"
     },
     {
       "category": "财经",
-      "title": "马斯克旗下X广告抵制诉讼被美国法官驳回",
-      "summary": "法院认为X未能充分证明在联邦竞争法框架下遭受可认定损害，此案阶段性受挫。",
-      "url": "https://www.bbc.com/news/articles/c05dlm0l0jgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "time": "Thu, 26 Mar 2026 17:29:13 GMT"
+      "title": "前2月规上工业企业利润同比增长15.2%",
+      "summary": "前两月规上工业企业利润同比增长15.2%，显示工业部门盈利能力阶段性改善。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqNzlPQWFMZTJId0V4N1l5bXNybmhDY2lsNkFfTi1CaTBKY1VxSE9vSkp5emYxcTZ5c1FDVWljUTZNaTVfMGM3MjAteEtrLVRHQklhYmRYMHB2bDhJNloxZDBVanBzUl9mWHc?oc=5",
+      "source": "人民网－广东频道",
+      "time": "Sat, 28 Mar 2026 00:36:00 GMT"
     },
     {
       "category": "体育",
-      "title": "利特勒两次打出170高分，击败范赫文再夺英超飞镖分站冠军",
-      "summary": "卢克·利特勒在柏林站状态火热，以接近巅峰的发挥压制迈克尔·范赫文，拿下赛季第三个分站冠军。",
-      "url": "https://www.bbc.com/sport/darts/articles/c239n020e9zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "time": "Thu, 26 Mar 2026 22:08:23 GMT"
+      "title": "国足2比0击败世界杯新军库拉索",
+      "summary": "国足以2比0战胜库拉索，攻防两端表现更稳，取得一场关键胜利。",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3NVREWjZxblp4SlozcmxkY3JFSWtyb1JvbnhvaHVfVFpKVFZoNXB4LUZFRkNNV2VqQzF3YUs4dEhfbjF5cnBnSzh0UUNJMjVsY0FaM2dUT211aFliNzJJdC1sYzdONjVuUk5wNERJbTFiZC1Hb1p4UUF3?oc=5",
+      "source": "epaper.nfnews.com",
+      "time": "Fri, 27 Mar 2026 22:57:42 GMT"
     },
     {
       "category": "体育",
-      "title": "图赫尔：本·怀特回归英格兰队前需与队友“把话说开”",
-      "summary": "英格兰主帅表示，本·怀特重返国家队是积极信号，但团队关系修复同样关键。",
-      "url": "https://www.bbc.com/sport/football/articles/c62jq8ddn76o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "time": "Thu, 26 Mar 2026 21:53:29 GMT"
+      "title": "势不可挡！萨巴伦卡两盘横扫莱巴金娜，阳光双赛背靠背晋级决赛",
+      "summary": "萨巴伦卡状态强势，直落两盘击败莱巴金娜，连续在“阳光双赛”闯入决赛。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82ZnljcUNBQzVNU2V2MWV6LWs0NzJiRUR5d29JdkVVUFlSMmxreUs4dFFXOTBldlU3QmRTSnl1cXdQOXJiNEtkNklUN29iRkM1cWxhZlgwQUMySXBzYVZmT0Fna3l3d3NBM0JtZmx1V2VHS2JaZmc?oc=5",
+      "source": "Shangbao Indonesia",
+      "time": "Fri, 27 Mar 2026 13:15:00 GMT"
     },
     {
       "category": "体育",
-      "title": "托纳利与基恩建功，北爱尔兰世界杯梦想终结",
-      "summary": "世界杯附加赛半决赛中，意大利2-0击败北爱尔兰，主队距离重返世界杯仅一步之遥。",
-      "url": "https://www.bbc.com/sport/football/videos/cx2eq9d7nv5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "time": "Thu, 26 Mar 2026 22:58:51 GMT"
+      "title": "让行业龙头与成长型企业共享赛事商业红利 “吴越杯”、浙BA杭州赛区招商方案发布",
+      "summary": "杭州赛区发布“吴越杯”与浙BA招商方案，强调通过赛事运营带动体育消费与产业合作。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWHROWkllRmpDNXRaTkdBQ1VDbmhNQ3IxM2gzcEt6bXExc3VXNWpNTXFXd0JEUmNxcm5jbUVFUjVzTkFCRURMenJBLTlYUHh1YzhHc1dVWTZ4U1FiSGVHXzZIa2lMQ0kwdm40aFBOa1pjLVpRYVJEVWdaS0FnZ29ENlFLWHg?oc=5",
+      "source": "杭州网",
+      "time": "Fri, 27 Mar 2026 23:02:00 GMT"
     },
     {
       "category": "国内国际民生",
-      "title": "英格兰医生宣布罢工六天，薪酬与岗位谈判再度破裂",
-      "summary": "此次停工计划将于4月初启动，或成为本轮争议中持续时间较长的一次医疗系统罢工行动。",
-      "url": "https://www.bbc.com/news/articles/c62j7jx910go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "time": "Wed, 25 Mar 2026 17:15:05 GMT"
+      "title": "海南自贸港封关百日 免签入境外籍旅客同比增长54%",
+      "summary": "海南自贸港封关运行满百日，粤琼协同推进制度与产业衔接，民生与营商环境持续优化。",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NQUcyQzFUTE9kcWpzcXU3SGNuNjNTUkxvN0RRMHozZktPUFNnVlVBWTRITzJEYVRha01fLU1hTmhLT3VrdER3Szc4THd5eXVQZkp5ME5xQmQwcnZxeTBBWkRBRVF4cWJHb3Vr?oc=5",
+      "source": "中国青年网",
+      "time": "Fri, 27 Mar 2026 22:05:00 GMT"
     },
     {
       "category": "国内国际民生",
-      "title": "医院两天后才上报脑膜炎聚集事件，引发公共卫生质疑",
-      "summary": "专家指出延迟上报可能影响疫情识别与应对效率，相关流程与责任边界受到广泛关注。",
-      "url": "https://www.bbc.com/news/articles/cp8dnxln3y5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "time": "Wed, 25 Mar 2026 10:56:47 GMT"
+      "title": "新闻1+1丨长护险统筹城乡有哪些优势？农村地区如何保障？专家解读",
+      "summary": "节目聚焦长护险城乡统筹与农村保障路径，回应老龄化背景下的长期照护需求。",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vOG0tWUxxU1N6cEhvUTdEcXltMWN4MUF3dDRlU19oMEdtYlpwNFlLSFZKU052TGhlTVFIMnV6U3lWZ3dORUpibW5WZGNGaDlhZnVlMVJ6LXpqMVRSVE1LOExkVVRfc3lZNWhqQXNqandWLXQ5MmU0?oc=5",
+      "source": "news.cctv.cn",
+      "time": "Fri, 27 Mar 2026 21:59:35 GMT"
     },
     {
       "category": "国内国际民生",
-      "title": "调查显示英国年轻群体对NHS满意度更低",
-      "summary": "最新调查显示整体仅约四分之一受访者对NHS满意，而年轻年龄段满意度进一步下滑，折射医疗服务压力。",
-      "url": "https://www.bbc.com/news/articles/c8x7jd8lnrvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "time": "Wed, 25 Mar 2026 12:46:01 GMT"
+      "title": "扎实细致做好服务管理工作 保障群众安全文明有序祭扫",
+      "summary": "各地加强清明祭扫服务与秩序保障，强调安全、文明、错峰祭扫。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wdE5EWlc1VkVlVDlJZ20yUGdlb3dsbEh4TFFmT0hnQ2l4bWQ2cmc5c1VLYUFpOU9Dd1QxcFhLMzgyTVNncnYwZ3Bwd1NOSmJxbDBqTlMxOGYybVFXOTFKRzc4TXZra3Jo?oc=5",
+      "source": "人民网",
+      "time": "Fri, 27 Mar 2026 23:56:00 GMT"
     }
   ],
   "hackernews": [
     {
       "rank": 1,
-      "title": "为什么这么多控制室曾经采用海泡绿色（2025）",
-      "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
-      "score": 507,
-      "by": "Amorymeltzer",
-      "time": "2026-03-25T15:46:29Z",
-      "descendants": 99,
-      "hnLink": "https://news.ycombinator.com/item?id=47518960"
+      "title": "让 macOS 持续变差（并非反讽）",
+      "url": "https://lr0.org/blog/p/macos/",
+      "score": 292,
+      "by": "speckx",
+      "time": "2026-03-27T19:15:19Z",
+      "descendants": 202,
+      "hnLink": "https://news.ycombinator.com/item?id=47547009"
     },
     {
       "rank": 2,
-      "title": "Deploytarot：给部署抽塔罗牌的网站",
-      "url": "https://deploytarot.com/setup",
-      "score": 118,
-      "by": "rembish",
-      "time": "2026-03-26T20:53:54Z",
-      "descendants": 24,
-      "hnLink": "https://news.ycombinator.com/item?id=47535586"
+      "title": "通过实时强化学习改进 Composer",
+      "url": "https://cursor.com/blog/real-time-rl-for-composer",
+      "score": 47,
+      "by": "ingve",
+      "time": "2026-03-26T16:48:12Z",
+      "descendants": 7,
+      "hnLink": "https://news.ycombinator.com/item?id=47532770"
     },
     {
       "rank": 3,
-      "title": "Show HN：我把 AI 代理部署到每月 7 美元 VPS，并用 IRC 作为传输层",
-      "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
-      "score": 21,
-      "by": "j0rg3",
-      "time": "2026-03-26T22:41:25Z",
-      "descendants": 7,
-      "hnLink": "https://news.ycombinator.com/item?id=47536761"
+      "title": "Show HN：Twitch Roulette——帮你发现最需要观众的直播主",
+      "url": "https://twitchroulette.net/",
+      "score": 43,
+      "by": "ellg",
+      "time": "2026-03-27T22:22:20Z",
+      "descendants": 19,
+      "hnLink": "https://news.ycombinator.com/item?id=47549160"
     },
     {
       "rank": 4,
-      "title": "通过 DNS 跑 DOOM",
-      "url": "https://github.com/resumex/doom-over-dns",
-      "score": 183,
-      "by": "Venn1",
-      "time": "2026-03-23T15:17:38Z",
-      "descendants": 60,
-      "hnLink": "https://news.ycombinator.com/item?id=47490705"
+      "title": "Velxio 2.0：在浏览器中模拟 Arduino、ESP32 和树莓派 3",
+      "url": "https://github.com/davidmonterocrespo24/velxio",
+      "score": 87,
+      "by": "dmcrespo",
+      "time": "2026-03-27T20:44:33Z",
+      "descendants": 17,
+      "hnLink": "https://news.ycombinator.com/item?id=47548013"
     },
     {
       "rank": 5,
-      "title": "纽约市医院停止与 Palantir 合作，这家争议 AI 公司同时在英国扩张",
-      "url": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai",
-      "score": 228,
-      "by": "chrisjj",
-      "time": "2026-03-26T20:35:04Z",
-      "descendants": 84,
-      "hnLink": "https://news.ycombinator.com/item?id=47535371"
+      "title": "ISBN 可视化",
+      "url": "https://annas-archive.gd/isbn-visualization?",
+      "score": 92,
+      "by": "Cider9986",
+      "time": "2026-03-27T20:02:05Z",
+      "descendants": 13,
+      "hnLink": "https://news.ycombinator.com/item?id=47547508"
     }
   ],
   "github": {
     "general": [
       {
         "name": "mvanhorn/last30days-skill",
-        "stars": "10,180",
-        "description": "一个面向 AI 代理的研究技能，可跨 Reddit、X、YouTube、HN、Polymarket 与网页信息源汇总近30天主题洞察。",
+        "stars": "12,700",
+        "description": "面向 AI 代理的研究技能，可跨 Reddit、X、YouTube、HN、Polymarket 与网页检索主题，并生成有依据的总结。",
         "url": "https://github.com/mvanhorn/last30days-skill",
         "language": "Python",
         "topics": [
@@ -178,74 +178,41 @@
         ]
       },
       {
-        "name": "Yeachan-Heo/oh-my-claudecode",
-        "stars": "12,566",
-        "description": "面向团队协作的 Claude Code 多代理编排框架。",
-        "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
-        "language": "TypeScript",
-        "topics": [
-          "multi-agent",
-          "claude-code"
-        ]
-      },
-      {
-        "name": "virattt/dexter",
-        "stars": "18,957",
-        "description": "用于深度金融研究的自治代理系统。",
-        "url": "https://github.com/virattt/dexter",
-        "language": "TypeScript",
-        "topics": [
-          "finance",
-          "agent"
-        ]
-      },
-      {
-        "name": "ruvnet/RuView",
-        "stars": "43,124",
-        "description": "利用普通 WiFi 信号实现实时人体姿态估计、生命体征监测与在场检测，无需视频画面。",
-        "url": "https://github.com/ruvnet/RuView",
-        "language": "Rust",
-        "topics": [
-          "wifi-sensing",
-          "pose-estimation"
-        ]
-      },
-      {
-        "name": "bytedance/deer-flow",
-        "stars": "48,243",
-        "description": "开源长时程 SuperAgent 执行框架，支持研究、编码与创作等分钟到小时级任务。",
-        "url": "https://github.com/bytedance/deer-flow",
+        "name": "hacksider/Deep-Live-Cam",
+        "stars": "83,088",
+        "description": "仅用一张图片即可进行实时换脸与一键视频深度伪造。",
+        "url": "https://github.com/hacksider/Deep-Live-Cam",
         "language": "Python",
         "topics": [
-          "superagent",
-          "workflow"
+          "deepfake",
+          "computer-vision"
         ]
       },
       {
-        "name": "Vaibhavs10/insanely-fast-whisper",
-        "stars": "11,159",
-        "description": "基于 Whisper 的高速语音转录工具链，强调低延迟与高吞吐。",
-        "url": "https://github.com/Vaibhavs10/insanely-fast-whisper",
-        "language": "Jupyter Notebook",
-        "topics": [
-          "speech",
-          "whisper"
-        ]
-      },
-      {
-        "name": "agentscope-ai/agentscope",
-        "stars": "20,367",
-        "description": "帮助开发者构建、运行并可视化可理解、可审计的智能体系统。",
-        "url": "https://github.com/agentscope-ai/agentscope",
+        "name": "SakanaAI/AI-Scientist-v2",
+        "stars": "2,868",
+        "description": "AI Scientist-v2：通过智能体树搜索实现“工作坊级”自动化科学发现。",
+        "url": "https://github.com/SakanaAI/AI-Scientist-v2",
         "language": "Python",
         "topics": [
-          "agent-framework",
-          "observability"
+          "ai-science",
+          "agentic-search"
+        ]
+      },
+      {
+        "name": "microsoft/VibeVoice",
+        "stars": "24,693",
+        "description": "开源前沿语音 AI 项目。",
+        "url": "https://github.com/microsoft/VibeVoice",
+        "language": "Python",
+        "topics": [
+          "voice-ai",
+          "speech"
         ]
       },
       {
         "name": "twentyhq/twenty",
-        "stars": "41,246",
+        "stars": "42,021",
         "description": "社区驱动的现代化 Salesforce 替代方案。",
         "url": "https://github.com/twentyhq/twenty",
         "language": "TypeScript",
@@ -256,8 +223,8 @@
       },
       {
         "name": "datalab-to/chandra",
-        "stars": "6,122",
-        "description": "面向复杂表格、表单与手写场景的 OCR 模型，支持完整版面理解。",
+        "stars": "7,029",
+        "description": "可处理复杂表格、表单和手写内容并具备完整版面理解能力的 OCR 模型。",
         "url": "https://github.com/datalab-to/chandra",
         "language": "Python",
         "topics": [
@@ -266,185 +233,280 @@
         ]
       },
       {
-        "name": "affaan-m/everything-claude-code",
-        "stars": "110,247",
-        "description": "聚焦代理系统性能优化的资源集合，覆盖技能、记忆、安全与研究驱动开发实践。",
-        "url": "https://github.com/affaan-m/everything-claude-code",
-        "language": "JavaScript",
+        "name": "obra/superpowers",
+        "stars": "118,576",
+        "description": "可落地的智能体技能框架与软件开发方法论。",
+        "url": "https://github.com/obra/superpowers",
+        "language": "Shell",
         "topics": [
-          "agent-engineering",
+          "agent-framework",
+          "software-methodology"
+        ]
+      },
+      {
+        "name": "virattt/dexter",
+        "stars": "19,700",
+        "description": "用于深度金融研究的自治智能体。",
+        "url": "https://github.com/virattt/dexter",
+        "language": "TypeScript",
+        "topics": [
+          "finance",
+          "agent"
+        ]
+      },
+      {
+        "name": "Yeachan-Heo/oh-my-claudecode",
+        "stars": "13,977",
+        "description": "以团队协作为核心的 Claude Code 多智能体编排框架。",
+        "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+        "language": "TypeScript",
+        "topics": [
+          "multi-agent",
           "claude-code"
+        ]
+      },
+      {
+        "name": "FreeCAD/FreeCAD",
+        "stars": "29,668",
+        "description": "FreeCAD 官方源码：免费开源的跨平台 3D 参数化建模工具。",
+        "url": "https://github.com/FreeCAD/FreeCAD",
+        "language": "C++",
+        "topics": [
+          "cad",
+          "3d-modeling"
         ]
       }
     ],
     "ai": [
       {
-        "name": "apache/hertzbeat",
-        "stars": "7139",
-        "description": "由 AI 驱动的下一代开源实时可观测性系统。",
-        "url": "https://github.com/apache/hertzbeat",
-        "language": "Java",
-        "topics": [
-          "agent",
-          "ai",
-          "alerting",
-          "database",
-          "grafana",
-          "linux",
-          "llm",
-          "logs"
-        ]
-      },
-      {
-        "name": "googleapis/genai-toolbox",
-        "stars": "13540",
-        "description": "面向数据库场景的 MCP 开源工具箱与服务器实现。",
-        "url": "https://github.com/googleapis/genai-toolbox",
-        "language": "Go",
-        "topics": [
-          "agent",
-          "agents",
-          "ai",
-          "bigquery",
-          "clickhouse",
-          "cockroachdb",
-          "database",
-          "elasticsearch"
-        ]
-      },
-      {
-        "name": "wandb/wandb",
-        "stars": "10938",
-        "description": "AI 开发平台，用于模型训练与微调、实验管理到生产部署的全流程协作。",
-        "url": "https://github.com/wandb/wandb",
+        "name": "Significant-Gravitas/AutoGPT",
+        "stars": "182880",
+        "description": "AutoGPT 致力于让 AI 更易用、可构建，提供工具基础设施让开发者专注核心业务。",
+        "url": "https://github.com/Significant-Gravitas/AutoGPT",
         "language": "Python",
-        "topics": [
-          "ai",
-          "collaboration",
-          "data-science",
-          "data-versioning",
-          "deep-learning",
-          "experiment-track",
-          "hyperparameter-optimization",
-          "hyperparameter-search"
-        ]
-      },
-      {
-        "name": "continuedev/continue",
-        "stars": "32073",
-        "description": "可在 CI 中强制执行的源码控制式 AI 检查能力，基于 Continue CLI。",
-        "url": "https://github.com/continuedev/continue",
-        "language": "TypeScript",
-        "topics": [
-          "agent",
-          "ai",
-          "cli",
-          "developer-tools",
-          "jetbrains-plugin",
-          "llm",
-          "open-source",
-          "vs-code-extenstion"
-        ]
-      },
-      {
-        "name": "openclaw/openclaw",
-        "stars": "337335",
-        "description": "可在任意系统与平台运行的个人 AI 助手框架。",
-        "url": "https://github.com/openclaw/openclaw",
-        "language": "TypeScript",
-        "topics": [
-          "ai",
-          "assistant",
-          "crustacean",
-          "molty",
-          "openclaw",
-          "own-your-data",
-          "personal"
-        ]
-      },
-      {
-        "name": "ClickHouse/ClickHouse",
-        "stars": "46556",
-        "description": "实时分析型数据库管理系统，广泛用于大规模数据查询与 AI 分析场景。",
-        "url": "https://github.com/ClickHouse/ClickHouse",
-        "language": "C++",
-        "topics": [
-          "ai",
-          "analytics",
-          "big-data",
-          "clickhouse",
-          "cloud-native",
-          "cpp",
-          "database",
-          "dbms"
-        ]
-      },
-      {
-        "name": "onyx-dot-app/onyx",
-        "stars": "18329",
-        "description": "开源 AI 平台，提供支持多种 LLM 的高级 AI 对话能力。",
-        "url": "https://github.com/onyx-dot-app/onyx",
-        "language": "Python",
-        "topics": [
-          "ai",
-          "ai-chat",
-          "chatgpt",
-          "chatui",
-          "enterprise-search",
-          "gen-ai",
-          "information-retrieval",
-          "llm"
-        ]
-      },
-      {
-        "name": "Skyvern-AI/skyvern",
-        "stars": "20969",
-        "description": "通过 AI 自动化浏览器工作流，适合表单、流程与网页任务执行。",
-        "url": "https://github.com/Skyvern-AI/skyvern",
-        "language": "Python",
-        "topics": [
-          "ai",
-          "api",
-          "automation",
-          "browser",
-          "browser-automation",
-          "computer",
-          "gpt",
-          "llm"
-        ]
-      },
-      {
-        "name": "ComposioHQ/composio",
-        "stars": "27535",
-        "description": "提供上千种工具连接、鉴权与上下文管理能力，帮助构建可执行型 AI 代理。",
-        "url": "https://github.com/ComposioHQ/composio",
-        "language": "TypeScript",
         "topics": [
           "agentic-ai",
           "agents",
           "ai",
-          "ai-agents",
-          "aiagents",
-          "developer-tools",
-          "function-calling",
-          "gpt-4"
+          "artificial-intelligence",
+          "autonomous-agents",
+          "claude",
+          "gpt",
+          "llama-api",
+          "llm",
+          "openai",
+          "python"
         ]
       },
       {
-        "name": "NousResearch/hermes-agent",
-        "stars": "13703",
-        "description": "可随需求演进的智能体框架，支持多模型与代理协作场景。",
-        "url": "https://github.com/NousResearch/hermes-agent",
+        "name": "f/prompts.chat",
+        "stars": "154425",
+        "description": "原 Awesome ChatGPT Prompts，社区共享/发现/收藏提示词，开源且可私有化部署。",
+        "url": "https://github.com/f/prompts.chat",
+        "language": "HTML",
+        "topics": [
+          "ai",
+          "artificial-intelligence",
+          "awesome-list",
+          "chatgpt",
+          "chatgpt-prompts",
+          "claude",
+          "gemini",
+          "gpt",
+          "gpt-4",
+          "llm",
+          "machine-learning",
+          "nextjs",
+          "open-source",
+          "openai",
+          "prompt-engineering",
+          "prompts",
+          "prompts-chat",
+          "typescript"
+        ]
+      },
+      {
+        "name": "rasbt/LLMs-from-scratch",
+        "stars": "89358",
+        "description": "用 PyTorch 从零逐步实现类 ChatGPT 大模型的教学项目。",
+        "url": "https://github.com/rasbt/LLMs-from-scratch",
+        "language": "Jupyter Notebook",
+        "topics": [
+          "ai",
+          "artificial-intelligence",
+          "chatbot",
+          "chatgpt",
+          "deep-learning",
+          "from-scratch",
+          "generative-ai",
+          "gpt",
+          "language-model",
+          "large-language-models",
+          "llm",
+          "machine-learning",
+          "neural-networks",
+          "python",
+          "pytorch",
+          "transformers"
+        ]
+      },
+      {
+        "name": "hacksider/Deep-Live-Cam",
+        "stars": "83089",
+        "description": "仅用一张图片即可进行实时换脸与一键视频深度伪造。",
+        "url": "https://github.com/hacksider/Deep-Live-Cam",
         "language": "Python",
         "topics": [
           "ai",
-          "ai-agent",
-          "ai-agents",
-          "anthropic",
+          "ai-deep-fake",
+          "ai-face",
+          "ai-webcam",
+          "artificial-intelligence",
+          "deep-fake",
+          "deepfake",
+          "deepfake-webcam",
+          "faceswap",
+          "fake-webcam",
+          "gan",
+          "real-time-deepfake",
+          "realtime",
+          "realtime-deepfake",
+          "realtime-face-changer",
+          "video-deepfake",
+          "webcam",
+          "webcamera"
+        ]
+      },
+      {
+        "name": "OpenHands/OpenHands",
+        "stars": "69950",
+        "description": "OpenHands：AI 驱动的软件开发平台。",
+        "url": "https://github.com/OpenHands/OpenHands",
+        "language": "Python",
+        "topics": [
+          "agent",
+          "artificial-intelligence",
           "chatgpt",
+          "claude-ai",
+          "cli",
+          "developer-tools",
+          "gpt",
+          "llm",
+          "openai"
+        ]
+      },
+      {
+        "name": "FlowiseAI/Flowise",
+        "stars": "51159",
+        "description": "可视化构建 AI 代理与工作流的低代码平台。",
+        "url": "https://github.com/FlowiseAI/Flowise",
+        "language": "TypeScript",
+        "topics": [
+          "agentic-ai",
+          "agentic-workflow",
+          "agents",
+          "artificial-intelligence",
+          "chatbot",
+          "chatgpt",
+          "javascript",
+          "langchain",
+          "large-language-models",
+          "low-code",
+          "multiagent-systems",
+          "no-code",
+          "openai",
+          "rag",
+          "react",
+          "typescript",
+          "workflow-automation"
+        ]
+      },
+      {
+        "name": "microsoft/AI-For-Beginners",
+        "stars": "46287",
+        "description": "微软面向初学者的 AI 课程：12 周 24 节课。",
+        "url": "https://github.com/microsoft/AI-For-Beginners",
+        "language": "Jupyter Notebook",
+        "topics": [
+          "ai",
+          "artificial-intelligence",
+          "cnn",
+          "computer-vision",
+          "deep-learning",
+          "gan",
+          "machine-learning",
+          "microsoft-for-beginners",
+          "nlp",
+          "rnn"
+        ]
+      },
+      {
+        "name": "jingyaogong/minimind",
+        "stars": "44213",
+        "description": "2 小时从零训练 64M 参数 GPT 的轻量大模型实践项目。",
+        "url": "https://github.com/jingyaogong/minimind",
+        "language": "Python",
+        "topics": [
+          "artificial-intelligence",
+          "large-language-model"
+        ]
+      },
+      {
+        "name": "Kong/kong",
+        "stars": "43056",
+        "description": "Kong API 与 AI 网关，支持 AI/LLM 接入与流量治理。",
+        "url": "https://github.com/Kong/kong",
+        "language": "Lua",
+        "topics": [
+          "ai",
+          "ai-gateway",
+          "api-gateway",
+          "api-management",
+          "apis",
+          "artificial-intelligence",
+          "cloud-native",
+          "devops",
+          "kubernetes",
+          "kubernetes-ingress",
+          "kubernetes-ingress-controller",
+          "llm-gateway",
+          "llm-ops",
+          "mcp",
+          "mcp-gateway",
+          "microservice",
+          "microservices",
+          "openai-proxy",
+          "reverse-proxy",
+          "serverless"
+        ]
+      },
+      {
+        "name": "thedotmack/claude-mem",
+        "stars": "41593",
+        "description": "Claude Code 插件：自动记录会话、AI 压缩并在后续编码时注入相关上下文记忆。",
+        "url": "https://github.com/thedotmack/claude-mem",
+        "language": "TypeScript",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-memory",
+          "anthropic",
+          "artificial-intelligence",
+          "chromadb",
           "claude",
+          "claude-agent-sdk",
+          "claude-agents",
           "claude-code",
-          "clawdbot"
+          "claude-code-plugin",
+          "claude-skills",
+          "embeddings",
+          "long-term-memory",
+          "mem0",
+          "memory-engine",
+          "openmemory",
+          "rag",
+          "sqlite",
+          "supermemory"
         ]
       }
     ]
