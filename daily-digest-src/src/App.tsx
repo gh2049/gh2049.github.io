@@ -137,7 +137,7 @@ function App() {
           }
         </div>
         <div>
-          <h2 className="editorial-heading text-3xl m-0 uppercase border-b-[3px] border-text pb-2 mb-4 flex justify-between items-baseline">
+          <h2 className="editorial-heading text-3xl m-0 uppercase border-b-[3px] border-text pb-2 mb-4 flex justify-between items-end">
             <span>Hacker News</span>
             <span className="font-mono text-[10px] font-normal tracking-widest text-muted">{data?.source?.dailySources?.usedDate || data?.date || '--'}</span>
           </h2>

@@ -33,6 +33,26 @@
     /* For repositories / dense data lists */
     @apply border-b border-line py-3 flex flex-col justify-between transition-colors duration-200 hover:bg-bg-soft/70 px-2;
   }
+  .newspaper-hn-card {
+    @apply py-3 px-0.5 transition-colors duration-200;
+  }
+  .newspaper-hn-card .hn-title-link {
+    text-decoration-line: none;
+    text-decoration-thickness: 0.08em;
+    text-underline-offset: 0.2em;
+    text-decoration-skip-ink: auto;
+  }
+  .newspaper-hn-card .hn-title-link:hover {
+    text-decoration-line: underline;
+  }
+  .newspaper-hn-card .hn-meta-link {
+    text-decoration-line: none;
+    text-underline-offset: 0.22em;
+    text-decoration-thickness: 0.08em;
+  }
+  .newspaper-hn-card .hn-meta-link:hover {
+    text-decoration-line: underline;
+  }
   .editorial-button {
     @apply border-2 border-text text-text font-mono text-xs uppercase tracking-[0.1em] px-4 py-2 transition-all duration-300 hover:bg-text hover:text-bg disabled:opacity-30 disabled:hover:bg-transparent disabled:hover:text-text cursor-pointer;
   }
