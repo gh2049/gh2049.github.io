@@ -11,6 +11,10 @@ node_modules
 dist
 dist-ssr
 *.local
+daily-digest/index.html
+daily-digest/assets/
+daily-digest/favicon.svg
+daily-digest/icons.svg
 
 # Editor directories and files
 .vscode/*
