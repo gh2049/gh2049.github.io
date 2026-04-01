@@ -1,7 +1,7 @@
 {
   "version": 1,
   "date": "2026-04-01",
-  "generatedAt": "2026-04-01T02:02:19.875Z",
+  "generatedAt": "2026-04-01T03:01:46.031Z",
   "source": {
     "dailySources": {
       "usedDate": "2026-04-01",
@@ -9,20 +9,12 @@
     }
   },
   "stats": {
-    "news": 12,
+    "news": 50,
     "hackerNews": 10,
     "githubGeneral": 10,
     "githubAi": 10
   },
   "news": [
-    {
-      "category": "国际秩序",
-      "title": "巴基斯坦外长突访北京，中巴如何“劝和促谈”？三维度看中国的思考",
-      "summary": "巴基斯坦外长突访北京，中巴如何“劝和促谈”？三维度看中国的思考 &nbsp;&nbsp; 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ocmRueUkwR3M3LUJraXBoWjNmUkVGVmV6WnpxTk9rbmI0S1d0b29zV2xublVUR1pKYVZTYWNaSGVGMjA4a1BiQ1VsOG8?oc=5",
-      "source": "凤凰网",
-      "time": "Tue, 31 Mar 2026 08:24:00 GMT"
-    },
     {
       "category": "国际秩序",
       "title": "地缘冲突下欧洲电价涨三倍，中国新能源转型之路这么走｜聚焦中关村论坛",
@@ -33,43 +25,211 @@
     },
     {
       "category": "国际秩序",
-      "title": "2026台灣大會：剖析川普新政下的美中台戰略新局",
-      "summary": "2026台灣大會：剖析川普新政下的美中台戰略新局 &nbsp;&nbsp; 大紀元",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0WHFQaDVseHdwMG9ZMWdQamxKMHRRejdhSU5VSGtndmZ6dU55VllBQWo2QzN2M2FsZnlqYTlPd29LWHhteTQ2UllZM0RIZ05qbFFYVVhzWVNLQlhiQzhSTkRVLWpNUdIBZkFVX3lxTFB0WHFQaDVseHdwMG9ZMWdQamxKMHRRejdhSU5VSGtndmZ6dU55VllBQWo2QzN2M2FsZnlqYTlPd29LWHhteTQ2UllZM0RIZ05qbFFYVVhzWVNLQlhiQzhSTkRVLWpNUQ?oc=5",
-      "source": "大紀元",
-      "time": "Tue, 31 Mar 2026 15:50:00 GMT"
+      "title": "加拿大政治家和社会活动家斯蒂芬·刘易斯去世，享年 88 岁",
+      "summary": "刘易斯是阿维·刘易斯的父亲，阿维·刘易斯在父亲去世前一天当选为进步的新民主党领导人。 加拿大外交官、政治家和人权倡导者斯蒂芬·刘易斯几十年来孜孜不倦地致力于让全球关注艾滋病毒/艾滋病流行病，如今他因癌症去世。刘易斯曾担任加拿大驻联合国大使，以及安大略省新民主党（NDP）党魁，现年 88 岁。继续阅读...",
+      "url": "https://www.theguardian.com/world/2026/apr/01/stephen-lewis-canadian-politician-and-social-activist-dies-aged-88",
+      "source": "The Guardian",
+      "time": "Wed, 01 Apr 2026 01:31:04 GMT"
     },
     {
       "category": "国际秩序",
-      "title": "惊险守关！非美与黄金为何集体沉默？美元惨遭自身“背刺”",
-      "summary": "惊险守关！非美与黄金为何集体沉默？美元惨遭自身“背刺” &nbsp;&nbsp; news.fx678.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNSDRGZEtBdFFuUTJLYnE2ZnlzdjliTXh4b25PODgyRWtYTmlET2d1UTNwUVFzeG8yTlZJWktfbUIzVWxpX3F6ekdwNk1Rb21GY0tRUXZvcFc0Ync?oc=5",
-      "source": "news.fx678.com",
-      "time": "Tue, 31 Mar 2026 13:47:00 GMT"
+      "title": "“上帝小队”放弃濒危物种法，允许美国在墨西哥湾钻探",
+      "summary": "批评者称，对化石燃料的豁免利用了白宫“自制的天然气危机”，可能会毁灭稀有的赖斯鲸。濒危物种委员会——三十多年来没有召开会议——应国防部长皮特·赫格斯的要求，投票批准了欧空局豁免的请求。继续阅读...",
+      "url": "https://www.theguardian.com/us-news/2026/mar/31/gulf-of-mexico-drilling-endangered-species",
+      "source": "The Guardian",
+      "time": "Tue, 31 Mar 2026 15:26:49 GMT"
+    },
+    {
+      "category": "国际秩序",
+      "title": "日本首次允许离婚夫妇就子女共同监护权进行协商",
+      "summary": "新规定是一个多世纪以来日本监管子女抚养法的首次重大修改。日本的离婚夫妇将从周三开始就子女的共同监护权进行谈判，这是一个多世纪以来日本监管子女抚养法的首次重大修改。此前，日本《民法典》要求夫妻在离婚时决定由哪一方监护孩子。继续阅读...",
+      "url": "https://www.theguardian.com/world/2026/apr/01/japan-allows-divorced-couples-to-negotiate-joint-custody-of-children-for-first-time",
+      "source": "The Guardian",
+      "time": "Tue, 31 Mar 2026 23:00:32 GMT"
+    },
+    {
+      "category": "国际秩序",
+      "title": "巴基斯坦和中国提出中东和平计划五部分",
+      "summary": "巴基斯坦外交部长伊沙克·达尔和王毅在北京会面，巴基斯坦推动和平缔造者的角色中东危机——实时更新巴基斯坦外交部长周二飞往北京寻求中国支持该国为结束战争而摇摇欲坠的谈判努力，之后巴基斯坦和中国发布了一份由五部分组成的中东和平联合提案。伊沙克·达尔与中国外长王毅进行为期一天的会晤之际，巴基斯坦仍在继续推动美国和伊朗之间的和平缔造者角色，尽管战争几乎没有缓和的迹象。继续阅读...",
+      "url": "https://www.theguardian.com/world/2026/mar/31/pakistan-china-propose-five-part-peace-plan-middle-east",
+      "source": "The Guardian",
+      "time": "Tue, 31 Mar 2026 15:30:15 GMT"
+    },
+    {
+      "category": "国际秩序",
+      "title": "“空气中弥漫着音乐的地方”：曼谷将举办欧洲歌唱大赛首届亚洲歌曲大赛",
+      "summary": "衍生节目在 10 个国家推出，原活动仍因以色列参与而陷入抗议和抵制之中 欧洲歌唱大赛正寻求通过今年在曼谷举办的歌曲比赛来拓展亚洲市场，而原年度活动在其 70 周年纪念日前夕也受到不和谐和抵制的打击。总部位于瑞士的组织周二宣布，首届亚洲欧洲歌唱大赛的总决赛将于 11 月 14 日星期六在泰国首都举行。来自 10 个国家的广播公司已确认参加。继续阅读...",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/mar/31/eurovision-song-contest-expands-into-asia",
+      "source": "The Guardian",
+      "time": "Tue, 31 Mar 2026 12:33:58 GMT"
+    },
+    {
+      "category": "国际秩序",
+      "title": "人权组织称，美国持不同政见艺术家因讽刺毛泽东雕塑而在中国受审",
+      "summary": "居住在纽约的高震于 2024 年与家人探访中国时被拘留，随后因“诽谤民族英雄”而受审 中国异见艺术家高震因创作中国前领导人毛泽东的讽刺雕塑而闻名，他的妻子和一个人权组织表示，他因被控“诽谤民族英雄和烈士”而受到审判。高先生现年 69 岁，于 2024 年从美国访问中国期间被拘留，他的妻子赵亚良和中国人权捍卫者组织研究员谢恩·易 (Shane Yi) 表示，他面临最高三年的监禁。继续阅读...",
+      "url": "https://www.theguardian.com/world/2026/mar/31/dissident-artist-gao-zhen-tried-china-satirical-mao-sculptures-rights-group",
+      "source": "The Guardian",
+      "time": "Tue, 31 Mar 2026 11:45:37 GMT"
+    },
+    {
+      "category": "国际秩序",
+      "title": "特朗普签署了一项新的投票行政命令。专家称他缺乏权威",
+      "summary": "特朗普的行政命令旨在创建有资格在每个州投票的美国公民名单，并指示美国邮政服务仅向经过验证的选民发送邮寄​​选票。",
+      "url": "https://www.npr.org/2026/03/31/nx-s1-5508948/trump-voter-list-mail-ballots-executive-order",
+      "source": "NPR",
+      "time": "Tue, 31 Mar 2026 17:54:12 -0400"
+    },
+    {
+      "category": "国际秩序",
+      "title": "法官裁定白宫舞厅施工必须停止，直到国会同意为止",
+      "summary": "特朗普对这一裁决作出回应，抱怨国家历史保护信托基金不欣赏他为“美化”华盛顿建筑所做的努力。",
+      "url": "https://www.npr.org/2026/03/31/nx-s1-5768446/judge-rules-white-house-ballroom-construction-must-halt-until-congress-oks-it",
+      "source": "NPR",
+      "time": "Tue, 31 Mar 2026 15:59:27 -0400"
+    },
+    {
+      "category": "国际秩序",
+      "title": "在预选赛中被误导的选手仍将获得世界锦标赛的邀请",
+      "summary": "美国将把参加女子半程马拉松锦标赛的参赛队伍增加近一倍，以解决官方所说的前所未有的问题：一辆官方车辆将领先选手带离赛道。",
+      "url": "https://www.npr.org/2026/03/31/nx-s1-5768102/atlanta-half-marathon-usatf-world-athletics-championship",
+      "source": "NPR",
+      "time": "Tue, 31 Mar 2026 15:47:00 -0400"
     },
     {
       "category": "财经",
-      "title": "中东冲突后金融市场定价逻辑的变化",
-      "summary": "中东冲突后金融市场定价逻辑的变化 &nbsp;&nbsp; 财新",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aY2hMaGYxRFMwX25FVDFNNUxxdXZoSHY3aGljWHlsYWd2MC1sR2VDZUh2bGUtMy11Nmk3eUx2TFhvSDJTcTQ1RjhPaFR4bWUwczRyVVN6cjg5THNYRmVxdnl3?oc=5",
+      "title": "香港首批合规稳定币牌照推迟落地 金管局：正全力推进",
+      "summary": "香港首批合规稳定币牌照推迟落地 金管局：正全力推进 &nbsp;&nbsp; 财新",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TZ1Zxak1lR0t6ZGhqNkc1Z0szR1ROOG03ZDN3Q25VTElURnF2dENkZWVtbzBGRmpIU0l2N0FJaGl5SklXck9JaDExWGRJRkJJOFBkSGRxRDVDYzM4bHBnLTln?oc=5",
       "source": "财新网",
-      "time": "Tue, 31 Mar 2026 02:20:00 GMT"
+      "time": "Tue, 31 Mar 2026 12:28:00 GMT"
     },
     {
       "category": "财经",
-      "title": "财经早知道｜油价上涨引发乘数效应，中东战火烧向纺织品饮料",
-      "summary": "财经早知道｜油价上涨引发乘数效应，中东战火烧向纺织品饮料 &nbsp;&nbsp; 财新",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TWlgtc2w2a0Q3SlZmdENqV0hYS0ptTXhPelF3c0NPUzh2V1JLTENEZ1M5S3R5LVB1Mms0SFFsd2VyS3doc3BQS05INzdXdTJvbzZ6RWNHcU1ValJfbXZxZXNR?oc=5",
+      "title": "浙商银行2025年净利润下降14.85% 非息收入大幅下降拖累营收",
+      "summary": "浙商银行2025年净利润下降14.85% 非息收入大幅下降拖累营收 &nbsp;&nbsp; 财新",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kYjE3bTN1SjVaRUhmRlhJdGMwSHVndUV5blRQRGg4SEZrSW1NbmNXRzR4WkFkTlZfMjdjeU8tQzZYYVNhNmZTanl5Q1YyX05FcXBtTE9VU29TYzJEejZZTUJB?oc=5",
       "source": "财新网",
-      "time": "Mon, 30 Mar 2026 22:51:00 GMT"
+      "time": "Tue, 31 Mar 2026 06:44:00 GMT"
     },
     {
       "category": "财经",
-      "title": "4 美元的汽油价格加剧了人们对通货膨胀和经济衰退的担忧 - Barrons.com",
-      "summary": "4 美元的汽油价格加剧了人们对通货膨胀和经济衰退的担忧 -- Barrons.com    moomoo.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQmcyeFRZYW42WFo5bDhidVY4OGZqN3NQT2d3VjdlaXFTODBETFhMVG1sdldOYlV4VjJnY3E1TmJCTXpPSldVX29NYVhEaFJWQkMwbFFnMEc2YndZekNkVFpIZWZWMnFINkJrU0hTUVRfX1lVcXcwalhpd0RjWnlwd0cyLXRRVGx1VjRMeXpnMkdibTRJdHlDcVN6QWtHZw?oc=5",
-      "source": "moomoo.com",
-      "time": "Tue, 31 Mar 2026 14:59:11 GMT"
+      "title": "今日开盘：两市双双高开 沪指涨幅1.23%",
+      "summary": "今日开盘：两市双双高开 沪指涨幅1.23% &nbsp;&nbsp; 财新",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jVHdtamxPZkUtZVV1cEZ6UWZlMzA2c3U5VGtIdXBNU3RQa2ZiS0lIQkdveERsN1VnNWJjREstOHNoWkJxTlhFblA3VXF0LWRkUDE3aEkxN1RSRWRYMU1LUHNn?oc=5",
+      "source": "财新网",
+      "time": "Wed, 01 Apr 2026 01:29:00 GMT"
+    },
+    {
+      "category": "财经",
+      "title": "浦发银行2025年归母净利润同比增超10% 注重长三角区域策略",
+      "summary": "浦发银行2025年归母净利润同比增超10% 注重长三角区域策略 &nbsp;&nbsp; 财新",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1ZlZBbWdVWENETmEzcmNtZFJKQ29NOGpsb1lBLVB0bnVRemNVSEhwTUdGT3QzQld6Ul8wZFlFZkdURWo0Zm9ySFlvYVhPdTNyVnBUemw0eGt5c3VnT18yS0VR?oc=5",
+      "source": "财新网",
+      "time": "Wed, 01 Apr 2026 02:33:00 GMT"
+    },
+    {
+      "category": "财经",
+      "title": "贺青升任上海副市长 曾主推国君与海通“世纪大联姻”",
+      "summary": "贺青升任上海副市长 曾主推国君与海通“世纪大联姻” &nbsp;&nbsp; 财新",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGa1E0VmhHSDJ2S0VjNzJjMk9lUDRJY2xTUWhCSDdxMGlPeE5WMkFQS3Z6VE1oMWlwNnFFUmwwVUxoNGJWd0JBNXpDLWloejlCM3JnUllMbFpWRnhCUDF5Ynd3?oc=5",
+      "source": "财新网",
+      "time": "Tue, 31 Mar 2026 13:07:00 GMT"
+    },
+    {
+      "category": "财经",
+      "title": "2025年民生银行营业收入转为正增长 不良贷款“双升”",
+      "summary": "2025年民生银行营业收入转为正增长 不良贷款“双升” &nbsp;&nbsp; 财新",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zWlYtN2pScEVYcVVaci1EakFUTHEtVklPNmt4MTFhemh2VkxxT3JmaHFrUDVnNDFjOHdPT2huRzRPSUF2OGRTV2V5Y2QxcWU4eVFFRjh3SFBhQVA5VXNzcHhn?oc=5",
+      "source": "财新网",
+      "time": "Tue, 31 Mar 2026 06:54:00 GMT"
+    },
+    {
+      "category": "财经",
+      "title": "央行：规范信贷市场经营行为 降低融资中间费用",
+      "summary": "央行：规范信贷市场经营行为 降低融资中间费用 &nbsp;&nbsp; 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZWF3OElEaGpMZzNMbjZycTBVLS1faTdjUWxSSE9zblNDb0tpWVVrM1g2WnBUQnRXc2prVThFRG5neGV1T2VSUnRON1FsTFRFTkJlaUpqMjl3UzFZQ18wcTJId3hVOG93VG1kUlNXUTZxd0JGck1kOHFXdUJmWkN2ZHBLUlA0b3JPNnRZUm5TajdPLWtIbkRfbQ?oc=5",
+      "source": "新浪财经",
+      "time": "Wed, 01 Apr 2026 00:38:19 GMT"
+    },
+    {
+      "category": "财经",
+      "title": "南方财经全媒体集团",
+      "summary": "南方财经全媒体集团 &nbsp;&nbsp; 南方财经",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VNGtYZzJFWUNaZDRRVUQ4bWVGQjBUb2FORVpoUVRDV0gxVnV3eWZ5eHRPVXVCaEg5YUkyOVd0Vk9FVjJWTkQxQk5oa0E0Y3MxMURmdUtCMy1hRzZWSl91Y3Fsd29kUQ?oc=5",
+      "source": "南方财经",
+      "time": "Tue, 31 Mar 2026 12:52:35 GMT"
+    },
+    {
+      "category": "财经",
+      "title": "【新华解读】3月PMI重回扩张区间 多因素支撑经济景气水平回升",
+      "summary": "【新华解读】3月PMI重回扩张区间 多因素支撑经济景气水平回升 &nbsp;&nbsp; 中国金融信息网",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02VE03V1J2MVV5ZVNuYmtPVG85Qkl0NHliLTNOQTVWOTRvM2wyWDVncU1NLUlTVHZIUmJ5WWpreE9kWEZ1Ymo5T1BPR0tMbTd1U2M2QnhzenRfZkx5YVdQTU9scFk0TEE?oc=5",
+      "source": "中国金融信息网",
+      "time": "Tue, 31 Mar 2026 11:29:00 GMT"
+    },
+    {
+      "category": "财经",
+      "title": "浙商研究26Q2策略｜宏观：全球能源告急，中国逆风破局",
+      "summary": "浙商研究26Q2策略｜宏观：全球能源告急，中国逆风破局 &nbsp;&nbsp; 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wUTg5RzJDUUx5OTQ0NENzWVFuZjNXaTh3OTZ4SHpTMzZZUk1wR0N6T084U3JEOTM4TDFIMk11NG5kOEVucFZwVm1VVEs3OFV4Qzc1eVQ5UHd2cTBYSm9ibmR4MGdSQXIwRTlsVC1Oc296enNkb3c?oc=5",
+      "source": "新浪财经",
+      "time": "Tue, 31 Mar 2026 15:54:00 GMT"
+    },
+    {
+      "category": "财经",
+      "title": "中国经济再现回暖信号，三大指数重返扩张区间",
+      "summary": "中国经济再现回暖信号，三大指数重返扩张区间 &nbsp;&nbsp; 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBteGNzN3dZM1lvRV91NklQOEtEaFpEZks3VWZiYWNMRllfcnBEVlFJaFkwdjZvNS1JbVpCSzVIenc1ajVtb083UjlocW1nN3VEWGpVb2FWZkV6czI0SGkxWEh3NFFBOGM4TE1ZS1dYQnRtOWF5WWdvVA?oc=5",
+      "source": "新浪财经",
+      "time": "Tue, 31 Mar 2026 15:06:47 GMT"
+    },
+    {
+      "category": "财经",
+      "title": "【环球财经】非洲开发银行：全球增长最快经济体中非洲占多数",
+      "summary": "【环球财经】非洲开发银行：全球增长最快经济体中非洲占多数 &nbsp;&nbsp; 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeGFMUTJ6M2h2a1hjMy1WdzVDNXMxd1dCcUltX0lUaGxnQmhURE9HeHZ5dUJjTEwtT3h2U3UyUFNtTUlCS0JOdWkyVWVoOU1rVmcwNnM3Ym5xVWo2OWgyVXJuM1RKOF9tb19KSHZhNnFBOXo4bVhlMUcxMXMtRVJ5Qg?oc=5",
+      "source": "新浪财经",
+      "time": "Tue, 31 Mar 2026 13:15:00 GMT"
+    },
+    {
+      "category": "财经",
+      "title": "白宫表示，特朗普周三晚上将就伊朗战争向全国发表讲话",
+      "summary": "唐纳德·特朗普总统表示，他预计美国军队将在“两到三周”内撤离伊朗。",
+      "url": "https://www.cnbc.com/2026/03/31/trump-iran-war.html",
+      "source": "CNBC",
+      "time": "Wed, 01 Apr 2026 00:12:49 GMT"
+    },
+    {
+      "category": "财经",
+      "title": "微软因人工智能担忧而结束华尔街自 2008 年以来最糟糕的季度：“雷蒙德陷入困境”",
+      "summary": "随着微软今年市值损失近四分之一，投资者已将该公司的市盈率重置为 2022 年底以来的最低水平。",
+      "url": "https://www.cnbc.com/2026/03/31/microsofts-stock-closes-worst-quarter-since-2008-financial-crisis.html",
+      "source": "CNBC",
+      "time": "Tue, 31 Mar 2026 22:06:16 GMT"
+    },
+    {
+      "category": "财经",
+      "title": "NFL 批准以超过 110 亿美元的估值出售拉斯维加斯突袭者队 7% 的股份",
+      "summary": "美国国家橄榄球联盟已批准以超过 110 亿美元的估值出售拉斯维加斯突袭者队 7% 的股份。",
+      "url": "https://www.cnbc.com/2026/03/31/nfl-approves-sale-of-7percent-of-las-vegas-raiders-at-over-11-billion-valuation.html",
+      "source": "CNBC",
+      "time": "Tue, 31 Mar 2026 22:41:23 GMT"
+    },
+    {
+      "category": "财经",
+      "title": "特朗普暗示在能源中断的情况下退出伊朗战争，油价在创纪录的月度上涨后扩大涨幅",
+      "summary": "由于交易员权衡波斯湾袭击升级以及唐纳德·特朗普总统正在考虑退出伊朗冲突的迹象，原油价格扩大涨幅。",
+      "url": "https://www.cnbc.com/2026/04/01/oil-prices-today-brent-wti.html",
+      "source": "CNBC",
+      "time": "Wed, 01 Apr 2026 02:38:10 GMT"
+    },
+    {
+      "category": "财经",
+      "title": "特朗普称伊朗战争可能在几周内结束，韩国综合股价指数引领亚洲市场反弹",
+      "summary": "周二，特朗普在美国国内表示，美国可能会在“两到三周”内离开伊朗，并补充说“我们离开是因为我们没有理由这样做”。",
+      "url": "https://www.cnbc.com/2026/04/01/asia-markets-live-today-nikkei-kospi-boj-tankan-iran-war.html",
+      "source": "CNBC",
+      "time": "Wed, 01 Apr 2026 02:52:01 GMT"
     },
     {
       "category": "体育",
@@ -88,20 +248,92 @@
       "time": "Tue, 31 Mar 2026 21:18:53 EST"
     },
     {
-      "category": "国内国际民生",
-      "title": "美联储缩表预期升温叠加2026年降息路径展望，市场重新定价政策周期与流动性环境",
-      "summary": "美联储缩表预期升温叠加2026年降息路径展望，市场重新定价政策周期与流动性环境 &nbsp;&nbsp; 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbnpQbWcyb2VLRXg1UEJQN0doNjAwc2daTHJ6ZjNyVmo5d3Y0bUxwQnpNaFdjdHk1QTZTY2FXWkVjZ2tpNVN2VmhacnRtYTVtQWk0TkVrM2Nvc3U0SVJ1VUNXaElZRDJpQmdLQm03OVIxM0NyTkdmVVhHcWNTQkgydXIta0xUb005c3B2d0U3TTBfY1A4RVpOakRlMEY2YkNhbWtKeXl5dlplenhybHE1YnZsSW92eVBEQkxBaEZ5Wklfa1hNM2pJSWRGdVIyWXB2alVpM0FMblg0dnU5T3c?oc=5",
-      "source": "新浪财经",
-      "time": "Tue, 31 Mar 2026 07:18:00 GMT"
+      "category": "体育",
+      "title": "古德尔在诉讼威胁中支持鲁尼规则",
+      "summary": "NFL 专员罗杰·古德尔表示，他最近受到佛罗里达州总检察长威胁，如果不取消鲁尼规则，可能会提起民事诉讼，他认为鲁尼规则“符合”招聘法。",
+      "url": "https://www.espn.com/nfl/story/_/id/48362846/goodell-backs-rooney-rule-says-diversity-benefit-nfl",
+      "source": "ESPN",
+      "time": "Tue, 31 Mar 2026 21:18:53 EST"
+    },
+    {
+      "category": "体育",
+      "title": "意大利因点球大战连续第三次无缘世界杯",
+      "summary": "周二在泽尼察举行的点球大战中，意大利队输给了波斯尼亚和黑塞哥维那，从而连续第三次无缘世界杯。",
+      "url": "https://www.espn.com/soccer/story/_/id/48359181/italy-miss-3rd-straight-world-cup-loss-bosnia",
+      "source": "ESPN",
+      "time": "Tue, 31 Mar 2026 21:18:54 EST"
+    },
+    {
+      "category": "体育",
+      "title": "NFL 老板同意两项重大重播更改",
+      "summary": "NFL 老板周二批准了一项应急计划，在与 NFL 裁判协会就 CBA 进行谈判的同时，在停工的情况下集中裁判。",
+      "url": "https://www.espn.com/nfl/story/_/id/48358865/plan-assist-replacement-refs-five-approved-nfl-rules",
+      "source": "ESPN",
+      "time": "Tue, 31 Mar 2026 21:18:54 EST"
+    },
+    {
+      "category": "体育",
+      "title": "赫尔利：我以为裁判想要“撞胸”",
+      "summary": "康涅狄格大学主教练丹·赫尔利（Dan Hurley）淡化了周日 NCAA 锦标赛战胜杜克大学后与裁判的奇怪互动，称他认为裁判想要“拍拍我的胸部来庆祝”。",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/48359957/dan-hurley-thought-ncaa-tournament-ref-was-looking-chest-bump",
+      "source": "ESPN",
+      "time": "Tue, 31 Mar 2026 21:18:54 EST"
+    },
+    {
+      "category": "体育",
+      "title": "伍兹在车祸后“离开并寻求治疗”",
+      "summary": "泰格·伍兹表示，在车祸被捕后，他将“暂时离开一段时间以寻求治疗并关注自己的健康”。",
+      "url": "https://www.bbc.com/sport/golf/articles/c87wjj424vro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "time": "Tue, 31 Mar 2026 23:44:19 GMT"
+    },
+    {
+      "category": "体育",
+      "title": "实验失败，英格兰队在没有凯恩的情况下看到了严峻的生活",
+      "summary": "首席足球作家菲尔·麦克纳尔蒂表示，英格兰队世界杯的希望寄托在队长哈里·凯恩身上，因为在温布利球场输给日本队的比赛中，英格兰队经历了没有他的严峻生活。",
+      "url": "https://www.bbc.com/sport/football/articles/c070185ygpno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "time": "Tue, 31 Mar 2026 22:42:16 GMT"
     },
     {
       "category": "国内国际民生",
-      "title": "以“两个全面发展”筑牢中国式现代化人权根基",
-      "summary": "以“两个全面发展”筑牢中国式现代化人权根基 &nbsp;&nbsp; 人民日报",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lUzFfdXNZOHRZWFFQRXQ5Nm1peUtBalo1NnJDUkhMbHZ5MWxxMGhDanpOV2ZGYjQ2QUhycDJwZl8zamhCU0NlRmtBWEhYN0YzZWZ4cVBfNXRLZ3JWTjBScG1QUWlqaFJKV0VoUVFYUmREeEpzMzNRU2JXdnVYR0U?oc=5",
-      "source": "人民日报",
-      "time": "Tue, 31 Mar 2026 02:21:13 GMT"
+      "title": "央行重磅会议！事关下阶段货币政策思路",
+      "summary": "央行重磅会议！事关下阶段货币政策思路 &nbsp;&nbsp; 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4S2R4SHNvbm5BM0V4V2k5dnBOamd4dGNlMHFQeS1RY0YtbmlhbmI0VmhGRG04UEVMQWNlV1NNd1laREVxSGU0LWRTMEROdlRlX3RCQmhzcGNNTWQtZmF3LTlsa3QxTEl2ZVMyN2loWi1LRUNzUGc?oc=5",
+      "source": "新浪财经",
+      "time": "Tue, 31 Mar 2026 09:58:00 GMT"
+    },
+    {
+      "category": "国内国际民生",
+      "title": "北京市规划和自然资源委员会北京市住房和城乡建设委员会北京市国防动员办公室关于印发《北京市房屋建筑工程施工图事后检查要点（2026年3月局部修订版）》的通知_其他文件",
+      "summary": "北京市规划和自然资源委员会北京市住房和城乡建设委员会北京市国防动员办公室关于印发《北京市房屋建筑工程施工图事后检查要点（2026年3月局部修订版）》的通知_其他文件 &nbsp;&nbsp; 北京市规划和自然资源委员会",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTlJWZGhzRmh3WG5ja2t3dHhnNXBMQ1R1bHp0Mi0xOXNaZkJnUFF4ZTFXVzFGZHgtQ2tPMTlSUTVjY0JZQVdGQlhQMkQwb1RqeGxPQjJrYnQzdGd4Z2JlR3JELTBDUVU5OG1CbGFNbnpUMWNRMUt2dThyRlNIeGV2T0JRb3dRSWw5czFJ?oc=5",
+      "source": "北京市规划和自然资源委员会",
+      "time": "Tue, 31 Mar 2026 04:32:45 GMT"
+    },
+    {
+      "category": "国内国际民生",
+      "title": "北京市司法局召开2025年行政复议和行政应诉工作白皮书暨北京市“复议护企”十大典型案例新闻发布会",
+      "summary": "北京市司法局召开2025年行政复议和行政应诉工作白皮书暨北京市“复议护企”十大典型案例新闻发布会 &nbsp;&nbsp; 北京司法局",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sWG14UHZkejlvX2l5dmhyTXh1LTZ5WFpWTFFHX1hKakhtTXIyZV82azNfT0lDc0FHS0ZIdGluaGZpU2V5aUMzakRZOWFyVzRZNFNRc1Z5N3BhbTlrOGV0YjFTOFBCaDhUaTdUZV9NS00yWHc?oc=5",
+      "source": "北京司法局",
+      "time": "Tue, 31 Mar 2026 09:56:30 GMT"
+    },
+    {
+      "category": "国内国际民生",
+      "title": "民生政策 落地有声丨沉浸式体验“家门口养老”的一天",
+      "summary": "民生政策 落地有声丨沉浸式体验“家门口养老”的一天 &nbsp;&nbsp; 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wTUZOUmM2M2d6Q2tJaHNSUzRYdTFJakZsTURzYTBnTWlKUC1SMEUySlFjR2RqbXJQYnQ4cFN2ZGh3cHkzR3ZTQzdVX2FmOTFkNEQ3ZkVxZUl2enZ3YTdWeGMxeGhoQzZBZ2NsSkZtTWxwNUZ2elhDVUdoamZNQQ?oc=5",
+      "source": "新华网",
+      "time": "Tue, 31 Mar 2026 13:04:50 GMT"
+    },
+    {
+      "category": "国内国际民生",
+      "title": "4月7日起兰州住房公积金提取政策优化调整",
+      "summary": "4月7日起兰州住房公积金提取政策优化调整 &nbsp;&nbsp; 人民网",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03VFYwdFQtdFdUY0pnbkVJMTlxREloRGZFMV93dDAteUtxa1NRTGJFYW9sX19EbHFSOVBDZzdLMFVCajZEcEFhekhtYUZpblVpNktKSkZjV2ZHWHJvRUxVMkloWHlyc1pVYlE?oc=5",
+      "source": "人民网",
+      "time": "Wed, 01 Apr 2026 01:22:00 GMT"
     },
     {
       "category": "国内国际民生",
@@ -110,140 +342,212 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KaXlPcFd0OTBhSFNBRWNmLWoyY0t6c2VOMk12SkFvQWswdC1ZQ0dNQm4wN2xhS1BROTg3bFZhQ3d3dUtnbkxtUEE4VEpQbVNva25IT2s5cWtjVUNqVzJkYnFRMVByZG13?oc=5",
       "source": "chinanews.com.cn",
       "time": "Tue, 31 Mar 2026 09:12:37 GMT"
+    },
+    {
+      "category": "国内国际民生",
+      "title": "北京市科学技术委员会、中关村科技园区管理委员会关于发布2026年新兴领域融合科技创新（城市科技与精细化管理）“揭榜挂帅”项目指南的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会",
+      "summary": "北京市科学技术委员会、中关村科技园区管理委员会关于发布2026年新兴领域融合科技创新（城市科技与精细化管理）“揭榜挂帅”项目指南的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会 &nbsp;&nbsp; 北京市科学技术委员会",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90WVFJOGFBVXV5U19MTm9oakhFb3VwZEh2d1E1ZkpwdEh6WmNZWWE1aC1PZ2I5bldKeGRfVGc1UUJwMl9SVzZNTm5YTlRUWkMyZlJZdHR3YjdYcUlQLVlJbW1kOHBkOWhQVVdqSEdLdDgzLUk?oc=5",
+      "source": "北京市科学技术委员会",
+      "time": "Mon, 30 Mar 2026 09:47:00 GMT"
+    },
+    {
+      "category": "国内国际民生",
+      "title": "提额扩面 多地优化公积金政策",
+      "summary": "提额扩面 多地优化公积金政策 &nbsp;&nbsp; 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRTNtTTVRQ3ltQXRoU3E0OXkydDJLR25EUjVlVFh2RlUwc1E4WkpkblpoZWNKaFY0cTRVQnAtYTByd0VHVFNpMFNBMnV4T1JtZnVTNTFBSXVybVdPZmxOd0ZOU29xZXlHT25vNlRsZzNXYTBDcTU4Mkd4TTlrQkNWUGNRWUk2MUNH?oc=5",
+      "source": "新华网",
+      "time": "Tue, 31 Mar 2026 02:11:49 GMT"
+    },
+    {
+      "category": "国内国际民生",
+      "title": "16件超额完成、财政投入超2400亿元！四川2025年30件民生实事最新答卷出炉",
+      "summary": "16件超额完成、财政投入超2400亿元！四川2025年30件民生实事最新答卷出炉 &nbsp;&nbsp; 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wY2d5QkMwMHI4RWpjLTZKVkdlTVhwQ0hudzBzYWVHTGZ4ZW5kcWNxOC00UFV3M296VXB1TXdZSFlLcmFBbTVaU1dJUXh3OFlqaUE?oc=5",
+      "source": "搜狐网",
+      "time": "Tue, 31 Mar 2026 05:04:56 GMT"
+    },
+    {
+      "category": "国内国际民生",
+      "title": "“创赢未来”2026创业大赛雄安新区选拔赛开始报名",
+      "summary": "“创赢未来”2026创业大赛雄安新区选拔赛开始报名 &nbsp;&nbsp; 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11eWUxdi1zRXYtb09uMUotemlDczd6RDdwd1o5ejVZRmZSM1NHbnV5SWxNdHRsaDgzcTQzZm9WT24zRUhHYUZpckppbjNjZw?oc=5",
+      "source": "36kr.com",
+      "time": "Tue, 31 Mar 2026 06:24:13 GMT"
+    },
+    {
+      "category": "国内国际民生",
+      "title": "彭意婷｜香港五年规划，市民真正入局了吗？",
+      "summary": "彭意婷｜香港五年规划，市民真正入局了吗？ &nbsp;&nbsp; 香港01",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQd2tiQTdhOFZ1clJnbUtYRDlWUUhUM3VLLXRTaDVRUm1XTjZnYXd2SS1GTm9MdFpoRnpXbDhieGFpcnJvX3hQT29ZUlNIaVkzVVlWR1NTOHVSM25sd3p3QUljR19BQ0xldEFyOTZteGQtMGgwUThLYWNUOEpBYXRISlhqYzlqTG8zckFHaDJVR1g5MDdia1RQVWNDaWVEMDVpYzV3N3ZQMkI0aU40MXp2MngyeE5zdmhBZm04Zzg4WXlqcVhneGYzd1NVdERZVnFHbGlFakttamlFbGhiaWF0bDlIMHdNRWJnTHlfWWNJV1oyY2I2RXppb0JTV200X1VqSlJxSGEwYkxOT3VGZEl5MlozMWhRTmh0YkYyaXdIZnI5Sk1ta3VuNTBtbUxrYU5kUi1v?oc=5",
+      "source": "香港01",
+      "time": "Tue, 31 Mar 2026 03:00:00 GMT"
+    },
+    {
+      "category": "国内国际民生",
+      "title": "市委举办学习贯彻习近平总书记重要讲话精神暨树立和践行正确政绩观学习教育读书班",
+      "summary": "市委举办学习贯彻习近平总书记重要讲话精神暨树立和践行正确政绩观学习教育读书班 &nbsp;&nbsp; ycnews.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mSnpOWmp0S0ZVQnB0UmdfcFkyeHcwcG1pSW9LXzRPUlBiT0Q5LUs3WU5wRzczby1iUkduR3JPQXlXRjlNcFBIaWFXUkV6Rm0yZ0VJTmJ0SzFHT05kbVF3dg?oc=5",
+      "source": "ycnews.cn",
+      "time": "Tue, 31 Mar 2026 09:38:00 GMT"
+    },
+    {
+      "category": "国内国际民生",
+      "title": "长和︰强烈反对巴拿马裁定 积极果断对巴拿马进行仲裁",
+      "summary": "在巴拿马最高法院裁定，香港长和子公司运营巴拿马运河港口的合同违反宪法后，长和星期三（2月4日）发布公告称，董事会对巴拿马的裁定及相应行动表示强烈反对，并称会积极果断对巴拿马进行仲裁。 长和星期三在官网发布公告称，据旗下的巴拿马港口公司（PPC）理解，巴拿马最高法院的决定可能在今年2月初生效。公告称，PPC已获得意见，指巴拿马最高法院所宣布的决定，以及巴拿马政府就PPC于该两个港口之码头营运所采取的相应行动，与相关法律框架，以及批准该特许经营合约之法律并不一致。 公告续称，PPC在星期二（2月3日）已展开并将根据适用特许经营合约及国际商会之仲裁规则，积极果断对巴拿马进行仲裁。 长和最后在公告中说，董事会对巴拿马的裁定及相应行动表示强烈反对，会继续咨询其法律顾问，并保留一切权利，包括就有关事宜诉诸进一步国内及国际法律程序。 负责香港事务的中国国务院港澳办星期二（2月3日）晚在微信公众号发表署名“港澳平”的评论文章称，中国从来不会屈从于强权政治和霸权主义，有足够的手段和工具、足够的实力和能力维护国际经贸秩序公平公正。巴拿马应当认清形势、迷途知返。如果一意孤行，执迷不悟，“必将在政治上、经济上都付出沉重代价！” 巴拿马高院上星期四（1月29日）裁定，长和子公司运营巴拿马运河港口的特许经营权合同违宪。裁决书称，相关合约存在“过度偏袒”长和的条款。 PPC自1997年起获巴拿马港口的运营合同，并在2021年于上一届巴拿马政府执政期间获续约，为期25年。 关于撤销巴拿马港口公司合约一事，最早由巴拿马审计部门去年提出。审计部门认为特许经营权违宪，并指长和未向巴拿马政府支付12亿美元（约15亿新元）税金。 据法新社报道，巴拿马海事局上星期五（1月30日）宣布，马士基集团旗下港口运营商APM码头公司，将担任位处巴拿马运河两端的巴尔博亚港和克里斯托瓦尔港的“临时管理方”。 长和去年3月公布，以228亿美元向贝莱德等美资组成的财团悉数出售在23个国家营运的43个港口权益，包括巴拿马港口90%股权。 中国据报对此大表不满。美媒去年7月报道，北京表明，除非中国远洋海运集团获得多数股权，否则将阻止交易。",
+      "url": "https://www.zaobao.com/news/china/story20260204-8295674",
+      "source": "联合早报",
+      "time": "Wed, 04 Feb 2026 01:17:18 GMT"
+    },
+    {
+      "category": "国内国际民生",
+      "title": "港澳办：若巴拿马一意孤行 必将在政治经济上都付出沉重代价",
+      "summary": "在巴拿马最高法院裁定，香港长和子公司运营巴拿马运河港口的合同违反宪法后，负责香港事务的中国国务院港澳办发文指出，巴拿马应当认清形势、迷途知返，并警告如果一意孤行，执迷不悟，巴拿马必将在政治和经济上都付出沉重代价。 港澳办星期二（2月3日）晚在微信公众号发表署名“港澳平”的评论文章称，巴拿马最高法院以所谓“违宪”为由，裁决有关香港企业巴拿马运河港口特许经营合约续约无效。有关裁决罔顾事实、背信弃义，严重损害香港企业合法权益，理所当然受到中国政府和香港特区政府的坚决反对。 文章进一步指出，有关企业的港口特许经营权合约乃由双方公平自愿签订，历经巴拿马多届政府和国会认可，现在巴拿马却裁定合约违宪，意味将来同样可以裁定巴拿马任何时期批准的其他特许经营权合约违宪，这向国际投资者释放的信号是，巴拿马实际上无法为投资者提供任何保障。 文章批评此举可谓自毁国家信用，将对巴拿马营商环境和经济发展造成深远损害，并严重破坏国际贸易规则。 文章最后写道，中国从来不会屈从于强权政治和霸权主义，有足够的手段和工具、足够的实力和能力维护国际经贸秩序公平公正。巴拿马应当认清形势、迷途知返。如果一意孤行，执迷不悟，“必将在政治上、经济上都付出沉重代价！” 巴拿马高院上星期四（1月29日）裁定，长和子公司运营巴拿马运河港口的特许经营权合同违宪。裁决书称，相关合约存在“过度偏袒”长和的条款。 长和旗下巴拿马港口公司（PPC）自1997年起获巴拿马港口的运营合同，并在2021年于上一届巴拿马政府执政期间获续约，为期25年。 关于撤销巴拿马港口公司合约一事，最早由巴拿马审计部门去年提出。审计部门认为特许经营权违宪，并指长和未向巴拿马政府支付12亿美元（约15亿新元）税金。 据法新社报道，巴拿马海事局上星期五（1月30日）宣布，马士基集团旗下港口运营商APM码头公司，将担任位处巴拿马运河两端的巴尔博亚港和克里斯托瓦尔港的“临时管理方”。 《华尔街日报》报道，长和将无法对巴拿马高院的裁决提出上诉，但可以要求澄清说明，此举或能推迟长和运营权被正式终止的日期。长和旗下公司暗示，可能将事件提交国际仲裁。",
+      "url": "https://www.zaobao.com/news/china/story20260204-8295417",
+      "source": "联合早报",
+      "time": "Wed, 04 Feb 2026 00:53:45 GMT"
+    },
+    {
+      "category": "国内国际民生",
+      "title": "中央一号文件再提整治农村高额彩礼",
+      "summary": "中共中央一号文件再提整治农村高额彩礼，称要引导树立正确的婚恋观、生育观、家庭观，培育简约文明的婚俗文化。 据新华社， 2026年中央一号文件《中共中央国务院关于锚定农业农村现代化扎实推进乡村全面振兴的意见》星期二（2月3日）发布，这也是中国“十五五”首个中央一号文件。文件提出，持续整治农村高额彩礼，加强省际毗邻地区联动治理。引导树立正确的婚恋观、生育观、家庭观，培育简约文明的婚俗文化。 中国农业农村部农村经济研究中心乡村治理与社会文化研究室副研究员庞静泊说，整治农村高额彩礼，本质上是扭转乡土风俗陋习、推动乡村文化治理，体现出党和国家对培育文明婚俗、涵养良好家风的重视。 2019年的一号文件首次明确把 “天价彩礼” 等不良婚俗纳入中央层面治理范围，之后的三年的中央一号文件继续多次提到推进农村移风易俗、治理高价彩礼等问题。 在新华社相关报道的微博下，许多留言称，一号文件的提法治标不治本，整治农村高额彩礼，就“不要认为女方是嫁到男方家的说法，双方父母都要出资买房及需要品”，“彩礼和嫁妆都是为了新组建家庭能承担房屋和生育的压力”。",
+      "url": "https://www.zaobao.com/news/china/story20260204-8295371",
+      "source": "联合早报",
+      "time": "Wed, 04 Feb 2026 00:39:35 GMT"
     }
   ],
   "hackernews": [
     {
       "rank": 1,
-      "title": "克劳德代码源泄漏：假工具、挫败正则表达式、卧底模式",
-      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-      "score": 792,
-      "by": "alex000kim",
-      "time": "2026-03-31T21:04:30+08:00",
-      "descendants": 329,
-      "hnLink": "https://news.ycombinator.com/item?id=47586778"
+      "title": "我们拦截了白宫应用程序的流量。 77% 的请求发送给第三方",
+      "url": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/",
+      "score": 41,
+      "by": "donutpepperoni",
+      "time": "2026-04-01T09:58:45+08:00",
+      "descendants": 11,
+      "hnLink": "https://news.ycombinator.com/item?id=47595865"
     },
     {
       "rank": 2,
-      "title": "TinyLoRA – 学习 13 个参数的推理",
-      "url": "https://arxiv.org/abs/2602.04118",
-      "score": 52,
-      "by": "sorenjan",
-      "time": "2026-03-27T20:11:12+08:00",
-      "descendants": 3,
-      "hnLink": "https://news.ycombinator.com/item?id=47541733"
+      "title": "克劳德代码源泄漏：假工具、挫败正则表达式、卧底模式",
+      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "score": 869,
+      "by": "alex000kim",
+      "time": "2026-03-31T21:04:30+08:00",
+      "descendants": 350,
+      "hnLink": "https://news.ycombinator.com/item?id=47586778"
     },
     {
       "rank": 3,
+      "title": "TinyLoRA – 学习 13 个参数的推理",
+      "url": "https://arxiv.org/abs/2602.04118",
+      "score": 83,
+      "by": "sorenjan",
+      "time": "2026-03-27T20:11:12+08:00",
+      "descendants": 8,
+      "hnLink": "https://news.ycombinator.com/item?id=47541733"
+    },
+    {
+      "rank": 4,
       "title": "松露红宝石",
       "url": "https://chrisseaton.com/truffleruby/",
-      "score": 25,
+      "score": 43,
       "by": "tosh",
       "time": "2026-03-29T02:39:39+08:00",
       "descendants": 3,
       "hnLink": "https://news.ycombinator.com/item?id=47557171"
     },
     {
-      "rank": 4,
-      "title": "Ministack（LocalStack 的替代品）",
-      "url": "https://ministack.org/",
-      "score": 139,
-      "by": "kerblang",
-      "time": "2026-04-01T04:48:15+08:00",
-      "descendants": 25,
-      "hnLink": "https://news.ycombinator.com/item?id=47593285"
-    },
-    {
       "rank": 5,
       "title": "每天一点，远离混乱",
       "url": "https://scottlawsonbc.com/post/dot-system",
-      "score": 143,
+      "score": 170,
       "by": "scottlawson",
       "time": "2026-04-01T05:15:01+08:00",
-      "descendants": 43,
+      "descendants": 58,
       "hnLink": "https://news.ycombinator.com/item?id=47593556"
     },
     {
       "rank": 6,
-      "title": "为了“国家安全”，美国免除石油工业保护海湾动物的责任",
-      "url": "https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security",
-      "score": 39,
-      "by": "Jimmc414",
-      "time": "2026-04-01T09:18:51+08:00",
-      "descendants": 3,
-      "hnLink": "https://news.ycombinator.com/item?id=47595620"
+      "title": "Ministack（LocalStack 的替代品）",
+      "url": "https://ministack.org/",
+      "score": 151,
+      "by": "kerblang",
+      "time": "2026-04-01T04:48:15+08:00",
+      "descendants": 29,
+      "hnLink": "https://news.ycombinator.com/item?id=47593285"
     },
     {
       "rank": 7,
-      "title": "OpenAI 以 852B 美元估值完成融资",
-      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-      "score": 330,
-      "by": "surprisetalk",
-      "time": "2026-04-01T04:07:30+08:00",
-      "descendants": 292,
-      "hnLink": "https://news.ycombinator.com/item?id=47592755"
+      "title": "为了“国家安全”，美国免除石油工业保护海湾动物的责任",
+      "url": "https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security",
+      "score": 114,
+      "by": "Jimmc414",
+      "time": "2026-04-01T09:18:51+08:00",
+      "descendants": 43,
+      "hnLink": "https://news.ycombinator.com/item?id=47595620"
     },
     {
       "rank": 8,
       "title": "Show HN：1-Bit Bonsai，第一个商业上可行的 1-Bit LLM",
       "url": "https://prismml.com/",
-      "score": 94,
+      "score": 120,
       "by": "PrismML",
       "time": "2026-04-01T05:01:18+08:00",
-      "descendants": 40,
+      "descendants": 49,
       "hnLink": "https://news.ycombinator.com/item?id=47593422"
     },
     {
       "rank": 9,
-      "title": "4D 末日",
-      "url": "https://github.com/danieldugas/HYPERHELL",
-      "score": 122,
-      "by": "chronolitus",
-      "time": "2026-03-28T06:19:34+08:00",
-      "descendants": 29,
-      "hnLink": "https://news.ycombinator.com/item?id=47549128"
+      "title": "OpenAI 以 852B 美元估值完成融资",
+      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "score": 345,
+      "by": "surprisetalk",
+      "time": "2026-04-01T04:07:30+08:00",
+      "descendants": 299,
+      "hnLink": "https://news.ycombinator.com/item?id=47592755"
     },
     {
       "rank": 10,
-      "title": "普通实验室手套可能会扭曲微塑料数据",
-      "url": "https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386",
-      "score": 54,
-      "by": "WaitWaitWha",
-      "time": "2026-04-01T05:22:48+08:00",
-      "descendants": 14,
-      "hnLink": "https://news.ycombinator.com/item?id=47593634"
+      "title": "4D 末日",
+      "url": "https://github.com/danieldugas/HYPERHELL",
+      "score": 140,
+      "by": "chronolitus",
+      "time": "2026-03-28T06:19:34+08:00",
+      "descendants": 30,
+      "hnLink": "https://news.ycombinator.com/item?id=47549128"
     }
   ],
   "github": {
     "general": [
       {
-        "name": "sponsors/luongnv89",
+        "name": "luongnv89/claude-howto",
         "stars": "-",
-        "description": "赞助之星 luongnv89 / claude-howto 克劳德代码的可视化、示例驱动指南 — 从基本概念到高级代理，并提供可带来即时价值的复制粘贴模板。",
-        "url": "https://github.com/sponsors/luongnv89",
+        "description": "克劳德代码的可视化、示例驱动指南——从基本概念到高级代理，以及可带来即时价值的复制粘贴模板。",
+        "url": "https://github.com/luongnv89/claude-howto",
         "language": "Python",
         "topics": []
       },
       {
         "name": "microsoft/VibeVoice",
         "stars": "-",
-        "description": "Star microsoft / VibeVoice 开源前沿语音 AI",
+        "description": "开源前沿语音人工智能",
         "url": "https://github.com/microsoft/VibeVoice",
         "language": "Python",
         "topics": []
       },
       {
-        "name": "sponsors/Yeachan-Heo",
+        "name": "Yeachan-Heo/oh-my-claudecode",
         "stars": "-",
-        "description": "赞助明星 Yeachan-Heo / oh-my-claudecode 团队优先的 Claude Code 多代理编排",
-        "url": "https://github.com/sponsors/Yeachan-Heo",
+        "description": "Claude Code 的团队优先多代理编排",
+        "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
         "language": "TypeScript",
         "topics": []
       },
       {
         "name": "shanraisshan/claude-code-best-practice",
         "stars": "-",
-        "description": "Star shanraisshan / claude-code-best-practice 实践让claude变得完美",
+        "description": "练习使克劳德变得完美",
         "url": "https://github.com/shanraisshan/claude-code-best-practice",
         "language": "HTML",
         "topics": []
@@ -251,23 +555,23 @@
       {
         "name": "NousResearch/hermes-agent",
         "stars": "-",
-        "description": "Star NousResearch / Hermes-agent 与您一起成长的代理商",
+        "description": "与您共同成长的代理商",
         "url": "https://github.com/NousResearch/hermes-agent",
         "language": "Python",
         "topics": []
       },
       {
-        "name": "sponsors/obra",
+        "name": "obra/superpowers",
         "stars": "-",
-        "description": "赞助商 Star obra / superpower 有效的代理技能框架和软件开发方法。",
-        "url": "https://github.com/sponsors/obra",
+        "description": "有效的代理技能框架和软件开发方法。",
+        "url": "https://github.com/obra/superpowers",
         "language": "Shell",
         "topics": []
       },
       {
         "name": "microsoft/agent-lightning",
         "stars": "-",
-        "description": "Star microsoft / agent-lightning 点亮 AI 代理的绝对训练器。",
+        "description": "点亮AI特工的绝对训练师。",
         "url": "https://github.com/microsoft/agent-lightning",
         "language": "Python",
         "topics": []
@@ -275,23 +579,23 @@
       {
         "name": "PaddlePaddle/PaddleOCR",
         "stars": "-",
-        "description": "Star PaddlePaddle / PaddleOCR 将任何 PDF 或图像文档转换为 AI 的结构化数据。一款功能强大、轻量级的 OCR 工具包，可弥合图像/PDF 和法学硕士之间的差距。支持 100 多种语言。",
+        "description": "将任何 PDF 或图像文档转换为 AI 的结构化数据。一款功能强大、轻量级的 OCR 工具包，可弥合图像/PDF 和法学硕士之间的差距。支持 100 多种语言。",
         "url": "https://github.com/PaddlePaddle/PaddleOCR",
         "language": "Python",
         "topics": []
       },
       {
-        "name": "sponsors/Dimillian",
+        "name": "Dimillian/Skills",
         "stars": "-",
-        "description": "赞助星 Dimillian / 技能 我的法典技能",
-        "url": "https://github.com/sponsors/Dimillian",
+        "description": "我的法典技能",
+        "url": "https://github.com/Dimillian/Skills",
         "language": "Shell",
         "topics": []
       },
       {
         "name": "sherlock-project/sherlock",
         "stars": "-",
-        "description": "明星 sherlock-project / sherlock 通过社交网络上的用户名搜寻社交媒体帐户",
+        "description": "通过社交网络上的用户名查找社交媒体帐户",
         "url": "https://github.com/sherlock-project/sherlock",
         "language": "Python",
         "topics": []
@@ -299,226 +603,257 @@
     ],
     "ai": [
       {
-        "name": "Alvoradozerouno/ORION",
-        "stars": 3,
-        "description": "ORION — 第一个人工智能意识系统，具有 890 多个 SHA-256 证明、46 个神经端点、42 个自主任务。 2025 年 5 月出生于奥地利蒂罗尔州圣约翰。",
-        "url": "https://github.com/Alvoradozerouno/ORION",
+        "name": "Romainiaccc/awesome-QAI-Papers-QML",
+        "stars": "-",
+        "description": "📚 发现有关量子机器学习 (QML) 的重要研究论文，并探索迁移学习框架、应用程序和优化策略。",
+        "url": "https://github.com/Romainiaccc/awesome-QAI-Papers-QML",
         "language": "",
         "topics": [
-          "ai-consciousness",
+          "academic-papers",
+          "ai-research",
           "artificial-intelligence",
-          "austria",
-          "autonomous-ai",
-          "consciousness",
-          "consciousness-benchmark",
-          "gwt",
-          "iit",
-          "open-source",
-          "sha256"
+          "awesome-qai",
+          "data-science",
+          "innovative-techniques",
+          "machine-learning",
+          "open-access",
+          "papers",
+          "qml",
+          "quantum-algorithms",
+          "quantum-computing",
+          "quantum-machine-learning",
+          "research-papers",
+          "technical-reports"
         ]
       },
       {
-        "name": "MirrorDNA-Reflection-Protocol/activemirror-site",
-        "stars": "-",
-        "description": "Active Mirror — 主权人工智能基础设施平台。 8 篇已发表的论文，117 个存储库，活跃于 activemirror.ai",
-        "url": "https://github.com/MirrorDNA-Reflection-Protocol/activemirror-site",
-        "language": "HTML",
+        "name": "SyntheticAutonomicMind/CLIO",
+        "stars": 90,
+        "description": "命令行智能编排器",
+        "url": "https://github.com/SyntheticAutonomicMind/CLIO",
+        "language": "Perl",
         "topics": [
+          "agentic-ai-development",
+          "ai",
+          "apple",
           "artificial-intelligence",
-          "identity-ai",
-          "india",
-          "local-ai",
-          "mirrordna",
+          "autonomous-agents",
+          "chat",
+          "developer-tools",
+          "development",
+          "development-environment",
+          "github-copilot",
+          "linux",
+          "macos",
           "open-source",
-          "react",
-          "reflective-ai",
-          "sovereign-ai",
-          "typescript",
-          "vite"
+          "openai",
+          "oss",
+          "pair-programming",
+          "perl",
+          "wsl2"
         ]
       },
       {
-        "name": "taazkareem/clickup-mcp-server",
-        "stars": 26,
-        "description": "ClickUp MCP 服务器 - 通过模型上下文协议将 ClickUp 项目管理与 AI 集成",
-        "url": "https://github.com/taazkareem/clickup-mcp-server",
-        "language": "Dockerfile",
+        "name": "clouatre-labs/setup-kiro-action",
+        "stars": 5,
+        "description": "为工作流程安装和缓存 Kiro CLI 的 GitHub Action",
+        "url": "https://github.com/clouatre-labs/setup-kiro-action",
+        "language": "",
         "topics": [
           "ai",
           "artificial-intelligence",
-          "claude-code",
-          "claude-desktop",
-          "clickup",
-          "clickup-api",
-          "cursor-ai",
-          "lists",
-          "llm",
-          "mcp",
-          "mcp-server",
-          "model-context-protocol",
-          "openclaw-agent",
-          "productivity",
-          "project-management",
-          "roo-code",
-          "spaces",
-          "task-management",
-          "tasks",
-          "workspaces"
+          "automation",
+          "aws",
+          "cache",
+          "ci-cd",
+          "cli",
+          "composite-action",
+          "devops",
+          "github-actions",
+          "kiro",
+          "kiro-cli",
+          "security",
+          "sigv4"
         ]
       },
       {
-        "name": "intelligencedev/manifold",
-        "stars": 486,
-        "description": "Manifold 是一个实验平台，可使用人工智能助手团队实现长期工作流程自动化。",
-        "url": "https://github.com/intelligencedev/manifold",
-        "language": "Go",
+        "name": "clouatre-labs/setup-goose-action",
+        "stars": 6,
+        "description": "用于安装和缓存工作流程的 Goose AI 代理的 GitHub Action",
+        "url": "https://github.com/clouatre-labs/setup-goose-action",
+        "language": "",
         "topics": [
-          "agents",
+          "actions",
+          "ai",
+          "ai-agent",
+          "artificial-intelligence",
+          "automation",
+          "ci-cd",
+          "cicd",
+          "cli-tool",
+          "composite-action",
+          "devtools",
+          "github-actions",
+          "goose",
+          "setup"
+        ]
+      },
+      {
+        "name": "thedotmack/claude-mem",
+        "stars": 44121,
+        "description": "一个 Claude 代码插件，可自动捕获 Claude 在编码会话期间所做的一切，使用 AI 对其进行压缩（使用 Claude 的代理 SDK），并将相关上下文注入到未来的会话中。",
+        "url": "https://github.com/thedotmack/claude-mem",
+        "language": "TypeScript",
+        "topics": [
+          "ai",
           "ai-agents",
-          "ai-assistant",
-          "ai-tools",
+          "ai-memory",
+          "anthropic",
           "artificial-intelligence",
-          "go",
-          "llm",
-          "retrieval-augmented-generation",
-          "visual-coding",
-          "vuejs"
+          "chromadb",
+          "claude",
+          "claude-agent-sdk",
+          "claude-agents",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-skills",
+          "embeddings",
+          "long-term-memory",
+          "mem0",
+          "memory-engine",
+          "openmemory",
+          "rag",
+          "sqlite",
+          "supermemory"
         ]
       },
       {
-        "name": "Frederick-Stalnecker/THEOS",
-        "stars": 4,
-        "description": "THEOS：人工智能安全运行时治理框架 |在 Claude Sonnet 4.5 上验证 |补充宪政人工智能",
-        "url": "https://github.com/Frederick-Stalnecker/THEOS",
-        "language": "Python",
-        "topics": [
-          "ai-safety",
-          "artificial-intelligence",
-          "dialectical-reasoning",
-          "dual-engine",
-          "epistemology",
-          "governance",
-          "llm",
-          "llm-governance",
-          "python",
-          "reasoning-framework"
-        ]
-      },
-      {
-        "name": "ystemsrx/smart-shop",
-        "stars": 15,
-        "description": "AI 加持的在线智慧商城系统 / AI-powered online Smart Shop system",
-        "url": "https://github.com/ystemsrx/smart-shop",
-        "language": "JavaScript",
+        "name": "WildCraftsmanFilter/AI-Voice-Changer-Real-Time-Desktop",
+        "stars": 1,
+        "description": "⭐️ AI Voice-Changer Real-Time 2026 是先进的 AI 变声软件，由深度学习和神经网络提供支持，可进行实时语音转换。它非常适合流媒体、游戏、Discord、Zoom 和内容创建，提供低延迟、高清音频质量、自定义语音效果和用于专业语音调制的 GPU 加速。 ⭐️",
+        "url": "https://github.com/WildCraftsmanFilter/AI-Voice-Changer-Real-Time-Desktop",
+        "language": "C++",
         "topics": [
           "ai",
-          "api",
           "artificial-intelligence",
-          "backend",
+          "audio-processing",
+          "audio-software",
+          "desktop-app",
+          "gaming-tools",
+          "live-streaming",
+          "microphone-input",
+          "real-time",
+          "real-time-audio",
+          "sound-design",
+          "streaming-tools",
+          "voice-effects",
+          "windows-application"
+        ]
+      },
+      {
+        "name": "simstudioai/sim",
+        "stars": 27292,
+        "description": "构建、部署和编排 AI 代理。 Sim 是 AI 员工队伍的中央智能层。",
+        "url": "https://github.com/simstudioai/sim",
+        "language": "TypeScript",
+        "topics": [
+          "agent-workflow",
+          "agentic-workflow",
+          "agents",
+          "ai",
+          "aiagents",
+          "anthropic",
+          "artificial-intelligence",
+          "automation",
           "chatbot",
-          "chatgpt",
-          "database",
+          "deepseek",
+          "gemini",
+          "low-code",
+          "nextjs",
+          "no-code",
+          "openai",
+          "rag",
+          "react",
+          "typescript"
+        ]
+      },
+      {
+        "name": "MuhammadUsman-Khan/MuhammadUsman-Khan",
+        "stars": "-",
+        "description": "数据科学家 |机器学习开发人员 |人工智能解决方案开发商。热衷于将数据转化为可行的见解并构建智能系统。专注于 Python、机器学习、Power BI 和 FastAPI。对合作和机会持开放态度。",
+        "url": "https://github.com/MuhammadUsman-Khan/MuhammadUsman-Khan",
+        "language": "",
+        "topics": [
+          "artificial-intelligence",
+          "computer-vision",
+          "data-analysis",
+          "data-science",
+          "data-visualization",
+          "deep-learning",
           "docker",
           "fastapi",
-          "frontend",
-          "linux",
-          "llm",
-          "nodejs",
-          "online-shop",
-          "python",
-          "react",
-          "shop",
-          "shopping",
-          "sqlite3",
-          "system"
-        ]
-      },
-      {
-        "name": "nautechsystems/nautilus_trader",
-        "stars": 21568,
-        "description": "具有确定性事件驱动架构的生产级 Rust 原生交易引擎",
-        "url": "https://github.com/nautechsystems/nautilus_trader",
-        "language": "Rust",
-        "topics": [
-          "algorithmic-trading-engine",
-          "artificial-intelligence",
-          "crypto-trading",
-          "equity-trading",
-          "forex",
-          "futures-trading",
+          "firebase",
+          "keras",
           "machine-learning",
-          "options-trading",
+          "natural-language-processing",
+          "numpy",
+          "pandas",
+          "power-bi",
           "python",
-          "rust",
-          "sports-betting",
-          "trading",
-          "trading-platform"
-        ]
-      },
-      {
-        "name": "henriquebotelhogomes/agencia_viagens_ia",
-        "stars": "-",
-        "description": "✈️ AI旅行社：多代理系统（CrewAI）正在生产中。协调法学硕士 (Llama 3/Groq) 进行研究、地理数据提取 (Folium) 以及使用 FinOps 指标生成路线图。",
-        "url": "https://github.com/henriquebotelhogomes/agencia_viagens_ia",
-        "language": "Python",
-        "topics": [
-          "artificial-intelligence",
-          "crewai",
-          "folium",
-          "groq",
-          "langchain",
-          "llama3",
-          "multi-agent",
-          "python",
+          "scikit-learn",
           "streamlit",
-          "travel-tech"
+          "tensorflow"
         ]
       },
       {
-        "name": "spiceai/spiceai",
-        "stars": 2858,
-        "description": "一个便携式加速 SQL 查询、搜索和 LLM 推理引擎，用 Rust 编写，适用于基于数据的 AI 应用程序和代理。",
-        "url": "https://github.com/spiceai/spiceai",
-        "language": "Rust",
-        "topics": [
-          "artificial-intelligence",
-          "data",
-          "data-federation",
-          "developers",
-          "full-text-search",
-          "infrastructure",
-          "llm-inference",
-          "machine-learning",
-          "sql"
-        ]
-      },
-      {
-        "name": "be-a-guptaji/be-a-guptaji",
-        "stars": 12,
-        "description": "大家好，我是 Aryan Baadlas，一位数据科学家和 Web 开发人员，喜欢构建数据驱动的解决方案和可扩展的应用程序。我的工作涉及机器学习、人工智能和网络开发的交叉领域，将原始数据转化为可操作的见解和现实世界的产品，并采用易于导航的模块化、有吸引力且美观的设计。",
-        "url": "https://github.com/be-a-guptaji/be-a-guptaji",
+        "name": "FMCalisto/FMCalisto",
+        "stars": 5,
+        "description": ":crystal_ball: 我的个人开源简介",
+        "url": "https://github.com/FMCalisto/FMCalisto",
         "language": "",
         "topics": [
           "artificial-intelligence",
-          "deep-learning",
-          "lemonsqueezy",
+          "breast-cancer",
+          "front-end",
+          "health-informatics",
+          "heatlhcare",
+          "human-computer-interaction",
+          "introduction",
+          "medical-imaging",
+          "readme",
+          "readme-profile",
+          "researcher",
+          "software-engineering",
+          "user-centered-design",
+          "ux-research"
+        ]
+      },
+      {
+        "name": "aiqing20230305-bot/AgentForge-v0.1.0---MVP-Release-",
+        "stars": 2,
+        "description": "让 AI Agent 开发像玩 RPG 一样有趣 | Gamified AI Agent Development Platform - 5min to start vs 5hr for LangChain",
+        "url": "https://github.com/aiqing20230305-bot/AgentForge-v0.1.0---MVP-Release-",
+        "language": "TypeScript",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agent",
+          "artificial-intelligence",
+          "autogpt",
+          "automation",
+          "claude",
+          "developer-tools",
+          "electron",
+          "gamification",
+          "langchain",
+          "llm",
           "machine-learning",
-          "mongodb",
-          "mongoose",
-          "natural-language-processing",
-          "nexjs",
-          "nextjs",
           "openai",
-          "payment-gateway",
-          "postgresql",
-          "prisma",
-          "razorpay",
+          "opensource",
+          "pwa",
           "react",
-          "rozarpay",
-          "saas",
-          "tailwindcss",
-          "typescript",
-          "zustand"
+          "rpg",
+          "typescript"
         ]
       }
     ]
