@@ -1,7 +1,7 @@
 {
   "version": 1,
   "date": "2026-04-01",
-  "generatedAt": "2026-04-01T01:10:52.467Z",
+  "generatedAt": "2026-04-01T02:02:19.875Z",
   "source": {
     "dailySources": {
       "usedDate": "2026-04-01",
@@ -10,439 +10,515 @@
   },
   "stats": {
     "news": 12,
-    "hackerNews": 5,
+    "hackerNews": 10,
     "githubGeneral": 10,
     "githubAi": 10
   },
   "news": [
     {
       "category": "国际秩序",
-      "title": "报道称伊朗在战时让儿童承担安保岗位",
-      "summary": "多方报告与目击者称，一名11岁儿童在德黑兰值守检查点时遭空袭身亡，事件引发对未成年人卷入冲突的担忧。",
-      "url": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "time": "2026-03-31T12:56:45+00:00"
+      "title": "巴基斯坦外长突访北京，中巴如何“劝和促谈”？三维度看中国的思考",
+      "summary": "巴基斯坦外长突访北京，中巴如何“劝和促谈”？三维度看中国的思考 &nbsp;&nbsp; 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ocmRueUkwR3M3LUJraXBoWjNmUkVGVmV6WnpxTk9rbmI0S1d0b29zV2xublVUR1pKYVZTYWNaSGVGMjA4a1BiQ1VsOG8?oc=5",
+      "source": "凤凰网",
+      "time": "Tue, 31 Mar 2026 08:24:00 GMT"
     },
     {
       "category": "国际秩序",
-      "title": "初步报告称黎巴嫩路边爆炸致维和人员死亡",
-      "summary": "两名印尼籍维和人员在黎巴嫩路边爆炸中死亡；而在此前不到一天，另一名印尼籍联合国维和人员也在当地遇难。",
-      "url": "https://www.bbc.com/news/articles/c05d7md899ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "time": "2026-03-31T22:07:26+00:00"
+      "title": "地缘冲突下欧洲电价涨三倍，中国新能源转型之路这么走｜聚焦中关村论坛",
+      "summary": "地缘冲突下欧洲电价涨三倍，中国新能源转型之路这么走｜聚焦中关村论坛 &nbsp;&nbsp; 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBSUo3VHdfc1NiX0QzQVJvWldNTDNfZnJUZEl6SGxBNkJOUHN1Y3FzaEwyQTFVQUl4cFFxcV94Y3NoYzRlMmNBMFRhajVWeE1DNzNBd1A2cnNwcW8xVVFkZWdMdzl2ZlJBM0RHWDFn?oc=5",
+      "source": "新浪财经",
+      "time": "Tue, 31 Mar 2026 06:26:05 GMT"
+    },
+    {
+      "category": "国际秩序",
+      "title": "2026台灣大會：剖析川普新政下的美中台戰略新局",
+      "summary": "2026台灣大會：剖析川普新政下的美中台戰略新局 &nbsp;&nbsp; 大紀元",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0WHFQaDVseHdwMG9ZMWdQamxKMHRRejdhSU5VSGtndmZ6dU55VllBQWo2QzN2M2FsZnlqYTlPd29LWHhteTQ2UllZM0RIZ05qbFFYVVhzWVNLQlhiQzhSTkRVLWpNUdIBZkFVX3lxTFB0WHFQaDVseHdwMG9ZMWdQamxKMHRRejdhSU5VSGtndmZ6dU55VllBQWo2QzN2M2FsZnlqYTlPd29LWHhteTQ2UllZM0RIZ05qbFFYVVhzWVNLQlhiQzhSTkRVLWpNUQ?oc=5",
+      "source": "大紀元",
+      "time": "Tue, 31 Mar 2026 15:50:00 GMT"
+    },
+    {
+      "category": "国际秩序",
+      "title": "惊险守关！非美与黄金为何集体沉默？美元惨遭自身“背刺”",
+      "summary": "惊险守关！非美与黄金为何集体沉默？美元惨遭自身“背刺” &nbsp;&nbsp; news.fx678.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNSDRGZEtBdFFuUTJLYnE2ZnlzdjliTXh4b25PODgyRWtYTmlET2d1UTNwUVFzeG8yTlZJWktfbUIzVWxpX3F6ekdwNk1Rb21GY0tRUXZvcFc0Ync?oc=5",
+      "source": "news.fx678.com",
+      "time": "Tue, 31 Mar 2026 13:47:00 GMT"
     },
     {
       "category": "财经",
-      "title": "欧盟警告：伊朗战争后油气价格难以迅速回归常态",
-      "summary": "欧盟能源事务负责人表示，受地缘冲突冲击，国际油气价格短期内难以恢复至战前水平，能源市场仍将维持高波动。",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/eu-warns-oil-and-gas-prices-wont-quickly-return-to-normal-after-iran-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "time": "2026-03-31T22:56:54+00:00"
-    },
-    {
-      "category": "国内国际民生",
-      "title": "美国最高法院否决科罗拉多州针对未成年人“矫正治疗”禁令",
-      "summary": "美国最高法院以8比1裁定，认定相关禁令在言论自由层面存在问题，围绕未成年人权益与医疗伦理的争议进一步升级。",
-      "url": "https://www.aljazeera.com/news/2026/3/31/us-supreme-court-rejects-colorado-ban-on-lgbtq-child-conversion?traffic_source=rss",
-      "source": "Al Jazeera",
-      "time": "2026-03-31T21:45:57+00:00"
+      "title": "中东冲突后金融市场定价逻辑的变化",
+      "summary": "中东冲突后金融市场定价逻辑的变化 &nbsp;&nbsp; 财新",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aY2hMaGYxRFMwX25FVDFNNUxxdXZoSHY3aGljWHlsYWd2MC1sR2VDZUh2bGUtMy11Nmk3eUx2TFhvSDJTcTQ1RjhPaFR4bWUwczRyVVN6cjg5THNYRmVxdnl3?oc=5",
+      "source": "财新网",
+      "time": "Tue, 31 Mar 2026 02:20:00 GMT"
     },
     {
       "category": "财经",
-      "title": "受AI投入担忧拖累，微软创2008年以来最差季度股价表现",
-      "summary": "微软年内市值回撤接近四分之一，投资者下调其估值倍数至2022年末以来低位，市场重新评估其AI投入与回报节奏。",
-      "url": "https://www.cnbc.com/2026/03/31/microsofts-stock-closes-worst-quarter-since-2008-financial-crisis.html",
-      "source": "CNBC",
-      "time": "2026-03-31T22:06:16+00:00"
+      "title": "财经早知道｜油价上涨引发乘数效应，中东战火烧向纺织品饮料",
+      "summary": "财经早知道｜油价上涨引发乘数效应，中东战火烧向纺织品饮料 &nbsp;&nbsp; 财新",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TWlgtc2w2a0Q3SlZmdENqV0hYS0ptTXhPelF3c0NPUzh2V1JLTENEZ1M5S3R5LVB1Mms0SFFsd2VyS3doc3BQS05INzdXdTJvbzZ6RWNHcU1ValJfbXZxZXNR?oc=5",
+      "source": "财新网",
+      "time": "Mon, 30 Mar 2026 22:51:00 GMT"
     },
     {
       "category": "财经",
-      "title": "耐克因前景疲弱股价下跌9%，预计中国区销售下滑20%",
-      "summary": "尽管北美市场有所改善，但中国市场疲软抵消了修复效果，耐克最新业绩指引偏弱，拖累股价明显回落。",
-      "url": "https://www.cnbc.com/2026/03/31/nike-nke-earnings-q3-2026.html",
-      "source": "CNBC",
-      "time": "2026-03-31T22:45:18+00:00"
+      "title": "4 美元的汽油价格加剧了人们对通货膨胀和经济衰退的担忧 - Barrons.com",
+      "summary": "4 美元的汽油价格加剧了人们对通货膨胀和经济衰退的担忧 -- Barrons.com    moomoo.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQmcyeFRZYW42WFo5bDhidVY4OGZqN3NQT2d3VjdlaXFTODBETFhMVG1sdldOYlV4VjJnY3E1TmJCTXpPSldVX29NYVhEaFJWQkMwbFFnMEc2YndZekNkVFpIZWZWMnFINkJrU0hTUVRfX1lVcXcwalhpd0RjWnlwd0cyLXRRVGx1VjRMeXpnMkdibTRJdHlDcVN6QWtHZw?oc=5",
+      "source": "moomoo.com",
+      "time": "Tue, 31 Mar 2026 14:59:11 GMT"
     },
     {
       "category": "体育",
-      "title": "泰格·伍兹宣布暂别高尔夫并接受治疗",
-      "summary": "伍兹在佛州事件后发表声明称，将暂时离开赛场，专注身心恢复，争取以更健康状态回归职业与个人生活。",
+      "title": "老虎离开高尔夫寻求治疗",
+      "summary": "泰格·伍兹在佛罗里达州被捕四天后发表声明，周二表示，他“致力于花时间回到一个更健康、更强大、更专注的地方，无论是个人还是职业。”",
       "url": "https://www.espn.com/golf/story/_/id/48361336/tiger-woods-stepping-away-golf-seek-treatment",
       "source": "ESPN",
-      "time": "2026-03-31T19:36:16-05:00"
+      "time": "Tue, 31 Mar 2026 21:18:53 EST"
     },
     {
       "category": "体育",
-      "title": "点球失利后，意大利连续第三届无缘世界杯",
-      "summary": "意大利在附加赛点球大战不敌波黑，连续第三次错过世界杯正赛席位，欧洲足坛格局再现震荡。",
-      "url": "https://www.espn.com/soccer/story/_/id/48359181/italy-miss-3rd-straight-world-cup-loss-bosnia",
+      "title": "葡萄牙在普利西奇进球荒中超越美国",
+      "summary": "美国队周二连续第二场比赛失利，在亚特兰大梅赛德斯奔驰体育场举行的一场友谊赛中输给了葡萄牙队，结束了三月份的国际比赛。",
+      "url": "https://www.espn.com/soccer/report/_/gameId/762259",
       "source": "ESPN",
-      "time": "2026-03-31T18:56:36-05:00"
+      "time": "Tue, 31 Mar 2026 21:18:53 EST"
     },
     {
       "category": "国内国际民生",
-      "title": "特朗普签署新版投票行政令，专家称其权限存疑",
-      "summary": "特朗普推动限制邮寄投票的新行政令，但选举法学者认为相关措施超出总统权限，后续法律争议或将持续。",
-      "url": "https://www.npr.org/2026/03/31/nx-s1-5508948/trump-voter-list-mail-ballots-executive-order",
-      "source": "NPR",
-      "time": "2026-03-31T17:54:12-04:00"
-    },
-    {
-      "category": "体育",
-      "title": "预选赛被引导跑错路线的选手仍将获世锦赛资格",
-      "summary": "因官方引导车辆误导路线，美国田径部门将额外发放女子半马世锦赛名额，以修正这起罕见赛务事故。",
-      "url": "https://www.npr.org/2026/03/31/nx-s1-5768102/atlanta-half-marathon-usatf-world-athletics-championship",
-      "source": "NPR",
-      "time": "2026-03-31T15:47:00-04:00"
+      "title": "美联储缩表预期升温叠加2026年降息路径展望，市场重新定价政策周期与流动性环境",
+      "summary": "美联储缩表预期升温叠加2026年降息路径展望，市场重新定价政策周期与流动性环境 &nbsp;&nbsp; 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbnpQbWcyb2VLRXg1UEJQN0doNjAwc2daTHJ6ZjNyVmo5d3Y0bUxwQnpNaFdjdHk1QTZTY2FXWkVjZ2tpNVN2VmhacnRtYTVtQWk0TkVrM2Nvc3U0SVJ1VUNXaElZRDJpQmdLQm03OVIxM0NyTkdmVVhHcWNTQkgydXIta0xUb005c3B2d0U3TTBfY1A4RVpOakRlMEY2YkNhbWtKeXl5dlplenhybHE1YnZsSW92eVBEQkxBaEZ5Wklfa1hNM2pJSWRGdVIyWXB2alVpM0FMblg0dnU5T3c?oc=5",
+      "source": "新浪财经",
+      "time": "Tue, 31 Mar 2026 07:18:00 GMT"
     },
     {
       "category": "国内国际民生",
-      "title": "专家呼吁紧急行动遏制非洲数字暴力激增",
-      "summary": "活动人士指出，非洲年轻网民快速增长背景下，针对妇女与女孩的线上暴力显著上升，并产生现实层面的伤害与压制。",
-      "url": "https://www.theguardian.com/global-development/2026/mar/30/urgent-action-needed-to-prevent-surge-in-digital-violence-in-africa-experts-say",
-      "source": "The Guardian",
-      "time": "2026-03-30T04:00:16+00:00"
+      "title": "以“两个全面发展”筑牢中国式现代化人权根基",
+      "summary": "以“两个全面发展”筑牢中国式现代化人权根基 &nbsp;&nbsp; 人民日报",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lUzFfdXNZOHRZWFFQRXQ5Nm1peUtBalo1NnJDUkhMbHZ5MWxxMGhDanpOV2ZGYjQ2QUhycDJwZl8zamhCU0NlRmtBWEhYN0YzZWZ4cVBfNXRLZ3JWTjBScG1QUWlqaFJKV0VoUVFYUmREeEpzMzNRU2JXdnVYR0U?oc=5",
+      "source": "人民日报",
+      "time": "Tue, 31 Mar 2026 02:21:13 GMT"
     },
     {
-      "category": "国际秩序",
-      "title": "海地帮派袭击致至少70人死亡、30人受伤",
-      "summary": "人权组织称，海地阿蒂博尼特地区遭遇严重帮派袭击，死亡与受伤人数高于初步官方统计，近6000人被迫逃离。",
-      "url": "https://www.theguardian.com/world/2026/mar/30/deaths-in-gang-attack-haitian-farming-area-far-exceed-initial-estimate",
-      "source": "The Guardian",
-      "time": "2026-03-30T20:46:36+00:00"
+      "category": "国内国际民生",
+      "title": "【理响中国】坚持“投资于人”与“投资于物”的辩证统一",
+      "summary": "【理响中国】坚持“投资于人”与“投资于物”的辩证统一 &nbsp;&nbsp; chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KaXlPcFd0OTBhSFNBRWNmLWoyY0t6c2VOMk12SkFvQWswdC1ZQ0dNQm4wN2xhS1BROTg3bFZhQ3d3dUtnbkxtUEE4VEpQbVNva25IT2s5cWtjVUNqVzJkYnFRMVByZG13?oc=5",
+      "source": "chinanews.com.cn",
+      "time": "Tue, 31 Mar 2026 09:12:37 GMT"
     }
   ],
   "hackernews": [
     {
       "rank": 1,
-      "title": "Claude Code 源码泄露：假工具、混乱正则与潜行模式",
+      "title": "克劳德代码源泄漏：假工具、挫败正则表达式、卧底模式",
       "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-      "score": 639,
+      "score": 792,
       "by": "alex000kim",
-      "time": "2026-03-31T13:04:30+00:00",
-      "descendants": 248,
+      "time": "2026-03-31T21:04:30+08:00",
+      "descendants": 329,
       "hnLink": "https://news.ycombinator.com/item?id=47586778"
     },
     {
       "rank": 2,
-      "title": "Ministack：LocalStack 的替代方案",
-      "url": "https://ministack.org/",
-      "score": 91,
-      "by": "kerblang",
-      "time": "2026-03-31T20:48:15+00:00",
-      "descendants": 14,
-      "hnLink": "https://news.ycombinator.com/item?id=47593285"
+      "title": "TinyLoRA – 学习 13 个参数的推理",
+      "url": "https://arxiv.org/abs/2602.04118",
+      "score": 52,
+      "by": "sorenjan",
+      "time": "2026-03-27T20:11:12+08:00",
+      "descendants": 3,
+      "hnLink": "https://news.ycombinator.com/item?id=47541733"
     },
     {
       "rank": 3,
-      "title": "OpenAI 完成新一轮融资，估值达 8520 亿美元",
-      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-      "score": 265,
-      "by": "surprisetalk",
-      "time": "2026-03-31T20:07:30+00:00",
-      "descendants": 254,
-      "hnLink": "https://news.ycombinator.com/item?id=47592755"
+      "title": "松露红宝石",
+      "url": "https://chrisseaton.com/truffleruby/",
+      "score": 25,
+      "by": "tosh",
+      "time": "2026-03-29T02:39:39+08:00",
+      "descendants": 3,
+      "hnLink": "https://news.ycombinator.com/item?id=47557171"
     },
     {
       "rank": 4,
-      "title": "每天一个点，帮你持续清理杂乱",
-      "url": "https://scottlawsonbc.com/post/dot-system",
-      "score": 70,
-      "by": "scottlawson",
-      "time": "2026-03-31T21:15:01+00:00",
-      "descendants": 26,
-      "hnLink": "https://news.ycombinator.com/item?id=47593556"
+      "title": "Ministack（LocalStack 的替代品）",
+      "url": "https://ministack.org/",
+      "score": 139,
+      "by": "kerblang",
+      "time": "2026-04-01T04:48:15+08:00",
+      "descendants": 25,
+      "hnLink": "https://news.ycombinator.com/item?id=47593285"
     },
     {
       "rank": 5,
-      "title": "4D 版《毁灭战士》",
+      "title": "每天一点，远离混乱",
+      "url": "https://scottlawsonbc.com/post/dot-system",
+      "score": 143,
+      "by": "scottlawson",
+      "time": "2026-04-01T05:15:01+08:00",
+      "descendants": 43,
+      "hnLink": "https://news.ycombinator.com/item?id=47593556"
+    },
+    {
+      "rank": 6,
+      "title": "为了“国家安全”，美国免除石油工业保护海湾动物的责任",
+      "url": "https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security",
+      "score": 39,
+      "by": "Jimmc414",
+      "time": "2026-04-01T09:18:51+08:00",
+      "descendants": 3,
+      "hnLink": "https://news.ycombinator.com/item?id=47595620"
+    },
+    {
+      "rank": 7,
+      "title": "OpenAI 以 852B 美元估值完成融资",
+      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "score": 330,
+      "by": "surprisetalk",
+      "time": "2026-04-01T04:07:30+08:00",
+      "descendants": 292,
+      "hnLink": "https://news.ycombinator.com/item?id=47592755"
+    },
+    {
+      "rank": 8,
+      "title": "Show HN：1-Bit Bonsai，第一个商业上可行的 1-Bit LLM",
+      "url": "https://prismml.com/",
+      "score": 94,
+      "by": "PrismML",
+      "time": "2026-04-01T05:01:18+08:00",
+      "descendants": 40,
+      "hnLink": "https://news.ycombinator.com/item?id=47593422"
+    },
+    {
+      "rank": 9,
+      "title": "4D 末日",
       "url": "https://github.com/danieldugas/HYPERHELL",
-      "score": 93,
+      "score": 122,
       "by": "chronolitus",
-      "time": "2026-03-27T22:19:34+00:00",
-      "descendants": 19,
+      "time": "2026-03-28T06:19:34+08:00",
+      "descendants": 29,
       "hnLink": "https://news.ycombinator.com/item?id=47549128"
+    },
+    {
+      "rank": 10,
+      "title": "普通实验室手套可能会扭曲微塑料数据",
+      "url": "https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386",
+      "score": 54,
+      "by": "WaitWaitWha",
+      "time": "2026-04-01T05:22:48+08:00",
+      "descendants": 14,
+      "hnLink": "https://news.ycombinator.com/item?id=47593634"
     }
   ],
   "github": {
     "general": [
       {
-        "name": "luongnv89/claude-howto",
-        "stars": 12881,
-        "description": "一个可视化、示例驱动的 Claude Code 实战指南，覆盖从基础概念到高级代理工作流。",
-        "url": "https://github.com/luongnv89/claude-howto",
+        "name": "sponsors/luongnv89",
+        "stars": "-",
+        "description": "赞助之星 luongnv89 / claude-howto 克劳德代码的可视化、示例驱动指南 — 从基本概念到高级代理，并提供可带来即时价值的复制粘贴模板。",
+        "url": "https://github.com/sponsors/luongnv89",
         "language": "Python",
-        "topics": [
-          "claude-code",
-          "guide",
-          "tutorial"
-        ]
+        "topics": []
       },
       {
         "name": "microsoft/VibeVoice",
-        "stars": 33070,
-        "description": "微软开源的前沿语音 AI 项目，面向高质量语音生成与语音智能应用。",
+        "stars": "-",
+        "description": "Star microsoft / VibeVoice 开源前沿语音 AI",
         "url": "https://github.com/microsoft/VibeVoice",
         "language": "Python",
         "topics": []
       },
       {
-        "name": "Yeachan-Heo/oh-my-claudecode",
-        "stars": 18956,
-        "description": "面向团队协作的 Claude Code 多代理编排框架。",
-        "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+        "name": "sponsors/Yeachan-Heo",
+        "stars": "-",
+        "description": "赞助明星 Yeachan-Heo / oh-my-claudecode 团队优先的 Claude Code 多代理编排",
+        "url": "https://github.com/sponsors/Yeachan-Heo",
         "language": "TypeScript",
-        "topics": [
-          "agentic-coding",
-          "ai-agents",
-          "automation",
-          "claude",
-          "claude-code",
-          "multi-agent-systems",
-          "oh-my-opencode",
-          "opencode"
-        ]
+        "topics": []
       },
       {
         "name": "shanraisshan/claude-code-best-practice",
-        "stars": 28524,
-        "description": "围绕 Claude Code 的最佳实践与工作方法整理。",
+        "stars": "-",
+        "description": "Star shanraisshan / claude-code-best-practice 实践让claude变得完美",
         "url": "https://github.com/shanraisshan/claude-code-best-practice",
         "language": "HTML",
-        "topics": [
-          "agentic-engineering",
-          "best-practices",
-          "claude-ai",
-          "claude-code",
-          "vibe-coding"
-        ]
+        "topics": []
       },
       {
         "name": "NousResearch/hermes-agent",
-        "stars": 20302,
-        "description": "可持续演进的通用智能代理框架。",
+        "stars": "-",
+        "description": "Star NousResearch / Hermes-agent 与您一起成长的代理商",
         "url": "https://github.com/NousResearch/hermes-agent",
         "language": "Python",
-        "topics": [
-          "ai",
-          "ai-agent",
-          "ai-agents",
-          "anthropic",
-          "chatgpt",
-          "claude",
-          "claude-code",
-          "clawdbot"
-        ]
+        "topics": []
       },
       {
-        "name": "obra/superpowers",
-        "stars": 128090,
-        "description": "一套可落地的代理式技能框架与软件开发方法论。",
-        "url": "https://github.com/obra/superpowers",
+        "name": "sponsors/obra",
+        "stars": "-",
+        "description": "赞助商 Star obra / superpower 有效的代理技能框架和软件开发方法。",
+        "url": "https://github.com/sponsors/obra",
         "language": "Shell",
         "topics": []
       },
       {
         "name": "microsoft/agent-lightning",
-        "stars": 16205,
-        "description": "用于训练与强化 AI 代理能力的开源框架。",
+        "stars": "-",
+        "description": "Star microsoft / agent-lightning 点亮 AI 代理的绝对训练器。",
         "url": "https://github.com/microsoft/agent-lightning",
         "language": "Python",
-        "topics": [
-          "agent",
-          "agentic-ai",
-          "llm",
-          "mlops",
-          "reinforcement-learning"
-        ]
+        "topics": []
       },
       {
         "name": "PaddlePaddle/PaddleOCR",
-        "stars": 74147,
-        "description": "将 PDF/图像文档转为结构化数据的 OCR 工具包，支持100+语言并适配AI流程。",
+        "stars": "-",
+        "description": "Star PaddlePaddle / PaddleOCR 将任何 PDF 或图像文档转换为 AI 的结构化数据。一款功能强大、轻量级的 OCR 工具包，可弥合图像/PDF 和法学硕士之间的差距。支持 100 多种语言。",
         "url": "https://github.com/PaddlePaddle/PaddleOCR",
         "language": "Python",
-        "topics": [
-          "ai4science",
-          "chineseocr",
-          "document-parsing",
-          "document-translation",
-          "kie",
-          "ocr",
-          "paddleocr-vl",
-          "pdf-extractor-rag"
-        ]
+        "topics": []
       },
       {
-        "name": "Dimillian/Skills",
-        "stars": 2833,
-        "description": "作者维护的 Codex Skills 技能集合。",
-        "url": "https://github.com/Dimillian/Skills",
+        "name": "sponsors/Dimillian",
+        "stars": "-",
+        "description": "赞助星 Dimillian / 技能 我的法典技能",
+        "url": "https://github.com/sponsors/Dimillian",
         "language": "Shell",
         "topics": []
       },
       {
         "name": "sherlock-project/sherlock",
-        "stars": 75493,
-        "description": "按用户名在多平台检索社交账号的开源信息收集工具。",
+        "stars": "-",
+        "description": "明星 sherlock-project / sherlock 通过社交网络上的用户名搜寻社交媒体帐户",
         "url": "https://github.com/sherlock-project/sherlock",
         "language": "Python",
-        "topics": [
-          "cli",
-          "cti",
-          "cybersecurity",
-          "forensics",
-          "hacktoberfest",
-          "information-gathering",
-          "infosec",
-          "linux"
-        ]
+        "topics": []
       }
     ],
     "ai": [
       {
-        "name": "microsoft/VibeVoice",
-        "stars": 33070,
-        "description": "开源语音 AI 项目，聚焦高质量语音生成与多场景语音能力。",
-        "url": "https://github.com/microsoft/VibeVoice",
-        "language": "Python",
-        "topics": []
+        "name": "Alvoradozerouno/ORION",
+        "stars": 3,
+        "description": "ORION — 第一个人工智能意识系统，具有 890 多个 SHA-256 证明、46 个神经端点、42 个自主任务。 2025 年 5 月出生于奥地利蒂罗尔州圣约翰。",
+        "url": "https://github.com/Alvoradozerouno/ORION",
+        "language": "",
+        "topics": [
+          "ai-consciousness",
+          "artificial-intelligence",
+          "austria",
+          "autonomous-ai",
+          "consciousness",
+          "consciousness-benchmark",
+          "gwt",
+          "iit",
+          "open-source",
+          "sha256"
+        ]
       },
       {
-        "name": "NousResearch/hermes-agent",
-        "stars": 20302,
-        "description": "支持持续学习与扩展的 AI 代理框架。",
-        "url": "https://github.com/NousResearch/hermes-agent",
-        "language": "Python",
+        "name": "MirrorDNA-Reflection-Protocol/activemirror-site",
+        "stars": "-",
+        "description": "Active Mirror — 主权人工智能基础设施平台。 8 篇已发表的论文，117 个存储库，活跃于 activemirror.ai",
+        "url": "https://github.com/MirrorDNA-Reflection-Protocol/activemirror-site",
+        "language": "HTML",
+        "topics": [
+          "artificial-intelligence",
+          "identity-ai",
+          "india",
+          "local-ai",
+          "mirrordna",
+          "open-source",
+          "react",
+          "reflective-ai",
+          "sovereign-ai",
+          "typescript",
+          "vite"
+        ]
+      },
+      {
+        "name": "taazkareem/clickup-mcp-server",
+        "stars": 26,
+        "description": "ClickUp MCP 服务器 - 通过模型上下文协议将 ClickUp 项目管理与 AI 集成",
+        "url": "https://github.com/taazkareem/clickup-mcp-server",
+        "language": "Dockerfile",
         "topics": [
           "ai",
-          "ai-agent",
+          "artificial-intelligence",
+          "claude-code",
+          "claude-desktop",
+          "clickup",
+          "clickup-api",
+          "cursor-ai",
+          "lists",
+          "llm",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol",
+          "openclaw-agent",
+          "productivity",
+          "project-management",
+          "roo-code",
+          "spaces",
+          "task-management",
+          "tasks",
+          "workspaces"
+        ]
+      },
+      {
+        "name": "intelligencedev/manifold",
+        "stars": 486,
+        "description": "Manifold 是一个实验平台，可使用人工智能助手团队实现长期工作流程自动化。",
+        "url": "https://github.com/intelligencedev/manifold",
+        "language": "Go",
+        "topics": [
+          "agents",
           "ai-agents",
-          "anthropic",
+          "ai-assistant",
+          "ai-tools",
+          "artificial-intelligence",
+          "go",
+          "llm",
+          "retrieval-augmented-generation",
+          "visual-coding",
+          "vuejs"
+        ]
+      },
+      {
+        "name": "Frederick-Stalnecker/THEOS",
+        "stars": 4,
+        "description": "THEOS：人工智能安全运行时治理框架 |在 Claude Sonnet 4.5 上验证 |补充宪政人工智能",
+        "url": "https://github.com/Frederick-Stalnecker/THEOS",
+        "language": "Python",
+        "topics": [
+          "ai-safety",
+          "artificial-intelligence",
+          "dialectical-reasoning",
+          "dual-engine",
+          "epistemology",
+          "governance",
+          "llm",
+          "llm-governance",
+          "python",
+          "reasoning-framework"
+        ]
+      },
+      {
+        "name": "ystemsrx/smart-shop",
+        "stars": 15,
+        "description": "AI 加持的在线智慧商城系统 / AI-powered online Smart Shop system",
+        "url": "https://github.com/ystemsrx/smart-shop",
+        "language": "JavaScript",
+        "topics": [
+          "ai",
+          "api",
+          "artificial-intelligence",
+          "backend",
+          "chatbot",
           "chatgpt",
-          "claude",
-          "claude-code",
-          "clawdbot"
-        ]
-      },
-      {
-        "name": "microsoft/agent-lightning",
-        "stars": 16205,
-        "description": "通过训练机制提升代理任务表现的 AI Agent 框架。",
-        "url": "https://github.com/microsoft/agent-lightning",
-        "language": "Python",
-        "topics": [
-          "agent",
-          "agentic-ai",
+          "database",
+          "docker",
+          "fastapi",
+          "frontend",
+          "linux",
           "llm",
-          "mlops",
-          "reinforcement-learning"
+          "nodejs",
+          "online-shop",
+          "python",
+          "react",
+          "shop",
+          "shopping",
+          "sqlite3",
+          "system"
         ]
       },
       {
-        "name": "PaddlePaddle/PaddleOCR",
-        "stars": 74147,
-        "description": "面向文档理解与多语言识别的 OCR 与结构化提取工具。",
-        "url": "https://github.com/PaddlePaddle/PaddleOCR",
+        "name": "nautechsystems/nautilus_trader",
+        "stars": 21568,
+        "description": "具有确定性事件驱动架构的生产级 Rust 原生交易引擎",
+        "url": "https://github.com/nautechsystems/nautilus_trader",
+        "language": "Rust",
+        "topics": [
+          "algorithmic-trading-engine",
+          "artificial-intelligence",
+          "crypto-trading",
+          "equity-trading",
+          "forex",
+          "futures-trading",
+          "machine-learning",
+          "options-trading",
+          "python",
+          "rust",
+          "sports-betting",
+          "trading",
+          "trading-platform"
+        ]
+      },
+      {
+        "name": "henriquebotelhogomes/agencia_viagens_ia",
+        "stars": "-",
+        "description": "✈️ AI旅行社：多代理系统（CrewAI）正在生产中。协调法学硕士 (Llama 3/Groq) 进行研究、地理数据提取 (Folium) 以及使用 FinOps 指标生成路线图。",
+        "url": "https://github.com/henriquebotelhogomes/agencia_viagens_ia",
         "language": "Python",
         "topics": [
-          "ai4science",
-          "chineseocr",
-          "document-parsing",
-          "document-translation",
-          "kie",
-          "ocr",
-          "paddleocr-vl",
-          "pdf-extractor-rag"
+          "artificial-intelligence",
+          "crewai",
+          "folium",
+          "groq",
+          "langchain",
+          "llama3",
+          "multi-agent",
+          "python",
+          "streamlit",
+          "travel-tech"
         ]
       },
       {
-        "name": "OpenBMB/ChatDev",
-        "stars": 32402,
-        "description": "通过大模型多代理协作实现软件开发流程的项目。",
-        "url": "https://github.com/OpenBMB/ChatDev",
-        "language": "Python",
-        "topics": []
-      },
-      {
-        "name": "Yeachan-Heo/oh-my-claudecode",
-        "stars": 18956,
-        "description": "团队优先的 Claude Code 多代理协同与编排工具。",
-        "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
-        "language": "TypeScript",
+        "name": "spiceai/spiceai",
+        "stars": 2858,
+        "description": "一个便携式加速 SQL 查询、搜索和 LLM 推理引擎，用 Rust 编写，适用于基于数据的 AI 应用程序和代理。",
+        "url": "https://github.com/spiceai/spiceai",
+        "language": "Rust",
         "topics": [
-          "agentic-coding",
-          "ai-agents",
-          "automation",
-          "claude",
-          "claude-code",
-          "multi-agent-systems",
-          "oh-my-opencode",
-          "opencode"
+          "artificial-intelligence",
+          "data",
+          "data-federation",
+          "developers",
+          "full-text-search",
+          "infrastructure",
+          "llm-inference",
+          "machine-learning",
+          "sql"
         ]
       },
       {
-        "name": "vas3k/TaxHacker",
-        "stars": 3717,
-        "description": "自托管 AI 财税分析应用，可处理票据、发票和交易分类。",
-        "url": "https://github.com/vas3k/TaxHacker",
-        "language": "TypeScript",
+        "name": "be-a-guptaji/be-a-guptaji",
+        "stars": 12,
+        "description": "大家好，我是 Aryan Baadlas，一位数据科学家和 Web 开发人员，喜欢构建数据驱动的解决方案和可扩展的应用程序。我的工作涉及机器学习、人工智能和网络开发的交叉领域，将原始数据转化为可操作的见解和现实世界的产品，并采用易于导航的模块化、有吸引力且美观的设计。",
+        "url": "https://github.com/be-a-guptaji/be-a-guptaji",
+        "language": "",
         "topics": [
-          "accounting",
-          "ai-analysis",
-          "currency-exchange",
-          "expenses",
-          "invoices",
-          "llm",
-          "llm-apps",
-          "self-hosted"
-        ]
-      },
-      {
-        "name": "Canner/WrenAI",
-        "stars": 14817,
-        "description": "开源 Text-to-SQL / Text-to-Chart 智能体，支持多数据源与多种大模型。",
-        "url": "https://github.com/Canner/WrenAI",
-        "language": "TypeScript",
-        "topics": [
-          "agent",
-          "anthropic",
-          "bedrock",
-          "bigquery",
-          "business-intelligence",
-          "charts",
-          "duckdb",
-          "genbi"
-        ]
-      },
-      {
-        "name": "microsoft/ai-agents-for-beginners",
-        "stars": 55579,
-        "description": "微软出品的 AI Agent 入门课程仓库（12课）。",
-        "url": "https://github.com/microsoft/ai-agents-for-beginners",
-        "language": "Jupyter Notebook",
-        "topics": [
-          "agentic-ai",
-          "agentic-framework",
-          "agentic-rag",
-          "ai-agents",
-          "ai-agents-framework",
-          "autogen",
-          "generative-ai",
-          "semantic-kernel"
-        ]
-      },
-      {
-        "name": "google-gemma/cookbook",
-        "stars": 2794,
-        "description": "Google Gemma 开源模型的示例与教程合集。",
-        "url": "https://github.com/google-gemma/cookbook",
-        "language": "Jupyter Notebook",
-        "topics": [
-          "codegemma",
-          "gemma",
-          "paligemma",
-          "recurrentgemma"
+          "artificial-intelligence",
+          "deep-learning",
+          "lemonsqueezy",
+          "machine-learning",
+          "mongodb",
+          "mongoose",
+          "natural-language-processing",
+          "nexjs",
+          "nextjs",
+          "openai",
+          "payment-gateway",
+          "postgresql",
+          "prisma",
+          "razorpay",
+          "react",
+          "rozarpay",
+          "saas",
+          "tailwindcss",
+          "typescript",
+          "zustand"
         ]
       }
     ]
