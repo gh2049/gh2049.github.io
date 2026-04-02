@@ -7,7 +7,7 @@
     margin: 0;
     @apply bg-bg text-text font-sans selection:bg-primary/20;
     min-height: 100%;
-    background-image: 
+    background-image:
       radial-gradient(circle at center, transparent 0%, transparent 100%),
       url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='0.04'/%3E%3C/svg%3E");
   }
@@ -16,22 +16,36 @@
     position: relative;
     overflow-x: hidden;
   }
+
+  /* Vignette overlay for depth */
+  body::after {
+    content: '';
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    background: radial-gradient(ellipse at center, transparent 55%, rgba(42,40,37,0.07) 100%);
+    z-index: 0;
+  }
 }
 
 @layer utilities {
   .newspaper-card {
-    /* Instead of full boxed borders, we use strong top borders separating content naturally */
     @apply bg-transparent border-t-2 border-text pt-4 pb-8 transition-all duration-300 ease-out relative;
   }
   .newspaper-card:hover {
-    @apply -translate-y-[2px];
+    @apply -translate-y-[3px];
+    box-shadow: 3px 3px 0px #2A2825;
   }
   .newspaper-feature {
     @apply border-t-[6px] border-text pt-6 pb-12 mb-8 flex flex-col md:flex-row gap-6 md:gap-12 relative transition-all duration-300;
   }
   .newspaper-tabular-card {
     /* For repositories / dense data lists */
-    @apply border-b border-line py-3 flex flex-col justify-between transition-colors duration-200 hover:bg-bg-soft/70 px-2;
+    @apply border-b border-line py-3 flex flex-col justify-between transition-all duration-200 px-2;
+  }
+  .newspaper-tabular-card:hover {
+    @apply bg-bg-soft/70;
+    box-shadow: 2px 0 0px #C15B3D inset;
   }
   .newspaper-hn-card {
     @apply py-3 px-0.5 transition-colors duration-200;
@@ -70,3 +84,20 @@
   .stagger-3 { animation-delay: 300ms; }
   .stagger-4 { animation-delay: 400ms; }
 }
+
+@keyframes dot-pulse {
+  0%, 80%, 100% { opacity: 0.2; transform: scale(0.8); }
+  40% { opacity: 1; transform: scale(1); }
+}
+
+.loading-dot {
+  display: inline-block;
+  width: 4px;
+  height: 4px;
+  background: currentColor;
+  border-radius: 50%;
+  animation: dot-pulse 1.4s ease-in-out infinite;
+  vertical-align: middle;
+}
+.loading-dot:nth-child(2) { animation-delay: 0.2s; }
+.loading-dot:nth-child(3) { animation-delay: 0.4s; }
