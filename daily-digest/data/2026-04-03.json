@@ -1,7 +1,7 @@
 {
   "version": 1,
   "date": "2026-04-03",
-  "generatedAt": "2026-04-03T14:00:17.716Z",
+  "generatedAt": "2026-04-03T14:34:29.598Z",
   "source": {
     "dailySources": {
       "usedDate": "2026-04-03",
@@ -37,20 +37,38 @@
     },
     {
       "category": "国际秩序",
-      "title": "特朗普罢免美国司法部长帕姆·邦迪",
-      "summary": "邦迪担任美国最高执法官员的时期因司法部对杰弗里·爱泼斯坦调查的处理而黯然失色。",
-      "url": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
-      "resolvedUrl": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "time": "2026-04-03",
-      "publishedAt": "2026-04-03T04:39:32+08:00",
-      "originalTime": "Thu, 02 Apr 2026 20:39:32 GMT",
+      "title": "欧尔班·维克托嘲讽图斯克时表示，欧洲应该在伊朗危机期间取消对俄罗斯能源的制裁——事实确实如此",
+      "summary": "回到特朗普对欧洲盟友的失望——尽管这次不涉及北约成员国——奥地利是最新一个冒着激怒美国总统风险的国家，此前国防部发言人证实奥地利拒绝了美国所有与伊朗战争有关的军事飞越请求。迈克尔·鲍尔上校告诉法新社：“确实有人​​提出过请求，但从一开始就被拒绝了。”他补充说，每次类似的请求“涉及一个处于战争状态的国家，都会被拒绝”。继续阅读...",
+      "url": "https://www.theguardian.com/world/live/2026/apr/02/europe-nato-rutte-trump-criticisms-iran-ukraine-latest-news-updates",
+      "resolvedUrl": "https://www.theguardian.com/world/live/2026/apr/02/europe-nato-rutte-trump-criticisms-iran-ukraine-latest-news-updates",
+      "source": "The Guardian",
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T23:21:50+08:00",
+      "originalTime": "Thu, 02 Apr 2026 15:21:50 GMT",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 0,
       "tags": [
         "国际秩序",
-        "BBC"
+        "The Guardian"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "特朗普对美国进口药品征收100%关税后，澳大利亚表示不会提高药品价格",
+      "summary": "卫生部长马克·巴特勒表示，在取消普通药物的价格保护方面，联邦政府“没有进行谈判” 卫生部长马克·巴特勒表示，澳大利亚不会屈服于制药巨头和特朗普政府的压力，取消普通药物的消费者价格保护。澳大利亚时间一夜之间，唐纳德·特朗普 (Donald Trump) 对进口到美国的品牌药品征收新的 100% 关税，试图迫使制造商同意药品定价协议或承诺在国内生产产品。继续阅读...",
+      "url": "https://www.theguardian.com/business/2026/apr/03/australia-says-it-wont-raise-drug-prices-after-trumps-100-tariff-on-pharmaceuticals-imported-into-us",
+      "resolvedUrl": "https://www.theguardian.com/business/2026/apr/03/australia-says-it-wont-raise-drug-prices-after-trumps-100-tariff-on-pharmaceuticals-imported-into-us",
+      "source": "The Guardian",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T06:24:52+08:00",
+      "originalTime": "Thu, 02 Apr 2026 22:24:52 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "The Guardian"
       ]
     },
     {
@@ -73,20 +91,74 @@
     },
     {
       "category": "国际秩序",
-      "title": "Iran war could make beer and bottled water pricier for Indians",
-      "summary": "由于战争挤压了供应，塑料和玻璃瓶制造商正在努力获取原材料。",
-      "url": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss",
-      "resolvedUrl": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
+      "title": "“你必须认真”：马克龙批评特朗普关于北约和伊朗的混杂信息",
+      "summary": "法国总统在韩国发表讲话，捍卫了跨大西洋联盟，并呼吁恢复和平。中东危机实时更新伊曼纽尔·马克龙尖锐批评唐纳德·特朗普在伊朗战争和北约问题上前后矛盾且常常相互矛盾的声明，他表示，如果“你想认真对待”，最好不要每天都发表不同的言论。 “谈论太多……而且到处都是，”法国总统周四在对韩国进行国事访问时表示。 “我们都需要稳定、平静、回归和平——这不是一场表演！”继续阅读...",
+      "url": "https://www.theguardian.com/world/2026/apr/02/you-have-to-be-serious-macron-criticises-trumps-mixed-messages-about-nato-and-iran",
+      "resolvedUrl": "https://www.theguardian.com/world/2026/apr/02/you-have-to-be-serious-macron-criticises-trumps-mixed-messages-about-nato-and-iran",
+      "source": "The Guardian",
       "time": "2026-04-03",
-      "publishedAt": "2026-04-03T07:16:37+08:00",
-      "originalTime": "Thu, 02 Apr 2026 23:16:37 GMT",
+      "publishedAt": "2026-04-03T01:34:37+08:00",
+      "originalTime": "Thu, 02 Apr 2026 17:34:37 GMT",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 0,
       "tags": [
         "国际秩序",
-        "BBC"
+        "The Guardian"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "“令人惊叹的时刻”：古代罗马尼亚金头盔在与盗窃嫌疑人的认罪协议中归还",
+      "summary": "检察官公布了去年从荷兰博物馆被盗的与失落的达契亚文明有关的文物。去年从荷兰博物馆被盗的一顶来自罗马尼亚的无价古代金头盔，作为与嫌疑人达成的认罪协议的一部分，已被追回。周四，在荷兰东部城市阿森举行的新闻发布会上，检察官在头戴巴拉克拉法帽的警察的看守下揭开了具有 2500 年历史的 Coşofeneşti 头盔的面纱，该头盔被认为是罗马尼亚的文化标志。继续阅读...",
+      "url": "https://www.theguardian.com/artanddesign/2026/apr/02/stolen-romanian-gold-helmet-recovered-netherlands",
+      "resolvedUrl": "https://www.theguardian.com/artanddesign/2026/apr/02/stolen-romanian-gold-helmet-recovered-netherlands",
+      "source": "The Guardian",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T00:46:20+08:00",
+      "originalTime": "Thu, 02 Apr 2026 16:46:20 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "The Guardian"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "特朗普政府因试图监管预测市场而起诉三个州",
+      "summary": "这些诉讼是特朗普政府迄今为止最雄心勃勃的努力，试图推翻各州法律，为快速增长且日益分裂的博彩业制定规则。",
+      "url": "https://www.npr.org/2026/04/02/nx-s1-5771635/trump-cftc-kalshi-polymarket-lawsuits",
+      "resolvedUrl": "https://www.npr.org/2026/04/02/nx-s1-5771635/trump-cftc-kalshi-polymarket-lawsuits",
+      "source": "NPR",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T03:54:18+08:00",
+      "originalTime": "Thu, 02 Apr 2026 15:54:18 -0400",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "NPR"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "Ziggy Stardust 和 Hacky Sack：上次我们去月球时的生活是什么样的",
+      "summary": "阿耳忒弥斯二号任务是自 1972 年以来人类首次登上月球。那一年也标志着《教父与鸡蛋松饼》的首映。",
+      "url": "https://www.npr.org/2026/04/02/nx-s1-5771486/artemis-moon-mission-apollo-1972",
+      "resolvedUrl": "https://www.npr.org/2026/04/02/nx-s1-5771486/artemis-moon-mission-apollo-1972",
+      "source": "NPR",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T00:41:41+08:00",
+      "originalTime": "Thu, 02 Apr 2026 12:41:41 -0400",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "NPR"
       ]
     },
     {
@@ -109,14 +181,14 @@
     },
     {
       "category": "国际秩序",
-      "title": "Iran's two largest steel plants shut down due to air strikes, companies say",
-      "summary": "伊朗称，这些袭击是以色列上周与美国协调首次发动的，可能对伊朗经济造成重大损害。",
-      "url": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
-      "resolvedUrl": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
+      "title": "引发残酷内战的缅甸政变领导人即将就任总统",
+      "summary": "新当选的议会将选举敏昂将军为下一任总统。",
+      "url": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&at_campaign=rss",
+      "resolvedUrl": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "time": "2026-04-03",
-      "publishedAt": "2026-04-03T01:01:08+08:00",
-      "originalTime": "Thu, 02 Apr 2026 17:01:08 GMT",
+      "publishedAt": "2026-04-03T06:14:00+08:00",
+      "originalTime": "Thu, 02 Apr 2026 22:14:00 GMT",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 0,
@@ -127,14 +199,32 @@
     },
     {
       "category": "国际秩序",
-      "title": "荷兰抢劫案一年多后，古老的金头盔被寻获",
-      "summary": "头盔和三个金手镯于 2025 年 1 月被盗，但其中一个手镯尚未找到。",
-      "url": "https://www.bbc.com/news/articles/cpvxj4jzvvvo?at_medium=RSS&at_campaign=rss",
-      "resolvedUrl": "https://www.bbc.com/news/articles/cpvxj4jzvvvo?at_medium=RSS&at_campaign=rss",
+      "title": "伊朗诺贝尔奖得主家人称在狱中疑似心脏病发作",
+      "summary": "纳尔吉斯·穆罕默迪的兄弟说，他担心她的生命面临迫在眉睫的危险，需要将她转移到医院。",
+      "url": "https://www.bbc.com/news/articles/cdj7xye8knxo?at_medium=RSS&at_campaign=rss",
+      "resolvedUrl": "https://www.bbc.com/news/articles/cdj7xye8knxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "time": "2026-04-02",
-      "publishedAt": "2026-04-02T22:20:02+08:00",
-      "originalTime": "Thu, 02 Apr 2026 14:20:02 GMT",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T00:00:58+08:00",
+      "originalTime": "Thu, 02 Apr 2026 16:00:58 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "BBC"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "公司表示，伊朗最大的两家钢铁厂因空袭而关闭",
+      "summary": "伊朗称，这些袭击是以色列上周与美国协调首次发动的，可能对伊朗经济造成重大损害。",
+      "url": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
+      "resolvedUrl": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T01:01:08+08:00",
+      "originalTime": "Thu, 02 Apr 2026 17:01:08 GMT",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 0,
@@ -163,14 +253,14 @@
     },
     {
       "category": "国际秩序",
-      "title": "人权组织和密尔沃基领导人猛烈抨击 ICE 逮捕巴勒斯坦倡导者",
-      "summary": "据报道，密尔沃基伊斯兰协会主席萨拉·萨尔苏尔 (Salah Sarsour) 3 月 30 日在开车时被拘留。",
-      "url": "https://www.aljazeera.com/news/2026/4/2/rights-groups-milwaukee-leaders-slam-ices-arrest-of-palestinian-advocate?traffic_source=rss",
-      "resolvedUrl": "https://www.aljazeera.com/news/2026/4/2/rights-groups-milwaukee-leaders-slam-ices-arrest-of-palestinian-advocate?traffic_source=rss",
+      "title": "亚马尔猛烈抨击反穆斯林球迷的口号，西班牙世界杯决赛的希望被玷污",
+      "summary": "拉明·亚马尔谴责埃及友谊赛中的仇外球迷，此时西班牙正在努力确保 2030 年世界杯决赛的胜利。",
+      "url": "https://www.aljazeera.com/sports/2026/4/2/yamal-slams-anti-muslim-fan-chants-as-spains-world-cup-final-hopes-tainted?traffic_source=rss",
+      "resolvedUrl": "https://www.aljazeera.com/sports/2026/4/2/yamal-slams-anti-muslim-fan-chants-as-spains-world-cup-final-hopes-tainted?traffic_source=rss",
       "source": "Al Jazeera",
       "time": "2026-04-03",
-      "publishedAt": "2026-04-03T06:45:48+08:00",
-      "originalTime": "Thu, 02 Apr 2026 22:45:48 +0000",
+      "publishedAt": "2026-04-03T03:50:38+08:00",
+      "originalTime": "Thu, 02 Apr 2026 19:50:38 +0000",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 0,
@@ -181,128 +271,20 @@
     },
     {
       "category": "国际秩序",
-      "title": "波斯尼亚队战胜意大利队晋级世界杯，欢呼雀跃",
-      "summary": "波斯尼亚和黑塞哥维那戏剧性地战胜意大利，引发了从泽尼察到萨拉热窝的疯狂庆祝活动，并唤起了人们的回忆。",
-      "url": "https://www.aljazeera.com/sports/2026/4/2/unbridled-bosnian-joy-marks-world-cup-qualification-win-over-italy?traffic_source=rss",
-      "resolvedUrl": "https://www.aljazeera.com/sports/2026/4/2/unbridled-bosnian-joy-marks-world-cup-qualification-win-over-italy?traffic_source=rss",
+      "title": "巴萨6-0皇马晋级女足欧冠半决赛",
+      "summary": "巴塞罗那以总比分 12-2 击败劲敌皇家马德里，晋级女足欧冠四强。",
+      "url": "https://www.aljazeera.com/sports/2026/4/2/barcelona-thump-real-madrid-6-0-to-reach-champions-league-final?traffic_source=rss",
+      "resolvedUrl": "https://www.aljazeera.com/sports/2026/4/2/barcelona-thump-real-madrid-6-0-to-reach-champions-league-final?traffic_source=rss",
       "source": "Al Jazeera",
       "time": "2026-04-03",
-      "publishedAt": "2026-04-03T05:25:28+08:00",
-      "originalTime": "Thu, 02 Apr 2026 21:25:28 +0000",
+      "publishedAt": "2026-04-03T03:50:29+08:00",
+      "originalTime": "Thu, 02 Apr 2026 19:50:29 +0000",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 0,
       "tags": [
         "国际秩序",
         "Al Jazeera"
-      ]
-    },
-    {
-      "category": "国际秩序",
-      "title": "教皇利奥在首次复活节礼拜中谴责世界的“野蛮行径”",
-      "summary": "教皇利奥在仪式上为 12 名牧师洗脚，利用这一时刻敦促天主教徒与受压迫者站在一起。",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/pope-leo-condemns-brutality-of-world-in-first-easter-services?traffic_source=rss",
-      "resolvedUrl": "https://www.aljazeera.com/video/newsfeed/2026/4/2/pope-leo-condemns-brutality-of-world-in-first-easter-services?traffic_source=rss",
-      "source": "Al Jazeera",
-      "time": "2026-04-03",
-      "publishedAt": "2026-04-03T05:24:26+08:00",
-      "originalTime": "Thu, 02 Apr 2026 21:24:26 +0000",
-      "isHistorical": false,
-      "timeline": "最新动态",
-      "ageDays": 0,
-      "tags": [
-        "国际秩序",
-        "Al Jazeera"
-      ]
-    },
-    {
-      "category": "国际秩序",
-      "title": "9 岁男孩讲述黎巴嫩空袭导致全家遇难的经历",
-      "summary": "卡里姆·阿尔·哈吉·侯赛因 (Karim Al-Haj Hussein) 在黎巴嫩巴勒贝克的家遭到以色列袭击，他的家人被杀，他幸免于难。",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/9-year-old-boy-recounts-airstrike-in-lebanon-that-killed-whole-family?traffic_source=rss",
-      "resolvedUrl": "https://www.aljazeera.com/video/newsfeed/2026/4/2/9-year-old-boy-recounts-airstrike-in-lebanon-that-killed-whole-family?traffic_source=rss",
-      "source": "Al Jazeera",
-      "time": "2026-04-03",
-      "publishedAt": "2026-04-03T05:22:53+08:00",
-      "originalTime": "Thu, 02 Apr 2026 21:22:53 +0000",
-      "isHistorical": false,
-      "timeline": "最新动态",
-      "ageDays": 0,
-      "tags": [
-        "国际秩序",
-        "Al Jazeera"
-      ]
-    },
-    {
-      "category": "国际秩序",
-      "title": "伊朗战争拖延，石油冲击引发全球价格飙升",
-      "summary": "随着霍尔木兹海峡的中断推高价格，美以对伊朗的战争造成的燃料冲击正在全球范围内蔓延。",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/oil-shock-triggers-global-price-spikes-as-iran-war-drags-on?traffic_source=rss",
-      "resolvedUrl": "https://www.aljazeera.com/video/newsfeed/2026/4/2/oil-shock-triggers-global-price-spikes-as-iran-war-drags-on?traffic_source=rss",
-      "source": "Al Jazeera",
-      "time": "2026-04-03",
-      "publishedAt": "2026-04-03T05:04:35+08:00",
-      "originalTime": "Thu, 02 Apr 2026 21:04:35 +0000",
-      "isHistorical": false,
-      "timeline": "最新动态",
-      "ageDays": 0,
-      "tags": [
-        "国际秩序",
-        "Al Jazeera"
-      ]
-    },
-    {
-      "category": "国际秩序",
-      "title": "乌干达根据第三国协议接收首架美国驱逐航班",
-      "summary": "数十人根据新协议抵达，但预计将面临法律挑战，该计划被批评为“非人化过程”。随着唐纳德·特朗普政府继续推行将移民驱逐到与他们没有联系的国家的战略，一架载有被美国驱逐出境的人的航班已降落在乌干达。一位不愿透露姓名的乌干达政府高级官员告诉路透社，被驱逐的人将留在东非国家，作为“可能继续传播到其他国家的过渡阶段”。继续阅读...",
-      "url": "https://www.theguardian.com/us-news/2026/apr/02/uganda-receives-first-us-deportation-flight-under-third-country-agreement",
-      "resolvedUrl": "https://www.theguardian.com/us-news/2026/apr/02/uganda-receives-first-us-deportation-flight-under-third-country-agreement",
-      "source": "The Guardian",
-      "time": "2026-04-03",
-      "publishedAt": "2026-04-03T00:37:12+08:00",
-      "originalTime": "Thu, 02 Apr 2026 16:37:12 GMT",
-      "isHistorical": false,
-      "timeline": "最新动态",
-      "ageDays": 0,
-      "tags": [
-        "国际秩序",
-        "The Guardian"
-      ]
-    },
-    {
-      "category": "国际秩序",
-      "title": "加拿大广播公司揭露魁北克省涉嫌枫糖浆骗局",
-      "summary": "加拿大广播电台的一名记者注意到他的枫糖浆味道很奇怪；测试显示其掺有蔗糖 加拿大国家广播公司的一项调查发现，魁北克一家主要生产商一直在用蔗糖稀释其枫糖浆，并将欺诈产品出售给杂货连锁店。在一次涉及虚假身份和秘密录音的诱捕行动中，加拿大广播电台 Enquête 节目的记者发现，主要连锁杂货店出售的低成本糖浆被严重稀释。继续阅读...",
-      "url": "https://www.theguardian.com/world/2026/apr/02/maple-syrup-scam-quebec-canada",
-      "resolvedUrl": "https://www.theguardian.com/world/2026/apr/02/maple-syrup-scam-quebec-canada",
-      "source": "The Guardian",
-      "time": "2026-04-03",
-      "publishedAt": "2026-04-03T03:07:20+08:00",
-      "originalTime": "Thu, 02 Apr 2026 19:07:20 GMT",
-      "isHistorical": false,
-      "timeline": "最新动态",
-      "ageDays": 0,
-      "tags": [
-        "国际秩序",
-        "The Guardian"
-      ]
-    },
-    {
-      "category": "财经",
-      "title": "今日开盘：两市双双低开 沪指跌幅0.20%",
-      "summary": "今日开盘：两市双双低开 沪指跌幅0.20% 财新网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rMDVmSGZpZjNPWGFKRkpFZ0x5WjVUMU9jSU41cHoxRDNmaGNlNEpYVGh3VmI4YUswSGY0S3I3TXk3aDZKUTl1eHdaaTZMUmY5cmkzSU9NODJtVWhVbGcxcktR?oc=5",
-      "resolvedUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rMDVmSGZpZjNPWGFKRkpFZ0x5WjVUMU9jSU41cHoxRDNmaGNlNEpYVGh3VmI4YUswSGY0S3I3TXk3aDZKUTl1eHdaaTZMUmY5cmkzSU9NODJtVWhVbGcxcktR?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "source": "财新网",
-      "time": "2026-04-02",
-      "publishedAt": "2026-04-02T09:29:00+08:00",
-      "originalTime": "Thu, 02 Apr 2026 01:29:00 GMT",
-      "isHistorical": false,
-      "timeline": "最新动态",
-      "ageDays": 1,
-      "tags": [
-        "财经",
-        "财新网"
       ]
     },
     {
@@ -333,6 +315,24 @@
       "time": "2026-04-02",
       "publishedAt": "2026-04-02T17:25:00+08:00",
       "originalTime": "Thu, 02 Apr 2026 09:25:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "财经",
+        "财新网"
+      ]
+    },
+    {
+      "category": "财经",
+      "title": "今日开盘：两市双双低开 沪指跌幅0.20%",
+      "summary": "今日开盘：两市双双低开 沪指跌幅0.20% 财新网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rMDVmSGZpZjNPWGFKRkpFZ0x5WjVUMU9jSU41cHoxRDNmaGNlNEpYVGh3VmI4YUswSGY0S3I3TXk3aDZKUTl1eHdaaTZMUmY5cmkzSU9NODJtVWhVbGcxcktR?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rMDVmSGZpZjNPWGFKRkpFZ0x5WjVUMU9jSU41cHoxRDNmaGNlNEpYVGh3VmI4YUswSGY0S3I3TXk3aDZKUTl1eHdaaTZMUmY5cmkzSU9NODJtVWhVbGcxcktR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source": "财新网",
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T09:29:00+08:00",
+      "originalTime": "Thu, 02 Apr 2026 01:29:00 GMT",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 1,
@@ -379,32 +379,14 @@
     },
     {
       "category": "财经",
-      "title": "中信建投：2026年二季度行业应当如何配置？",
-      "summary": "中信建投：2026年二季度行业应当如何配置？ 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPa2EyVUZpcWZSTWVWb3RiV2JtQzVfczFMN1NiQ2ltWUFURkN5NW9YZnBZNU9rVUlNOEg0NHl2aWx5Qjg5MTJfd01PSTA5NTlaRnNiQW83UTRGVUJnekZMdDdfcERmOGZmTVp6dVVzeFBsbm5uOUZtNC1MZDA0NkF2UHZzYUk0bS1CRXdnN3FESVViUWppN1NkeFRIVko3LVNObzRDcDZ2Qmw1Ujk5Z3JxNUpBaWlpT2RfSFJZbnlkT0JJOUpEVlhscjI4Z2RYWE1BeTFEa1NGUzJqcTBPLW5XdFNJMUlxaEo0bmxQVjd5R2hmbmRwQlphc19qelpkZw?oc=5",
-      "resolvedUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPa2EyVUZpcWZSTWVWb3RiV2JtQzVfczFMN1NiQ2ltWUFURkN5NW9YZnBZNU9rVUlNOEg0NHl2aWx5Qjg5MTJfd01PSTA5NTlaRnNiQW83UTRGVUJnekZMdDdfcERmOGZmTVp6dVVzeFBsbm5uOUZtNC1MZDA0NkF2UHZzYUk0bS1CRXdnN3FESVViUWppN1NkeFRIVko3LVNObzRDcDZ2Qmw1Ujk5Z3JxNUpBaWlpT2RfSFJZbnlkT0JJOUpEVlhscjI4Z2RYWE1BeTFEa1NGUzJqcTBPLW5XdFNJMUlxaEo0bmxQVjd5R2hmbmRwQlphc19qelpkZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "source": "新浪财经",
-      "time": "2026-04-03",
-      "publishedAt": "2026-04-03T06:38:40+08:00",
-      "originalTime": "Thu, 02 Apr 2026 22:38:40 GMT",
-      "isHistorical": false,
-      "timeline": "最新动态",
-      "ageDays": 0,
-      "tags": [
-        "财经",
-        "新浪财经"
-      ]
-    },
-    {
-      "category": "财经",
-      "title": "三月份就业报告将于周五发布。这是值得期待的",
-      "summary": "美国经济预计 3 月份将增加 59,000 个就业岗位，失业率保持在 4.4%。",
-      "url": "https://www.cnbc.com/2026/04/02/the-march-jobs-report-will-be-released-on-friday-heres-what-to-expect.html",
-      "resolvedUrl": "https://www.cnbc.com/2026/04/02/the-march-jobs-report-will-be-released-on-friday-heres-what-to-expect.html",
+      "title": "特朗普“解放日”一年后，全球投资者正在重新思考美国例外论",
+      "summary": "一位市场观察人士告诉 CNBC，全球投资者“不再自动”接受美国例外论。",
+      "url": "https://www.cnbc.com/2026/04/02/liberation-day-1-year-on-investors-are-rethinking-us-assets.html",
+      "resolvedUrl": "https://www.cnbc.com/2026/04/02/liberation-day-1-year-on-investors-are-rethinking-us-assets.html",
       "source": "CNBC",
       "time": "2026-04-03",
-      "publishedAt": "2026-04-03T04:04:41+08:00",
-      "originalTime": "Thu, 02 Apr 2026 20:04:41 GMT",
+      "publishedAt": "2026-04-03T04:46:52+08:00",
+      "originalTime": "Thu, 02 Apr 2026 20:46:52 GMT",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 0,
@@ -415,14 +397,14 @@
     },
     {
       "category": "财经",
-      "title": "特朗普解雇司法部长帕姆·邦迪",
-      "summary": "据说特朗普总统对帕姆·邦迪处理司法部有关杰弗里·爱泼斯坦的文件以及司法部未能起诉他的政敌的行为感到不满。",
-      "url": "https://www.cnbc.com/2026/04/02/trump-pam-bondi-attorney-general-lee-zeldin.html",
-      "resolvedUrl": "https://www.cnbc.com/2026/04/02/trump-pam-bondi-attorney-general-lee-zeldin.html",
+      "title": "SpaceX 的 IPO 可能是有史以来规模最大的公开发行——专家介绍投资前须知",
+      "summary": "埃隆·马斯克 (Elon Musk) 的火箭和卫星公司有望成为美国历史上规模最大的公开募股。",
+      "url": "https://www.cnbc.com/2026/04/02/how-to-invest-initial-public-offering.html",
+      "resolvedUrl": "https://www.cnbc.com/2026/04/02/how-to-invest-initial-public-offering.html",
       "source": "CNBC",
       "time": "2026-04-03",
-      "publishedAt": "2026-04-03T04:32:48+08:00",
-      "originalTime": "Thu, 02 Apr 2026 20:32:48 GMT",
+      "publishedAt": "2026-04-03T02:01:08+08:00",
+      "originalTime": "Thu, 02 Apr 2026 18:01:08 GMT",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 0,
@@ -433,14 +415,14 @@
     },
     {
       "category": "财经",
-      "title": "伊朗和阿曼起草协议以“监控”霍尔木兹海峡交通：IRNA",
-      "summary": "自二月底伊朗战争爆发以来，全球石油运输的重要动脉霍尔木兹海峡实际上已被关闭。",
-      "url": "https://www.cnbc.com/2026/04/02/iran-war-oman-hormuz-strait.html",
-      "resolvedUrl": "https://www.cnbc.com/2026/04/02/iran-war-oman-hormuz-strait.html",
+      "title": "伊朗战争推高能源价格 亚马逊将向卖家增加3.5%的燃油和物流附加费",
+      "summary": "随着伊朗战争进入第五周，亚马逊表示将向美国和加拿大的第三方卖家增加 3.5% 的燃油和物流附加费。",
+      "url": "https://www.cnbc.com/2026/04/02/amazon-add-3point5percent-fuel-and-logistics-surcharge-for-sellers-amid-iran-war.html",
+      "resolvedUrl": "https://www.cnbc.com/2026/04/02/amazon-add-3point5percent-fuel-and-logistics-surcharge-for-sellers-amid-iran-war.html",
       "source": "CNBC",
       "time": "2026-04-03",
-      "publishedAt": "2026-04-03T02:46:52+08:00",
-      "originalTime": "Thu, 02 Apr 2026 18:46:52 GMT",
+      "publishedAt": "2026-04-03T02:59:44+08:00",
+      "originalTime": "Thu, 02 Apr 2026 18:59:44 GMT",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 0,
@@ -451,14 +433,14 @@
     },
     {
       "category": "财经",
-      "title": "由于燃油价格持续上涨，联合航空将托运行李费上调 10 美元",
-      "summary": "联合航空成为一周内第二家提高托运行李费的美国航空公司，该行业正在努力应对航空燃油成本上涨超过 80% 的问题。",
-      "url": "https://www.cnbc.com/2026/04/02/united-airlines-raises-checked-bag-fees-fuel-prices-climb.html",
-      "resolvedUrl": "https://www.cnbc.com/2026/04/02/united-airlines-raises-checked-bag-fees-fuel-prices-climb.html",
+      "title": "特朗普政府对部分进口药品征收高达100%的关税，许多公司获得豁免",
+      "summary": "特朗普政府正准备对尚未与总统达成协议以降低美国药品价格的制药商征收新关税。",
+      "url": "https://www.cnbc.com/2026/04/02/trump-pharmaceutical-tariffs-100percent.html",
+      "resolvedUrl": "https://www.cnbc.com/2026/04/02/trump-pharmaceutical-tariffs-100percent.html",
       "source": "CNBC",
       "time": "2026-04-03",
-      "publishedAt": "2026-04-03T06:11:06+08:00",
-      "originalTime": "Thu, 02 Apr 2026 22:11:06 GMT",
+      "publishedAt": "2026-04-03T05:11:48+08:00",
+      "originalTime": "Thu, 02 Apr 2026 21:11:48 GMT",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 0,
@@ -469,14 +451,14 @@
     },
     {
       "category": "财经",
-      "title": "华纳、希夫调查政府潜在的内幕交易",
-      "summary": "议员们还引用了最近的一份报告，称一名与 Pete Hegseth 相关的经纪人在 2 月份寻求对与国防相关的 ETF 进行数百万美元的投资。",
-      "url": "https://www.cnbc.com/2026/04/02/hegseth-trump-mark-warner-adam-schiff-insider-trading-probe.html",
-      "resolvedUrl": "https://www.cnbc.com/2026/04/02/hegseth-trump-mark-warner-adam-schiff-insider-trading-probe.html",
+      "title": "特朗普伊朗战争言论引发对局势进一步升级的担忧，美国油价飙升11%",
+      "summary": "特朗普在就伊朗战争向全国发表讲话时表示，他预计冲突将再持续两到三周，油价飙升。",
+      "url": "https://www.cnbc.com/2026/04/02/oil-prices-today-wti-brent-trump-speech-iran-war-.html",
+      "resolvedUrl": "https://www.cnbc.com/2026/04/02/oil-prices-today-wti-brent-trump-speech-iran-war-.html",
       "source": "CNBC",
       "time": "2026-04-03",
-      "publishedAt": "2026-04-03T06:19:31+08:00",
-      "originalTime": "Thu, 02 Apr 2026 22:19:31 GMT",
+      "publishedAt": "2026-04-03T02:56:19+08:00",
+      "originalTime": "Thu, 02 Apr 2026 18:56:19 GMT",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 0,
@@ -487,128 +469,38 @@
     },
     {
       "category": "财经",
-      "title": "泰格·伍兹在酒驾事故后给特朗普打电话，他通过随身摄像头视频告诉警察",
-      "summary": "上周，高尔夫球手泰格·伍兹在佛罗里达州朱庇特发生车祸后，特朗普总统称他为亲密朋友。伍兹正在与小唐纳德·特朗普的前妻约会。",
-      "url": "https://www.cnbc.com/2026/04/02/tiger-woods-trump-call-dui-crash-video.html",
-      "resolvedUrl": "https://www.cnbc.com/2026/04/02/tiger-woods-trump-call-dui-crash-video.html",
-      "source": "CNBC",
+      "title": "特朗普威胁对不达成协议降低价格的美国制药商征收 100% 关税",
+      "summary": "新税将针对品牌药物和活性成分，同时豁免仿制药至少一年 订阅《美国突发新闻》电子邮件，在收件箱中获取时事通讯提醒 唐纳德·特朗普威胁对尚未达成降低美国药品价格协议的制药公司征收 100% 关税。新关税仅适用于品牌药物及其活性成分。占美国销售药品90%以上的仿制药将获得至少一年的关税豁免。孤儿药、兽药和其他特殊药物如果来自贸易协定国家或满足紧急公共卫生需求，则可以豁免。继续阅读...",
+      "url": "https://www.theguardian.com/us-news/2026/apr/02/trump-100-tariff-us-pharmaceutical-drug-makers",
+      "resolvedUrl": "https://www.theguardian.com/us-news/2026/apr/02/trump-100-tariff-us-pharmaceutical-drug-makers",
+      "source": "The Guardian",
       "time": "2026-04-03",
-      "publishedAt": "2026-04-03T07:41:36+08:00",
-      "originalTime": "Thu, 02 Apr 2026 23:41:36 GMT",
+      "publishedAt": "2026-04-03T05:33:24+08:00",
+      "originalTime": "Thu, 02 Apr 2026 21:33:24 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "财经",
+        "The Guardian"
+      ]
+    },
+    {
+      "category": "财经",
+      "title": "星巴克向咖啡师发放奖金，扩大小费以促进扭亏为盈",
+      "summary": "星巴克正处于转型之中，专注于改善客户和员工体验。",
+      "url": "https://www.cnbc.com/2026/04/02/starbucks-to-award-bonuses-to-baristas-expand-tipping.html",
+      "resolvedUrl": "https://www.cnbc.com/2026/04/02/starbucks-to-award-bonuses-to-baristas-expand-tipping.html",
+      "source": "CNBC",
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T23:32:10+08:00",
+      "originalTime": "Thu, 02 Apr 2026 15:32:10 GMT",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 0,
       "tags": [
         "财经",
         "CNBC"
-      ]
-    },
-    {
-      "category": "体育",
-      "title": "老虎告诉副手：“我只是在和总统谈话”",
-      "summary": "周四公布的随身摄像机镜头显示，泰格·伍兹上周在佛罗里达州撞毁了他的SUV后，拿出手机告诉一名副手，“我只是在和总统通话”，该视频显示这位高尔夫球手因酒驾指控被捕。",
-      "url": "https://www.espn.com/golf/story/_/id/48378214/bodycam-shows-tiger-woods-surprised-dui-arrest",
-      "resolvedUrl": "https://www.espn.com/golf/story/_/id/48378214/bodycam-shows-tiger-woods-surprised-dui-arrest",
-      "source": "ESPN",
-      "time": "2026-04-03",
-      "publishedAt": "2026-04-03T06:48:31+08:00",
-      "originalTime": "Thu, 2 Apr 2026 17:48:31 EST",
-      "isHistorical": false,
-      "timeline": "最新动态",
-      "ageDays": 0,
-      "tags": [
-        "体育",
-        "ESPN"
-      ]
-    },
-    {
-      "category": "体育",
-      "title": "菲尔因家庭健康问题缺席大师赛",
-      "summary": "菲尔·米克尔森周四宣布，他不会参加下周的大师赛，并将缺席较长一段时间，因为他的家人继续“处理个人健康问题”。",
-      "url": "https://www.espn.com/golf/story/_/id/48379971/phil-mickelson-miss-masters-personal-health-matter",
-      "resolvedUrl": "https://www.espn.com/golf/story/_/id/48379971/phil-mickelson-miss-masters-personal-health-matter",
-      "source": "ESPN",
-      "time": "2026-04-03",
-      "publishedAt": "2026-04-03T06:48:31+08:00",
-      "originalTime": "Thu, 2 Apr 2026 17:48:31 EST",
-      "isHistorical": false,
-      "timeline": "最新动态",
-      "ageDays": 0,
-      "tags": [
-        "体育",
-        "ESPN"
-      ]
-    },
-    {
-      "category": "体育",
-      "title": "两届全职业球员、2019 年 DPOY 吉尔摩退役",
-      "summary": "两届全职业角卫斯蒂芬·吉尔摩宣布从 NFL 退役。",
-      "url": "https://www.espn.com/nfl/story/_/id/48380010/two-all-pro-2019-dpoy-stephon-gilmore-retires-nfl",
-      "resolvedUrl": "https://www.espn.com/nfl/story/_/id/48380010/two-all-pro-2019-dpoy-stephon-gilmore-retires-nfl",
-      "source": "ESPN",
-      "time": "2026-04-03",
-      "publishedAt": "2026-04-03T06:48:31+08:00",
-      "originalTime": "Thu, 2 Apr 2026 17:48:31 EST",
-      "isHistorical": false,
-      "timeline": "最新动态",
-      "ageDays": 0,
-      "tags": [
-        "体育",
-        "ESPN"
-      ]
-    },
-    {
-      "category": "体育",
-      "title": "不是一个多任务处理者：劳埃德专注于 Zona，而不是 UNC",
-      "summary": "亚利桑那州主教练汤米·劳埃德表示，他不是一个“多任务处理者”，因为有传言称他将参加北卡罗来纳州的揭幕战，因为他的球队准备在周六的四强赛中对阵密歇根州。",
-      "url": "https://www.espn.com/mens-college-basketball/story/_/id/48380222/not-multitasker-lloyd-focusing-arizona-not-north-carolina",
-      "resolvedUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48380222/not-multitasker-lloyd-focusing-arizona-not-north-carolina",
-      "source": "ESPN",
-      "time": "2026-04-03",
-      "publishedAt": "2026-04-03T06:48:31+08:00",
-      "originalTime": "Thu, 2 Apr 2026 17:48:31 EST",
-      "isHistorical": false,
-      "timeline": "最新动态",
-      "ageDays": 0,
-      "tags": [
-        "体育",
-        "ESPN"
-      ]
-    },
-    {
-      "category": "体育",
-      "title": "卡多重返密歇根大学，过敏反应后“很好”",
-      "summary": "密歇根州首发控球后卫埃利奥特·卡多在四强赛中重新与队友会合，他周四表示，他因意外接触坚果而出现过敏反应，需要在一天前住院治疗。",
-      "url": "https://www.espn.com/mens-college-basketball/story/_/id/48380065/elliot-cadeau-rejoins-wolverines-allergic-reaction",
-      "resolvedUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48380065/elliot-cadeau-rejoins-wolverines-allergic-reaction",
-      "source": "ESPN",
-      "time": "2026-04-03",
-      "publishedAt": "2026-04-03T06:48:31+08:00",
-      "originalTime": "Thu, 2 Apr 2026 17:48:31 EST",
-      "isHistorical": false,
-      "timeline": "最新动态",
-      "ageDays": 0,
-      "tags": [
-        "体育",
-        "ESPN"
-      ]
-    },
-    {
-      "category": "体育",
-      "title": "鲍尔随小联盟鸭队返回美国",
-      "summary": "前赛扬奖得主特雷弗·鲍尔 (Trevor Bauer) 已与大西洋联盟长岛鸭队签约，并计划为这支小联盟球队于 4 月 21 日揭幕战上场。",
-      "url": "https://www.espn.com/mlb/story/_/id/48378454/trevor-bauer-signs-long-island-ducks-us-return",
-      "resolvedUrl": "https://www.espn.com/mlb/story/_/id/48378454/trevor-bauer-signs-long-island-ducks-us-return",
-      "source": "ESPN",
-      "time": "2026-04-03",
-      "publishedAt": "2026-04-03T06:48:31+08:00",
-      "originalTime": "Thu, 2 Apr 2026 17:48:31 EST",
-      "isHistorical": false,
-      "timeline": "最新动态",
-      "ageDays": 0,
-      "tags": [
-        "体育",
-        "ESPN"
       ]
     },
     {
@@ -631,20 +523,128 @@
     },
     {
       "category": "体育",
-      "title": "托特纳姆热刺主教练罗伯托·德泽尔比为过去对梅森·格林伍德的评论道歉",
-      "summary": "热刺主教练表示，“我无意表明立场” 球迷群体反对德泽尔比的任命 新托特纳姆热刺主教练罗伯托·德泽尔比为他过去对梅森·格林伍德的言论道歉，并表示他永远不会故意淡化针对女性的暴力行为。托特纳姆热刺队支持者信托基金（THST）周二强烈批评了意大利人的任命，并在他被确认签署了一份为期五年的协议以取代临时主教练伊戈尔·都铎后不久发表了一份声明，表达了“严重而深远的担忧”。继续阅读...",
-      "url": "https://www.theguardian.com/football/2026/apr/02/roberto-de-zerbi-apologises-mason-greenwood-comments-tottenham",
-      "resolvedUrl": "https://www.theguardian.com/football/2026/apr/02/roberto-de-zerbi-apologises-mason-greenwood-comments-tottenham",
-      "source": "The Guardian",
+      "title": "“如果没有视频，没有人会相信”：记住兰迪·约翰逊的鸟球",
+      "summary": "2001 年，棒球运动的第一个病毒式传播时刻发生在春季训练场上。在场的人们重温了“羽毛海”游戏。",
+      "url": "https://www.espn.com/mlb/story/_/id/48356185/mlb-2026-randy-johnson-pitch-strikes-bird-25-anniversary-arizona-diamondbacks",
+      "resolvedUrl": "https://www.espn.com/mlb/story/_/id/48356185/mlb-2026-randy-johnson-pitch-strikes-bird-25-anniversary-arizona-diamondbacks",
+      "source": "ESPN",
       "time": "2026-04-03",
-      "publishedAt": "2026-04-03T02:42:37+08:00",
-      "originalTime": "Thu, 02 Apr 2026 18:42:37 GMT",
+      "publishedAt": "2026-04-03T06:05:51+08:00",
+      "originalTime": "Thu, 2 Apr 2026 17:05:51 EST",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 0,
       "tags": [
         "体育",
-        "The Guardian"
+        "ESPN"
+      ]
+    },
+    {
+      "category": "体育",
+      "title": "关于科怀·伦纳德、史蒂夫·鲍尔默以及 NBA 对洛杉矶快船队的调查的最新消息",
+      "summary": "伦纳德的合同到底写了什么？联盟内部人士对此有何看法？以下是我们对这些指控的了解以及调查的进展情况。",
+      "url": "https://www.espn.com/nba/story/_/id/48369328/the-latest-kawhi-leonard-steve-ballmer-nba-investigation-aspiration-la-clippers",
+      "resolvedUrl": "https://www.espn.com/nba/story/_/id/48369328/the-latest-kawhi-leonard-steve-ballmer-nba-investigation-aspiration-la-clippers",
+      "source": "ESPN",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T06:36:57+08:00",
+      "originalTime": "Thu, 2 Apr 2026 17:36:57 EST",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "体育",
+        "ESPN"
+      ]
+    },
+    {
+      "category": "体育",
+      "title": "康纳·格里芬即将进军大联盟！关于海盗队的 19 岁球员你需要了解什么",
+      "summary": "匹兹堡正在征召美国职业棒球大联盟的第一号新秀。这就是游击手如此特别的原因。",
+      "url": "https://www.espn.com/mlb/story/_/id/48377713/mlb-2026-konnor-griffin-pittsburgh-pirates-no-1-prospect-debut-scouting-report",
+      "resolvedUrl": "https://www.espn.com/mlb/story/_/id/48377713/mlb-2026-konnor-griffin-pittsburgh-pirates-no-1-prospect-debut-scouting-report",
+      "source": "ESPN",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T06:43:37+08:00",
+      "originalTime": "Thu, 2 Apr 2026 17:43:37 EST",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "体育",
+        "ESPN"
+      ]
+    },
+    {
+      "category": "体育",
+      "title": "您的男子四强指南：伊利诺伊州-康涅狄格大学、亚利桑那州-密歇根州（带预测！）",
+      "summary": "我们详细介绍了每支球队晋级冠军赛的关键——以及他们潜在的致命缺陷。",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/48373475/march-madness-final-four-arizona-michigan-uconn-illinois-predictions-2026",
+      "resolvedUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48373475/march-madness-final-four-arizona-michigan-uconn-illinois-predictions-2026",
+      "source": "ESPN",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T07:03:57+08:00",
+      "originalTime": "Thu, 2 Apr 2026 18:03:57 EST",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "体育",
+        "ESPN"
+      ]
+    },
+    {
+      "category": "体育",
+      "title": "球探们争论 NBA 选秀中的顶尖球员：彼得森还是迪班萨排名第一？",
+      "summary": "适合胜过天赋？多功能性优于生产？ NBA 球探和高管们对选秀状元期间发生的对话进行了详细分析。",
+      "url": "https://www.espn.com/nba/story/_/id/48358749/nba-draft-2026-dybantsa-peterson-boozer-wagler-scouts-execs-top-5",
+      "resolvedUrl": "https://www.espn.com/nba/story/_/id/48358749/nba-draft-2026-dybantsa-peterson-boozer-wagler-scouts-execs-top-5",
+      "source": "ESPN",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T08:21:59+08:00",
+      "originalTime": "Thu, 2 Apr 2026 19:21:59 EST",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "体育",
+        "ESPN"
+      ]
+    },
+    {
+      "category": "体育",
+      "title": "Brandon Bussi 的兄弟 Dylan 如何继续激励他的 NHL 之旅",
+      "summary": "这位 27 岁的守门员在飓风队度过了破纪录的首个赛季，他的脑海里仍然挂着他的兄弟。",
+      "url": "https://www.espn.com/nhl/story/_/id/48369864/nhl-2025-26-brandon-bussi-carolina-hurricanes-goalie-brother-autism",
+      "resolvedUrl": "https://www.espn.com/nhl/story/_/id/48369864/nhl-2025-26-brandon-bussi-carolina-hurricanes-goalie-brother-autism",
+      "source": "ESPN",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T07:59:57+08:00",
+      "originalTime": "Thu, 2 Apr 2026 18:59:57 EST",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "体育",
+        "ESPN"
+      ]
+    },
+    {
+      "category": "体育",
+      "title": "巴塞罗那对阵马德里，闯入欧冠半决赛",
+      "summary": "巴塞罗那队在诺坎普球场以6比0击败皇家马德里队，以总比分12比2晋级女足欧冠半决赛，与拜仁慕尼黑队打平。",
+      "url": "https://www.bbc.com/sport/football/videos/czexyr1zkywo?at_medium=RSS&at_campaign=rss",
+      "resolvedUrl": "https://www.bbc.com/sport/football/videos/czexyr1zkywo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T03:29:56+08:00",
+      "originalTime": "Thu, 02 Apr 2026 19:29:56 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "体育",
+        "BBC"
       ]
     },
     {
@@ -687,20 +687,20 @@
     },
     {
       "category": "国内国际民生",
-      "title": "长春工大健康帮扶项目入选教育部精准帮扶典型项目",
-      "summary": "长春工大健康帮扶项目入选教育部精准帮扶典型项目 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUmExSXdNUUpkUVRrbkVrdTAtZFRNQmgyUWZ5UWhTeEZMTW5QUXpFT19pc3AzTlNMcW1UOHVHQW9UanRxOG9oVDNJb0NJNTdCREZDNXF5TGRZLVpUVVhSVlZHMzNReWRNaFhBMDdpcnZOUlNKSUFzY2xYT3RES05yNTYwZkhCVnNi?oc=5",
-      "resolvedUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUmExSXdNUUpkUVRrbkVrdTAtZFRNQmgyUWZ5UWhTeEZMTW5QUXpFT19pc3AzTlNMcW1UOHVHQW9UanRxOG9oVDNJb0NJNTdCREZDNXF5TGRZLVpUVVhSVlZHMzNReWRNaFhBMDdpcnZOUlNKSUFzY2xYT3RES05yNTYwZkhCVnNi?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "source": "搜狐网",
+      "title": "北京市文物局关于在全国重点文物保护单位北平图书馆旧址保护范围内实施国家图书馆古籍馆电力增容改造项目的复函",
+      "summary": "北京市文物局关于在全国重点文物保护单位北平图书馆旧址保护范围内实施国家图书馆古籍馆电力增容改造项目的复函 wwj.beijing.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WZk5SSXJxWWVJZ1pRZDE3VklzRUI5dUFTR2hPSkE2QUNab3kyYXZLT1FVc3NBandNQnhOelYyejduZmZ5SkZEWWRBclVGdFQ2UTRMZ2dYSndUZFRkQjhoNFlTOXlrVnMtRVk1dE1JMjhYeGl0ZGltRGtKUUxxUQ?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WZk5SSXJxWWVJZ1pRZDE3VklzRUI5dUFTR2hPSkE2QUNab3kyYXZLT1FVc3NBandNQnhOelYyejduZmZ5SkZEWWRBclVGdFQ2UTRMZ2dYSndUZFRkQjhoNFlTOXlrVnMtRVk1dE1JMjhYeGl0ZGltRGtKUUxxUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source": "wwj.beijing.gov.cn",
       "time": "2026-04-02",
-      "publishedAt": "2026-04-02T19:26:36+08:00",
-      "originalTime": "Thu, 02 Apr 2026 11:26:36 GMT",
+      "publishedAt": "2026-04-02T09:42:59+08:00",
+      "originalTime": "Thu, 02 Apr 2026 01:42:59 GMT",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 1,
       "tags": [
         "国内国际民生",
-        "搜狐网",
+        "wwj.beijing.gov.cn",
         "政策"
       ]
     },
@@ -725,20 +725,20 @@
     },
     {
       "category": "国内国际民生",
-      "title": "北京市文物局关于在全国重点文物保护单位北平图书馆旧址保护范围内实施国家图书馆古籍馆电力增容改造项目的复函",
-      "summary": "北京市文物局关于在全国重点文物保护单位北平图书馆旧址保护范围内实施国家图书馆古籍馆电力增容改造项目的复函 wwj.beijing.gov.cn",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WZk5SSXJxWWVJZ1pRZDE3VklzRUI5dUFTR2hPSkE2QUNab3kyYXZLT1FVc3NBandNQnhOelYyejduZmZ5SkZEWWRBclVGdFQ2UTRMZ2dYSndUZFRkQjhoNFlTOXlrVnMtRVk1dE1JMjhYeGl0ZGltRGtKUUxxUQ?oc=5",
-      "resolvedUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WZk5SSXJxWWVJZ1pRZDE3VklzRUI5dUFTR2hPSkE2QUNab3kyYXZLT1FVc3NBandNQnhOelYyejduZmZ5SkZEWWRBclVGdFQ2UTRMZ2dYSndUZFRkQjhoNFlTOXlrVnMtRVk1dE1JMjhYeGl0ZGltRGtKUUxxUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "source": "wwj.beijing.gov.cn",
+      "title": "长春工大健康帮扶项目入选教育部精准帮扶典型项目",
+      "summary": "长春工大健康帮扶项目入选教育部精准帮扶典型项目 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUmExSXdNUUpkUVRrbkVrdTAtZFRNQmgyUWZ5UWhTeEZMTW5QUXpFT19pc3AzTlNMcW1UOHVHQW9UanRxOG9oVDNJb0NJNTdCREZDNXF5TGRZLVpUVVhSVlZHMzNReWRNaFhBMDdpcnZOUlNKSUFzY2xYT3RES05yNTYwZkhCVnNi?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUmExSXdNUUpkUVRrbkVrdTAtZFRNQmgyUWZ5UWhTeEZMTW5QUXpFT19pc3AzTlNMcW1UOHVHQW9UanRxOG9oVDNJb0NJNTdCREZDNXF5TGRZLVpUVVhSVlZHMzNReWRNaFhBMDdpcnZOUlNKSUFzY2xYT3RES05yNTYwZkhCVnNi?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source": "搜狐网",
       "time": "2026-04-02",
-      "publishedAt": "2026-04-02T09:42:59+08:00",
-      "originalTime": "Thu, 02 Apr 2026 01:42:59 GMT",
+      "publishedAt": "2026-04-02T19:26:36+08:00",
+      "originalTime": "Thu, 02 Apr 2026 11:26:36 GMT",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 1,
       "tags": [
         "国内国际民生",
-        "wwj.beijing.gov.cn",
+        "搜狐网",
         "政策"
       ]
     },
@@ -763,42 +763,6 @@
     },
     {
       "category": "国内国际民生",
-      "title": "泸州龙马潭：人大监督亮新招 医保惠民更暖心",
-      "summary": "泸州龙马潭：人大监督亮新招 医保惠民更暖心 人民网－四川频道",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwWmhCOUljc1Q0bXdsQ1g0ZDE0SW55N0gzVEl6U2VtU0RLUkR3bWNYRkFxdzJaRk02aGJvNlZZWmJ1SVlWN3JuQV9LcndhdWpydTVwUi11dGJfYTVZSlJyaTFhYm9KQldQVGc?oc=5",
-      "resolvedUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwWmhCOUljc1Q0bXdsQ1g0ZDE0SW55N0gzVEl6U2VtU0RLUkR3bWNYRkFxdzJaRk02aGJvNlZZWmJ1SVlWN3JuQV9LcndhdWpydTVwUi11dGJfYTVZSlJyaTFhYm9KQldQVGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "source": "人民日报",
-      "time": "2026-04-02",
-      "publishedAt": "2026-04-02T21:24:00+08:00",
-      "originalTime": "Thu, 02 Apr 2026 13:24:00 GMT",
-      "isHistorical": false,
-      "timeline": "最新动态",
-      "ageDays": 1,
-      "tags": [
-        "国内国际民生",
-        "人民日报"
-      ]
-    },
-    {
-      "category": "国内国际民生",
-      "title": "甘肃扎实推进稳岗扩容提质惠及民生",
-      "summary": "甘肃扎实推进稳岗扩容提质惠及民生 gs.people.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BZ3FXR0paQ295WUVvM3hRTW03cVhEZ2c0VU5RM2Q3WURXZ3VJRGJrTFdTVFk4R1JWM2NqSEZWN0lPSDhIWkRSZmJueDVZZnpPSktNY3RidlBLcWc5WmZPb2F5TFIyMHRoUnc?oc=5",
-      "resolvedUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BZ3FXR0paQ295WUVvM3hRTW03cVhEZ2c0VU5RM2Q3WURXZ3VJRGJrTFdTVFk4R1JWM2NqSEZWN0lPSDhIWkRSZmJueDVZZnpPSktNY3RidlBLcWc5WmZPb2F5TFIyMHRoUnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "source": "人民日报",
-      "time": "2026-04-02",
-      "publishedAt": "2026-04-02T09:12:00+08:00",
-      "originalTime": "Thu, 02 Apr 2026 01:12:00 GMT",
-      "isHistorical": false,
-      "timeline": "最新动态",
-      "ageDays": 1,
-      "tags": [
-        "国内国际民生",
-        "人民日报"
-      ]
-    },
-    {
-      "category": "国内国际民生",
       "title": "以智为光 以扶为翼——泰安市走出困境儿童数智精准帮扶新路径",
       "summary": "以智为光 以扶为翼——泰安市走出困境儿童数智精准帮扶新路径 人民网",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLb3hNaklDcWlqYnZyM3lGZVpWMXgyeXBrNVdjZEMtMGI3TS1NdzYyZlBZaTh1UTg5VTFyY0Y2OThTcWZPVDJUUGt6NkoyS1VRNHJwTEd6R2FEaHFtTHlQUldwRE9wcVViQVE?oc=5",
@@ -807,6 +771,24 @@
       "time": "2026-04-02",
       "publishedAt": "2026-04-02T10:42:00+08:00",
       "originalTime": "Thu, 02 Apr 2026 02:42:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "国内国际民生",
+        "人民日报"
+      ]
+    },
+    {
+      "category": "国内国际民生",
+      "title": "泸州龙马潭：人大监督亮新招 医保惠民更暖心",
+      "summary": "泸州龙马潭：人大监督亮新招 医保惠民更暖心 人民网－四川频道",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwWmhCOUljc1Q0bXdsQ1g0ZDE0SW55N0gzVEl6U2VtU0RLUkR3bWNYRkFxdzJaRk02aGJvNlZZWmJ1SVlWN3JuQV9LcndhdWpydTVwUi11dGJfYTVZSlJyaTFhYm9KQldQVGc?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwWmhCOUljc1Q0bXdsQ1g0ZDE0SW55N0gzVEl6U2VtU0RLUkR3bWNYRkFxdzJaRk02aGJvNlZZWmJ1SVlWN3JuQV9LcndhdWpydTVwUi11dGJfYTVZSlJyaTFhYm9KQldQVGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source": "人民日报",
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T21:24:00+08:00",
+      "originalTime": "Thu, 02 Apr 2026 13:24:00 GMT",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 1,
@@ -831,6 +813,24 @@
       "tags": [
         "国内国际民生",
         "新华社"
+      ]
+    },
+    {
+      "category": "国内国际民生",
+      "title": "甘肃扎实推进稳岗扩容提质惠及民生",
+      "summary": "甘肃扎实推进稳岗扩容提质惠及民生 gs.people.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BZ3FXR0paQ295WUVvM3hRTW03cVhEZ2c0VU5RM2Q3WURXZ3VJRGJrTFdTVFk4R1JWM2NqSEZWN0lPSDhIWkRSZmJueDVZZnpPSktNY3RidlBLcWc5WmZPb2F5TFIyMHRoUnc?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BZ3FXR0paQ295WUVvM3hRTW03cVhEZ2c0VU5RM2Q3WURXZ3VJRGJrTFdTVFk4R1JWM2NqSEZWN0lPSDhIWkRSZmJueDVZZnpPSktNY3RidlBLcWc5WmZPb2F5TFIyMHRoUnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source": "人民日报",
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T09:12:00+08:00",
+      "originalTime": "Thu, 02 Apr 2026 01:12:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "国内国际民生",
+        "人民日报"
       ]
     },
     {
@@ -873,27 +873,6 @@
     },
     {
       "category": "国内国际民生",
-      "title": "长和︰强烈反对巴拿马裁定 积极果断对巴拿马进行仲裁",
-      "summary": "在巴拿马最高法院裁定，香港长和子公司运营巴拿马运河港口的合同违反宪法后，长和星期三（2月4日）发布公告称，董事会对巴拿马的裁定及相应行动表示强烈反对，并称会积极果断对巴拿马进行仲裁。 长和星期三在官网发布公告称，据旗下的巴拿马港口公司（PPC）理解，巴拿马最高法院的决定可能在今年2月初生效。公告称，PPC已获得意见，指巴拿马最高法院所宣布的决定，以及巴拿马政府就PPC于该两个港口之码头营运所采取的相应行动，与相关法律框架，以及批准该特许经营合约之法律并不一致。 公告续称，PPC在星期二（2月3日）已展开并将根据适用特许经营合约及国际商会之仲裁规则，积极果断对巴拿马进行仲裁。 长和最后在公告中说，董事会对巴拿马的裁定及相应行动表示强烈反对，会继续咨询其法律顾问，并保留一切权利，包括就有关事宜诉诸进一步国内及国际法律程序。 负责香港事务的中国国务院港澳办星期二（2月3日）晚在微信公众号发表署名“港澳平”的评论文章称，中国从来不会屈从于强权政治和霸权主义，有足够的手段和工具、足够的实力和能力维护国际经贸秩序公平公正。巴拿马应当认清形势、迷途知返。如果一意孤行，执迷不悟，“必将在政治上、经济上都付出沉重代价！” 巴拿马高院上星期四（1月29日）裁定，长和子公司运营巴拿马运河港口的特许经营权合同违宪。裁决书称，相关合约存在“过度偏袒”长和的条款。 PPC自1997年起获巴拿马港口的运营合同，并在2021年于上一届巴拿马政府执政期间获续约，为期25年。 关于撤销巴拿马港口公司合约一事，最早由巴拿马审计部门去年提出。审计部门认为特许经营权违宪，并指长和未向巴拿马政府支付12亿美元（约15亿新元）税金。 据法新社报道，巴拿马海事局上星期五（1月30日）宣布，马士基集团旗下港口运营商APM码头公司，将担任位处巴拿马运河两端的巴尔博亚港和克里斯托瓦尔港的“临时管理方”。 长和去年3月公布，以228亿美元向贝莱德等美资组成的财团悉数出售在23个国家营运的43个港口权益，包括巴拿马港口90%股权。 中国据报对此大表不满。美媒去年7月报道，北京表明，除非中国远洋海运集团获得多数股权，否则将阻止交易。",
-      "url": "https://www.zaobao.com/news/china/story20260204-8295674",
-      "resolvedUrl": "https://www.zaobao.com/news/china/story20260204-8295674",
-      "source": "联合早报",
-      "time": "2026-02-04",
-      "publishedAt": "2026-02-04T09:17:18+08:00",
-      "originalTime": "Wed, 04 Feb 2026 01:17:18 GMT",
-      "isHistorical": true,
-      "timeline": "历史回顾",
-      "ageDays": 58,
-      "tags": [
-        "国内国际民生",
-        "联合早报",
-        "政策",
-        "历史稿",
-        "历史回顾"
-      ]
-    },
-    {
-      "category": "国内国际民生",
       "title": "港澳办：若巴拿马一意孤行 必将在政治经济上都付出沉重代价",
       "summary": "在巴拿马最高法院裁定，香港长和子公司运营巴拿马运河港口的合同违反宪法后，负责香港事务的中国国务院港澳办发文指出，巴拿马应当认清形势、迷途知返，并警告如果一意孤行，执迷不悟，巴拿马必将在政治和经济上都付出沉重代价。 港澳办星期二（2月3日）晚在微信公众号发表署名“港澳平”的评论文章称，巴拿马最高法院以所谓“违宪”为由，裁决有关香港企业巴拿马运河港口特许经营合约续约无效。有关裁决罔顾事实、背信弃义，严重损害香港企业合法权益，理所当然受到中国政府和香港特区政府的坚决反对。 文章进一步指出，有关企业的港口特许经营权合约乃由双方公平自愿签订，历经巴拿马多届政府和国会认可，现在巴拿马却裁定合约违宪，意味将来同样可以裁定巴拿马任何时期批准的其他特许经营权合约违宪，这向国际投资者释放的信号是，巴拿马实际上无法为投资者提供任何保障。 文章批评此举可谓自毁国家信用，将对巴拿马营商环境和经济发展造成深远损害，并严重破坏国际贸易规则。 文章最后写道，中国从来不会屈从于强权政治和霸权主义，有足够的手段和工具、足够的实力和能力维护国际经贸秩序公平公正。巴拿马应当认清形势、迷途知返。如果一意孤行，执迷不悟，“必将在政治上、经济上都付出沉重代价！” 巴拿马高院上星期四（1月29日）裁定，长和子公司运营巴拿马运河港口的特许经营权合同违宪。裁决书称，相关合约存在“过度偏袒”长和的条款。 长和旗下巴拿马港口公司（PPC）自1997年起获巴拿马港口的运营合同，并在2021年于上一届巴拿马政府执政期间获续约，为期25年。 关于撤销巴拿马港口公司合约一事，最早由巴拿马审计部门去年提出。审计部门认为特许经营权违宪，并指长和未向巴拿马政府支付12亿美元（约15亿新元）税金。 据法新社报道，巴拿马海事局上星期五（1月30日）宣布，马士基集团旗下港口运营商APM码头公司，将担任位处巴拿马运河两端的巴尔博亚港和克里斯托瓦尔港的“临时管理方”。 《华尔街日报》报道，长和将无法对巴拿马高院的裁决提出上诉，但可以要求澄清说明，此举或能推迟长和运营权被正式终止的日期。长和旗下公司暗示，可能将事件提交国际仲裁。",
       "url": "https://www.zaobao.com/news/china/story20260204-8295417",
@@ -915,17 +894,38 @@
     },
     {
       "category": "国内国际民生",
-      "title": "中央一号文件再提整治农村高额彩礼",
-      "summary": "中共中央一号文件再提整治农村高额彩礼，称要引导树立正确的婚恋观、生育观、家庭观，培育简约文明的婚俗文化。 据新华社， 2026年中央一号文件《中共中央国务院关于锚定农业农村现代化扎实推进乡村全面振兴的意见》星期二（2月3日）发布，这也是中国“十五五”首个中央一号文件。文件提出，持续整治农村高额彩礼，加强省际毗邻地区联动治理。引导树立正确的婚恋观、生育观、家庭观，培育简约文明的婚俗文化。 中国农业农村部农村经济研究中心乡村治理与社会文化研究室副研究员庞静泊说，整治农村高额彩礼，本质上是扭转乡土风俗陋习、推动乡村文化治理，体现出党和国家对培育文明婚俗、涵养良好家风的重视。 2019年的一号文件首次明确把 “天价彩礼” 等不良婚俗纳入中央层面治理范围，之后的三年的中央一号文件继续多次提到推进农村移风易俗、治理高价彩礼等问题。 在新华社相关报道的微博下，许多留言称，一号文件的提法治标不治本，整治农村高额彩礼，就“不要认为女方是嫁到男方家的说法，双方父母都要出资买房及需要品”，“彩礼和嫁妆都是为了新组建家庭能承担房屋和生育的压力”。",
-      "url": "https://www.zaobao.com/news/china/story20260204-8295371",
-      "resolvedUrl": "https://www.zaobao.com/news/china/story20260204-8295371",
+      "title": "中国叫停隐藏式车门把手 业者：促进电动车安全遏制设计内卷",
+      "summary": "与传统车门把手凸出且可用手抓握不同，隐藏式车门把手藏在门内，默认位置无法抓握。图为一名男子2月3日在北京展厅通过按压打开一辆极氪X7电动车的车门。 （法新社） 中国发生多起事故后新能源车车门难以开启的事件，令隐藏式车门把手的安全性受到公众质疑。官方出台规定，要求汽车必须配备可机械开启的车门外把手，保证发生事故时车门系统能够开启。 中国工信部星期二（2月3日）公告，工信部组织制定的强制性国家标准《汽车车门把手安全技术要求》获批发布。新规要求，在华销售的汽车，每个车门都配置机械式车门外把手和车门内把手，即便在事故或断电情况下处于锁住状态，车门也应能手动打开。 规定也要求，车门外把手在任意状态时，相对车身表面都应留有充足的手部操作空间，而车内门把手也必须处于乘员的显眼位置，没有遮挡。要求于明年1月1日起正式实施，已获批车型应在2029年1月前修改设计，以达到规定。 隐藏式门把手是新能源车区别于传统燃油车的重要外观特征，新能源车须要按压或触碰感应开启车门，车商以此强化科技感，并称能降低风阻。车圈自媒体“懂车帝”去年4月统计，中国销量前100的新能源车型中，约六成搭载隐藏式门把手。 但这一设计的安全性，却因为多起事故中车门难以开启、影响逃生和救援，在中国引起广泛关注和讨论。2024年4月， 山西运城一辆问界M7 Plus起火 ，车门把手电路受损，外部救援人员无法打开车门，车内三人遇难。去年3月和10月，小米SU7在 安徽铜陵 、 四川成都 先后发生碰撞起火事故，分别造成三人和一人死亡，事发时也出现车门无法打开的情况。 官方于去年5月讨论立项，9月发布针对车门把手的征求意见稿。 北方工业大学汽车产业创新研究中心研究员张翔受访时说：“隐藏式门把手缺乏明确的手拉操作空间，在事故后可能增加逃生和救援难度，而新规正是针对这一安全隐患，推动车门把手设计从五花八门走向标准化”。 张翔说：“标准明确后，车企能在统一框架内创新，有助于降低合规风险，也减少因事故引发舆论与责任不确定性。” 他指出，新规也意味着电动车设计逻辑从拼美观向安全导向回归。 据了解，当局去年9月下发征求意见稿后，中国许多车企已开始调整车门把手设计。深圳一家新能源车企的工程师向《联合早报》透露，新设计不会完全回归传统把手，多会采取“半隐藏式”，部分嵌入车门，部分外露，保留紧急情况下的机械开启功能。 他认为，隐藏式门把手与新能源车内饰极简化、减少实体按键的趋势一致，都是在内卷下车企希望突出未来感、科技感，让消费者有新鲜感。“政府是希望大家别再卷设计，回归安全导向，别为了不同而不同”。 据央视新闻报道，当前小米、比亚迪已开始调整车门把手设计。比亚迪的海豹06车型搭配全机械半隐藏式门把手，小米SU7则选用结合电动解锁和传统机械式的半隐藏式门把手。 作为全球首个禁止隐藏式车门把手设计的国家，中国的新规影响可能会扩散。据彭博社报道，上海咨询公司Automobility创始人鲁索（Bill Russo）说：“中国正在从最大的电动汽车市场转型为新汽车技术监管规则的制定者。” 他说，北京可以利用庞大的国内市场，锁定中国和外国汽车制造商在当地必须遵守的安全标准。“这些标准最终可能会随着中国电动汽车出口而推广开来，并影响全球规范。” 隐藏式车门把手设计的鼻祖特斯拉在去年9月告诉彭博社，要调整饱受诟病的隐藏式车门把手设计。",
+      "url": "https://www.zaobao.com/news/china/story20260203-8293137",
+      "resolvedUrl": "https://www.zaobao.com/news/china/story20260203-8293137",
       "source": "联合早报",
-      "time": "2026-02-04",
-      "publishedAt": "2026-02-04T08:39:35+08:00",
-      "originalTime": "Wed, 04 Feb 2026 00:39:35 GMT",
+      "time": "2026-02-03",
+      "publishedAt": "2026-02-03T21:42:17+08:00",
+      "originalTime": "Tue, 03 Feb 2026 13:42:17 GMT",
       "isHistorical": true,
       "timeline": "历史回顾",
-      "ageDays": 58,
+      "ageDays": 59,
+      "tags": [
+        "国内国际民生",
+        "联合早报",
+        "政策",
+        "历史稿",
+        "历史回顾"
+      ]
+    },
+    {
+      "category": "国内国际民生",
+      "title": "国共智库论坛达成共同意见 提出推动恢复两岸人员往来正常化",
+      "summary": "国共两党智库论坛星期二（2月3日）在北京开幕，中国国民党副主席萧旭岑在活动上致辞。 （中新社） 国共两党智库论坛星期二（2月3日）登场，国民党国政研究基金会副董事长李鸿源宣读论坛达成的共同意见，共五大方面，其中包括推动恢复两岸⼈员往来正常化。 《联合报》报道，根据共同意见，国共智库达成推动恢复两岸⼈员往来正常化、加强两岸新兴产业领域合作、探索两岸医疗康养合作新路径、深化两岸环保领域交流合作、深化两岸防灾减灾合作，共五方面。 李鸿源说，两岸代表人士、专家学者围绕两岸交流合作前瞻主题，就两岸旅游交流合作、两岸产业交流合作、两岸环境与永续发展合作三项议题，进行深入的交流跟探讨。与会人士认为，国共两党保持良性的互动，有利于深化两岸交流，促进共同发展，造福两岸人民。 在两岸人员往来方面，共同意见提到，推动解除⺠进党当局对两岸⼈员往来的人为限制，为两岸各领域交流合作排除障碍 。内容包括，尽快全面恢复两岸海空客运直航正常化，允许两岸航空公司、港航业者根据相关安排和市场需求自主调整航线网络、安排班次。 共同意见也提出，深化两岸观光旅游交流合作，尽快实现福建、上海居民赴台湾团队旅游，逐步扩大大陆居民赴金门、马祖旅游，支持两岸业界举办各类旅游推广及座谈联谊活动，加强沟通对接，提供更好的优质服务和产品，努力为恢复两岸双向旅游创造更好条件和更优环境。 至于当前两岸旅游僵局卡在观光小两会沟通，台湾旅游交流协会主委赖瑟珍说，双方要共同努力创造有利环境。 李鸿源说，与会人士充分肯定举办国共两党智库论坛的积极意义，呼吁两岸各界共同努力，推动两岸关系和平发展，破除障碍，为实施论坛共同意见，深化两岸各领域的交流合作创造条件。 新华社则报道，论坛以“两岸交流合作前瞻”为主题，国共两党智库人员及两岸旅游、工业、科技、医疗、环保等界别代表人士、专家学者100余人出席。 中共中央台办主任宋涛在开幕式致辞时说，中共总书记习近平致电祝贺郑丽文当选中国国民党主席，为两党关系和两岸关系发展指明了方向。举办国共两党智库论坛是落实两党领导人贺复电精神的具体举措。 宋涛强调，两党要毫不动摇坚持九二共识、反对台独共同政治基础，引领两岸关系发展正确方向；要深化融合发展，促进两岸交流合作；要坚持以人为本，增进同胞亲情福祉，“让包括台湾同胞在内的全体中国人过上更好的日子”；要坚决反对台独，维护台海和平稳定。 他也说，中国大陆打击台独顽固分子及其打手帮凶决不手软，对妄图以台遏华的外部势力决不容忍。两岸民众要勇担民族大义，做国家统一、民族复兴的参与者、贡献者和受益者。 与会人士围绕两岸旅游交流合作、产业交流合作、环境与永续发展交流合作三项议题进行深入研讨，提出五方面15条共同意见。",
+      "url": "https://www.zaobao.com/news/china/story20260203-8293571",
+      "resolvedUrl": "https://www.zaobao.com/news/china/story20260203-8293571",
+      "source": "联合早报",
+      "time": "2026-02-03",
+      "publishedAt": "2026-02-03T19:42:33+08:00",
+      "originalTime": "Tue, 03 Feb 2026 11:42:33 GMT",
+      "isHistorical": true,
+      "timeline": "历史回顾",
+      "ageDays": 59,
       "tags": [
         "国内国际民生",
         "联合早报",
@@ -956,20 +956,38 @@
     },
     {
       "category": "国际秩序",
-      "title": "特朗普罢免美国司法部长帕姆·邦迪",
-      "summary": "邦迪担任美国最高执法官员的时期因司法部对杰弗里·爱泼斯坦调查的处理而黯然失色。",
-      "url": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
-      "resolvedUrl": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "time": "2026-04-03",
-      "publishedAt": "2026-04-03T04:39:32+08:00",
-      "originalTime": "Thu, 02 Apr 2026 20:39:32 GMT",
+      "title": "欧尔班·维克托嘲讽图斯克时表示，欧洲应该在伊朗危机期间取消对俄罗斯能源的制裁——事实确实如此",
+      "summary": "回到特朗普对欧洲盟友的失望——尽管这次不涉及北约成员国——奥地利是最新一个冒着激怒美国总统风险的国家，此前国防部发言人证实奥地利拒绝了美国所有与伊朗战争有关的军事飞越请求。迈克尔·鲍尔上校告诉法新社：“确实有人​​提出过请求，但从一开始就被拒绝了。”他补充说，每次类似的请求“涉及一个处于战争状态的国家，都会被拒绝”。继续阅读...",
+      "url": "https://www.theguardian.com/world/live/2026/apr/02/europe-nato-rutte-trump-criticisms-iran-ukraine-latest-news-updates",
+      "resolvedUrl": "https://www.theguardian.com/world/live/2026/apr/02/europe-nato-rutte-trump-criticisms-iran-ukraine-latest-news-updates",
+      "source": "The Guardian",
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T23:21:50+08:00",
+      "originalTime": "Thu, 02 Apr 2026 15:21:50 GMT",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 0,
       "tags": [
         "国际秩序",
-        "BBC"
+        "The Guardian"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "特朗普对美国进口药品征收100%关税后，澳大利亚表示不会提高药品价格",
+      "summary": "卫生部长马克·巴特勒表示，在取消普通药物的价格保护方面，联邦政府“没有进行谈判” 卫生部长马克·巴特勒表示，澳大利亚不会屈服于制药巨头和特朗普政府的压力，取消普通药物的消费者价格保护。澳大利亚时间一夜之间，唐纳德·特朗普 (Donald Trump) 对进口到美国的品牌药品征收新的 100% 关税，试图迫使制造商同意药品定价协议或承诺在国内生产产品。继续阅读...",
+      "url": "https://www.theguardian.com/business/2026/apr/03/australia-says-it-wont-raise-drug-prices-after-trumps-100-tariff-on-pharmaceuticals-imported-into-us",
+      "resolvedUrl": "https://www.theguardian.com/business/2026/apr/03/australia-says-it-wont-raise-drug-prices-after-trumps-100-tariff-on-pharmaceuticals-imported-into-us",
+      "source": "The Guardian",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T06:24:52+08:00",
+      "originalTime": "Thu, 02 Apr 2026 22:24:52 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "The Guardian"
       ]
     },
     {
@@ -992,20 +1010,74 @@
     },
     {
       "category": "国际秩序",
-      "title": "Iran war could make beer and bottled water pricier for Indians",
-      "summary": "由于战争挤压了供应，塑料和玻璃瓶制造商正在努力获取原材料。",
-      "url": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss",
-      "resolvedUrl": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
+      "title": "“你必须认真”：马克龙批评特朗普关于北约和伊朗的混杂信息",
+      "summary": "法国总统在韩国发表讲话，捍卫了跨大西洋联盟，并呼吁恢复和平。中东危机实时更新伊曼纽尔·马克龙尖锐批评唐纳德·特朗普在伊朗战争和北约问题上前后矛盾且常常相互矛盾的声明，他表示，如果“你想认真对待”，最好不要每天都发表不同的言论。 “谈论太多……而且到处都是，”法国总统周四在对韩国进行国事访问时表示。 “我们都需要稳定、平静、回归和平——这不是一场表演！”继续阅读...",
+      "url": "https://www.theguardian.com/world/2026/apr/02/you-have-to-be-serious-macron-criticises-trumps-mixed-messages-about-nato-and-iran",
+      "resolvedUrl": "https://www.theguardian.com/world/2026/apr/02/you-have-to-be-serious-macron-criticises-trumps-mixed-messages-about-nato-and-iran",
+      "source": "The Guardian",
       "time": "2026-04-03",
-      "publishedAt": "2026-04-03T07:16:37+08:00",
-      "originalTime": "Thu, 02 Apr 2026 23:16:37 GMT",
+      "publishedAt": "2026-04-03T01:34:37+08:00",
+      "originalTime": "Thu, 02 Apr 2026 17:34:37 GMT",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 0,
       "tags": [
         "国际秩序",
-        "BBC"
+        "The Guardian"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "“令人惊叹的时刻”：古代罗马尼亚金头盔在与盗窃嫌疑人的认罪协议中归还",
+      "summary": "检察官公布了去年从荷兰博物馆被盗的与失落的达契亚文明有关的文物。去年从荷兰博物馆被盗的一顶来自罗马尼亚的无价古代金头盔，作为与嫌疑人达成的认罪协议的一部分，已被追回。周四，在荷兰东部城市阿森举行的新闻发布会上，检察官在头戴巴拉克拉法帽的警察的看守下揭开了具有 2500 年历史的 Coşofeneşti 头盔的面纱，该头盔被认为是罗马尼亚的文化标志。继续阅读...",
+      "url": "https://www.theguardian.com/artanddesign/2026/apr/02/stolen-romanian-gold-helmet-recovered-netherlands",
+      "resolvedUrl": "https://www.theguardian.com/artanddesign/2026/apr/02/stolen-romanian-gold-helmet-recovered-netherlands",
+      "source": "The Guardian",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T00:46:20+08:00",
+      "originalTime": "Thu, 02 Apr 2026 16:46:20 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "The Guardian"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "特朗普政府因试图监管预测市场而起诉三个州",
+      "summary": "这些诉讼是特朗普政府迄今为止最雄心勃勃的努力，试图推翻各州法律，为快速增长且日益分裂的博彩业制定规则。",
+      "url": "https://www.npr.org/2026/04/02/nx-s1-5771635/trump-cftc-kalshi-polymarket-lawsuits",
+      "resolvedUrl": "https://www.npr.org/2026/04/02/nx-s1-5771635/trump-cftc-kalshi-polymarket-lawsuits",
+      "source": "NPR",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T03:54:18+08:00",
+      "originalTime": "Thu, 02 Apr 2026 15:54:18 -0400",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "NPR"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "Ziggy Stardust 和 Hacky Sack：上次我们去月球时的生活是什么样的",
+      "summary": "阿耳忒弥斯二号任务是自 1972 年以来人类首次登上月球。那一年也标志着《教父与鸡蛋松饼》的首映。",
+      "url": "https://www.npr.org/2026/04/02/nx-s1-5771486/artemis-moon-mission-apollo-1972",
+      "resolvedUrl": "https://www.npr.org/2026/04/02/nx-s1-5771486/artemis-moon-mission-apollo-1972",
+      "source": "NPR",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T00:41:41+08:00",
+      "originalTime": "Thu, 02 Apr 2026 12:41:41 -0400",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "NPR"
       ]
     },
     {
@@ -1028,14 +1100,14 @@
     },
     {
       "category": "国际秩序",
-      "title": "Iran's two largest steel plants shut down due to air strikes, companies say",
-      "summary": "伊朗称，这些袭击是以色列上周与美国协调首次发动的，可能对伊朗经济造成重大损害。",
-      "url": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
-      "resolvedUrl": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
+      "title": "引发残酷内战的缅甸政变领导人即将就任总统",
+      "summary": "新当选的议会将选举敏昂将军为下一任总统。",
+      "url": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&at_campaign=rss",
+      "resolvedUrl": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "time": "2026-04-03",
-      "publishedAt": "2026-04-03T01:01:08+08:00",
-      "originalTime": "Thu, 02 Apr 2026 17:01:08 GMT",
+      "publishedAt": "2026-04-03T06:14:00+08:00",
+      "originalTime": "Thu, 02 Apr 2026 22:14:00 GMT",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 0,
@@ -1046,14 +1118,32 @@
     },
     {
       "category": "国际秩序",
-      "title": "荷兰抢劫案一年多后，古老的金头盔被寻获",
-      "summary": "头盔和三个金手镯于 2025 年 1 月被盗，但其中一个手镯尚未找到。",
-      "url": "https://www.bbc.com/news/articles/cpvxj4jzvvvo?at_medium=RSS&at_campaign=rss",
-      "resolvedUrl": "https://www.bbc.com/news/articles/cpvxj4jzvvvo?at_medium=RSS&at_campaign=rss",
+      "title": "伊朗诺贝尔奖得主家人称在狱中疑似心脏病发作",
+      "summary": "纳尔吉斯·穆罕默迪的兄弟说，他担心她的生命面临迫在眉睫的危险，需要将她转移到医院。",
+      "url": "https://www.bbc.com/news/articles/cdj7xye8knxo?at_medium=RSS&at_campaign=rss",
+      "resolvedUrl": "https://www.bbc.com/news/articles/cdj7xye8knxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "time": "2026-04-02",
-      "publishedAt": "2026-04-02T22:20:02+08:00",
-      "originalTime": "Thu, 02 Apr 2026 14:20:02 GMT",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T00:00:58+08:00",
+      "originalTime": "Thu, 02 Apr 2026 16:00:58 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "BBC"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "公司表示，伊朗最大的两家钢铁厂因空袭而关闭",
+      "summary": "伊朗称，这些袭击是以色列上周与美国协调首次发动的，可能对伊朗经济造成重大损害。",
+      "url": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
+      "resolvedUrl": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T01:01:08+08:00",
+      "originalTime": "Thu, 02 Apr 2026 17:01:08 GMT",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 0,
@@ -1082,14 +1172,14 @@
     },
     {
       "category": "国际秩序",
-      "title": "人权组织和密尔沃基领导人猛烈抨击 ICE 逮捕巴勒斯坦倡导者",
-      "summary": "据报道，密尔沃基伊斯兰协会主席萨拉·萨尔苏尔 (Salah Sarsour) 3 月 30 日在开车时被拘留。",
-      "url": "https://www.aljazeera.com/news/2026/4/2/rights-groups-milwaukee-leaders-slam-ices-arrest-of-palestinian-advocate?traffic_source=rss",
-      "resolvedUrl": "https://www.aljazeera.com/news/2026/4/2/rights-groups-milwaukee-leaders-slam-ices-arrest-of-palestinian-advocate?traffic_source=rss",
+      "title": "亚马尔猛烈抨击反穆斯林球迷的口号，西班牙世界杯决赛的希望被玷污",
+      "summary": "拉明·亚马尔谴责埃及友谊赛中的仇外球迷，此时西班牙正在努力确保 2030 年世界杯决赛的胜利。",
+      "url": "https://www.aljazeera.com/sports/2026/4/2/yamal-slams-anti-muslim-fan-chants-as-spains-world-cup-final-hopes-tainted?traffic_source=rss",
+      "resolvedUrl": "https://www.aljazeera.com/sports/2026/4/2/yamal-slams-anti-muslim-fan-chants-as-spains-world-cup-final-hopes-tainted?traffic_source=rss",
       "source": "Al Jazeera",
       "time": "2026-04-03",
-      "publishedAt": "2026-04-03T06:45:48+08:00",
-      "originalTime": "Thu, 02 Apr 2026 22:45:48 +0000",
+      "publishedAt": "2026-04-03T03:50:38+08:00",
+      "originalTime": "Thu, 02 Apr 2026 19:50:38 +0000",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 0,
@@ -1100,128 +1190,20 @@
     },
     {
       "category": "国际秩序",
-      "title": "波斯尼亚队战胜意大利队晋级世界杯，欢呼雀跃",
-      "summary": "波斯尼亚和黑塞哥维那戏剧性地战胜意大利，引发了从泽尼察到萨拉热窝的疯狂庆祝活动，并唤起了人们的回忆。",
-      "url": "https://www.aljazeera.com/sports/2026/4/2/unbridled-bosnian-joy-marks-world-cup-qualification-win-over-italy?traffic_source=rss",
-      "resolvedUrl": "https://www.aljazeera.com/sports/2026/4/2/unbridled-bosnian-joy-marks-world-cup-qualification-win-over-italy?traffic_source=rss",
+      "title": "巴萨6-0皇马晋级女足欧冠半决赛",
+      "summary": "巴塞罗那以总比分 12-2 击败劲敌皇家马德里，晋级女足欧冠四强。",
+      "url": "https://www.aljazeera.com/sports/2026/4/2/barcelona-thump-real-madrid-6-0-to-reach-champions-league-final?traffic_source=rss",
+      "resolvedUrl": "https://www.aljazeera.com/sports/2026/4/2/barcelona-thump-real-madrid-6-0-to-reach-champions-league-final?traffic_source=rss",
       "source": "Al Jazeera",
       "time": "2026-04-03",
-      "publishedAt": "2026-04-03T05:25:28+08:00",
-      "originalTime": "Thu, 02 Apr 2026 21:25:28 +0000",
+      "publishedAt": "2026-04-03T03:50:29+08:00",
+      "originalTime": "Thu, 02 Apr 2026 19:50:29 +0000",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 0,
       "tags": [
         "国际秩序",
         "Al Jazeera"
-      ]
-    },
-    {
-      "category": "国际秩序",
-      "title": "教皇利奥在首次复活节礼拜中谴责世界的“野蛮行径”",
-      "summary": "教皇利奥在仪式上为 12 名牧师洗脚，利用这一时刻敦促天主教徒与受压迫者站在一起。",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/pope-leo-condemns-brutality-of-world-in-first-easter-services?traffic_source=rss",
-      "resolvedUrl": "https://www.aljazeera.com/video/newsfeed/2026/4/2/pope-leo-condemns-brutality-of-world-in-first-easter-services?traffic_source=rss",
-      "source": "Al Jazeera",
-      "time": "2026-04-03",
-      "publishedAt": "2026-04-03T05:24:26+08:00",
-      "originalTime": "Thu, 02 Apr 2026 21:24:26 +0000",
-      "isHistorical": false,
-      "timeline": "最新动态",
-      "ageDays": 0,
-      "tags": [
-        "国际秩序",
-        "Al Jazeera"
-      ]
-    },
-    {
-      "category": "国际秩序",
-      "title": "9 岁男孩讲述黎巴嫩空袭导致全家遇难的经历",
-      "summary": "卡里姆·阿尔·哈吉·侯赛因 (Karim Al-Haj Hussein) 在黎巴嫩巴勒贝克的家遭到以色列袭击，他的家人被杀，他幸免于难。",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/9-year-old-boy-recounts-airstrike-in-lebanon-that-killed-whole-family?traffic_source=rss",
-      "resolvedUrl": "https://www.aljazeera.com/video/newsfeed/2026/4/2/9-year-old-boy-recounts-airstrike-in-lebanon-that-killed-whole-family?traffic_source=rss",
-      "source": "Al Jazeera",
-      "time": "2026-04-03",
-      "publishedAt": "2026-04-03T05:22:53+08:00",
-      "originalTime": "Thu, 02 Apr 2026 21:22:53 +0000",
-      "isHistorical": false,
-      "timeline": "最新动态",
-      "ageDays": 0,
-      "tags": [
-        "国际秩序",
-        "Al Jazeera"
-      ]
-    },
-    {
-      "category": "国际秩序",
-      "title": "伊朗战争拖延，石油冲击引发全球价格飙升",
-      "summary": "随着霍尔木兹海峡的中断推高价格，美以对伊朗的战争造成的燃料冲击正在全球范围内蔓延。",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/oil-shock-triggers-global-price-spikes-as-iran-war-drags-on?traffic_source=rss",
-      "resolvedUrl": "https://www.aljazeera.com/video/newsfeed/2026/4/2/oil-shock-triggers-global-price-spikes-as-iran-war-drags-on?traffic_source=rss",
-      "source": "Al Jazeera",
-      "time": "2026-04-03",
-      "publishedAt": "2026-04-03T05:04:35+08:00",
-      "originalTime": "Thu, 02 Apr 2026 21:04:35 +0000",
-      "isHistorical": false,
-      "timeline": "最新动态",
-      "ageDays": 0,
-      "tags": [
-        "国际秩序",
-        "Al Jazeera"
-      ]
-    },
-    {
-      "category": "国际秩序",
-      "title": "乌干达根据第三国协议接收首架美国驱逐航班",
-      "summary": "数十人根据新协议抵达，但预计将面临法律挑战，该计划被批评为“非人化过程”。随着唐纳德·特朗普政府继续推行将移民驱逐到与他们没有联系的国家的战略，一架载有被美国驱逐出境的人的航班已降落在乌干达。一位不愿透露姓名的乌干达政府高级官员告诉路透社，被驱逐的人将留在东非国家，作为“可能继续传播到其他国家的过渡阶段”。继续阅读...",
-      "url": "https://www.theguardian.com/us-news/2026/apr/02/uganda-receives-first-us-deportation-flight-under-third-country-agreement",
-      "resolvedUrl": "https://www.theguardian.com/us-news/2026/apr/02/uganda-receives-first-us-deportation-flight-under-third-country-agreement",
-      "source": "The Guardian",
-      "time": "2026-04-03",
-      "publishedAt": "2026-04-03T00:37:12+08:00",
-      "originalTime": "Thu, 02 Apr 2026 16:37:12 GMT",
-      "isHistorical": false,
-      "timeline": "最新动态",
-      "ageDays": 0,
-      "tags": [
-        "国际秩序",
-        "The Guardian"
-      ]
-    },
-    {
-      "category": "国际秩序",
-      "title": "加拿大广播公司揭露魁北克省涉嫌枫糖浆骗局",
-      "summary": "加拿大广播电台的一名记者注意到他的枫糖浆味道很奇怪；测试显示其掺有蔗糖 加拿大国家广播公司的一项调查发现，魁北克一家主要生产商一直在用蔗糖稀释其枫糖浆，并将欺诈产品出售给杂货连锁店。在一次涉及虚假身份和秘密录音的诱捕行动中，加拿大广播电台 Enquête 节目的记者发现，主要连锁杂货店出售的低成本糖浆被严重稀释。继续阅读...",
-      "url": "https://www.theguardian.com/world/2026/apr/02/maple-syrup-scam-quebec-canada",
-      "resolvedUrl": "https://www.theguardian.com/world/2026/apr/02/maple-syrup-scam-quebec-canada",
-      "source": "The Guardian",
-      "time": "2026-04-03",
-      "publishedAt": "2026-04-03T03:07:20+08:00",
-      "originalTime": "Thu, 02 Apr 2026 19:07:20 GMT",
-      "isHistorical": false,
-      "timeline": "最新动态",
-      "ageDays": 0,
-      "tags": [
-        "国际秩序",
-        "The Guardian"
-      ]
-    },
-    {
-      "category": "财经",
-      "title": "今日开盘：两市双双低开 沪指跌幅0.20%",
-      "summary": "今日开盘：两市双双低开 沪指跌幅0.20% 财新网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rMDVmSGZpZjNPWGFKRkpFZ0x5WjVUMU9jSU41cHoxRDNmaGNlNEpYVGh3VmI4YUswSGY0S3I3TXk3aDZKUTl1eHdaaTZMUmY5cmkzSU9NODJtVWhVbGcxcktR?oc=5",
-      "resolvedUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rMDVmSGZpZjNPWGFKRkpFZ0x5WjVUMU9jSU41cHoxRDNmaGNlNEpYVGh3VmI4YUswSGY0S3I3TXk3aDZKUTl1eHdaaTZMUmY5cmkzSU9NODJtVWhVbGcxcktR?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "source": "财新网",
-      "time": "2026-04-02",
-      "publishedAt": "2026-04-02T09:29:00+08:00",
-      "originalTime": "Thu, 02 Apr 2026 01:29:00 GMT",
-      "isHistorical": false,
-      "timeline": "最新动态",
-      "ageDays": 1,
-      "tags": [
-        "财经",
-        "财新网"
       ]
     },
     {
@@ -1252,6 +1234,24 @@
       "time": "2026-04-02",
       "publishedAt": "2026-04-02T17:25:00+08:00",
       "originalTime": "Thu, 02 Apr 2026 09:25:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "财经",
+        "财新网"
+      ]
+    },
+    {
+      "category": "财经",
+      "title": "今日开盘：两市双双低开 沪指跌幅0.20%",
+      "summary": "今日开盘：两市双双低开 沪指跌幅0.20% 财新网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rMDVmSGZpZjNPWGFKRkpFZ0x5WjVUMU9jSU41cHoxRDNmaGNlNEpYVGh3VmI4YUswSGY0S3I3TXk3aDZKUTl1eHdaaTZMUmY5cmkzSU9NODJtVWhVbGcxcktR?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rMDVmSGZpZjNPWGFKRkpFZ0x5WjVUMU9jSU41cHoxRDNmaGNlNEpYVGh3VmI4YUswSGY0S3I3TXk3aDZKUTl1eHdaaTZMUmY5cmkzSU9NODJtVWhVbGcxcktR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source": "财新网",
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T09:29:00+08:00",
+      "originalTime": "Thu, 02 Apr 2026 01:29:00 GMT",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 1,
@@ -1298,32 +1298,14 @@
     },
     {
       "category": "财经",
-      "title": "中信建投：2026年二季度行业应当如何配置？",
-      "summary": "中信建投：2026年二季度行业应当如何配置？ 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPa2EyVUZpcWZSTWVWb3RiV2JtQzVfczFMN1NiQ2ltWUFURkN5NW9YZnBZNU9rVUlNOEg0NHl2aWx5Qjg5MTJfd01PSTA5NTlaRnNiQW83UTRGVUJnekZMdDdfcERmOGZmTVp6dVVzeFBsbm5uOUZtNC1MZDA0NkF2UHZzYUk0bS1CRXdnN3FESVViUWppN1NkeFRIVko3LVNObzRDcDZ2Qmw1Ujk5Z3JxNUpBaWlpT2RfSFJZbnlkT0JJOUpEVlhscjI4Z2RYWE1BeTFEa1NGUzJqcTBPLW5XdFNJMUlxaEo0bmxQVjd5R2hmbmRwQlphc19qelpkZw?oc=5",
-      "resolvedUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPa2EyVUZpcWZSTWVWb3RiV2JtQzVfczFMN1NiQ2ltWUFURkN5NW9YZnBZNU9rVUlNOEg0NHl2aWx5Qjg5MTJfd01PSTA5NTlaRnNiQW83UTRGVUJnekZMdDdfcERmOGZmTVp6dVVzeFBsbm5uOUZtNC1MZDA0NkF2UHZzYUk0bS1CRXdnN3FESVViUWppN1NkeFRIVko3LVNObzRDcDZ2Qmw1Ujk5Z3JxNUpBaWlpT2RfSFJZbnlkT0JJOUpEVlhscjI4Z2RYWE1BeTFEa1NGUzJqcTBPLW5XdFNJMUlxaEo0bmxQVjd5R2hmbmRwQlphc19qelpkZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "source": "新浪财经",
-      "time": "2026-04-03",
-      "publishedAt": "2026-04-03T06:38:40+08:00",
-      "originalTime": "Thu, 02 Apr 2026 22:38:40 GMT",
-      "isHistorical": false,
-      "timeline": "最新动态",
-      "ageDays": 0,
-      "tags": [
-        "财经",
-        "新浪财经"
-      ]
-    },
-    {
-      "category": "财经",
-      "title": "三月份就业报告将于周五发布。这是值得期待的",
-      "summary": "美国经济预计 3 月份将增加 59,000 个就业岗位，失业率保持在 4.4%。",
-      "url": "https://www.cnbc.com/2026/04/02/the-march-jobs-report-will-be-released-on-friday-heres-what-to-expect.html",
-      "resolvedUrl": "https://www.cnbc.com/2026/04/02/the-march-jobs-report-will-be-released-on-friday-heres-what-to-expect.html",
+      "title": "特朗普“解放日”一年后，全球投资者正在重新思考美国例外论",
+      "summary": "一位市场观察人士告诉 CNBC，全球投资者“不再自动”接受美国例外论。",
+      "url": "https://www.cnbc.com/2026/04/02/liberation-day-1-year-on-investors-are-rethinking-us-assets.html",
+      "resolvedUrl": "https://www.cnbc.com/2026/04/02/liberation-day-1-year-on-investors-are-rethinking-us-assets.html",
       "source": "CNBC",
       "time": "2026-04-03",
-      "publishedAt": "2026-04-03T04:04:41+08:00",
-      "originalTime": "Thu, 02 Apr 2026 20:04:41 GMT",
+      "publishedAt": "2026-04-03T04:46:52+08:00",
+      "originalTime": "Thu, 02 Apr 2026 20:46:52 GMT",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 0,
@@ -1334,14 +1316,14 @@
     },
     {
       "category": "财经",
-      "title": "特朗普解雇司法部长帕姆·邦迪",
-      "summary": "据说特朗普总统对帕姆·邦迪处理司法部有关杰弗里·爱泼斯坦的文件以及司法部未能起诉他的政敌的行为感到不满。",
-      "url": "https://www.cnbc.com/2026/04/02/trump-pam-bondi-attorney-general-lee-zeldin.html",
-      "resolvedUrl": "https://www.cnbc.com/2026/04/02/trump-pam-bondi-attorney-general-lee-zeldin.html",
+      "title": "SpaceX 的 IPO 可能是有史以来规模最大的公开发行——专家介绍投资前须知",
+      "summary": "埃隆·马斯克 (Elon Musk) 的火箭和卫星公司有望成为美国历史上规模最大的公开募股。",
+      "url": "https://www.cnbc.com/2026/04/02/how-to-invest-initial-public-offering.html",
+      "resolvedUrl": "https://www.cnbc.com/2026/04/02/how-to-invest-initial-public-offering.html",
       "source": "CNBC",
       "time": "2026-04-03",
-      "publishedAt": "2026-04-03T04:32:48+08:00",
-      "originalTime": "Thu, 02 Apr 2026 20:32:48 GMT",
+      "publishedAt": "2026-04-03T02:01:08+08:00",
+      "originalTime": "Thu, 02 Apr 2026 18:01:08 GMT",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 0,
@@ -1352,14 +1334,14 @@
     },
     {
       "category": "财经",
-      "title": "伊朗和阿曼起草协议以“监控”霍尔木兹海峡交通：IRNA",
-      "summary": "自二月底伊朗战争爆发以来，全球石油运输的重要动脉霍尔木兹海峡实际上已被关闭。",
-      "url": "https://www.cnbc.com/2026/04/02/iran-war-oman-hormuz-strait.html",
-      "resolvedUrl": "https://www.cnbc.com/2026/04/02/iran-war-oman-hormuz-strait.html",
+      "title": "伊朗战争推高能源价格 亚马逊将向卖家增加3.5%的燃油和物流附加费",
+      "summary": "随着伊朗战争进入第五周，亚马逊表示将向美国和加拿大的第三方卖家增加 3.5% 的燃油和物流附加费。",
+      "url": "https://www.cnbc.com/2026/04/02/amazon-add-3point5percent-fuel-and-logistics-surcharge-for-sellers-amid-iran-war.html",
+      "resolvedUrl": "https://www.cnbc.com/2026/04/02/amazon-add-3point5percent-fuel-and-logistics-surcharge-for-sellers-amid-iran-war.html",
       "source": "CNBC",
       "time": "2026-04-03",
-      "publishedAt": "2026-04-03T02:46:52+08:00",
-      "originalTime": "Thu, 02 Apr 2026 18:46:52 GMT",
+      "publishedAt": "2026-04-03T02:59:44+08:00",
+      "originalTime": "Thu, 02 Apr 2026 18:59:44 GMT",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 0,
@@ -1370,14 +1352,14 @@
     },
     {
       "category": "财经",
-      "title": "由于燃油价格持续上涨，联合航空将托运行李费上调 10 美元",
-      "summary": "联合航空成为一周内第二家提高托运行李费的美国航空公司，该行业正在努力应对航空燃油成本上涨超过 80% 的问题。",
-      "url": "https://www.cnbc.com/2026/04/02/united-airlines-raises-checked-bag-fees-fuel-prices-climb.html",
-      "resolvedUrl": "https://www.cnbc.com/2026/04/02/united-airlines-raises-checked-bag-fees-fuel-prices-climb.html",
+      "title": "特朗普政府对部分进口药品征收高达100%的关税，许多公司获得豁免",
+      "summary": "特朗普政府正准备对尚未与总统达成协议以降低美国药品价格的制药商征收新关税。",
+      "url": "https://www.cnbc.com/2026/04/02/trump-pharmaceutical-tariffs-100percent.html",
+      "resolvedUrl": "https://www.cnbc.com/2026/04/02/trump-pharmaceutical-tariffs-100percent.html",
       "source": "CNBC",
       "time": "2026-04-03",
-      "publishedAt": "2026-04-03T06:11:06+08:00",
-      "originalTime": "Thu, 02 Apr 2026 22:11:06 GMT",
+      "publishedAt": "2026-04-03T05:11:48+08:00",
+      "originalTime": "Thu, 02 Apr 2026 21:11:48 GMT",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 0,
@@ -1388,14 +1370,14 @@
     },
     {
       "category": "财经",
-      "title": "华纳、希夫调查政府潜在的内幕交易",
-      "summary": "议员们还引用了最近的一份报告，称一名与 Pete Hegseth 相关的经纪人在 2 月份寻求对与国防相关的 ETF 进行数百万美元的投资。",
-      "url": "https://www.cnbc.com/2026/04/02/hegseth-trump-mark-warner-adam-schiff-insider-trading-probe.html",
-      "resolvedUrl": "https://www.cnbc.com/2026/04/02/hegseth-trump-mark-warner-adam-schiff-insider-trading-probe.html",
+      "title": "特朗普伊朗战争言论引发对局势进一步升级的担忧，美国油价飙升11%",
+      "summary": "特朗普在就伊朗战争向全国发表讲话时表示，他预计冲突将再持续两到三周，油价飙升。",
+      "url": "https://www.cnbc.com/2026/04/02/oil-prices-today-wti-brent-trump-speech-iran-war-.html",
+      "resolvedUrl": "https://www.cnbc.com/2026/04/02/oil-prices-today-wti-brent-trump-speech-iran-war-.html",
       "source": "CNBC",
       "time": "2026-04-03",
-      "publishedAt": "2026-04-03T06:19:31+08:00",
-      "originalTime": "Thu, 02 Apr 2026 22:19:31 GMT",
+      "publishedAt": "2026-04-03T02:56:19+08:00",
+      "originalTime": "Thu, 02 Apr 2026 18:56:19 GMT",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 0,
@@ -1406,128 +1388,38 @@
     },
     {
       "category": "财经",
-      "title": "泰格·伍兹在酒驾事故后给特朗普打电话，他通过随身摄像头视频告诉警察",
-      "summary": "上周，高尔夫球手泰格·伍兹在佛罗里达州朱庇特发生车祸后，特朗普总统称他为亲密朋友。伍兹正在与小唐纳德·特朗普的前妻约会。",
-      "url": "https://www.cnbc.com/2026/04/02/tiger-woods-trump-call-dui-crash-video.html",
-      "resolvedUrl": "https://www.cnbc.com/2026/04/02/tiger-woods-trump-call-dui-crash-video.html",
-      "source": "CNBC",
+      "title": "特朗普威胁对不达成协议降低价格的美国制药商征收 100% 关税",
+      "summary": "新税将针对品牌药物和活性成分，同时豁免仿制药至少一年 订阅《美国突发新闻》电子邮件，在收件箱中获取时事通讯提醒 唐纳德·特朗普威胁对尚未达成降低美国药品价格协议的制药公司征收 100% 关税。新关税仅适用于品牌药物及其活性成分。占美国销售药品90%以上的仿制药将获得至少一年的关税豁免。孤儿药、兽药和其他特殊药物如果来自贸易协定国家或满足紧急公共卫生需求，则可以豁免。继续阅读...",
+      "url": "https://www.theguardian.com/us-news/2026/apr/02/trump-100-tariff-us-pharmaceutical-drug-makers",
+      "resolvedUrl": "https://www.theguardian.com/us-news/2026/apr/02/trump-100-tariff-us-pharmaceutical-drug-makers",
+      "source": "The Guardian",
       "time": "2026-04-03",
-      "publishedAt": "2026-04-03T07:41:36+08:00",
-      "originalTime": "Thu, 02 Apr 2026 23:41:36 GMT",
+      "publishedAt": "2026-04-03T05:33:24+08:00",
+      "originalTime": "Thu, 02 Apr 2026 21:33:24 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "财经",
+        "The Guardian"
+      ]
+    },
+    {
+      "category": "财经",
+      "title": "星巴克向咖啡师发放奖金，扩大小费以促进扭亏为盈",
+      "summary": "星巴克正处于转型之中，专注于改善客户和员工体验。",
+      "url": "https://www.cnbc.com/2026/04/02/starbucks-to-award-bonuses-to-baristas-expand-tipping.html",
+      "resolvedUrl": "https://www.cnbc.com/2026/04/02/starbucks-to-award-bonuses-to-baristas-expand-tipping.html",
+      "source": "CNBC",
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T23:32:10+08:00",
+      "originalTime": "Thu, 02 Apr 2026 15:32:10 GMT",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 0,
       "tags": [
         "财经",
         "CNBC"
-      ]
-    },
-    {
-      "category": "体育",
-      "title": "老虎告诉副手：“我只是在和总统谈话”",
-      "summary": "周四公布的随身摄像机镜头显示，泰格·伍兹上周在佛罗里达州撞毁了他的SUV后，拿出手机告诉一名副手，“我只是在和总统通话”，该视频显示这位高尔夫球手因酒驾指控被捕。",
-      "url": "https://www.espn.com/golf/story/_/id/48378214/bodycam-shows-tiger-woods-surprised-dui-arrest",
-      "resolvedUrl": "https://www.espn.com/golf/story/_/id/48378214/bodycam-shows-tiger-woods-surprised-dui-arrest",
-      "source": "ESPN",
-      "time": "2026-04-03",
-      "publishedAt": "2026-04-03T06:48:31+08:00",
-      "originalTime": "Thu, 2 Apr 2026 17:48:31 EST",
-      "isHistorical": false,
-      "timeline": "最新动态",
-      "ageDays": 0,
-      "tags": [
-        "体育",
-        "ESPN"
-      ]
-    },
-    {
-      "category": "体育",
-      "title": "菲尔因家庭健康问题缺席大师赛",
-      "summary": "菲尔·米克尔森周四宣布，他不会参加下周的大师赛，并将缺席较长一段时间，因为他的家人继续“处理个人健康问题”。",
-      "url": "https://www.espn.com/golf/story/_/id/48379971/phil-mickelson-miss-masters-personal-health-matter",
-      "resolvedUrl": "https://www.espn.com/golf/story/_/id/48379971/phil-mickelson-miss-masters-personal-health-matter",
-      "source": "ESPN",
-      "time": "2026-04-03",
-      "publishedAt": "2026-04-03T06:48:31+08:00",
-      "originalTime": "Thu, 2 Apr 2026 17:48:31 EST",
-      "isHistorical": false,
-      "timeline": "最新动态",
-      "ageDays": 0,
-      "tags": [
-        "体育",
-        "ESPN"
-      ]
-    },
-    {
-      "category": "体育",
-      "title": "两届全职业球员、2019 年 DPOY 吉尔摩退役",
-      "summary": "两届全职业角卫斯蒂芬·吉尔摩宣布从 NFL 退役。",
-      "url": "https://www.espn.com/nfl/story/_/id/48380010/two-all-pro-2019-dpoy-stephon-gilmore-retires-nfl",
-      "resolvedUrl": "https://www.espn.com/nfl/story/_/id/48380010/two-all-pro-2019-dpoy-stephon-gilmore-retires-nfl",
-      "source": "ESPN",
-      "time": "2026-04-03",
-      "publishedAt": "2026-04-03T06:48:31+08:00",
-      "originalTime": "Thu, 2 Apr 2026 17:48:31 EST",
-      "isHistorical": false,
-      "timeline": "最新动态",
-      "ageDays": 0,
-      "tags": [
-        "体育",
-        "ESPN"
-      ]
-    },
-    {
-      "category": "体育",
-      "title": "不是一个多任务处理者：劳埃德专注于 Zona，而不是 UNC",
-      "summary": "亚利桑那州主教练汤米·劳埃德表示，他不是一个“多任务处理者”，因为有传言称他将参加北卡罗来纳州的揭幕战，因为他的球队准备在周六的四强赛中对阵密歇根州。",
-      "url": "https://www.espn.com/mens-college-basketball/story/_/id/48380222/not-multitasker-lloyd-focusing-arizona-not-north-carolina",
-      "resolvedUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48380222/not-multitasker-lloyd-focusing-arizona-not-north-carolina",
-      "source": "ESPN",
-      "time": "2026-04-03",
-      "publishedAt": "2026-04-03T06:48:31+08:00",
-      "originalTime": "Thu, 2 Apr 2026 17:48:31 EST",
-      "isHistorical": false,
-      "timeline": "最新动态",
-      "ageDays": 0,
-      "tags": [
-        "体育",
-        "ESPN"
-      ]
-    },
-    {
-      "category": "体育",
-      "title": "卡多重返密歇根大学，过敏反应后“很好”",
-      "summary": "密歇根州首发控球后卫埃利奥特·卡多在四强赛中重新与队友会合，他周四表示，他因意外接触坚果而出现过敏反应，需要在一天前住院治疗。",
-      "url": "https://www.espn.com/mens-college-basketball/story/_/id/48380065/elliot-cadeau-rejoins-wolverines-allergic-reaction",
-      "resolvedUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48380065/elliot-cadeau-rejoins-wolverines-allergic-reaction",
-      "source": "ESPN",
-      "time": "2026-04-03",
-      "publishedAt": "2026-04-03T06:48:31+08:00",
-      "originalTime": "Thu, 2 Apr 2026 17:48:31 EST",
-      "isHistorical": false,
-      "timeline": "最新动态",
-      "ageDays": 0,
-      "tags": [
-        "体育",
-        "ESPN"
-      ]
-    },
-    {
-      "category": "体育",
-      "title": "鲍尔随小联盟鸭队返回美国",
-      "summary": "前赛扬奖得主特雷弗·鲍尔 (Trevor Bauer) 已与大西洋联盟长岛鸭队签约，并计划为这支小联盟球队于 4 月 21 日揭幕战上场。",
-      "url": "https://www.espn.com/mlb/story/_/id/48378454/trevor-bauer-signs-long-island-ducks-us-return",
-      "resolvedUrl": "https://www.espn.com/mlb/story/_/id/48378454/trevor-bauer-signs-long-island-ducks-us-return",
-      "source": "ESPN",
-      "time": "2026-04-03",
-      "publishedAt": "2026-04-03T06:48:31+08:00",
-      "originalTime": "Thu, 2 Apr 2026 17:48:31 EST",
-      "isHistorical": false,
-      "timeline": "最新动态",
-      "ageDays": 0,
-      "tags": [
-        "体育",
-        "ESPN"
       ]
     },
     {
@@ -1550,20 +1442,128 @@
     },
     {
       "category": "体育",
-      "title": "托特纳姆热刺主教练罗伯托·德泽尔比为过去对梅森·格林伍德的评论道歉",
-      "summary": "热刺主教练表示，“我无意表明立场” 球迷群体反对德泽尔比的任命 新托特纳姆热刺主教练罗伯托·德泽尔比为他过去对梅森·格林伍德的言论道歉，并表示他永远不会故意淡化针对女性的暴力行为。托特纳姆热刺队支持者信托基金（THST）周二强烈批评了意大利人的任命，并在他被确认签署了一份为期五年的协议以取代临时主教练伊戈尔·都铎后不久发表了一份声明，表达了“严重而深远的担忧”。继续阅读...",
-      "url": "https://www.theguardian.com/football/2026/apr/02/roberto-de-zerbi-apologises-mason-greenwood-comments-tottenham",
-      "resolvedUrl": "https://www.theguardian.com/football/2026/apr/02/roberto-de-zerbi-apologises-mason-greenwood-comments-tottenham",
-      "source": "The Guardian",
+      "title": "“如果没有视频，没有人会相信”：记住兰迪·约翰逊的鸟球",
+      "summary": "2001 年，棒球运动的第一个病毒式传播时刻发生在春季训练场上。在场的人们重温了“羽毛海”游戏。",
+      "url": "https://www.espn.com/mlb/story/_/id/48356185/mlb-2026-randy-johnson-pitch-strikes-bird-25-anniversary-arizona-diamondbacks",
+      "resolvedUrl": "https://www.espn.com/mlb/story/_/id/48356185/mlb-2026-randy-johnson-pitch-strikes-bird-25-anniversary-arizona-diamondbacks",
+      "source": "ESPN",
       "time": "2026-04-03",
-      "publishedAt": "2026-04-03T02:42:37+08:00",
-      "originalTime": "Thu, 02 Apr 2026 18:42:37 GMT",
+      "publishedAt": "2026-04-03T06:05:51+08:00",
+      "originalTime": "Thu, 2 Apr 2026 17:05:51 EST",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 0,
       "tags": [
         "体育",
-        "The Guardian"
+        "ESPN"
+      ]
+    },
+    {
+      "category": "体育",
+      "title": "关于科怀·伦纳德、史蒂夫·鲍尔默以及 NBA 对洛杉矶快船队的调查的最新消息",
+      "summary": "伦纳德的合同到底写了什么？联盟内部人士对此有何看法？以下是我们对这些指控的了解以及调查的进展情况。",
+      "url": "https://www.espn.com/nba/story/_/id/48369328/the-latest-kawhi-leonard-steve-ballmer-nba-investigation-aspiration-la-clippers",
+      "resolvedUrl": "https://www.espn.com/nba/story/_/id/48369328/the-latest-kawhi-leonard-steve-ballmer-nba-investigation-aspiration-la-clippers",
+      "source": "ESPN",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T06:36:57+08:00",
+      "originalTime": "Thu, 2 Apr 2026 17:36:57 EST",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "体育",
+        "ESPN"
+      ]
+    },
+    {
+      "category": "体育",
+      "title": "康纳·格里芬即将进军大联盟！关于海盗队的 19 岁球员你需要了解什么",
+      "summary": "匹兹堡正在征召美国职业棒球大联盟的第一号新秀。这就是游击手如此特别的原因。",
+      "url": "https://www.espn.com/mlb/story/_/id/48377713/mlb-2026-konnor-griffin-pittsburgh-pirates-no-1-prospect-debut-scouting-report",
+      "resolvedUrl": "https://www.espn.com/mlb/story/_/id/48377713/mlb-2026-konnor-griffin-pittsburgh-pirates-no-1-prospect-debut-scouting-report",
+      "source": "ESPN",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T06:43:37+08:00",
+      "originalTime": "Thu, 2 Apr 2026 17:43:37 EST",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "体育",
+        "ESPN"
+      ]
+    },
+    {
+      "category": "体育",
+      "title": "您的男子四强指南：伊利诺伊州-康涅狄格大学、亚利桑那州-密歇根州（带预测！）",
+      "summary": "我们详细介绍了每支球队晋级冠军赛的关键——以及他们潜在的致命缺陷。",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/48373475/march-madness-final-four-arizona-michigan-uconn-illinois-predictions-2026",
+      "resolvedUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48373475/march-madness-final-four-arizona-michigan-uconn-illinois-predictions-2026",
+      "source": "ESPN",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T07:03:57+08:00",
+      "originalTime": "Thu, 2 Apr 2026 18:03:57 EST",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "体育",
+        "ESPN"
+      ]
+    },
+    {
+      "category": "体育",
+      "title": "球探们争论 NBA 选秀中的顶尖球员：彼得森还是迪班萨排名第一？",
+      "summary": "适合胜过天赋？多功能性优于生产？ NBA 球探和高管们对选秀状元期间发生的对话进行了详细分析。",
+      "url": "https://www.espn.com/nba/story/_/id/48358749/nba-draft-2026-dybantsa-peterson-boozer-wagler-scouts-execs-top-5",
+      "resolvedUrl": "https://www.espn.com/nba/story/_/id/48358749/nba-draft-2026-dybantsa-peterson-boozer-wagler-scouts-execs-top-5",
+      "source": "ESPN",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T08:21:59+08:00",
+      "originalTime": "Thu, 2 Apr 2026 19:21:59 EST",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "体育",
+        "ESPN"
+      ]
+    },
+    {
+      "category": "体育",
+      "title": "Brandon Bussi 的兄弟 Dylan 如何继续激励他的 NHL 之旅",
+      "summary": "这位 27 岁的守门员在飓风队度过了破纪录的首个赛季，他的脑海里仍然挂着他的兄弟。",
+      "url": "https://www.espn.com/nhl/story/_/id/48369864/nhl-2025-26-brandon-bussi-carolina-hurricanes-goalie-brother-autism",
+      "resolvedUrl": "https://www.espn.com/nhl/story/_/id/48369864/nhl-2025-26-brandon-bussi-carolina-hurricanes-goalie-brother-autism",
+      "source": "ESPN",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T07:59:57+08:00",
+      "originalTime": "Thu, 2 Apr 2026 18:59:57 EST",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "体育",
+        "ESPN"
+      ]
+    },
+    {
+      "category": "体育",
+      "title": "巴塞罗那对阵马德里，闯入欧冠半决赛",
+      "summary": "巴塞罗那队在诺坎普球场以6比0击败皇家马德里队，以总比分12比2晋级女足欧冠半决赛，与拜仁慕尼黑队打平。",
+      "url": "https://www.bbc.com/sport/football/videos/czexyr1zkywo?at_medium=RSS&at_campaign=rss",
+      "resolvedUrl": "https://www.bbc.com/sport/football/videos/czexyr1zkywo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T03:29:56+08:00",
+      "originalTime": "Thu, 02 Apr 2026 19:29:56 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "体育",
+        "BBC"
       ]
     },
     {
@@ -1606,20 +1606,20 @@
     },
     {
       "category": "国内国际民生",
-      "title": "长春工大健康帮扶项目入选教育部精准帮扶典型项目",
-      "summary": "长春工大健康帮扶项目入选教育部精准帮扶典型项目 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUmExSXdNUUpkUVRrbkVrdTAtZFRNQmgyUWZ5UWhTeEZMTW5QUXpFT19pc3AzTlNMcW1UOHVHQW9UanRxOG9oVDNJb0NJNTdCREZDNXF5TGRZLVpUVVhSVlZHMzNReWRNaFhBMDdpcnZOUlNKSUFzY2xYT3RES05yNTYwZkhCVnNi?oc=5",
-      "resolvedUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUmExSXdNUUpkUVRrbkVrdTAtZFRNQmgyUWZ5UWhTeEZMTW5QUXpFT19pc3AzTlNMcW1UOHVHQW9UanRxOG9oVDNJb0NJNTdCREZDNXF5TGRZLVpUVVhSVlZHMzNReWRNaFhBMDdpcnZOUlNKSUFzY2xYT3RES05yNTYwZkhCVnNi?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "source": "搜狐网",
+      "title": "北京市文物局关于在全国重点文物保护单位北平图书馆旧址保护范围内实施国家图书馆古籍馆电力增容改造项目的复函",
+      "summary": "北京市文物局关于在全国重点文物保护单位北平图书馆旧址保护范围内实施国家图书馆古籍馆电力增容改造项目的复函 wwj.beijing.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WZk5SSXJxWWVJZ1pRZDE3VklzRUI5dUFTR2hPSkE2QUNab3kyYXZLT1FVc3NBandNQnhOelYyejduZmZ5SkZEWWRBclVGdFQ2UTRMZ2dYSndUZFRkQjhoNFlTOXlrVnMtRVk1dE1JMjhYeGl0ZGltRGtKUUxxUQ?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WZk5SSXJxWWVJZ1pRZDE3VklzRUI5dUFTR2hPSkE2QUNab3kyYXZLT1FVc3NBandNQnhOelYyejduZmZ5SkZEWWRBclVGdFQ2UTRMZ2dYSndUZFRkQjhoNFlTOXlrVnMtRVk1dE1JMjhYeGl0ZGltRGtKUUxxUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source": "wwj.beijing.gov.cn",
       "time": "2026-04-02",
-      "publishedAt": "2026-04-02T19:26:36+08:00",
-      "originalTime": "Thu, 02 Apr 2026 11:26:36 GMT",
+      "publishedAt": "2026-04-02T09:42:59+08:00",
+      "originalTime": "Thu, 02 Apr 2026 01:42:59 GMT",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 1,
       "tags": [
         "国内国际民生",
-        "搜狐网",
+        "wwj.beijing.gov.cn",
         "政策"
       ]
     },
@@ -1644,20 +1644,20 @@
     },
     {
       "category": "国内国际民生",
-      "title": "北京市文物局关于在全国重点文物保护单位北平图书馆旧址保护范围内实施国家图书馆古籍馆电力增容改造项目的复函",
-      "summary": "北京市文物局关于在全国重点文物保护单位北平图书馆旧址保护范围内实施国家图书馆古籍馆电力增容改造项目的复函 wwj.beijing.gov.cn",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WZk5SSXJxWWVJZ1pRZDE3VklzRUI5dUFTR2hPSkE2QUNab3kyYXZLT1FVc3NBandNQnhOelYyejduZmZ5SkZEWWRBclVGdFQ2UTRMZ2dYSndUZFRkQjhoNFlTOXlrVnMtRVk1dE1JMjhYeGl0ZGltRGtKUUxxUQ?oc=5",
-      "resolvedUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WZk5SSXJxWWVJZ1pRZDE3VklzRUI5dUFTR2hPSkE2QUNab3kyYXZLT1FVc3NBandNQnhOelYyejduZmZ5SkZEWWRBclVGdFQ2UTRMZ2dYSndUZFRkQjhoNFlTOXlrVnMtRVk1dE1JMjhYeGl0ZGltRGtKUUxxUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "source": "wwj.beijing.gov.cn",
+      "title": "长春工大健康帮扶项目入选教育部精准帮扶典型项目",
+      "summary": "长春工大健康帮扶项目入选教育部精准帮扶典型项目 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUmExSXdNUUpkUVRrbkVrdTAtZFRNQmgyUWZ5UWhTeEZMTW5QUXpFT19pc3AzTlNMcW1UOHVHQW9UanRxOG9oVDNJb0NJNTdCREZDNXF5TGRZLVpUVVhSVlZHMzNReWRNaFhBMDdpcnZOUlNKSUFzY2xYT3RES05yNTYwZkhCVnNi?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUmExSXdNUUpkUVRrbkVrdTAtZFRNQmgyUWZ5UWhTeEZMTW5QUXpFT19pc3AzTlNMcW1UOHVHQW9UanRxOG9oVDNJb0NJNTdCREZDNXF5TGRZLVpUVVhSVlZHMzNReWRNaFhBMDdpcnZOUlNKSUFzY2xYT3RES05yNTYwZkhCVnNi?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source": "搜狐网",
       "time": "2026-04-02",
-      "publishedAt": "2026-04-02T09:42:59+08:00",
-      "originalTime": "Thu, 02 Apr 2026 01:42:59 GMT",
+      "publishedAt": "2026-04-02T19:26:36+08:00",
+      "originalTime": "Thu, 02 Apr 2026 11:26:36 GMT",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 1,
       "tags": [
         "国内国际民生",
-        "wwj.beijing.gov.cn",
+        "搜狐网",
         "政策"
       ]
     },
@@ -1682,42 +1682,6 @@
     },
     {
       "category": "国内国际民生",
-      "title": "泸州龙马潭：人大监督亮新招 医保惠民更暖心",
-      "summary": "泸州龙马潭：人大监督亮新招 医保惠民更暖心 人民网－四川频道",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwWmhCOUljc1Q0bXdsQ1g0ZDE0SW55N0gzVEl6U2VtU0RLUkR3bWNYRkFxdzJaRk02aGJvNlZZWmJ1SVlWN3JuQV9LcndhdWpydTVwUi11dGJfYTVZSlJyaTFhYm9KQldQVGc?oc=5",
-      "resolvedUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwWmhCOUljc1Q0bXdsQ1g0ZDE0SW55N0gzVEl6U2VtU0RLUkR3bWNYRkFxdzJaRk02aGJvNlZZWmJ1SVlWN3JuQV9LcndhdWpydTVwUi11dGJfYTVZSlJyaTFhYm9KQldQVGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "source": "人民日报",
-      "time": "2026-04-02",
-      "publishedAt": "2026-04-02T21:24:00+08:00",
-      "originalTime": "Thu, 02 Apr 2026 13:24:00 GMT",
-      "isHistorical": false,
-      "timeline": "最新动态",
-      "ageDays": 1,
-      "tags": [
-        "国内国际民生",
-        "人民日报"
-      ]
-    },
-    {
-      "category": "国内国际民生",
-      "title": "甘肃扎实推进稳岗扩容提质惠及民生",
-      "summary": "甘肃扎实推进稳岗扩容提质惠及民生 gs.people.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BZ3FXR0paQ295WUVvM3hRTW03cVhEZ2c0VU5RM2Q3WURXZ3VJRGJrTFdTVFk4R1JWM2NqSEZWN0lPSDhIWkRSZmJueDVZZnpPSktNY3RidlBLcWc5WmZPb2F5TFIyMHRoUnc?oc=5",
-      "resolvedUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BZ3FXR0paQ295WUVvM3hRTW03cVhEZ2c0VU5RM2Q3WURXZ3VJRGJrTFdTVFk4R1JWM2NqSEZWN0lPSDhIWkRSZmJueDVZZnpPSktNY3RidlBLcWc5WmZPb2F5TFIyMHRoUnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "source": "人民日报",
-      "time": "2026-04-02",
-      "publishedAt": "2026-04-02T09:12:00+08:00",
-      "originalTime": "Thu, 02 Apr 2026 01:12:00 GMT",
-      "isHistorical": false,
-      "timeline": "最新动态",
-      "ageDays": 1,
-      "tags": [
-        "国内国际民生",
-        "人民日报"
-      ]
-    },
-    {
-      "category": "国内国际民生",
       "title": "以智为光 以扶为翼——泰安市走出困境儿童数智精准帮扶新路径",
       "summary": "以智为光 以扶为翼——泰安市走出困境儿童数智精准帮扶新路径 人民网",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLb3hNaklDcWlqYnZyM3lGZVpWMXgyeXBrNVdjZEMtMGI3TS1NdzYyZlBZaTh1UTg5VTFyY0Y2OThTcWZPVDJUUGt6NkoyS1VRNHJwTEd6R2FEaHFtTHlQUldwRE9wcVViQVE?oc=5",
@@ -1726,6 +1690,24 @@
       "time": "2026-04-02",
       "publishedAt": "2026-04-02T10:42:00+08:00",
       "originalTime": "Thu, 02 Apr 2026 02:42:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "国内国际民生",
+        "人民日报"
+      ]
+    },
+    {
+      "category": "国内国际民生",
+      "title": "泸州龙马潭：人大监督亮新招 医保惠民更暖心",
+      "summary": "泸州龙马潭：人大监督亮新招 医保惠民更暖心 人民网－四川频道",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwWmhCOUljc1Q0bXdsQ1g0ZDE0SW55N0gzVEl6U2VtU0RLUkR3bWNYRkFxdzJaRk02aGJvNlZZWmJ1SVlWN3JuQV9LcndhdWpydTVwUi11dGJfYTVZSlJyaTFhYm9KQldQVGc?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwWmhCOUljc1Q0bXdsQ1g0ZDE0SW55N0gzVEl6U2VtU0RLUkR3bWNYRkFxdzJaRk02aGJvNlZZWmJ1SVlWN3JuQV9LcndhdWpydTVwUi11dGJfYTVZSlJyaTFhYm9KQldQVGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source": "人民日报",
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T21:24:00+08:00",
+      "originalTime": "Thu, 02 Apr 2026 13:24:00 GMT",
       "isHistorical": false,
       "timeline": "最新动态",
       "ageDays": 1,
@@ -1750,6 +1732,24 @@
       "tags": [
         "国内国际民生",
         "新华社"
+      ]
+    },
+    {
+      "category": "国内国际民生",
+      "title": "甘肃扎实推进稳岗扩容提质惠及民生",
+      "summary": "甘肃扎实推进稳岗扩容提质惠及民生 gs.people.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BZ3FXR0paQ295WUVvM3hRTW03cVhEZ2c0VU5RM2Q3WURXZ3VJRGJrTFdTVFk4R1JWM2NqSEZWN0lPSDhIWkRSZmJueDVZZnpPSktNY3RidlBLcWc5WmZPb2F5TFIyMHRoUnc?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BZ3FXR0paQ295WUVvM3hRTW03cVhEZ2c0VU5RM2Q3WURXZ3VJRGJrTFdTVFk4R1JWM2NqSEZWN0lPSDhIWkRSZmJueDVZZnpPSktNY3RidlBLcWc5WmZPb2F5TFIyMHRoUnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source": "人民日报",
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T09:12:00+08:00",
+      "originalTime": "Thu, 02 Apr 2026 01:12:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "国内国际民生",
+        "人民日报"
       ]
     },
     {
@@ -1794,27 +1794,6 @@
   "newsHistorical": [
     {
       "category": "国内国际民生",
-      "title": "长和︰强烈反对巴拿马裁定 积极果断对巴拿马进行仲裁",
-      "summary": "在巴拿马最高法院裁定，香港长和子公司运营巴拿马运河港口的合同违反宪法后，长和星期三（2月4日）发布公告称，董事会对巴拿马的裁定及相应行动表示强烈反对，并称会积极果断对巴拿马进行仲裁。 长和星期三在官网发布公告称，据旗下的巴拿马港口公司（PPC）理解，巴拿马最高法院的决定可能在今年2月初生效。公告称，PPC已获得意见，指巴拿马最高法院所宣布的决定，以及巴拿马政府就PPC于该两个港口之码头营运所采取的相应行动，与相关法律框架，以及批准该特许经营合约之法律并不一致。 公告续称，PPC在星期二（2月3日）已展开并将根据适用特许经营合约及国际商会之仲裁规则，积极果断对巴拿马进行仲裁。 长和最后在公告中说，董事会对巴拿马的裁定及相应行动表示强烈反对，会继续咨询其法律顾问，并保留一切权利，包括就有关事宜诉诸进一步国内及国际法律程序。 负责香港事务的中国国务院港澳办星期二（2月3日）晚在微信公众号发表署名“港澳平”的评论文章称，中国从来不会屈从于强权政治和霸权主义，有足够的手段和工具、足够的实力和能力维护国际经贸秩序公平公正。巴拿马应当认清形势、迷途知返。如果一意孤行，执迷不悟，“必将在政治上、经济上都付出沉重代价！” 巴拿马高院上星期四（1月29日）裁定，长和子公司运营巴拿马运河港口的特许经营权合同违宪。裁决书称，相关合约存在“过度偏袒”长和的条款。 PPC自1997年起获巴拿马港口的运营合同，并在2021年于上一届巴拿马政府执政期间获续约，为期25年。 关于撤销巴拿马港口公司合约一事，最早由巴拿马审计部门去年提出。审计部门认为特许经营权违宪，并指长和未向巴拿马政府支付12亿美元（约15亿新元）税金。 据法新社报道，巴拿马海事局上星期五（1月30日）宣布，马士基集团旗下港口运营商APM码头公司，将担任位处巴拿马运河两端的巴尔博亚港和克里斯托瓦尔港的“临时管理方”。 长和去年3月公布，以228亿美元向贝莱德等美资组成的财团悉数出售在23个国家营运的43个港口权益，包括巴拿马港口90%股权。 中国据报对此大表不满。美媒去年7月报道，北京表明，除非中国远洋海运集团获得多数股权，否则将阻止交易。",
-      "url": "https://www.zaobao.com/news/china/story20260204-8295674",
-      "resolvedUrl": "https://www.zaobao.com/news/china/story20260204-8295674",
-      "source": "联合早报",
-      "time": "2026-02-04",
-      "publishedAt": "2026-02-04T09:17:18+08:00",
-      "originalTime": "Wed, 04 Feb 2026 01:17:18 GMT",
-      "isHistorical": true,
-      "timeline": "历史回顾",
-      "ageDays": 58,
-      "tags": [
-        "国内国际民生",
-        "联合早报",
-        "政策",
-        "历史稿",
-        "历史回顾"
-      ]
-    },
-    {
-      "category": "国内国际民生",
       "title": "港澳办：若巴拿马一意孤行 必将在政治经济上都付出沉重代价",
       "summary": "在巴拿马最高法院裁定，香港长和子公司运营巴拿马运河港口的合同违反宪法后，负责香港事务的中国国务院港澳办发文指出，巴拿马应当认清形势、迷途知返，并警告如果一意孤行，执迷不悟，巴拿马必将在政治和经济上都付出沉重代价。 港澳办星期二（2月3日）晚在微信公众号发表署名“港澳平”的评论文章称，巴拿马最高法院以所谓“违宪”为由，裁决有关香港企业巴拿马运河港口特许经营合约续约无效。有关裁决罔顾事实、背信弃义，严重损害香港企业合法权益，理所当然受到中国政府和香港特区政府的坚决反对。 文章进一步指出，有关企业的港口特许经营权合约乃由双方公平自愿签订，历经巴拿马多届政府和国会认可，现在巴拿马却裁定合约违宪，意味将来同样可以裁定巴拿马任何时期批准的其他特许经营权合约违宪，这向国际投资者释放的信号是，巴拿马实际上无法为投资者提供任何保障。 文章批评此举可谓自毁国家信用，将对巴拿马营商环境和经济发展造成深远损害，并严重破坏国际贸易规则。 文章最后写道，中国从来不会屈从于强权政治和霸权主义，有足够的手段和工具、足够的实力和能力维护国际经贸秩序公平公正。巴拿马应当认清形势、迷途知返。如果一意孤行，执迷不悟，“必将在政治上、经济上都付出沉重代价！” 巴拿马高院上星期四（1月29日）裁定，长和子公司运营巴拿马运河港口的特许经营权合同违宪。裁决书称，相关合约存在“过度偏袒”长和的条款。 长和旗下巴拿马港口公司（PPC）自1997年起获巴拿马港口的运营合同，并在2021年于上一届巴拿马政府执政期间获续约，为期25年。 关于撤销巴拿马港口公司合约一事，最早由巴拿马审计部门去年提出。审计部门认为特许经营权违宪，并指长和未向巴拿马政府支付12亿美元（约15亿新元）税金。 据法新社报道，巴拿马海事局上星期五（1月30日）宣布，马士基集团旗下港口运营商APM码头公司，将担任位处巴拿马运河两端的巴尔博亚港和克里斯托瓦尔港的“临时管理方”。 《华尔街日报》报道，长和将无法对巴拿马高院的裁决提出上诉，但可以要求澄清说明，此举或能推迟长和运营权被正式终止的日期。长和旗下公司暗示，可能将事件提交国际仲裁。",
       "url": "https://www.zaobao.com/news/china/story20260204-8295417",
@@ -1836,17 +1815,38 @@
     },
     {
       "category": "国内国际民生",
-      "title": "中央一号文件再提整治农村高额彩礼",
-      "summary": "中共中央一号文件再提整治农村高额彩礼，称要引导树立正确的婚恋观、生育观、家庭观，培育简约文明的婚俗文化。 据新华社， 2026年中央一号文件《中共中央国务院关于锚定农业农村现代化扎实推进乡村全面振兴的意见》星期二（2月3日）发布，这也是中国“十五五”首个中央一号文件。文件提出，持续整治农村高额彩礼，加强省际毗邻地区联动治理。引导树立正确的婚恋观、生育观、家庭观，培育简约文明的婚俗文化。 中国农业农村部农村经济研究中心乡村治理与社会文化研究室副研究员庞静泊说，整治农村高额彩礼，本质上是扭转乡土风俗陋习、推动乡村文化治理，体现出党和国家对培育文明婚俗、涵养良好家风的重视。 2019年的一号文件首次明确把 “天价彩礼” 等不良婚俗纳入中央层面治理范围，之后的三年的中央一号文件继续多次提到推进农村移风易俗、治理高价彩礼等问题。 在新华社相关报道的微博下，许多留言称，一号文件的提法治标不治本，整治农村高额彩礼，就“不要认为女方是嫁到男方家的说法，双方父母都要出资买房及需要品”，“彩礼和嫁妆都是为了新组建家庭能承担房屋和生育的压力”。",
-      "url": "https://www.zaobao.com/news/china/story20260204-8295371",
-      "resolvedUrl": "https://www.zaobao.com/news/china/story20260204-8295371",
+      "title": "中国叫停隐藏式车门把手 业者：促进电动车安全遏制设计内卷",
+      "summary": "与传统车门把手凸出且可用手抓握不同，隐藏式车门把手藏在门内，默认位置无法抓握。图为一名男子2月3日在北京展厅通过按压打开一辆极氪X7电动车的车门。 （法新社） 中国发生多起事故后新能源车车门难以开启的事件，令隐藏式车门把手的安全性受到公众质疑。官方出台规定，要求汽车必须配备可机械开启的车门外把手，保证发生事故时车门系统能够开启。 中国工信部星期二（2月3日）公告，工信部组织制定的强制性国家标准《汽车车门把手安全技术要求》获批发布。新规要求，在华销售的汽车，每个车门都配置机械式车门外把手和车门内把手，即便在事故或断电情况下处于锁住状态，车门也应能手动打开。 规定也要求，车门外把手在任意状态时，相对车身表面都应留有充足的手部操作空间，而车内门把手也必须处于乘员的显眼位置，没有遮挡。要求于明年1月1日起正式实施，已获批车型应在2029年1月前修改设计，以达到规定。 隐藏式门把手是新能源车区别于传统燃油车的重要外观特征，新能源车须要按压或触碰感应开启车门，车商以此强化科技感，并称能降低风阻。车圈自媒体“懂车帝”去年4月统计，中国销量前100的新能源车型中，约六成搭载隐藏式门把手。 但这一设计的安全性，却因为多起事故中车门难以开启、影响逃生和救援，在中国引起广泛关注和讨论。2024年4月， 山西运城一辆问界M7 Plus起火 ，车门把手电路受损，外部救援人员无法打开车门，车内三人遇难。去年3月和10月，小米SU7在 安徽铜陵 、 四川成都 先后发生碰撞起火事故，分别造成三人和一人死亡，事发时也出现车门无法打开的情况。 官方于去年5月讨论立项，9月发布针对车门把手的征求意见稿。 北方工业大学汽车产业创新研究中心研究员张翔受访时说：“隐藏式门把手缺乏明确的手拉操作空间，在事故后可能增加逃生和救援难度，而新规正是针对这一安全隐患，推动车门把手设计从五花八门走向标准化”。 张翔说：“标准明确后，车企能在统一框架内创新，有助于降低合规风险，也减少因事故引发舆论与责任不确定性。” 他指出，新规也意味着电动车设计逻辑从拼美观向安全导向回归。 据了解，当局去年9月下发征求意见稿后，中国许多车企已开始调整车门把手设计。深圳一家新能源车企的工程师向《联合早报》透露，新设计不会完全回归传统把手，多会采取“半隐藏式”，部分嵌入车门，部分外露，保留紧急情况下的机械开启功能。 他认为，隐藏式门把手与新能源车内饰极简化、减少实体按键的趋势一致，都是在内卷下车企希望突出未来感、科技感，让消费者有新鲜感。“政府是希望大家别再卷设计，回归安全导向，别为了不同而不同”。 据央视新闻报道，当前小米、比亚迪已开始调整车门把手设计。比亚迪的海豹06车型搭配全机械半隐藏式门把手，小米SU7则选用结合电动解锁和传统机械式的半隐藏式门把手。 作为全球首个禁止隐藏式车门把手设计的国家，中国的新规影响可能会扩散。据彭博社报道，上海咨询公司Automobility创始人鲁索（Bill Russo）说：“中国正在从最大的电动汽车市场转型为新汽车技术监管规则的制定者。” 他说，北京可以利用庞大的国内市场，锁定中国和外国汽车制造商在当地必须遵守的安全标准。“这些标准最终可能会随着中国电动汽车出口而推广开来，并影响全球规范。” 隐藏式车门把手设计的鼻祖特斯拉在去年9月告诉彭博社，要调整饱受诟病的隐藏式车门把手设计。",
+      "url": "https://www.zaobao.com/news/china/story20260203-8293137",
+      "resolvedUrl": "https://www.zaobao.com/news/china/story20260203-8293137",
       "source": "联合早报",
-      "time": "2026-02-04",
-      "publishedAt": "2026-02-04T08:39:35+08:00",
-      "originalTime": "Wed, 04 Feb 2026 00:39:35 GMT",
+      "time": "2026-02-03",
+      "publishedAt": "2026-02-03T21:42:17+08:00",
+      "originalTime": "Tue, 03 Feb 2026 13:42:17 GMT",
       "isHistorical": true,
       "timeline": "历史回顾",
-      "ageDays": 58,
+      "ageDays": 59,
+      "tags": [
+        "国内国际民生",
+        "联合早报",
+        "政策",
+        "历史稿",
+        "历史回顾"
+      ]
+    },
+    {
+      "category": "国内国际民生",
+      "title": "国共智库论坛达成共同意见 提出推动恢复两岸人员往来正常化",
+      "summary": "国共两党智库论坛星期二（2月3日）在北京开幕，中国国民党副主席萧旭岑在活动上致辞。 （中新社） 国共两党智库论坛星期二（2月3日）登场，国民党国政研究基金会副董事长李鸿源宣读论坛达成的共同意见，共五大方面，其中包括推动恢复两岸⼈员往来正常化。 《联合报》报道，根据共同意见，国共智库达成推动恢复两岸⼈员往来正常化、加强两岸新兴产业领域合作、探索两岸医疗康养合作新路径、深化两岸环保领域交流合作、深化两岸防灾减灾合作，共五方面。 李鸿源说，两岸代表人士、专家学者围绕两岸交流合作前瞻主题，就两岸旅游交流合作、两岸产业交流合作、两岸环境与永续发展合作三项议题，进行深入的交流跟探讨。与会人士认为，国共两党保持良性的互动，有利于深化两岸交流，促进共同发展，造福两岸人民。 在两岸人员往来方面，共同意见提到，推动解除⺠进党当局对两岸⼈员往来的人为限制，为两岸各领域交流合作排除障碍 。内容包括，尽快全面恢复两岸海空客运直航正常化，允许两岸航空公司、港航业者根据相关安排和市场需求自主调整航线网络、安排班次。 共同意见也提出，深化两岸观光旅游交流合作，尽快实现福建、上海居民赴台湾团队旅游，逐步扩大大陆居民赴金门、马祖旅游，支持两岸业界举办各类旅游推广及座谈联谊活动，加强沟通对接，提供更好的优质服务和产品，努力为恢复两岸双向旅游创造更好条件和更优环境。 至于当前两岸旅游僵局卡在观光小两会沟通，台湾旅游交流协会主委赖瑟珍说，双方要共同努力创造有利环境。 李鸿源说，与会人士充分肯定举办国共两党智库论坛的积极意义，呼吁两岸各界共同努力，推动两岸关系和平发展，破除障碍，为实施论坛共同意见，深化两岸各领域的交流合作创造条件。 新华社则报道，论坛以“两岸交流合作前瞻”为主题，国共两党智库人员及两岸旅游、工业、科技、医疗、环保等界别代表人士、专家学者100余人出席。 中共中央台办主任宋涛在开幕式致辞时说，中共总书记习近平致电祝贺郑丽文当选中国国民党主席，为两党关系和两岸关系发展指明了方向。举办国共两党智库论坛是落实两党领导人贺复电精神的具体举措。 宋涛强调，两党要毫不动摇坚持九二共识、反对台独共同政治基础，引领两岸关系发展正确方向；要深化融合发展，促进两岸交流合作；要坚持以人为本，增进同胞亲情福祉，“让包括台湾同胞在内的全体中国人过上更好的日子”；要坚决反对台独，维护台海和平稳定。 他也说，中国大陆打击台独顽固分子及其打手帮凶决不手软，对妄图以台遏华的外部势力决不容忍。两岸民众要勇担民族大义，做国家统一、民族复兴的参与者、贡献者和受益者。 与会人士围绕两岸旅游交流合作、产业交流合作、环境与永续发展交流合作三项议题进行深入研讨，提出五方面15条共同意见。",
+      "url": "https://www.zaobao.com/news/china/story20260203-8293571",
+      "resolvedUrl": "https://www.zaobao.com/news/china/story20260203-8293571",
+      "source": "联合早报",
+      "time": "2026-02-03",
+      "publishedAt": "2026-02-03T19:42:33+08:00",
+      "originalTime": "Tue, 03 Feb 2026 11:42:33 GMT",
+      "isHistorical": true,
+      "timeline": "历史回顾",
+      "ageDays": 59,
       "tags": [
         "国内国际民生",
         "联合早报",
@@ -1859,7 +1859,7 @@
   "hackernews": [
     {
       "rank": 1,
-      "title": "Google releases Gemma 4 open models",
+      "title": "谷歌发布 Gemma 4 开放模型",
       "url": "https://deepmind.google/models/gemma/gemma-4/",
       "score": 1032,
       "by": "jeffmcjunkin",
@@ -1889,7 +1889,7 @@
     },
     {
       "rank": 4,
-      "title": "Artemis II's toilet is a moon mission milestone",
+      "title": "阿耳忒弥斯二号的厕所是月球任务的里程碑",
       "url": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
       "score": 99,
       "by": "1659447091",
@@ -1899,7 +1899,7 @@
     },
     {
       "rank": 5,
-      "title": "Cursor 3",
+      "title": "光标3",
       "url": "https://cursor.com/blog/cursor-3",
       "score": 255,
       "by": "adamfeldman",
@@ -1929,7 +1929,7 @@
     },
     {
       "rank": 8,
-      "title": "George Goble has died",
+      "title": "乔治·戈布尔去世",
       "url": "https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779",
       "score": 94,
       "by": "finaard",
@@ -1979,7 +1979,7 @@
       {
         "name": "asgeirtj/system_prompts_leaks",
         "stars": "-",
-        "description": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
+        "description": "从 ChatGPT（GPT-5.4、GPT-5.3、Codex）、Claude（Opus 4.6、Sonnet 4.6、Claude Code）、Gemini（3.1 Pro、3 Flash、CLI）、Grok（4.2、4）、Perplexity 等中提取系统提示。定期更新。",
         "url": "https://github.com/asgeirtj/system_prompts_leaks",
         "language": "",
         "topics": []
@@ -2070,7 +2070,7 @@
       {
         "name": "CasimiroVasco/lamda-3lk",
         "stars": "-",
-        "description": "🔍 Streamline your data analysis with lamda-3lk, an efficient tool for extracting insights from large datasets and enhancing decision-making.",
+        "description": "🔍 使用 lamda-3lk 简化您的数据分析，这是一种从大型数据集中提取见解并增强决策的有效工具。",
         "url": "https://github.com/CasimiroVasco/lamda-3lk",
         "language": "",
         "topics": [
@@ -2094,7 +2094,7 @@
       {
         "name": "ShouryaKING/ada-ydu",
         "stars": "-",
-        "description": "🛠️ Build your adaptive learning environment with ada-ydu, designed to enhance user engagement and streamline educational experiences.",
+        "description": "🛠️ 使用 ada-ydu 构建您的自适应学习环境，旨在增强用户参与度并简化教育体验。",
         "url": "https://github.com/ShouryaKING/ada-ydu",
         "language": "",
         "topics": [
@@ -2170,7 +2170,7 @@
       {
         "name": "Rehmanking123/julia-v0n",
         "stars": "-",
-        "description": "🧮 Simplify numerical computations with julia-v0n, a powerful library designed for efficient data analysis and modeling in Julia.",
+        "description": "🧮 使用 julia-v0n 简化数值计算，这是一个强大的库，专为 Julia 中的高效数据分析和建模而设计。",
         "url": "https://github.com/Rehmanking123/julia-v0n",
         "language": "",
         "topics": [
