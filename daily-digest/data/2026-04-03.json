@@ -1,7 +1,7 @@
 {
   "version": 1,
   "date": "2026-04-03",
-  "generatedAt": "2026-04-03T00:10:28.528Z",
+  "generatedAt": "2026-04-03T14:00:17.716Z",
   "source": {
     "dailySources": {
       "usedDate": "2026-04-03",
@@ -10,6 +10,8 @@
   },
   "stats": {
     "news": 50,
+    "historicalNews": 3,
+    "currentNews": 47,
     "hackerNews": 10,
     "githubGeneral": 4,
     "githubAi": 10
@@ -20,406 +22,1844 @@
       "title": "中国国际收支的最新变化：趋势与涵义",
       "summary": "中国国际收支的最新变化：趋势与涵义 财新",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OT25YX0hOM01DVGpvbVJnRExnYUZ1clhyUmlnaElaYnk3emxSaDkzclQwUTR2eDZKNjY2T2NsUmlQbVl2VklOZEh6VE1pZlZPdEpCUHRPUk1Ib3BxSFVF?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OT25YX0hOM01DVGpvbVJnRExnYUZ1clhyUmlnaElaYnk3emxSaDkzclQwUTR2eDZKNjY2T2NsUmlQbVl2VklOZEh6VE1pZlZPdEpCUHRPUk1Ib3BxSFVF?oc=5&hl=en-US&gl=US&ceid=US:en",
       "source": "财新网",
-      "time": "Thu, 02 Apr 2026 02:24:00 GMT"
-    },
-    {
-      "category": "国际秩序",
-      "title": "中东冲突下的应对策略，全球资管巨头热议！",
-      "summary": "中东冲突下的应对策略，全球资管巨头热议！ 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYVd0Q3lXNVp1SHEwdnNOb2d0T09vN1hWTng1WWsyMW1OYlR2Y0JzbUg1elJraUJWVEQ4QjdpV0dsQ0l4b0FmVGRENmVpSFdZV19taTBFWXd1YjZITk9sTlZBaEs2QUEyNExXRWxsWURwSXVESVdodU9nSEQ2RHBZTVhsR3ZhMC13ZDlINXV3?oc=5",
-      "source": "新浪财经",
-      "time": "Thu, 02 Apr 2026 13:07:07 GMT"
-    },
-    {
-      "category": "国际秩序",
-      "title": "国际观察丨解析特朗普“赢学”讲话：嘴上一直“赢”，心里确实“慌”",
-      "summary": "国际观察丨解析特朗普“赢学”讲话：嘴上一直“赢”，心里确实“慌” 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtUlVWNG9QUkVyMEg0WVR1ZlBJSFdtSlBRTFlBTmNubVZzcHZ4T0dsTmtRSDJVbWRRWVhpWm9vX3BCQXVES3NkQm5lRjBUZjNRbWRaVzJyaGNvZ3FTNVR0a0l4RldKN0kyOGNDQXVtbXV4OGQ1T2JYanlBYkF0dw?oc=5",
-      "source": "新华社",
-      "time": "Thu, 02 Apr 2026 10:37:58 GMT"
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T10:24:00+08:00",
+      "originalTime": "Thu, 02 Apr 2026 02:24:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "国际秩序",
+        "财新网"
+      ]
     },
     {
       "category": "国际秩序",
       "title": "特朗普罢免美国司法部长帕姆·邦迪",
       "summary": "邦迪担任美国最高执法官员的时期因司法部对杰弗里·爱泼斯坦调查的处理而黯然失色。",
       "url": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
+      "resolvedUrl": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "time": "Thu, 02 Apr 2026 20:39:32 GMT"
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T04:39:32+08:00",
+      "originalTime": "Thu, 02 Apr 2026 20:39:32 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "BBC"
+      ]
     },
     {
       "category": "国际秩序",
       "title": "“我已经好几天没有睡觉了”：伊朗人描述一个月战争后日益加剧的绝望",
       "summary": "来自伊朗各地的普通民众描述了不断扩大的罢工、经济痛苦和对镇压的恐惧。",
       "url": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
+      "resolvedUrl": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "time": "Thu, 02 Apr 2026 16:09:24 GMT"
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T00:09:24+08:00",
+      "originalTime": "Thu, 02 Apr 2026 16:09:24 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "BBC"
+      ]
     },
     {
       "category": "国际秩序",
-      "title": "伊朗战争可能会使印度人的啤酒和瓶装水价格更高",
+      "title": "Iran war could make beer and bottled water pricier for Indians",
       "summary": "由于战争挤压了供应，塑料和玻璃瓶制造商正在努力获取原材料。",
       "url": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss",
+      "resolvedUrl": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "time": "Thu, 02 Apr 2026 23:16:37 GMT"
-    },
-    {
-      "category": "国际秩序",
-      "title": "“认真点……不要每天都说话”：马克龙批评特朗普对伊朗战争的态度",
-      "summary": "这些言论显然是对这位美国领导人在美以对伊朗战争问题上有时相互矛盾的立场的攻击。",
-      "url": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "time": "Thu, 02 Apr 2026 13:41:27 GMT"
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T07:16:37+08:00",
+      "originalTime": "Thu, 02 Apr 2026 23:16:37 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "BBC"
+      ]
     },
     {
       "category": "国际秩序",
       "title": "法官驳回布莱克·莱弗利在贾斯汀·巴尔多尼骚扰诉讼中的大部分指控",
       "summary": "法官保留了对巴尔多尼的三项指控，这意味着民事审判将于下个月继续进行。",
       "url": "https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&at_campaign=rss",
+      "resolvedUrl": "https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "time": "Thu, 02 Apr 2026 22:47:48 GMT"
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T06:47:48+08:00",
+      "originalTime": "Thu, 02 Apr 2026 22:47:48 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "BBC"
+      ]
     },
     {
       "category": "国际秩序",
-      "title": "巴西新法律允许分居夫妇共同监护宠物",
-      "summary": "巴西国会的立法者认为，法律的改变反映了宠物对其主人的重要性。",
-      "url": "https://www.bbc.com/news/articles/ce8jzn180x2o?at_medium=RSS&at_campaign=rss",
+      "title": "Iran's two largest steel plants shut down due to air strikes, companies say",
+      "summary": "伊朗称，这些袭击是以色列上周与美国协调首次发动的，可能对伊朗经济造成重大损害。",
+      "url": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
+      "resolvedUrl": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "time": "Thu, 02 Apr 2026 09:38:08 GMT"
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T01:01:08+08:00",
+      "originalTime": "Thu, 02 Apr 2026 17:01:08 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "BBC"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "荷兰抢劫案一年多后，古老的金头盔被寻获",
+      "summary": "头盔和三个金手镯于 2025 年 1 月被盗，但其中一个手镯尚未找到。",
+      "url": "https://www.bbc.com/news/articles/cpvxj4jzvvvo?at_medium=RSS&at_campaign=rss",
+      "resolvedUrl": "https://www.bbc.com/news/articles/cpvxj4jzvvvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T22:20:02+08:00",
+      "originalTime": "Thu, 02 Apr 2026 14:20:02 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "BBC"
+      ]
     },
     {
       "category": "国际秩序",
       "title": "美国法院下令对参与选举计划的科罗拉多州职员重新判刑",
       "summary": "前职员蒂娜·彼得斯已成为否认选举运动和唐纳德·特朗普总统的名人。",
       "url": "https://www.aljazeera.com/news/2026/4/2/us-court-orders-resentencing-for-colorado-clerk-involved-in-election-scheme?traffic_source=rss",
+      "resolvedUrl": "https://www.aljazeera.com/news/2026/4/2/us-court-orders-resentencing-for-colorado-clerk-involved-in-election-scheme?traffic_source=rss",
       "source": "Al Jazeera",
-      "time": "Thu, 02 Apr 2026 22:56:55 +0000"
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T06:56:55+08:00",
+      "originalTime": "Thu, 02 Apr 2026 22:56:55 +0000",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "Al Jazeera"
+      ]
     },
     {
       "category": "国际秩序",
       "title": "人权组织和密尔沃基领导人猛烈抨击 ICE 逮捕巴勒斯坦倡导者",
       "summary": "据报道，密尔沃基伊斯兰协会主席萨拉·萨尔苏尔 (Salah Sarsour) 3 月 30 日在开车时被拘留。",
       "url": "https://www.aljazeera.com/news/2026/4/2/rights-groups-milwaukee-leaders-slam-ices-arrest-of-palestinian-advocate?traffic_source=rss",
+      "resolvedUrl": "https://www.aljazeera.com/news/2026/4/2/rights-groups-milwaukee-leaders-slam-ices-arrest-of-palestinian-advocate?traffic_source=rss",
       "source": "Al Jazeera",
-      "time": "Thu, 02 Apr 2026 22:45:48 +0000"
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T06:45:48+08:00",
+      "originalTime": "Thu, 02 Apr 2026 22:45:48 +0000",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "Al Jazeera"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "波斯尼亚队战胜意大利队晋级世界杯，欢呼雀跃",
+      "summary": "波斯尼亚和黑塞哥维那戏剧性地战胜意大利，引发了从泽尼察到萨拉热窝的疯狂庆祝活动，并唤起了人们的回忆。",
+      "url": "https://www.aljazeera.com/sports/2026/4/2/unbridled-bosnian-joy-marks-world-cup-qualification-win-over-italy?traffic_source=rss",
+      "resolvedUrl": "https://www.aljazeera.com/sports/2026/4/2/unbridled-bosnian-joy-marks-world-cup-qualification-win-over-italy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T05:25:28+08:00",
+      "originalTime": "Thu, 02 Apr 2026 21:25:28 +0000",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "Al Jazeera"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "教皇利奥在首次复活节礼拜中谴责世界的“野蛮行径”",
+      "summary": "教皇利奥在仪式上为 12 名牧师洗脚，利用这一时刻敦促天主教徒与受压迫者站在一起。",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/pope-leo-condemns-brutality-of-world-in-first-easter-services?traffic_source=rss",
+      "resolvedUrl": "https://www.aljazeera.com/video/newsfeed/2026/4/2/pope-leo-condemns-brutality-of-world-in-first-easter-services?traffic_source=rss",
+      "source": "Al Jazeera",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T05:24:26+08:00",
+      "originalTime": "Thu, 02 Apr 2026 21:24:26 +0000",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "Al Jazeera"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "9 岁男孩讲述黎巴嫩空袭导致全家遇难的经历",
+      "summary": "卡里姆·阿尔·哈吉·侯赛因 (Karim Al-Haj Hussein) 在黎巴嫩巴勒贝克的家遭到以色列袭击，他的家人被杀，他幸免于难。",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/9-year-old-boy-recounts-airstrike-in-lebanon-that-killed-whole-family?traffic_source=rss",
+      "resolvedUrl": "https://www.aljazeera.com/video/newsfeed/2026/4/2/9-year-old-boy-recounts-airstrike-in-lebanon-that-killed-whole-family?traffic_source=rss",
+      "source": "Al Jazeera",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T05:22:53+08:00",
+      "originalTime": "Thu, 02 Apr 2026 21:22:53 +0000",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "Al Jazeera"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "伊朗战争拖延，石油冲击引发全球价格飙升",
+      "summary": "随着霍尔木兹海峡的中断推高价格，美以对伊朗的战争造成的燃料冲击正在全球范围内蔓延。",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/oil-shock-triggers-global-price-spikes-as-iran-war-drags-on?traffic_source=rss",
+      "resolvedUrl": "https://www.aljazeera.com/video/newsfeed/2026/4/2/oil-shock-triggers-global-price-spikes-as-iran-war-drags-on?traffic_source=rss",
+      "source": "Al Jazeera",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T05:04:35+08:00",
+      "originalTime": "Thu, 02 Apr 2026 21:04:35 +0000",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "Al Jazeera"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "乌干达根据第三国协议接收首架美国驱逐航班",
+      "summary": "数十人根据新协议抵达，但预计将面临法律挑战，该计划被批评为“非人化过程”。随着唐纳德·特朗普政府继续推行将移民驱逐到与他们没有联系的国家的战略，一架载有被美国驱逐出境的人的航班已降落在乌干达。一位不愿透露姓名的乌干达政府高级官员告诉路透社，被驱逐的人将留在东非国家，作为“可能继续传播到其他国家的过渡阶段”。继续阅读...",
+      "url": "https://www.theguardian.com/us-news/2026/apr/02/uganda-receives-first-us-deportation-flight-under-third-country-agreement",
+      "resolvedUrl": "https://www.theguardian.com/us-news/2026/apr/02/uganda-receives-first-us-deportation-flight-under-third-country-agreement",
+      "source": "The Guardian",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T00:37:12+08:00",
+      "originalTime": "Thu, 02 Apr 2026 16:37:12 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "The Guardian"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "加拿大广播公司揭露魁北克省涉嫌枫糖浆骗局",
+      "summary": "加拿大广播电台的一名记者注意到他的枫糖浆味道很奇怪；测试显示其掺有蔗糖 加拿大国家广播公司的一项调查发现，魁北克一家主要生产商一直在用蔗糖稀释其枫糖浆，并将欺诈产品出售给杂货连锁店。在一次涉及虚假身份和秘密录音的诱捕行动中，加拿大广播电台 Enquête 节目的记者发现，主要连锁杂货店出售的低成本糖浆被严重稀释。继续阅读...",
+      "url": "https://www.theguardian.com/world/2026/apr/02/maple-syrup-scam-quebec-canada",
+      "resolvedUrl": "https://www.theguardian.com/world/2026/apr/02/maple-syrup-scam-quebec-canada",
+      "source": "The Guardian",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T03:07:20+08:00",
+      "originalTime": "Thu, 02 Apr 2026 19:07:20 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "The Guardian"
+      ]
     },
     {
       "category": "财经",
       "title": "今日开盘：两市双双低开 沪指跌幅0.20%",
       "summary": "今日开盘：两市双双低开 沪指跌幅0.20% 财新网",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rMDVmSGZpZjNPWGFKRkpFZ0x5WjVUMU9jSU41cHoxRDNmaGNlNEpYVGh3VmI4YUswSGY0S3I3TXk3aDZKUTl1eHdaaTZMUmY5cmkzSU9NODJtVWhVbGcxcktR?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rMDVmSGZpZjNPWGFKRkpFZ0x5WjVUMU9jSU41cHoxRDNmaGNlNEpYVGh3VmI4YUswSGY0S3I3TXk3aDZKUTl1eHdaaTZMUmY5cmkzSU9NODJtVWhVbGcxcktR?oc=5&hl=en-US&gl=US&ceid=US:en",
       "source": "财新网",
-      "time": "Thu, 02 Apr 2026 01:29:00 GMT"
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T09:29:00+08:00",
+      "originalTime": "Thu, 02 Apr 2026 01:29:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "财经",
+        "财新网"
+      ]
     },
     {
       "category": "财经",
       "title": "3月点心债“小阳春” 发行规模近2025年同期三倍",
       "summary": "3月点心债“小阳春” 发行规模近2025年同期三倍 财新网",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGOTBmcndDMlJHWVNCQ01YU2xTNEszaXVnLV8xWFhiRXloQThWSjl6X3JiQTBMMmdYWlh1ZTdNemppMUtvaEdhZHRLbWFoQnJ2cGprOUpiQVlxZ05OVU1DLWNB?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGOTBmcndDMlJHWVNCQ01YU2xTNEszaXVnLV8xWFhiRXloQThWSjl6X3JiQTBMMmdYWlh1ZTdNemppMUtvaEdhZHRLbWFoQnJ2cGprOUpiQVlxZ05OVU1DLWNB?oc=5&hl=en-US&gl=US&ceid=US:en",
       "source": "财新网",
-      "time": "Thu, 02 Apr 2026 11:07:00 GMT"
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T19:07:00+08:00",
+      "originalTime": "Thu, 02 Apr 2026 11:07:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "财经",
+        "财新网"
+      ]
     },
     {
       "category": "财经",
       "title": "香港首季新股集资额创五年新高 高科技公司占比近半",
       "summary": "香港首季新股集资额创五年新高 高科技公司占比近半 财新网",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBybW1BdFl3QUVQaEliQjEtZVQtbUs2ZzRnb0VLbm9odlZGMzN3Qm0zSTVXU0Vsem1aNDFOQTFvcTBXVS1xSGlDZGIwMDI4bS13N05Da3Q2UU1mTGZpZmF4ZHRn?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBybW1BdFl3QUVQaEliQjEtZVQtbUs2ZzRnb0VLbm9odlZGMzN3Qm0zSTVXU0Vsem1aNDFOQTFvcTBXVS1xSGlDZGIwMDI4bS13N05Da3Q2UU1mTGZpZmF4ZHRn?oc=5&hl=en-US&gl=US&ceid=US:en",
       "source": "财新网",
-      "time": "Thu, 02 Apr 2026 09:25:00 GMT"
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T17:25:00+08:00",
+      "originalTime": "Thu, 02 Apr 2026 09:25:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "财经",
+        "财新网"
+      ]
     },
     {
       "category": "财经",
       "title": "FMC: 紧急燃油附加费不能想加就加",
       "summary": "FMC: 紧急燃油附加费不能想加就加 财新网",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iR1ZoREhxYmdTall5SXBubnBpTkk5bmpMbWdZMUlpSkVzM2hRTVljZHBsbk5hYjhHOUxMZWZfampzcXc2ZE9WWFhMdUp3SzVtR19SQ0R2SWVsMG9WV04xZzFn?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iR1ZoREhxYmdTall5SXBubnBpTkk5bmpMbWdZMUlpSkVzM2hRTVljZHBsbk5hYjhHOUxMZWZfampzcXc2ZE9WWFhMdUp3SzVtR19SQ0R2SWVsMG9WV04xZzFn?oc=5&hl=en-US&gl=US&ceid=US:en",
       "source": "财新网",
-      "time": "Thu, 02 Apr 2026 01:45:00 GMT"
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T09:45:00+08:00",
+      "originalTime": "Thu, 02 Apr 2026 01:45:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "财经",
+        "财新网"
+      ]
     },
     {
       "category": "财经",
       "title": "“金融性封锁”卡住全球能源链条",
       "summary": "“金融性封锁”卡住全球能源链条 财新网",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mS2RrdmpIZjF5dUpwU0JyNjA1NmNsRkVuOEJCd2NYRWpnYmNobzlXb0k5aHEydzRzQ0k5VVV4dG0wM1picF9tNUQtdFpVZkpHSDE2eGVQWmRfRkp1YXlvYW9R?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mS2RrdmpIZjF5dUpwU0JyNjA1NmNsRkVuOEJCd2NYRWpnYmNobzlXb0k5aHEydzRzQ0k5VVV4dG0wM1picF9tNUQtdFpVZkpHSDE2eGVQWmRfRkp1YXlvYW9R?oc=5&hl=en-US&gl=US&ceid=US:en",
       "source": "财新网",
-      "time": "Thu, 02 Apr 2026 02:44:00 GMT"
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T10:44:00+08:00",
+      "originalTime": "Thu, 02 Apr 2026 02:44:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "财经",
+        "财新网"
+      ]
     },
     {
       "category": "财经",
       "title": "中信建投：2026年二季度行业应当如何配置？",
       "summary": "中信建投：2026年二季度行业应当如何配置？ 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPa2EyVUZpcWZSTWVWb3RiV2JtQzVfczFMN1NiQ2ltWUFURkN5NW9YZnBZNU9rVUlNOEg0NHl2aWx5Qjg5MTJfd01PSTA5NTlaRnNiQW83UTRGVUJnekZMdDdfcERmOGZmTVp6dVVzeFBsbm5uOUZtNC1MZDA0NkF2UHZzYUk0bS1CRXdnN3FESVViUWppN1NkeFRIVko3LVNObzRDcDZ2Qmw1Ujk5Z3JxNUpBaWlpT2RfSFJZbnlkT0JJOUpEVlhscjI4Z2RYWE1BeTFEa1NGUzJqcTBPLW5XdFNJMUlxaEo0bmxQVjd5R2hmbmRwQlphc19qelpkZw?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPa2EyVUZpcWZSTWVWb3RiV2JtQzVfczFMN1NiQ2ltWUFURkN5NW9YZnBZNU9rVUlNOEg0NHl2aWx5Qjg5MTJfd01PSTA5NTlaRnNiQW83UTRGVUJnekZMdDdfcERmOGZmTVp6dVVzeFBsbm5uOUZtNC1MZDA0NkF2UHZzYUk0bS1CRXdnN3FESVViUWppN1NkeFRIVko3LVNObzRDcDZ2Qmw1Ujk5Z3JxNUpBaWlpT2RfSFJZbnlkT0JJOUpEVlhscjI4Z2RYWE1BeTFEa1NGUzJqcTBPLW5XdFNJMUlxaEo0bmxQVjd5R2hmbmRwQlphc19qelpkZw?oc=5&hl=en-US&gl=US&ceid=US:en",
       "source": "新浪财经",
-      "time": "Thu, 02 Apr 2026 22:38:40 GMT"
-    },
-    {
-      "category": "财经",
-      "title": "滞胀阴影下的2026年期货市场：宏观变局、品种博弈与智能交易应对",
-      "summary": "滞胀阴影下的2026年期货市场：宏观变局、品种博弈与智能交易应对 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfdWpZWWFuTjhKczBERXZHb0hsNF9lVE9Qb1FGTndaSGNqZFduaTRnOGdVeTUwNTR2OEZETTVtb3FYWmRaR2lRcVAzU1lGT3hlSDRQa1dody0wTGNuMHlJak8zM3ExR1UzSHRrOHlZVQ?oc=5",
-      "source": "新浪财经",
-      "time": "Thu, 02 Apr 2026 10:56:12 GMT"
-    },
-    {
-      "category": "财经",
-      "title": "穿越周期的多维防御：招商银行2025年交出高质量发展答卷",
-      "summary": "穿越周期的多维防御：招商银行2025年交出高质量发展答卷 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56cjROX2VrekRaaEF6UlV6VDc1RkJQOGxhMmJCcnNMTEE0ckJkYURHcVhiOTdJV0Q1WE1uRTU2Nkp0TEtiRHdwaWNacFB6cnJnamh3LWJoSk5RM0t4N0s2VXBLci1tOTIzYUM0czdn?oc=5",
-      "source": "新浪财经",
-      "time": "Thu, 02 Apr 2026 02:19:35 GMT"
-    },
-    {
-      "category": "财经",
-      "title": "【研究所晨会观点精萃】（20260402）美国经济和就业数据好于预期，提振全球风险偏好",
-      "summary": "【研究所晨会观点精萃】（20260402）美国经济和就业数据好于预期，提振全球风险偏好 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUFhTQjhOR3dwQjZ4MXRiaG02MV9kSnRETllCMUVZdWthNUs2WmxTVC1BaVpwVmExWGJUcXhueXh0SlZBcVZCMTNCQ0NLZEpOclRDckV6TWFvZDdfZFloRHZUUzZmbXB6bFFMOGVsUzhoQml5ZkNsUlJGb0pVanJwcGktbng?oc=5",
-      "source": "新浪财经",
-      "time": "Thu, 02 Apr 2026 05:03:15 GMT"
-    },
-    {
-      "category": "财经",
-      "title": "逼近6.5关口！人民币汇率持续半年提升",
-      "summary": "逼近6.5关口！人民币汇率持续半年提升 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WWkQ5WG01blRXNVNONHIzMmJDR0F3SlZMR2pDVk1YZDQtMW5NMG8tOTdqN3NjNGZiSTZ0R3QtbGN2dk1IcXp2UWFSMHc2SXFhaEthdFA3WjZHTk5JSnhxZzFKSEs2aWFCOEFMR1ZZU1B5a1ZnM1JIV0hlSUFvYUU?oc=5",
-      "source": "新浪财经",
-      "time": "Thu, 02 Apr 2026 03:51:03 GMT"
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T06:38:40+08:00",
+      "originalTime": "Thu, 02 Apr 2026 22:38:40 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "财经",
+        "新浪财经"
+      ]
     },
     {
       "category": "财经",
       "title": "三月份就业报告将于周五发布。这是值得期待的",
       "summary": "美国经济预计 3 月份将增加 59,000 个就业岗位，失业率保持在 4.4%。",
       "url": "https://www.cnbc.com/2026/04/02/the-march-jobs-report-will-be-released-on-friday-heres-what-to-expect.html",
+      "resolvedUrl": "https://www.cnbc.com/2026/04/02/the-march-jobs-report-will-be-released-on-friday-heres-what-to-expect.html",
       "source": "CNBC",
-      "time": "Thu, 02 Apr 2026 20:04:41 GMT"
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T04:04:41+08:00",
+      "originalTime": "Thu, 02 Apr 2026 20:04:41 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "财经",
+        "CNBC"
+      ]
     },
     {
       "category": "财经",
       "title": "特朗普解雇司法部长帕姆·邦迪",
       "summary": "据说特朗普总统对帕姆·邦迪处理司法部有关杰弗里·爱泼斯坦的文件以及司法部未能起诉他的政敌的行为感到不满。",
       "url": "https://www.cnbc.com/2026/04/02/trump-pam-bondi-attorney-general-lee-zeldin.html",
+      "resolvedUrl": "https://www.cnbc.com/2026/04/02/trump-pam-bondi-attorney-general-lee-zeldin.html",
       "source": "CNBC",
-      "time": "Thu, 02 Apr 2026 20:32:48 GMT"
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T04:32:48+08:00",
+      "originalTime": "Thu, 02 Apr 2026 20:32:48 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "财经",
+        "CNBC"
+      ]
     },
     {
       "category": "财经",
       "title": "伊朗和阿曼起草协议以“监控”霍尔木兹海峡交通：IRNA",
       "summary": "自二月底伊朗战争爆发以来，全球石油运输的重要动脉霍尔木兹海峡实际上已被关闭。",
       "url": "https://www.cnbc.com/2026/04/02/iran-war-oman-hormuz-strait.html",
+      "resolvedUrl": "https://www.cnbc.com/2026/04/02/iran-war-oman-hormuz-strait.html",
       "source": "CNBC",
-      "time": "Thu, 02 Apr 2026 18:46:52 GMT"
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T02:46:52+08:00",
+      "originalTime": "Thu, 02 Apr 2026 18:46:52 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "财经",
+        "CNBC"
+      ]
     },
     {
       "category": "财经",
       "title": "由于燃油价格持续上涨，联合航空将托运行李费上调 10 美元",
       "summary": "联合航空成为一周内第二家提高托运行李费的美国航空公司，该行业正在努力应对航空燃油成本上涨超过 80% 的问题。",
       "url": "https://www.cnbc.com/2026/04/02/united-airlines-raises-checked-bag-fees-fuel-prices-climb.html",
+      "resolvedUrl": "https://www.cnbc.com/2026/04/02/united-airlines-raises-checked-bag-fees-fuel-prices-climb.html",
       "source": "CNBC",
-      "time": "Thu, 02 Apr 2026 22:11:06 GMT"
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T06:11:06+08:00",
+      "originalTime": "Thu, 02 Apr 2026 22:11:06 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "财经",
+        "CNBC"
+      ]
     },
     {
       "category": "财经",
       "title": "华纳、希夫调查政府潜在的内幕交易",
       "summary": "议员们还引用了最近的一份报告，称一名与 Pete Hegseth 相关的经纪人在 2 月份寻求对与国防相关的 ETF 进行数百万美元的投资。",
       "url": "https://www.cnbc.com/2026/04/02/hegseth-trump-mark-warner-adam-schiff-insider-trading-probe.html",
+      "resolvedUrl": "https://www.cnbc.com/2026/04/02/hegseth-trump-mark-warner-adam-schiff-insider-trading-probe.html",
       "source": "CNBC",
-      "time": "Thu, 02 Apr 2026 22:19:31 GMT"
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T06:19:31+08:00",
+      "originalTime": "Thu, 02 Apr 2026 22:19:31 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "财经",
+        "CNBC"
+      ]
     },
     {
       "category": "财经",
       "title": "泰格·伍兹在酒驾事故后给特朗普打电话，他通过随身摄像头视频告诉警察",
       "summary": "上周，高尔夫球手泰格·伍兹在佛罗里达州朱庇特发生车祸后，特朗普总统称他为亲密朋友。伍兹正在与小唐纳德·特朗普的前妻约会。",
       "url": "https://www.cnbc.com/2026/04/02/tiger-woods-trump-call-dui-crash-video.html",
+      "resolvedUrl": "https://www.cnbc.com/2026/04/02/tiger-woods-trump-call-dui-crash-video.html",
       "source": "CNBC",
-      "time": "Thu, 02 Apr 2026 23:41:36 GMT"
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T07:41:36+08:00",
+      "originalTime": "Thu, 02 Apr 2026 23:41:36 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "财经",
+        "CNBC"
+      ]
     },
     {
       "category": "体育",
       "title": "老虎告诉副手：“我只是在和总统谈话”",
       "summary": "周四公布的随身摄像机镜头显示，泰格·伍兹上周在佛罗里达州撞毁了他的SUV后，拿出手机告诉一名副手，“我只是在和总统通话”，该视频显示这位高尔夫球手因酒驾指控被捕。",
       "url": "https://www.espn.com/golf/story/_/id/48378214/bodycam-shows-tiger-woods-surprised-dui-arrest",
+      "resolvedUrl": "https://www.espn.com/golf/story/_/id/48378214/bodycam-shows-tiger-woods-surprised-dui-arrest",
       "source": "ESPN",
-      "time": "Thu, 2 Apr 2026 17:48:31 EST"
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T06:48:31+08:00",
+      "originalTime": "Thu, 2 Apr 2026 17:48:31 EST",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "体育",
+        "ESPN"
+      ]
     },
     {
       "category": "体育",
       "title": "菲尔因家庭健康问题缺席大师赛",
       "summary": "菲尔·米克尔森周四宣布，他不会参加下周的大师赛，并将缺席较长一段时间，因为他的家人继续“处理个人健康问题”。",
       "url": "https://www.espn.com/golf/story/_/id/48379971/phil-mickelson-miss-masters-personal-health-matter",
+      "resolvedUrl": "https://www.espn.com/golf/story/_/id/48379971/phil-mickelson-miss-masters-personal-health-matter",
       "source": "ESPN",
-      "time": "Thu, 2 Apr 2026 17:48:31 EST"
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T06:48:31+08:00",
+      "originalTime": "Thu, 2 Apr 2026 17:48:31 EST",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "体育",
+        "ESPN"
+      ]
     },
     {
       "category": "体育",
       "title": "两届全职业球员、2019 年 DPOY 吉尔摩退役",
       "summary": "两届全职业角卫斯蒂芬·吉尔摩宣布从 NFL 退役。",
       "url": "https://www.espn.com/nfl/story/_/id/48380010/two-all-pro-2019-dpoy-stephon-gilmore-retires-nfl",
+      "resolvedUrl": "https://www.espn.com/nfl/story/_/id/48380010/two-all-pro-2019-dpoy-stephon-gilmore-retires-nfl",
       "source": "ESPN",
-      "time": "Thu, 2 Apr 2026 17:48:31 EST"
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T06:48:31+08:00",
+      "originalTime": "Thu, 2 Apr 2026 17:48:31 EST",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "体育",
+        "ESPN"
+      ]
     },
     {
       "category": "体育",
       "title": "不是一个多任务处理者：劳埃德专注于 Zona，而不是 UNC",
       "summary": "亚利桑那州主教练汤米·劳埃德表示，他不是一个“多任务处理者”，因为有传言称他将参加北卡罗来纳州的揭幕战，因为他的球队准备在周六的四强赛中对阵密歇根州。",
       "url": "https://www.espn.com/mens-college-basketball/story/_/id/48380222/not-multitasker-lloyd-focusing-arizona-not-north-carolina",
+      "resolvedUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48380222/not-multitasker-lloyd-focusing-arizona-not-north-carolina",
       "source": "ESPN",
-      "time": "Thu, 2 Apr 2026 17:48:31 EST"
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T06:48:31+08:00",
+      "originalTime": "Thu, 2 Apr 2026 17:48:31 EST",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "体育",
+        "ESPN"
+      ]
     },
     {
       "category": "体育",
       "title": "卡多重返密歇根大学，过敏反应后“很好”",
       "summary": "密歇根州首发控球后卫埃利奥特·卡多在四强赛中重新与队友会合，他周四表示，他因意外接触坚果而出现过敏反应，需要在一天前住院治疗。",
       "url": "https://www.espn.com/mens-college-basketball/story/_/id/48380065/elliot-cadeau-rejoins-wolverines-allergic-reaction",
+      "resolvedUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48380065/elliot-cadeau-rejoins-wolverines-allergic-reaction",
       "source": "ESPN",
-      "time": "Thu, 2 Apr 2026 17:48:31 EST"
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T06:48:31+08:00",
+      "originalTime": "Thu, 2 Apr 2026 17:48:31 EST",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "体育",
+        "ESPN"
+      ]
     },
     {
       "category": "体育",
       "title": "鲍尔随小联盟鸭队返回美国",
       "summary": "前赛扬奖得主特雷弗·鲍尔 (Trevor Bauer) 已与大西洋联盟长岛鸭队签约，并计划为这支小联盟球队于 4 月 21 日揭幕战上场。",
       "url": "https://www.espn.com/mlb/story/_/id/48378454/trevor-bauer-signs-long-island-ducks-us-return",
+      "resolvedUrl": "https://www.espn.com/mlb/story/_/id/48378454/trevor-bauer-signs-long-island-ducks-us-return",
       "source": "ESPN",
-      "time": "Thu, 2 Apr 2026 17:48:31 EST"
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T06:48:31+08:00",
+      "originalTime": "Thu, 2 Apr 2026 17:48:31 EST",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "体育",
+        "ESPN"
+      ]
     },
     {
       "category": "体育",
       "title": "库库雷拉和费尔南德斯的评论进一步震撼了切尔西不稳定的项目 |雅各布·斯坦伯格",
       "summary": "利亚姆·罗尼奥尔的球队的困难时期并没有因为两名高级球员的干预而得到帮助，相信这个过程。忽略那些仇恨者。保证奖杯会来。坚持品牌。在国际比赛中消失，并向皇家马德里发出厚颜无耻的“来抓我”的请求。转会到巴塞罗那的建议很难拒绝。不要让噪音安静下来。增加噪音。质疑俱乐部的转会政策。说你想念以前的经理。说马德里是您最喜欢的欧洲城市。不止一次地说。不挂断。我们在这里失去了信息吗？对于切尔西来说，这几周是动荡的几周。在欧洲被巴黎圣日耳曼击败，并且面临英超联赛失控的危险，如果没有两名最大的球员在国际比赛日期间制造公关风暴，他们本可以做到这一点。不过，马克·库库雷拉和恩佐·费尔南德斯并没有收到这份备忘录。费尔南德斯显然是在夏天转会——“我真的很喜欢马德里，它和布宜诺斯艾利斯很相似，”这位阿根廷中场球员本周表示。与此同时，库库雷拉在最近接受《竞技报》采访时也毫不犹豫地表示，切尔西已经为他们的经验不足“付出了代价”，质疑恩佐·马雷斯卡在赛季中期离开，并表示巴黎圣日耳曼在欧冠16强中的惨败让球员们“灰心丧气”。继续阅读...",
       "url": "https://www.theguardian.com/football/2026/apr/02/chelsea-precarious-project-rocked-marc-cucurella-enzo-fernandez",
+      "resolvedUrl": "https://www.theguardian.com/football/2026/apr/02/chelsea-precarious-project-rocked-marc-cucurella-enzo-fernandez",
       "source": "The Guardian",
-      "time": "Thu, 02 Apr 2026 18:00:30 GMT"
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T02:00:30+08:00",
+      "originalTime": "Thu, 02 Apr 2026 18:00:30 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "体育",
+        "The Guardian"
+      ]
     },
     {
       "category": "体育",
       "title": "托特纳姆热刺主教练罗伯托·德泽尔比为过去对梅森·格林伍德的评论道歉",
       "summary": "热刺主教练表示，“我无意表明立场” 球迷群体反对德泽尔比的任命 新托特纳姆热刺主教练罗伯托·德泽尔比为他过去对梅森·格林伍德的言论道歉，并表示他永远不会故意淡化针对女性的暴力行为。托特纳姆热刺队支持者信托基金（THST）周二强烈批评了意大利人的任命，并在他被确认签署了一份为期五年的协议以取代临时主教练伊戈尔·都铎后不久发表了一份声明，表达了“严重而深远的担忧”。继续阅读...",
       "url": "https://www.theguardian.com/football/2026/apr/02/roberto-de-zerbi-apologises-mason-greenwood-comments-tottenham",
+      "resolvedUrl": "https://www.theguardian.com/football/2026/apr/02/roberto-de-zerbi-apologises-mason-greenwood-comments-tottenham",
       "source": "The Guardian",
-      "time": "Thu, 02 Apr 2026 18:42:37 GMT"
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T02:42:37+08:00",
+      "originalTime": "Thu, 02 Apr 2026 18:42:37 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "体育",
+        "The Guardian"
+      ]
+    },
+    {
+      "category": "国内国际民生",
+      "title": "监管重塑市场格局，消费金融行业迈入“精耕细作”新周期",
+      "summary": "监管重塑市场格局，消费金融行业迈入“精耕细作”新周期 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qQWRxLWozUlVLUEFaNW5VcDlXQm85bGMzS1dkcWYwZmtuWkVFcmpfUy05Nm5CR2VqRmxXOHBCTUZEbHoyWFRETzR1Yk03LUdHQU5WZGdVajZ3c24wZTJ3TWZqVzNJTWZKVXpyUlhKcw?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qQWRxLWozUlVLUEFaNW5VcDlXQm85bGMzS1dkcWYwZmtuWkVFcmpfUy05Nm5CR2VqRmxXOHBCTUZEbHoyWFRETzR1Yk03LUdHQU5WZGdVajZ3c24wZTJ3TWZqVzNJTWZKVXpyUlhKcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source": "新浪财经",
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T12:04:10+08:00",
+      "originalTime": "Thu, 02 Apr 2026 04:04:10 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "国内国际民生",
+        "新浪财经",
+        "政策"
+      ]
     },
     {
       "category": "国内国际民生",
       "title": "农行贵阳乌当支行：政策精准落实 助力城市更新",
       "summary": "农行贵阳乌当支行：政策精准落实 助力城市更新 人民网贵州",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Qd1VUaXJRQjhNUzZWSFYtTC1waFhmQkNSbXlXbTlYTEx5NktNa0RmckJCRl9yWkE1MFNRQ0o0TkpLNk9jcnhMMml3RlNpWEh4dU00bkgyd0dkc3dVSkpKLV84NWpubW44dWc?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Qd1VUaXJRQjhNUzZWSFYtTC1waFhmQkNSbXlXbTlYTEx5NktNa0RmckJCRl9yWkE1MFNRQ0o0TkpLNk9jcnhMMml3RlNpWEh4dU00bkgyd0dkc3dVSkpKLV84NWpubW44dWc?oc=5&hl=en-US&gl=US&ceid=US:en",
       "source": "人民日报",
-      "time": "Thu, 02 Apr 2026 09:20:00 GMT"
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T17:20:00+08:00",
+      "originalTime": "Thu, 02 Apr 2026 09:20:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "国内国际民生",
+        "人民日报",
+        "政策"
+      ]
     },
     {
       "category": "国内国际民生",
       "title": "长春工大健康帮扶项目入选教育部精准帮扶典型项目",
       "summary": "长春工大健康帮扶项目入选教育部精准帮扶典型项目 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUmExSXdNUUpkUVRrbkVrdTAtZFRNQmgyUWZ5UWhTeEZMTW5QUXpFT19pc3AzTlNMcW1UOHVHQW9UanRxOG9oVDNJb0NJNTdCREZDNXF5TGRZLVpUVVhSVlZHMzNReWRNaFhBMDdpcnZOUlNKSUFzY2xYT3RES05yNTYwZkhCVnNi?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUmExSXdNUUpkUVRrbkVrdTAtZFRNQmgyUWZ5UWhTeEZMTW5QUXpFT19pc3AzTlNMcW1UOHVHQW9UanRxOG9oVDNJb0NJNTdCREZDNXF5TGRZLVpUVVhSVlZHMzNReWRNaFhBMDdpcnZOUlNKSUFzY2xYT3RES05yNTYwZkhCVnNi?oc=5&hl=en-US&gl=US&ceid=US:en",
       "source": "搜狐网",
-      "time": "Thu, 02 Apr 2026 11:26:36 GMT"
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T19:26:36+08:00",
+      "originalTime": "Thu, 02 Apr 2026 11:26:36 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "国内国际民生",
+        "搜狐网",
+        "政策"
+      ]
     },
     {
       "category": "国内国际民生",
       "title": "北京市规划和自然资源委员会丰台分局2025年度生态环境保护工作完成情况_丰台通知公告",
       "summary": "北京市规划和自然资源委员会丰台分局2025年度生态环境保护工作完成情况_丰台通知公告 北京市规划和自然资源委员会",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ0tRZEVqOW1nOFQ1aDJyTjk5T1hVZDRES2hRNE0yc0ZwMmlPVFNIOG9Pel9sZ0w2TlRLbEs3THdpRm80LXRKQWdMSE0wWUt0ZThsT1dkVG9jUHZ6VTZuM1J1RFN5YVB1aGpObkYtaFZiZkJ2RENwbHgtYTM1WnAyZ21VUEdxSmp0?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ0tRZEVqOW1nOFQ1aDJyTjk5T1hVZDRES2hRNE0yc0ZwMmlPVFNIOG9Pel9sZ0w2TlRLbEs3THdpRm80LXRKQWdMSE0wWUt0ZThsT1dkVG9jUHZ6VTZuM1J1RFN5YVB1aGpObkYtaFZiZkJ2RENwbHgtYTM1WnAyZ21VUEdxSmp0?oc=5&hl=en-US&gl=US&ceid=US:en",
       "source": "北京市规划和自然资源委员会",
-      "time": "Thu, 02 Apr 2026 07:22:00 GMT"
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T15:22:00+08:00",
+      "originalTime": "Thu, 02 Apr 2026 07:22:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "国内国际民生",
+        "北京市规划和自然资源委员会",
+        "政策"
+      ]
     },
     {
       "category": "国内国际民生",
       "title": "北京市文物局关于在全国重点文物保护单位北平图书馆旧址保护范围内实施国家图书馆古籍馆电力增容改造项目的复函",
       "summary": "北京市文物局关于在全国重点文物保护单位北平图书馆旧址保护范围内实施国家图书馆古籍馆电力增容改造项目的复函 wwj.beijing.gov.cn",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WZk5SSXJxWWVJZ1pRZDE3VklzRUI5dUFTR2hPSkE2QUNab3kyYXZLT1FVc3NBandNQnhOelYyejduZmZ5SkZEWWRBclVGdFQ2UTRMZ2dYSndUZFRkQjhoNFlTOXlrVnMtRVk1dE1JMjhYeGl0ZGltRGtKUUxxUQ?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WZk5SSXJxWWVJZ1pRZDE3VklzRUI5dUFTR2hPSkE2QUNab3kyYXZLT1FVc3NBandNQnhOelYyejduZmZ5SkZEWWRBclVGdFQ2UTRMZ2dYSndUZFRkQjhoNFlTOXlrVnMtRVk1dE1JMjhYeGl0ZGltRGtKUUxxUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "source": "wwj.beijing.gov.cn",
-      "time": "Thu, 02 Apr 2026 01:42:59 GMT"
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T09:42:59+08:00",
+      "originalTime": "Thu, 02 Apr 2026 01:42:59 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "国内国际民生",
+        "wwj.beijing.gov.cn",
+        "政策"
+      ]
     },
     {
       "category": "国内国际民生",
       "title": "4月7日起兰州住房公积金提取政策优化调整",
       "summary": "4月7日起兰州住房公积金提取政策优化调整 gs.people.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03VFYwdFQtdFdUY0pnbkVJMTlxREloRGZFMV93dDAteUtxa1NRTGJFYW9sX19EbHFSOVBDZzdLMFVCajZEcEFhekhtYUZpblVpNktKSkZjV2ZHWHJvRUxVMkloWHlyc1pVYlE?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03VFYwdFQtdFdUY0pnbkVJMTlxREloRGZFMV93dDAteUtxa1NRTGJFYW9sX19EbHFSOVBDZzdLMFVCajZEcEFhekhtYUZpblVpNktKSkZjV2ZHWHJvRUxVMkloWHlyc1pVYlE?oc=5&hl=en-US&gl=US&ceid=US:en",
       "source": "人民日报",
-      "time": "Wed, 01 Apr 2026 01:22:00 GMT"
+      "time": "2026-04-01",
+      "publishedAt": "2026-04-01T09:22:00+08:00",
+      "originalTime": "Wed, 01 Apr 2026 01:22:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 2,
+      "tags": [
+        "国内国际民生",
+        "人民日报",
+        "政策"
+      ]
     },
     {
       "category": "国内国际民生",
       "title": "泸州龙马潭：人大监督亮新招 医保惠民更暖心",
       "summary": "泸州龙马潭：人大监督亮新招 医保惠民更暖心 人民网－四川频道",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwWmhCOUljc1Q0bXdsQ1g0ZDE0SW55N0gzVEl6U2VtU0RLUkR3bWNYRkFxdzJaRk02aGJvNlZZWmJ1SVlWN3JuQV9LcndhdWpydTVwUi11dGJfYTVZSlJyaTFhYm9KQldQVGc?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwWmhCOUljc1Q0bXdsQ1g0ZDE0SW55N0gzVEl6U2VtU0RLUkR3bWNYRkFxdzJaRk02aGJvNlZZWmJ1SVlWN3JuQV9LcndhdWpydTVwUi11dGJfYTVZSlJyaTFhYm9KQldQVGc?oc=5&hl=en-US&gl=US&ceid=US:en",
       "source": "人民日报",
-      "time": "Thu, 02 Apr 2026 13:24:00 GMT"
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T21:24:00+08:00",
+      "originalTime": "Thu, 02 Apr 2026 13:24:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "国内国际民生",
+        "人民日报"
+      ]
     },
     {
       "category": "国内国际民生",
       "title": "甘肃扎实推进稳岗扩容提质惠及民生",
       "summary": "甘肃扎实推进稳岗扩容提质惠及民生 gs.people.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BZ3FXR0paQ295WUVvM3hRTW03cVhEZ2c0VU5RM2Q3WURXZ3VJRGJrTFdTVFk4R1JWM2NqSEZWN0lPSDhIWkRSZmJueDVZZnpPSktNY3RidlBLcWc5WmZPb2F5TFIyMHRoUnc?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BZ3FXR0paQ295WUVvM3hRTW03cVhEZ2c0VU5RM2Q3WURXZ3VJRGJrTFdTVFk4R1JWM2NqSEZWN0lPSDhIWkRSZmJueDVZZnpPSktNY3RidlBLcWc5WmZPb2F5TFIyMHRoUnc?oc=5&hl=en-US&gl=US&ceid=US:en",
       "source": "人民日报",
-      "time": "Thu, 02 Apr 2026 01:12:00 GMT"
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T09:12:00+08:00",
+      "originalTime": "Thu, 02 Apr 2026 01:12:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "国内国际民生",
+        "人民日报"
+      ]
     },
     {
       "category": "国内国际民生",
       "title": "以智为光 以扶为翼——泰安市走出困境儿童数智精准帮扶新路径",
       "summary": "以智为光 以扶为翼——泰安市走出困境儿童数智精准帮扶新路径 人民网",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLb3hNaklDcWlqYnZyM3lGZVpWMXgyeXBrNVdjZEMtMGI3TS1NdzYyZlBZaTh1UTg5VTFyY0Y2OThTcWZPVDJUUGt6NkoyS1VRNHJwTEd6R2FEaHFtTHlQUldwRE9wcVViQVE?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLb3hNaklDcWlqYnZyM3lGZVpWMXgyeXBrNVdjZEMtMGI3TS1NdzYyZlBZaTh1UTg5VTFyY0Y2OThTcWZPVDJUUGt6NkoyS1VRNHJwTEd6R2FEaHFtTHlQUldwRE9wcVViQVE?oc=5&hl=en-US&gl=US&ceid=US:en",
       "source": "人民日报",
-      "time": "Thu, 02 Apr 2026 02:42:00 GMT"
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T10:42:00+08:00",
+      "originalTime": "Thu, 02 Apr 2026 02:42:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "国内国际民生",
+        "人民日报"
+      ]
     },
     {
       "category": "国内国际民生",
       "title": "外部危机如何成为丹麦选举“助推器”",
       "summary": "外部危机如何成为丹麦选举“助推器” 新华网",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNDhyeG1WUGxMb0IzYk5kQmEwZkxVb1dpT2lzRGNYT3ZDZ3ktLUtRcU8wSGJLc0JGamNKRzVkMm9VRFZsYVhiU2F2dVFaX3pUTDk5TXRmWDJUXzV6dDg0Q2lXUUR0SjhoOHpHekVzVk5ncGh1LUhqeXNyTlFmSnhyZlA5VXB6UQ?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNDhyeG1WUGxMb0IzYk5kQmEwZkxVb1dpT2lzRGNYT3ZDZ3ktLUtRcU8wSGJLc0JGamNKRzVkMm9VRFZsYVhiU2F2dVFaX3pUTDk5TXRmWDJUXzV6dDg0Q2lXUUR0SjhoOHpHekVzVk5ncGh1LUhqeXNyTlFmSnhyZlA5VXB6UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "source": "新华社",
-      "time": "Thu, 02 Apr 2026 06:31:32 GMT"
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T14:31:32+08:00",
+      "originalTime": "Thu, 02 Apr 2026 06:31:32 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "国内国际民生",
+        "新华社"
+      ]
     },
     {
       "category": "国内国际民生",
       "title": "北京市科学技术委员会、中关村科技园区管理委员会关于征集中关村国家自主创新示范区提升国际化发展水平项目部分政策支持方向的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会",
       "summary": "北京市科学技术委员会、中关村科技园区管理委员会关于征集中关村国家自主创新示范区提升国际化发展水平项目部分政策支持方向的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会 kw.beijing.gov.cn",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SZ1JERl9iZ21IY09sUjZyOVE2YUhiSHBkM0libEZxX3VSVzYzN3NVTmEyWElrRHd6QWdlRVRKemp5SVltTEhtUTlUUDFxOC1UaWJ5Qk1wdFRUZzh5dVNDZTNzckl3NElISTRTa0pxNHdEWjQ?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SZ1JERl9iZ21IY09sUjZyOVE2YUhiSHBkM0libEZxX3VSVzYzN3NVTmEyWElrRHd6QWdlRVRKemp5SVltTEhtUTlUUDFxOC1UaWJ5Qk1wdFRUZzh5dVNDZTNzckl3NElISTRTa0pxNHdEWjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "source": "kw.beijing.gov.cn",
-      "time": "Wed, 01 Apr 2026 01:27:00 GMT"
+      "time": "2026-04-01",
+      "publishedAt": "2026-04-01T09:27:00+08:00",
+      "originalTime": "Wed, 01 Apr 2026 01:27:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 2,
+      "tags": [
+        "国内国际民生",
+        "kw.beijing.gov.cn",
+        "政策"
+      ]
     },
     {
       "category": "国内国际民生",
       "title": "湖南省地方金融管理局解读《推动融资担保行业高质量发展的实施方案》",
       "summary": "湖南省地方金融管理局解读《推动融资担保行业高质量发展的实施方案》 湖南省人民政府",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfX0plVUJwQVFkYmRtV0JpY0RNV0dEeU0tV3EtWkxhcjRRVzdXVmZ5eTNjZ0pYLUpvaGJBNW5vaTRicTVzVmpSbmE2VjIxMmRoTXl1b2thbnJjY09vSDdaOEM2cU5sSXZiMDltdEhyM2NXZjMzeHJTWllSVERMVTA?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfX0plVUJwQVFkYmRtV0JpY0RNV0dEeU0tV3EtWkxhcjRRVzdXVmZ5eTNjZ0pYLUpvaGJBNW5vaTRicTVzVmpSbmE2VjIxMmRoTXl1b2thbnJjY09vSDdaOEM2cU5sSXZiMDltdEhyM2NXZjMzeHJTWllSVERMVTA?oc=5&hl=en-US&gl=US&ceid=US:en",
       "source": "湖南省人民政府",
-      "time": "Wed, 01 Apr 2026 03:01:00 GMT"
-    },
-    {
-      "category": "国内国际民生",
-      "title": "民生政策 落地有声丨沉浸式体验“家门口养老”的一天",
-      "summary": "民生政策 落地有声丨沉浸式体验“家门口养老”的一天 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wTUZOUmM2M2d6Q2tJaHNSUzRYdTFJakZsTURzYTBnTWlKUC1SMEUySlFjR2RqbXJQYnQ4cFN2ZGh3cHkzR3ZTQzdVX2FmOTFkNEQ3ZkVxZUl2enZ3YTdWeGMxeGhoQzZBZ2NsSkZtTWxwNUZ2elhDVUdoamZNQQ?oc=5",
-      "source": "新华社",
-      "time": "Tue, 31 Mar 2026 13:04:50 GMT"
+      "time": "2026-04-01",
+      "publishedAt": "2026-04-01T11:01:00+08:00",
+      "originalTime": "Wed, 01 Apr 2026 03:01:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 2,
+      "tags": [
+        "国内国际民生",
+        "湖南省人民政府",
+        "政策"
+      ]
     },
     {
       "category": "国内国际民生",
       "title": "长和︰强烈反对巴拿马裁定 积极果断对巴拿马进行仲裁",
       "summary": "在巴拿马最高法院裁定，香港长和子公司运营巴拿马运河港口的合同违反宪法后，长和星期三（2月4日）发布公告称，董事会对巴拿马的裁定及相应行动表示强烈反对，并称会积极果断对巴拿马进行仲裁。 长和星期三在官网发布公告称，据旗下的巴拿马港口公司（PPC）理解，巴拿马最高法院的决定可能在今年2月初生效。公告称，PPC已获得意见，指巴拿马最高法院所宣布的决定，以及巴拿马政府就PPC于该两个港口之码头营运所采取的相应行动，与相关法律框架，以及批准该特许经营合约之法律并不一致。 公告续称，PPC在星期二（2月3日）已展开并将根据适用特许经营合约及国际商会之仲裁规则，积极果断对巴拿马进行仲裁。 长和最后在公告中说，董事会对巴拿马的裁定及相应行动表示强烈反对，会继续咨询其法律顾问，并保留一切权利，包括就有关事宜诉诸进一步国内及国际法律程序。 负责香港事务的中国国务院港澳办星期二（2月3日）晚在微信公众号发表署名“港澳平”的评论文章称，中国从来不会屈从于强权政治和霸权主义，有足够的手段和工具、足够的实力和能力维护国际经贸秩序公平公正。巴拿马应当认清形势、迷途知返。如果一意孤行，执迷不悟，“必将在政治上、经济上都付出沉重代价！” 巴拿马高院上星期四（1月29日）裁定，长和子公司运营巴拿马运河港口的特许经营权合同违宪。裁决书称，相关合约存在“过度偏袒”长和的条款。 PPC自1997年起获巴拿马港口的运营合同，并在2021年于上一届巴拿马政府执政期间获续约，为期25年。 关于撤销巴拿马港口公司合约一事，最早由巴拿马审计部门去年提出。审计部门认为特许经营权违宪，并指长和未向巴拿马政府支付12亿美元（约15亿新元）税金。 据法新社报道，巴拿马海事局上星期五（1月30日）宣布，马士基集团旗下港口运营商APM码头公司，将担任位处巴拿马运河两端的巴尔博亚港和克里斯托瓦尔港的“临时管理方”。 长和去年3月公布，以228亿美元向贝莱德等美资组成的财团悉数出售在23个国家营运的43个港口权益，包括巴拿马港口90%股权。 中国据报对此大表不满。美媒去年7月报道，北京表明，除非中国远洋海运集团获得多数股权，否则将阻止交易。",
       "url": "https://www.zaobao.com/news/china/story20260204-8295674",
+      "resolvedUrl": "https://www.zaobao.com/news/china/story20260204-8295674",
       "source": "联合早报",
-      "time": "Wed, 04 Feb 2026 01:17:18 GMT"
+      "time": "2026-02-04",
+      "publishedAt": "2026-02-04T09:17:18+08:00",
+      "originalTime": "Wed, 04 Feb 2026 01:17:18 GMT",
+      "isHistorical": true,
+      "timeline": "历史回顾",
+      "ageDays": 58,
+      "tags": [
+        "国内国际民生",
+        "联合早报",
+        "政策",
+        "历史稿",
+        "历史回顾"
+      ]
     },
     {
       "category": "国内国际民生",
       "title": "港澳办：若巴拿马一意孤行 必将在政治经济上都付出沉重代价",
       "summary": "在巴拿马最高法院裁定，香港长和子公司运营巴拿马运河港口的合同违反宪法后，负责香港事务的中国国务院港澳办发文指出，巴拿马应当认清形势、迷途知返，并警告如果一意孤行，执迷不悟，巴拿马必将在政治和经济上都付出沉重代价。 港澳办星期二（2月3日）晚在微信公众号发表署名“港澳平”的评论文章称，巴拿马最高法院以所谓“违宪”为由，裁决有关香港企业巴拿马运河港口特许经营合约续约无效。有关裁决罔顾事实、背信弃义，严重损害香港企业合法权益，理所当然受到中国政府和香港特区政府的坚决反对。 文章进一步指出，有关企业的港口特许经营权合约乃由双方公平自愿签订，历经巴拿马多届政府和国会认可，现在巴拿马却裁定合约违宪，意味将来同样可以裁定巴拿马任何时期批准的其他特许经营权合约违宪，这向国际投资者释放的信号是，巴拿马实际上无法为投资者提供任何保障。 文章批评此举可谓自毁国家信用，将对巴拿马营商环境和经济发展造成深远损害，并严重破坏国际贸易规则。 文章最后写道，中国从来不会屈从于强权政治和霸权主义，有足够的手段和工具、足够的实力和能力维护国际经贸秩序公平公正。巴拿马应当认清形势、迷途知返。如果一意孤行，执迷不悟，“必将在政治上、经济上都付出沉重代价！” 巴拿马高院上星期四（1月29日）裁定，长和子公司运营巴拿马运河港口的特许经营权合同违宪。裁决书称，相关合约存在“过度偏袒”长和的条款。 长和旗下巴拿马港口公司（PPC）自1997年起获巴拿马港口的运营合同，并在2021年于上一届巴拿马政府执政期间获续约，为期25年。 关于撤销巴拿马港口公司合约一事，最早由巴拿马审计部门去年提出。审计部门认为特许经营权违宪，并指长和未向巴拿马政府支付12亿美元（约15亿新元）税金。 据法新社报道，巴拿马海事局上星期五（1月30日）宣布，马士基集团旗下港口运营商APM码头公司，将担任位处巴拿马运河两端的巴尔博亚港和克里斯托瓦尔港的“临时管理方”。 《华尔街日报》报道，长和将无法对巴拿马高院的裁决提出上诉，但可以要求澄清说明，此举或能推迟长和运营权被正式终止的日期。长和旗下公司暗示，可能将事件提交国际仲裁。",
       "url": "https://www.zaobao.com/news/china/story20260204-8295417",
+      "resolvedUrl": "https://www.zaobao.com/news/china/story20260204-8295417",
       "source": "联合早报",
-      "time": "Wed, 04 Feb 2026 00:53:45 GMT"
+      "time": "2026-02-04",
+      "publishedAt": "2026-02-04T08:53:45+08:00",
+      "originalTime": "Wed, 04 Feb 2026 00:53:45 GMT",
+      "isHistorical": true,
+      "timeline": "历史回顾",
+      "ageDays": 58,
+      "tags": [
+        "国内国际民生",
+        "联合早报",
+        "政策",
+        "历史稿",
+        "历史回顾"
+      ]
     },
     {
       "category": "国内国际民生",
       "title": "中央一号文件再提整治农村高额彩礼",
       "summary": "中共中央一号文件再提整治农村高额彩礼，称要引导树立正确的婚恋观、生育观、家庭观，培育简约文明的婚俗文化。 据新华社， 2026年中央一号文件《中共中央国务院关于锚定农业农村现代化扎实推进乡村全面振兴的意见》星期二（2月3日）发布，这也是中国“十五五”首个中央一号文件。文件提出，持续整治农村高额彩礼，加强省际毗邻地区联动治理。引导树立正确的婚恋观、生育观、家庭观，培育简约文明的婚俗文化。 中国农业农村部农村经济研究中心乡村治理与社会文化研究室副研究员庞静泊说，整治农村高额彩礼，本质上是扭转乡土风俗陋习、推动乡村文化治理，体现出党和国家对培育文明婚俗、涵养良好家风的重视。 2019年的一号文件首次明确把 “天价彩礼” 等不良婚俗纳入中央层面治理范围，之后的三年的中央一号文件继续多次提到推进农村移风易俗、治理高价彩礼等问题。 在新华社相关报道的微博下，许多留言称，一号文件的提法治标不治本，整治农村高额彩礼，就“不要认为女方是嫁到男方家的说法，双方父母都要出资买房及需要品”，“彩礼和嫁妆都是为了新组建家庭能承担房屋和生育的压力”。",
       "url": "https://www.zaobao.com/news/china/story20260204-8295371",
+      "resolvedUrl": "https://www.zaobao.com/news/china/story20260204-8295371",
       "source": "联合早报",
-      "time": "Wed, 04 Feb 2026 00:39:35 GMT"
+      "time": "2026-02-04",
+      "publishedAt": "2026-02-04T08:39:35+08:00",
+      "originalTime": "Wed, 04 Feb 2026 00:39:35 GMT",
+      "isHistorical": true,
+      "timeline": "历史回顾",
+      "ageDays": 58,
+      "tags": [
+        "国内国际民生",
+        "联合早报",
+        "政策",
+        "历史稿",
+        "历史回顾"
+      ]
+    }
+  ],
+  "newsCurrent": [
+    {
+      "category": "国际秩序",
+      "title": "中国国际收支的最新变化：趋势与涵义",
+      "summary": "中国国际收支的最新变化：趋势与涵义 财新",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OT25YX0hOM01DVGpvbVJnRExnYUZ1clhyUmlnaElaYnk3emxSaDkzclQwUTR2eDZKNjY2T2NsUmlQbVl2VklOZEh6VE1pZlZPdEpCUHRPUk1Ib3BxSFVF?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OT25YX0hOM01DVGpvbVJnRExnYUZ1clhyUmlnaElaYnk3emxSaDkzclQwUTR2eDZKNjY2T2NsUmlQbVl2VklOZEh6VE1pZlZPdEpCUHRPUk1Ib3BxSFVF?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source": "财新网",
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T10:24:00+08:00",
+      "originalTime": "Thu, 02 Apr 2026 02:24:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "国际秩序",
+        "财新网"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "特朗普罢免美国司法部长帕姆·邦迪",
+      "summary": "邦迪担任美国最高执法官员的时期因司法部对杰弗里·爱泼斯坦调查的处理而黯然失色。",
+      "url": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
+      "resolvedUrl": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T04:39:32+08:00",
+      "originalTime": "Thu, 02 Apr 2026 20:39:32 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "BBC"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "“我已经好几天没有睡觉了”：伊朗人描述一个月战争后日益加剧的绝望",
+      "summary": "来自伊朗各地的普通民众描述了不断扩大的罢工、经济痛苦和对镇压的恐惧。",
+      "url": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
+      "resolvedUrl": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T00:09:24+08:00",
+      "originalTime": "Thu, 02 Apr 2026 16:09:24 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "BBC"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "Iran war could make beer and bottled water pricier for Indians",
+      "summary": "由于战争挤压了供应，塑料和玻璃瓶制造商正在努力获取原材料。",
+      "url": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss",
+      "resolvedUrl": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T07:16:37+08:00",
+      "originalTime": "Thu, 02 Apr 2026 23:16:37 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "BBC"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "法官驳回布莱克·莱弗利在贾斯汀·巴尔多尼骚扰诉讼中的大部分指控",
+      "summary": "法官保留了对巴尔多尼的三项指控，这意味着民事审判将于下个月继续进行。",
+      "url": "https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&at_campaign=rss",
+      "resolvedUrl": "https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T06:47:48+08:00",
+      "originalTime": "Thu, 02 Apr 2026 22:47:48 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "BBC"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "Iran's two largest steel plants shut down due to air strikes, companies say",
+      "summary": "伊朗称，这些袭击是以色列上周与美国协调首次发动的，可能对伊朗经济造成重大损害。",
+      "url": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
+      "resolvedUrl": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T01:01:08+08:00",
+      "originalTime": "Thu, 02 Apr 2026 17:01:08 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "BBC"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "荷兰抢劫案一年多后，古老的金头盔被寻获",
+      "summary": "头盔和三个金手镯于 2025 年 1 月被盗，但其中一个手镯尚未找到。",
+      "url": "https://www.bbc.com/news/articles/cpvxj4jzvvvo?at_medium=RSS&at_campaign=rss",
+      "resolvedUrl": "https://www.bbc.com/news/articles/cpvxj4jzvvvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T22:20:02+08:00",
+      "originalTime": "Thu, 02 Apr 2026 14:20:02 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "BBC"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "美国法院下令对参与选举计划的科罗拉多州职员重新判刑",
+      "summary": "前职员蒂娜·彼得斯已成为否认选举运动和唐纳德·特朗普总统的名人。",
+      "url": "https://www.aljazeera.com/news/2026/4/2/us-court-orders-resentencing-for-colorado-clerk-involved-in-election-scheme?traffic_source=rss",
+      "resolvedUrl": "https://www.aljazeera.com/news/2026/4/2/us-court-orders-resentencing-for-colorado-clerk-involved-in-election-scheme?traffic_source=rss",
+      "source": "Al Jazeera",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T06:56:55+08:00",
+      "originalTime": "Thu, 02 Apr 2026 22:56:55 +0000",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "Al Jazeera"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "人权组织和密尔沃基领导人猛烈抨击 ICE 逮捕巴勒斯坦倡导者",
+      "summary": "据报道，密尔沃基伊斯兰协会主席萨拉·萨尔苏尔 (Salah Sarsour) 3 月 30 日在开车时被拘留。",
+      "url": "https://www.aljazeera.com/news/2026/4/2/rights-groups-milwaukee-leaders-slam-ices-arrest-of-palestinian-advocate?traffic_source=rss",
+      "resolvedUrl": "https://www.aljazeera.com/news/2026/4/2/rights-groups-milwaukee-leaders-slam-ices-arrest-of-palestinian-advocate?traffic_source=rss",
+      "source": "Al Jazeera",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T06:45:48+08:00",
+      "originalTime": "Thu, 02 Apr 2026 22:45:48 +0000",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "Al Jazeera"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "波斯尼亚队战胜意大利队晋级世界杯，欢呼雀跃",
+      "summary": "波斯尼亚和黑塞哥维那戏剧性地战胜意大利，引发了从泽尼察到萨拉热窝的疯狂庆祝活动，并唤起了人们的回忆。",
+      "url": "https://www.aljazeera.com/sports/2026/4/2/unbridled-bosnian-joy-marks-world-cup-qualification-win-over-italy?traffic_source=rss",
+      "resolvedUrl": "https://www.aljazeera.com/sports/2026/4/2/unbridled-bosnian-joy-marks-world-cup-qualification-win-over-italy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T05:25:28+08:00",
+      "originalTime": "Thu, 02 Apr 2026 21:25:28 +0000",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "Al Jazeera"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "教皇利奥在首次复活节礼拜中谴责世界的“野蛮行径”",
+      "summary": "教皇利奥在仪式上为 12 名牧师洗脚，利用这一时刻敦促天主教徒与受压迫者站在一起。",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/pope-leo-condemns-brutality-of-world-in-first-easter-services?traffic_source=rss",
+      "resolvedUrl": "https://www.aljazeera.com/video/newsfeed/2026/4/2/pope-leo-condemns-brutality-of-world-in-first-easter-services?traffic_source=rss",
+      "source": "Al Jazeera",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T05:24:26+08:00",
+      "originalTime": "Thu, 02 Apr 2026 21:24:26 +0000",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "Al Jazeera"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "9 岁男孩讲述黎巴嫩空袭导致全家遇难的经历",
+      "summary": "卡里姆·阿尔·哈吉·侯赛因 (Karim Al-Haj Hussein) 在黎巴嫩巴勒贝克的家遭到以色列袭击，他的家人被杀，他幸免于难。",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/9-year-old-boy-recounts-airstrike-in-lebanon-that-killed-whole-family?traffic_source=rss",
+      "resolvedUrl": "https://www.aljazeera.com/video/newsfeed/2026/4/2/9-year-old-boy-recounts-airstrike-in-lebanon-that-killed-whole-family?traffic_source=rss",
+      "source": "Al Jazeera",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T05:22:53+08:00",
+      "originalTime": "Thu, 02 Apr 2026 21:22:53 +0000",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "Al Jazeera"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "伊朗战争拖延，石油冲击引发全球价格飙升",
+      "summary": "随着霍尔木兹海峡的中断推高价格，美以对伊朗的战争造成的燃料冲击正在全球范围内蔓延。",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/oil-shock-triggers-global-price-spikes-as-iran-war-drags-on?traffic_source=rss",
+      "resolvedUrl": "https://www.aljazeera.com/video/newsfeed/2026/4/2/oil-shock-triggers-global-price-spikes-as-iran-war-drags-on?traffic_source=rss",
+      "source": "Al Jazeera",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T05:04:35+08:00",
+      "originalTime": "Thu, 02 Apr 2026 21:04:35 +0000",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "Al Jazeera"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "乌干达根据第三国协议接收首架美国驱逐航班",
+      "summary": "数十人根据新协议抵达，但预计将面临法律挑战，该计划被批评为“非人化过程”。随着唐纳德·特朗普政府继续推行将移民驱逐到与他们没有联系的国家的战略，一架载有被美国驱逐出境的人的航班已降落在乌干达。一位不愿透露姓名的乌干达政府高级官员告诉路透社，被驱逐的人将留在东非国家，作为“可能继续传播到其他国家的过渡阶段”。继续阅读...",
+      "url": "https://www.theguardian.com/us-news/2026/apr/02/uganda-receives-first-us-deportation-flight-under-third-country-agreement",
+      "resolvedUrl": "https://www.theguardian.com/us-news/2026/apr/02/uganda-receives-first-us-deportation-flight-under-third-country-agreement",
+      "source": "The Guardian",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T00:37:12+08:00",
+      "originalTime": "Thu, 02 Apr 2026 16:37:12 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "The Guardian"
+      ]
+    },
+    {
+      "category": "国际秩序",
+      "title": "加拿大广播公司揭露魁北克省涉嫌枫糖浆骗局",
+      "summary": "加拿大广播电台的一名记者注意到他的枫糖浆味道很奇怪；测试显示其掺有蔗糖 加拿大国家广播公司的一项调查发现，魁北克一家主要生产商一直在用蔗糖稀释其枫糖浆，并将欺诈产品出售给杂货连锁店。在一次涉及虚假身份和秘密录音的诱捕行动中，加拿大广播电台 Enquête 节目的记者发现，主要连锁杂货店出售的低成本糖浆被严重稀释。继续阅读...",
+      "url": "https://www.theguardian.com/world/2026/apr/02/maple-syrup-scam-quebec-canada",
+      "resolvedUrl": "https://www.theguardian.com/world/2026/apr/02/maple-syrup-scam-quebec-canada",
+      "source": "The Guardian",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T03:07:20+08:00",
+      "originalTime": "Thu, 02 Apr 2026 19:07:20 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "国际秩序",
+        "The Guardian"
+      ]
+    },
+    {
+      "category": "财经",
+      "title": "今日开盘：两市双双低开 沪指跌幅0.20%",
+      "summary": "今日开盘：两市双双低开 沪指跌幅0.20% 财新网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rMDVmSGZpZjNPWGFKRkpFZ0x5WjVUMU9jSU41cHoxRDNmaGNlNEpYVGh3VmI4YUswSGY0S3I3TXk3aDZKUTl1eHdaaTZMUmY5cmkzSU9NODJtVWhVbGcxcktR?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rMDVmSGZpZjNPWGFKRkpFZ0x5WjVUMU9jSU41cHoxRDNmaGNlNEpYVGh3VmI4YUswSGY0S3I3TXk3aDZKUTl1eHdaaTZMUmY5cmkzSU9NODJtVWhVbGcxcktR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source": "财新网",
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T09:29:00+08:00",
+      "originalTime": "Thu, 02 Apr 2026 01:29:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "财经",
+        "财新网"
+      ]
+    },
+    {
+      "category": "财经",
+      "title": "3月点心债“小阳春” 发行规模近2025年同期三倍",
+      "summary": "3月点心债“小阳春” 发行规模近2025年同期三倍 财新网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGOTBmcndDMlJHWVNCQ01YU2xTNEszaXVnLV8xWFhiRXloQThWSjl6X3JiQTBMMmdYWlh1ZTdNemppMUtvaEdhZHRLbWFoQnJ2cGprOUpiQVlxZ05OVU1DLWNB?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGOTBmcndDMlJHWVNCQ01YU2xTNEszaXVnLV8xWFhiRXloQThWSjl6X3JiQTBMMmdYWlh1ZTdNemppMUtvaEdhZHRLbWFoQnJ2cGprOUpiQVlxZ05OVU1DLWNB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source": "财新网",
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T19:07:00+08:00",
+      "originalTime": "Thu, 02 Apr 2026 11:07:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "财经",
+        "财新网"
+      ]
+    },
+    {
+      "category": "财经",
+      "title": "香港首季新股集资额创五年新高 高科技公司占比近半",
+      "summary": "香港首季新股集资额创五年新高 高科技公司占比近半 财新网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBybW1BdFl3QUVQaEliQjEtZVQtbUs2ZzRnb0VLbm9odlZGMzN3Qm0zSTVXU0Vsem1aNDFOQTFvcTBXVS1xSGlDZGIwMDI4bS13N05Da3Q2UU1mTGZpZmF4ZHRn?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBybW1BdFl3QUVQaEliQjEtZVQtbUs2ZzRnb0VLbm9odlZGMzN3Qm0zSTVXU0Vsem1aNDFOQTFvcTBXVS1xSGlDZGIwMDI4bS13N05Da3Q2UU1mTGZpZmF4ZHRn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source": "财新网",
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T17:25:00+08:00",
+      "originalTime": "Thu, 02 Apr 2026 09:25:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "财经",
+        "财新网"
+      ]
+    },
+    {
+      "category": "财经",
+      "title": "FMC: 紧急燃油附加费不能想加就加",
+      "summary": "FMC: 紧急燃油附加费不能想加就加 财新网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iR1ZoREhxYmdTall5SXBubnBpTkk5bmpMbWdZMUlpSkVzM2hRTVljZHBsbk5hYjhHOUxMZWZfampzcXc2ZE9WWFhMdUp3SzVtR19SQ0R2SWVsMG9WV04xZzFn?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iR1ZoREhxYmdTall5SXBubnBpTkk5bmpMbWdZMUlpSkVzM2hRTVljZHBsbk5hYjhHOUxMZWZfampzcXc2ZE9WWFhMdUp3SzVtR19SQ0R2SWVsMG9WV04xZzFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source": "财新网",
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T09:45:00+08:00",
+      "originalTime": "Thu, 02 Apr 2026 01:45:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "财经",
+        "财新网"
+      ]
+    },
+    {
+      "category": "财经",
+      "title": "“金融性封锁”卡住全球能源链条",
+      "summary": "“金融性封锁”卡住全球能源链条 财新网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mS2RrdmpIZjF5dUpwU0JyNjA1NmNsRkVuOEJCd2NYRWpnYmNobzlXb0k5aHEydzRzQ0k5VVV4dG0wM1picF9tNUQtdFpVZkpHSDE2eGVQWmRfRkp1YXlvYW9R?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mS2RrdmpIZjF5dUpwU0JyNjA1NmNsRkVuOEJCd2NYRWpnYmNobzlXb0k5aHEydzRzQ0k5VVV4dG0wM1picF9tNUQtdFpVZkpHSDE2eGVQWmRfRkp1YXlvYW9R?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source": "财新网",
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T10:44:00+08:00",
+      "originalTime": "Thu, 02 Apr 2026 02:44:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "财经",
+        "财新网"
+      ]
+    },
+    {
+      "category": "财经",
+      "title": "中信建投：2026年二季度行业应当如何配置？",
+      "summary": "中信建投：2026年二季度行业应当如何配置？ 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPa2EyVUZpcWZSTWVWb3RiV2JtQzVfczFMN1NiQ2ltWUFURkN5NW9YZnBZNU9rVUlNOEg0NHl2aWx5Qjg5MTJfd01PSTA5NTlaRnNiQW83UTRGVUJnekZMdDdfcERmOGZmTVp6dVVzeFBsbm5uOUZtNC1MZDA0NkF2UHZzYUk0bS1CRXdnN3FESVViUWppN1NkeFRIVko3LVNObzRDcDZ2Qmw1Ujk5Z3JxNUpBaWlpT2RfSFJZbnlkT0JJOUpEVlhscjI4Z2RYWE1BeTFEa1NGUzJqcTBPLW5XdFNJMUlxaEo0bmxQVjd5R2hmbmRwQlphc19qelpkZw?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPa2EyVUZpcWZSTWVWb3RiV2JtQzVfczFMN1NiQ2ltWUFURkN5NW9YZnBZNU9rVUlNOEg0NHl2aWx5Qjg5MTJfd01PSTA5NTlaRnNiQW83UTRGVUJnekZMdDdfcERmOGZmTVp6dVVzeFBsbm5uOUZtNC1MZDA0NkF2UHZzYUk0bS1CRXdnN3FESVViUWppN1NkeFRIVko3LVNObzRDcDZ2Qmw1Ujk5Z3JxNUpBaWlpT2RfSFJZbnlkT0JJOUpEVlhscjI4Z2RYWE1BeTFEa1NGUzJqcTBPLW5XdFNJMUlxaEo0bmxQVjd5R2hmbmRwQlphc19qelpkZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source": "新浪财经",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T06:38:40+08:00",
+      "originalTime": "Thu, 02 Apr 2026 22:38:40 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "财经",
+        "新浪财经"
+      ]
+    },
+    {
+      "category": "财经",
+      "title": "三月份就业报告将于周五发布。这是值得期待的",
+      "summary": "美国经济预计 3 月份将增加 59,000 个就业岗位，失业率保持在 4.4%。",
+      "url": "https://www.cnbc.com/2026/04/02/the-march-jobs-report-will-be-released-on-friday-heres-what-to-expect.html",
+      "resolvedUrl": "https://www.cnbc.com/2026/04/02/the-march-jobs-report-will-be-released-on-friday-heres-what-to-expect.html",
+      "source": "CNBC",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T04:04:41+08:00",
+      "originalTime": "Thu, 02 Apr 2026 20:04:41 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "财经",
+        "CNBC"
+      ]
+    },
+    {
+      "category": "财经",
+      "title": "特朗普解雇司法部长帕姆·邦迪",
+      "summary": "据说特朗普总统对帕姆·邦迪处理司法部有关杰弗里·爱泼斯坦的文件以及司法部未能起诉他的政敌的行为感到不满。",
+      "url": "https://www.cnbc.com/2026/04/02/trump-pam-bondi-attorney-general-lee-zeldin.html",
+      "resolvedUrl": "https://www.cnbc.com/2026/04/02/trump-pam-bondi-attorney-general-lee-zeldin.html",
+      "source": "CNBC",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T04:32:48+08:00",
+      "originalTime": "Thu, 02 Apr 2026 20:32:48 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "财经",
+        "CNBC"
+      ]
+    },
+    {
+      "category": "财经",
+      "title": "伊朗和阿曼起草协议以“监控”霍尔木兹海峡交通：IRNA",
+      "summary": "自二月底伊朗战争爆发以来，全球石油运输的重要动脉霍尔木兹海峡实际上已被关闭。",
+      "url": "https://www.cnbc.com/2026/04/02/iran-war-oman-hormuz-strait.html",
+      "resolvedUrl": "https://www.cnbc.com/2026/04/02/iran-war-oman-hormuz-strait.html",
+      "source": "CNBC",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T02:46:52+08:00",
+      "originalTime": "Thu, 02 Apr 2026 18:46:52 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "财经",
+        "CNBC"
+      ]
+    },
+    {
+      "category": "财经",
+      "title": "由于燃油价格持续上涨，联合航空将托运行李费上调 10 美元",
+      "summary": "联合航空成为一周内第二家提高托运行李费的美国航空公司，该行业正在努力应对航空燃油成本上涨超过 80% 的问题。",
+      "url": "https://www.cnbc.com/2026/04/02/united-airlines-raises-checked-bag-fees-fuel-prices-climb.html",
+      "resolvedUrl": "https://www.cnbc.com/2026/04/02/united-airlines-raises-checked-bag-fees-fuel-prices-climb.html",
+      "source": "CNBC",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T06:11:06+08:00",
+      "originalTime": "Thu, 02 Apr 2026 22:11:06 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "财经",
+        "CNBC"
+      ]
+    },
+    {
+      "category": "财经",
+      "title": "华纳、希夫调查政府潜在的内幕交易",
+      "summary": "议员们还引用了最近的一份报告，称一名与 Pete Hegseth 相关的经纪人在 2 月份寻求对与国防相关的 ETF 进行数百万美元的投资。",
+      "url": "https://www.cnbc.com/2026/04/02/hegseth-trump-mark-warner-adam-schiff-insider-trading-probe.html",
+      "resolvedUrl": "https://www.cnbc.com/2026/04/02/hegseth-trump-mark-warner-adam-schiff-insider-trading-probe.html",
+      "source": "CNBC",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T06:19:31+08:00",
+      "originalTime": "Thu, 02 Apr 2026 22:19:31 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "财经",
+        "CNBC"
+      ]
+    },
+    {
+      "category": "财经",
+      "title": "泰格·伍兹在酒驾事故后给特朗普打电话，他通过随身摄像头视频告诉警察",
+      "summary": "上周，高尔夫球手泰格·伍兹在佛罗里达州朱庇特发生车祸后，特朗普总统称他为亲密朋友。伍兹正在与小唐纳德·特朗普的前妻约会。",
+      "url": "https://www.cnbc.com/2026/04/02/tiger-woods-trump-call-dui-crash-video.html",
+      "resolvedUrl": "https://www.cnbc.com/2026/04/02/tiger-woods-trump-call-dui-crash-video.html",
+      "source": "CNBC",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T07:41:36+08:00",
+      "originalTime": "Thu, 02 Apr 2026 23:41:36 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "财经",
+        "CNBC"
+      ]
+    },
+    {
+      "category": "体育",
+      "title": "老虎告诉副手：“我只是在和总统谈话”",
+      "summary": "周四公布的随身摄像机镜头显示，泰格·伍兹上周在佛罗里达州撞毁了他的SUV后，拿出手机告诉一名副手，“我只是在和总统通话”，该视频显示这位高尔夫球手因酒驾指控被捕。",
+      "url": "https://www.espn.com/golf/story/_/id/48378214/bodycam-shows-tiger-woods-surprised-dui-arrest",
+      "resolvedUrl": "https://www.espn.com/golf/story/_/id/48378214/bodycam-shows-tiger-woods-surprised-dui-arrest",
+      "source": "ESPN",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T06:48:31+08:00",
+      "originalTime": "Thu, 2 Apr 2026 17:48:31 EST",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "体育",
+        "ESPN"
+      ]
+    },
+    {
+      "category": "体育",
+      "title": "菲尔因家庭健康问题缺席大师赛",
+      "summary": "菲尔·米克尔森周四宣布，他不会参加下周的大师赛，并将缺席较长一段时间，因为他的家人继续“处理个人健康问题”。",
+      "url": "https://www.espn.com/golf/story/_/id/48379971/phil-mickelson-miss-masters-personal-health-matter",
+      "resolvedUrl": "https://www.espn.com/golf/story/_/id/48379971/phil-mickelson-miss-masters-personal-health-matter",
+      "source": "ESPN",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T06:48:31+08:00",
+      "originalTime": "Thu, 2 Apr 2026 17:48:31 EST",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "体育",
+        "ESPN"
+      ]
+    },
+    {
+      "category": "体育",
+      "title": "两届全职业球员、2019 年 DPOY 吉尔摩退役",
+      "summary": "两届全职业角卫斯蒂芬·吉尔摩宣布从 NFL 退役。",
+      "url": "https://www.espn.com/nfl/story/_/id/48380010/two-all-pro-2019-dpoy-stephon-gilmore-retires-nfl",
+      "resolvedUrl": "https://www.espn.com/nfl/story/_/id/48380010/two-all-pro-2019-dpoy-stephon-gilmore-retires-nfl",
+      "source": "ESPN",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T06:48:31+08:00",
+      "originalTime": "Thu, 2 Apr 2026 17:48:31 EST",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "体育",
+        "ESPN"
+      ]
+    },
+    {
+      "category": "体育",
+      "title": "不是一个多任务处理者：劳埃德专注于 Zona，而不是 UNC",
+      "summary": "亚利桑那州主教练汤米·劳埃德表示，他不是一个“多任务处理者”，因为有传言称他将参加北卡罗来纳州的揭幕战，因为他的球队准备在周六的四强赛中对阵密歇根州。",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/48380222/not-multitasker-lloyd-focusing-arizona-not-north-carolina",
+      "resolvedUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48380222/not-multitasker-lloyd-focusing-arizona-not-north-carolina",
+      "source": "ESPN",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T06:48:31+08:00",
+      "originalTime": "Thu, 2 Apr 2026 17:48:31 EST",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "体育",
+        "ESPN"
+      ]
+    },
+    {
+      "category": "体育",
+      "title": "卡多重返密歇根大学，过敏反应后“很好”",
+      "summary": "密歇根州首发控球后卫埃利奥特·卡多在四强赛中重新与队友会合，他周四表示，他因意外接触坚果而出现过敏反应，需要在一天前住院治疗。",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/48380065/elliot-cadeau-rejoins-wolverines-allergic-reaction",
+      "resolvedUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48380065/elliot-cadeau-rejoins-wolverines-allergic-reaction",
+      "source": "ESPN",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T06:48:31+08:00",
+      "originalTime": "Thu, 2 Apr 2026 17:48:31 EST",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "体育",
+        "ESPN"
+      ]
+    },
+    {
+      "category": "体育",
+      "title": "鲍尔随小联盟鸭队返回美国",
+      "summary": "前赛扬奖得主特雷弗·鲍尔 (Trevor Bauer) 已与大西洋联盟长岛鸭队签约，并计划为这支小联盟球队于 4 月 21 日揭幕战上场。",
+      "url": "https://www.espn.com/mlb/story/_/id/48378454/trevor-bauer-signs-long-island-ducks-us-return",
+      "resolvedUrl": "https://www.espn.com/mlb/story/_/id/48378454/trevor-bauer-signs-long-island-ducks-us-return",
+      "source": "ESPN",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T06:48:31+08:00",
+      "originalTime": "Thu, 2 Apr 2026 17:48:31 EST",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "体育",
+        "ESPN"
+      ]
+    },
+    {
+      "category": "体育",
+      "title": "库库雷拉和费尔南德斯的评论进一步震撼了切尔西不稳定的项目 |雅各布·斯坦伯格",
+      "summary": "利亚姆·罗尼奥尔的球队的困难时期并没有因为两名高级球员的干预而得到帮助，相信这个过程。忽略那些仇恨者。保证奖杯会来。坚持品牌。在国际比赛中消失，并向皇家马德里发出厚颜无耻的“来抓我”的请求。转会到巴塞罗那的建议很难拒绝。不要让噪音安静下来。增加噪音。质疑俱乐部的转会政策。说你想念以前的经理。说马德里是您最喜欢的欧洲城市。不止一次地说。不挂断。我们在这里失去了信息吗？对于切尔西来说，这几周是动荡的几周。在欧洲被巴黎圣日耳曼击败，并且面临英超联赛失控的危险，如果没有两名最大的球员在国际比赛日期间制造公关风暴，他们本可以做到这一点。不过，马克·库库雷拉和恩佐·费尔南德斯并没有收到这份备忘录。费尔南德斯显然是在夏天转会——“我真的很喜欢马德里，它和布宜诺斯艾利斯很相似，”这位阿根廷中场球员本周表示。与此同时，库库雷拉在最近接受《竞技报》采访时也毫不犹豫地表示，切尔西已经为他们的经验不足“付出了代价”，质疑恩佐·马雷斯卡在赛季中期离开，并表示巴黎圣日耳曼在欧冠16强中的惨败让球员们“灰心丧气”。继续阅读...",
+      "url": "https://www.theguardian.com/football/2026/apr/02/chelsea-precarious-project-rocked-marc-cucurella-enzo-fernandez",
+      "resolvedUrl": "https://www.theguardian.com/football/2026/apr/02/chelsea-precarious-project-rocked-marc-cucurella-enzo-fernandez",
+      "source": "The Guardian",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T02:00:30+08:00",
+      "originalTime": "Thu, 02 Apr 2026 18:00:30 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "体育",
+        "The Guardian"
+      ]
+    },
+    {
+      "category": "体育",
+      "title": "托特纳姆热刺主教练罗伯托·德泽尔比为过去对梅森·格林伍德的评论道歉",
+      "summary": "热刺主教练表示，“我无意表明立场” 球迷群体反对德泽尔比的任命 新托特纳姆热刺主教练罗伯托·德泽尔比为他过去对梅森·格林伍德的言论道歉，并表示他永远不会故意淡化针对女性的暴力行为。托特纳姆热刺队支持者信托基金（THST）周二强烈批评了意大利人的任命，并在他被确认签署了一份为期五年的协议以取代临时主教练伊戈尔·都铎后不久发表了一份声明，表达了“严重而深远的担忧”。继续阅读...",
+      "url": "https://www.theguardian.com/football/2026/apr/02/roberto-de-zerbi-apologises-mason-greenwood-comments-tottenham",
+      "resolvedUrl": "https://www.theguardian.com/football/2026/apr/02/roberto-de-zerbi-apologises-mason-greenwood-comments-tottenham",
+      "source": "The Guardian",
+      "time": "2026-04-03",
+      "publishedAt": "2026-04-03T02:42:37+08:00",
+      "originalTime": "Thu, 02 Apr 2026 18:42:37 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 0,
+      "tags": [
+        "体育",
+        "The Guardian"
+      ]
+    },
+    {
+      "category": "国内国际民生",
+      "title": "监管重塑市场格局，消费金融行业迈入“精耕细作”新周期",
+      "summary": "监管重塑市场格局，消费金融行业迈入“精耕细作”新周期 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qQWRxLWozUlVLUEFaNW5VcDlXQm85bGMzS1dkcWYwZmtuWkVFcmpfUy05Nm5CR2VqRmxXOHBCTUZEbHoyWFRETzR1Yk03LUdHQU5WZGdVajZ3c24wZTJ3TWZqVzNJTWZKVXpyUlhKcw?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qQWRxLWozUlVLUEFaNW5VcDlXQm85bGMzS1dkcWYwZmtuWkVFcmpfUy05Nm5CR2VqRmxXOHBCTUZEbHoyWFRETzR1Yk03LUdHQU5WZGdVajZ3c24wZTJ3TWZqVzNJTWZKVXpyUlhKcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source": "新浪财经",
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T12:04:10+08:00",
+      "originalTime": "Thu, 02 Apr 2026 04:04:10 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "国内国际民生",
+        "新浪财经",
+        "政策"
+      ]
+    },
+    {
+      "category": "国内国际民生",
+      "title": "农行贵阳乌当支行：政策精准落实 助力城市更新",
+      "summary": "农行贵阳乌当支行：政策精准落实 助力城市更新 人民网贵州",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Qd1VUaXJRQjhNUzZWSFYtTC1waFhmQkNSbXlXbTlYTEx5NktNa0RmckJCRl9yWkE1MFNRQ0o0TkpLNk9jcnhMMml3RlNpWEh4dU00bkgyd0dkc3dVSkpKLV84NWpubW44dWc?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Qd1VUaXJRQjhNUzZWSFYtTC1waFhmQkNSbXlXbTlYTEx5NktNa0RmckJCRl9yWkE1MFNRQ0o0TkpLNk9jcnhMMml3RlNpWEh4dU00bkgyd0dkc3dVSkpKLV84NWpubW44dWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source": "人民日报",
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T17:20:00+08:00",
+      "originalTime": "Thu, 02 Apr 2026 09:20:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "国内国际民生",
+        "人民日报",
+        "政策"
+      ]
+    },
+    {
+      "category": "国内国际民生",
+      "title": "长春工大健康帮扶项目入选教育部精准帮扶典型项目",
+      "summary": "长春工大健康帮扶项目入选教育部精准帮扶典型项目 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUmExSXdNUUpkUVRrbkVrdTAtZFRNQmgyUWZ5UWhTeEZMTW5QUXpFT19pc3AzTlNMcW1UOHVHQW9UanRxOG9oVDNJb0NJNTdCREZDNXF5TGRZLVpUVVhSVlZHMzNReWRNaFhBMDdpcnZOUlNKSUFzY2xYT3RES05yNTYwZkhCVnNi?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUmExSXdNUUpkUVRrbkVrdTAtZFRNQmgyUWZ5UWhTeEZMTW5QUXpFT19pc3AzTlNMcW1UOHVHQW9UanRxOG9oVDNJb0NJNTdCREZDNXF5TGRZLVpUVVhSVlZHMzNReWRNaFhBMDdpcnZOUlNKSUFzY2xYT3RES05yNTYwZkhCVnNi?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source": "搜狐网",
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T19:26:36+08:00",
+      "originalTime": "Thu, 02 Apr 2026 11:26:36 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "国内国际民生",
+        "搜狐网",
+        "政策"
+      ]
+    },
+    {
+      "category": "国内国际民生",
+      "title": "北京市规划和自然资源委员会丰台分局2025年度生态环境保护工作完成情况_丰台通知公告",
+      "summary": "北京市规划和自然资源委员会丰台分局2025年度生态环境保护工作完成情况_丰台通知公告 北京市规划和自然资源委员会",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ0tRZEVqOW1nOFQ1aDJyTjk5T1hVZDRES2hRNE0yc0ZwMmlPVFNIOG9Pel9sZ0w2TlRLbEs3THdpRm80LXRKQWdMSE0wWUt0ZThsT1dkVG9jUHZ6VTZuM1J1RFN5YVB1aGpObkYtaFZiZkJ2RENwbHgtYTM1WnAyZ21VUEdxSmp0?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ0tRZEVqOW1nOFQ1aDJyTjk5T1hVZDRES2hRNE0yc0ZwMmlPVFNIOG9Pel9sZ0w2TlRLbEs3THdpRm80LXRKQWdMSE0wWUt0ZThsT1dkVG9jUHZ6VTZuM1J1RFN5YVB1aGpObkYtaFZiZkJ2RENwbHgtYTM1WnAyZ21VUEdxSmp0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source": "北京市规划和自然资源委员会",
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T15:22:00+08:00",
+      "originalTime": "Thu, 02 Apr 2026 07:22:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "国内国际民生",
+        "北京市规划和自然资源委员会",
+        "政策"
+      ]
+    },
+    {
+      "category": "国内国际民生",
+      "title": "北京市文物局关于在全国重点文物保护单位北平图书馆旧址保护范围内实施国家图书馆古籍馆电力增容改造项目的复函",
+      "summary": "北京市文物局关于在全国重点文物保护单位北平图书馆旧址保护范围内实施国家图书馆古籍馆电力增容改造项目的复函 wwj.beijing.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WZk5SSXJxWWVJZ1pRZDE3VklzRUI5dUFTR2hPSkE2QUNab3kyYXZLT1FVc3NBandNQnhOelYyejduZmZ5SkZEWWRBclVGdFQ2UTRMZ2dYSndUZFRkQjhoNFlTOXlrVnMtRVk1dE1JMjhYeGl0ZGltRGtKUUxxUQ?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WZk5SSXJxWWVJZ1pRZDE3VklzRUI5dUFTR2hPSkE2QUNab3kyYXZLT1FVc3NBandNQnhOelYyejduZmZ5SkZEWWRBclVGdFQ2UTRMZ2dYSndUZFRkQjhoNFlTOXlrVnMtRVk1dE1JMjhYeGl0ZGltRGtKUUxxUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source": "wwj.beijing.gov.cn",
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T09:42:59+08:00",
+      "originalTime": "Thu, 02 Apr 2026 01:42:59 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "国内国际民生",
+        "wwj.beijing.gov.cn",
+        "政策"
+      ]
+    },
+    {
+      "category": "国内国际民生",
+      "title": "4月7日起兰州住房公积金提取政策优化调整",
+      "summary": "4月7日起兰州住房公积金提取政策优化调整 gs.people.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03VFYwdFQtdFdUY0pnbkVJMTlxREloRGZFMV93dDAteUtxa1NRTGJFYW9sX19EbHFSOVBDZzdLMFVCajZEcEFhekhtYUZpblVpNktKSkZjV2ZHWHJvRUxVMkloWHlyc1pVYlE?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03VFYwdFQtdFdUY0pnbkVJMTlxREloRGZFMV93dDAteUtxa1NRTGJFYW9sX19EbHFSOVBDZzdLMFVCajZEcEFhekhtYUZpblVpNktKSkZjV2ZHWHJvRUxVMkloWHlyc1pVYlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source": "人民日报",
+      "time": "2026-04-01",
+      "publishedAt": "2026-04-01T09:22:00+08:00",
+      "originalTime": "Wed, 01 Apr 2026 01:22:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 2,
+      "tags": [
+        "国内国际民生",
+        "人民日报",
+        "政策"
+      ]
+    },
+    {
+      "category": "国内国际民生",
+      "title": "泸州龙马潭：人大监督亮新招 医保惠民更暖心",
+      "summary": "泸州龙马潭：人大监督亮新招 医保惠民更暖心 人民网－四川频道",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwWmhCOUljc1Q0bXdsQ1g0ZDE0SW55N0gzVEl6U2VtU0RLUkR3bWNYRkFxdzJaRk02aGJvNlZZWmJ1SVlWN3JuQV9LcndhdWpydTVwUi11dGJfYTVZSlJyaTFhYm9KQldQVGc?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwWmhCOUljc1Q0bXdsQ1g0ZDE0SW55N0gzVEl6U2VtU0RLUkR3bWNYRkFxdzJaRk02aGJvNlZZWmJ1SVlWN3JuQV9LcndhdWpydTVwUi11dGJfYTVZSlJyaTFhYm9KQldQVGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source": "人民日报",
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T21:24:00+08:00",
+      "originalTime": "Thu, 02 Apr 2026 13:24:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "国内国际民生",
+        "人民日报"
+      ]
+    },
+    {
+      "category": "国内国际民生",
+      "title": "甘肃扎实推进稳岗扩容提质惠及民生",
+      "summary": "甘肃扎实推进稳岗扩容提质惠及民生 gs.people.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BZ3FXR0paQ295WUVvM3hRTW03cVhEZ2c0VU5RM2Q3WURXZ3VJRGJrTFdTVFk4R1JWM2NqSEZWN0lPSDhIWkRSZmJueDVZZnpPSktNY3RidlBLcWc5WmZPb2F5TFIyMHRoUnc?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BZ3FXR0paQ295WUVvM3hRTW03cVhEZ2c0VU5RM2Q3WURXZ3VJRGJrTFdTVFk4R1JWM2NqSEZWN0lPSDhIWkRSZmJueDVZZnpPSktNY3RidlBLcWc5WmZPb2F5TFIyMHRoUnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source": "人民日报",
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T09:12:00+08:00",
+      "originalTime": "Thu, 02 Apr 2026 01:12:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "国内国际民生",
+        "人民日报"
+      ]
+    },
+    {
+      "category": "国内国际民生",
+      "title": "以智为光 以扶为翼——泰安市走出困境儿童数智精准帮扶新路径",
+      "summary": "以智为光 以扶为翼——泰安市走出困境儿童数智精准帮扶新路径 人民网",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLb3hNaklDcWlqYnZyM3lGZVpWMXgyeXBrNVdjZEMtMGI3TS1NdzYyZlBZaTh1UTg5VTFyY0Y2OThTcWZPVDJUUGt6NkoyS1VRNHJwTEd6R2FEaHFtTHlQUldwRE9wcVViQVE?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLb3hNaklDcWlqYnZyM3lGZVpWMXgyeXBrNVdjZEMtMGI3TS1NdzYyZlBZaTh1UTg5VTFyY0Y2OThTcWZPVDJUUGt6NkoyS1VRNHJwTEd6R2FEaHFtTHlQUldwRE9wcVViQVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source": "人民日报",
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T10:42:00+08:00",
+      "originalTime": "Thu, 02 Apr 2026 02:42:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "国内国际民生",
+        "人民日报"
+      ]
+    },
+    {
+      "category": "国内国际民生",
+      "title": "外部危机如何成为丹麦选举“助推器”",
+      "summary": "外部危机如何成为丹麦选举“助推器” 新华网",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNDhyeG1WUGxMb0IzYk5kQmEwZkxVb1dpT2lzRGNYT3ZDZ3ktLUtRcU8wSGJLc0JGamNKRzVkMm9VRFZsYVhiU2F2dVFaX3pUTDk5TXRmWDJUXzV6dDg0Q2lXUUR0SjhoOHpHekVzVk5ncGh1LUhqeXNyTlFmSnhyZlA5VXB6UQ?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNDhyeG1WUGxMb0IzYk5kQmEwZkxVb1dpT2lzRGNYT3ZDZ3ktLUtRcU8wSGJLc0JGamNKRzVkMm9VRFZsYVhiU2F2dVFaX3pUTDk5TXRmWDJUXzV6dDg0Q2lXUUR0SjhoOHpHekVzVk5ncGh1LUhqeXNyTlFmSnhyZlA5VXB6UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source": "新华社",
+      "time": "2026-04-02",
+      "publishedAt": "2026-04-02T14:31:32+08:00",
+      "originalTime": "Thu, 02 Apr 2026 06:31:32 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 1,
+      "tags": [
+        "国内国际民生",
+        "新华社"
+      ]
+    },
+    {
+      "category": "国内国际民生",
+      "title": "北京市科学技术委员会、中关村科技园区管理委员会关于征集中关村国家自主创新示范区提升国际化发展水平项目部分政策支持方向的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会",
+      "summary": "北京市科学技术委员会、中关村科技园区管理委员会关于征集中关村国家自主创新示范区提升国际化发展水平项目部分政策支持方向的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会 kw.beijing.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SZ1JERl9iZ21IY09sUjZyOVE2YUhiSHBkM0libEZxX3VSVzYzN3NVTmEyWElrRHd6QWdlRVRKemp5SVltTEhtUTlUUDFxOC1UaWJ5Qk1wdFRUZzh5dVNDZTNzckl3NElISTRTa0pxNHdEWjQ?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SZ1JERl9iZ21IY09sUjZyOVE2YUhiSHBkM0libEZxX3VSVzYzN3NVTmEyWElrRHd6QWdlRVRKemp5SVltTEhtUTlUUDFxOC1UaWJ5Qk1wdFRUZzh5dVNDZTNzckl3NElISTRTa0pxNHdEWjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source": "kw.beijing.gov.cn",
+      "time": "2026-04-01",
+      "publishedAt": "2026-04-01T09:27:00+08:00",
+      "originalTime": "Wed, 01 Apr 2026 01:27:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 2,
+      "tags": [
+        "国内国际民生",
+        "kw.beijing.gov.cn",
+        "政策"
+      ]
+    },
+    {
+      "category": "国内国际民生",
+      "title": "湖南省地方金融管理局解读《推动融资担保行业高质量发展的实施方案》",
+      "summary": "湖南省地方金融管理局解读《推动融资担保行业高质量发展的实施方案》 湖南省人民政府",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfX0plVUJwQVFkYmRtV0JpY0RNV0dEeU0tV3EtWkxhcjRRVzdXVmZ5eTNjZ0pYLUpvaGJBNW5vaTRicTVzVmpSbmE2VjIxMmRoTXl1b2thbnJjY09vSDdaOEM2cU5sSXZiMDltdEhyM2NXZjMzeHJTWllSVERMVTA?oc=5",
+      "resolvedUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfX0plVUJwQVFkYmRtV0JpY0RNV0dEeU0tV3EtWkxhcjRRVzdXVmZ5eTNjZ0pYLUpvaGJBNW5vaTRicTVzVmpSbmE2VjIxMmRoTXl1b2thbnJjY09vSDdaOEM2cU5sSXZiMDltdEhyM2NXZjMzeHJTWllSVERMVTA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source": "湖南省人民政府",
+      "time": "2026-04-01",
+      "publishedAt": "2026-04-01T11:01:00+08:00",
+      "originalTime": "Wed, 01 Apr 2026 03:01:00 GMT",
+      "isHistorical": false,
+      "timeline": "最新动态",
+      "ageDays": 2,
+      "tags": [
+        "国内国际民生",
+        "湖南省人民政府",
+        "政策"
+      ]
+    }
+  ],
+  "newsHistorical": [
+    {
+      "category": "国内国际民生",
+      "title": "长和︰强烈反对巴拿马裁定 积极果断对巴拿马进行仲裁",
+      "summary": "在巴拿马最高法院裁定，香港长和子公司运营巴拿马运河港口的合同违反宪法后，长和星期三（2月4日）发布公告称，董事会对巴拿马的裁定及相应行动表示强烈反对，并称会积极果断对巴拿马进行仲裁。 长和星期三在官网发布公告称，据旗下的巴拿马港口公司（PPC）理解，巴拿马最高法院的决定可能在今年2月初生效。公告称，PPC已获得意见，指巴拿马最高法院所宣布的决定，以及巴拿马政府就PPC于该两个港口之码头营运所采取的相应行动，与相关法律框架，以及批准该特许经营合约之法律并不一致。 公告续称，PPC在星期二（2月3日）已展开并将根据适用特许经营合约及国际商会之仲裁规则，积极果断对巴拿马进行仲裁。 长和最后在公告中说，董事会对巴拿马的裁定及相应行动表示强烈反对，会继续咨询其法律顾问，并保留一切权利，包括就有关事宜诉诸进一步国内及国际法律程序。 负责香港事务的中国国务院港澳办星期二（2月3日）晚在微信公众号发表署名“港澳平”的评论文章称，中国从来不会屈从于强权政治和霸权主义，有足够的手段和工具、足够的实力和能力维护国际经贸秩序公平公正。巴拿马应当认清形势、迷途知返。如果一意孤行，执迷不悟，“必将在政治上、经济上都付出沉重代价！” 巴拿马高院上星期四（1月29日）裁定，长和子公司运营巴拿马运河港口的特许经营权合同违宪。裁决书称，相关合约存在“过度偏袒”长和的条款。 PPC自1997年起获巴拿马港口的运营合同，并在2021年于上一届巴拿马政府执政期间获续约，为期25年。 关于撤销巴拿马港口公司合约一事，最早由巴拿马审计部门去年提出。审计部门认为特许经营权违宪，并指长和未向巴拿马政府支付12亿美元（约15亿新元）税金。 据法新社报道，巴拿马海事局上星期五（1月30日）宣布，马士基集团旗下港口运营商APM码头公司，将担任位处巴拿马运河两端的巴尔博亚港和克里斯托瓦尔港的“临时管理方”。 长和去年3月公布，以228亿美元向贝莱德等美资组成的财团悉数出售在23个国家营运的43个港口权益，包括巴拿马港口90%股权。 中国据报对此大表不满。美媒去年7月报道，北京表明，除非中国远洋海运集团获得多数股权，否则将阻止交易。",
+      "url": "https://www.zaobao.com/news/china/story20260204-8295674",
+      "resolvedUrl": "https://www.zaobao.com/news/china/story20260204-8295674",
+      "source": "联合早报",
+      "time": "2026-02-04",
+      "publishedAt": "2026-02-04T09:17:18+08:00",
+      "originalTime": "Wed, 04 Feb 2026 01:17:18 GMT",
+      "isHistorical": true,
+      "timeline": "历史回顾",
+      "ageDays": 58,
+      "tags": [
+        "国内国际民生",
+        "联合早报",
+        "政策",
+        "历史稿",
+        "历史回顾"
+      ]
+    },
+    {
+      "category": "国内国际民生",
+      "title": "港澳办：若巴拿马一意孤行 必将在政治经济上都付出沉重代价",
+      "summary": "在巴拿马最高法院裁定，香港长和子公司运营巴拿马运河港口的合同违反宪法后，负责香港事务的中国国务院港澳办发文指出，巴拿马应当认清形势、迷途知返，并警告如果一意孤行，执迷不悟，巴拿马必将在政治和经济上都付出沉重代价。 港澳办星期二（2月3日）晚在微信公众号发表署名“港澳平”的评论文章称，巴拿马最高法院以所谓“违宪”为由，裁决有关香港企业巴拿马运河港口特许经营合约续约无效。有关裁决罔顾事实、背信弃义，严重损害香港企业合法权益，理所当然受到中国政府和香港特区政府的坚决反对。 文章进一步指出，有关企业的港口特许经营权合约乃由双方公平自愿签订，历经巴拿马多届政府和国会认可，现在巴拿马却裁定合约违宪，意味将来同样可以裁定巴拿马任何时期批准的其他特许经营权合约违宪，这向国际投资者释放的信号是，巴拿马实际上无法为投资者提供任何保障。 文章批评此举可谓自毁国家信用，将对巴拿马营商环境和经济发展造成深远损害，并严重破坏国际贸易规则。 文章最后写道，中国从来不会屈从于强权政治和霸权主义，有足够的手段和工具、足够的实力和能力维护国际经贸秩序公平公正。巴拿马应当认清形势、迷途知返。如果一意孤行，执迷不悟，“必将在政治上、经济上都付出沉重代价！” 巴拿马高院上星期四（1月29日）裁定，长和子公司运营巴拿马运河港口的特许经营权合同违宪。裁决书称，相关合约存在“过度偏袒”长和的条款。 长和旗下巴拿马港口公司（PPC）自1997年起获巴拿马港口的运营合同，并在2021年于上一届巴拿马政府执政期间获续约，为期25年。 关于撤销巴拿马港口公司合约一事，最早由巴拿马审计部门去年提出。审计部门认为特许经营权违宪，并指长和未向巴拿马政府支付12亿美元（约15亿新元）税金。 据法新社报道，巴拿马海事局上星期五（1月30日）宣布，马士基集团旗下港口运营商APM码头公司，将担任位处巴拿马运河两端的巴尔博亚港和克里斯托瓦尔港的“临时管理方”。 《华尔街日报》报道，长和将无法对巴拿马高院的裁决提出上诉，但可以要求澄清说明，此举或能推迟长和运营权被正式终止的日期。长和旗下公司暗示，可能将事件提交国际仲裁。",
+      "url": "https://www.zaobao.com/news/china/story20260204-8295417",
+      "resolvedUrl": "https://www.zaobao.com/news/china/story20260204-8295417",
+      "source": "联合早报",
+      "time": "2026-02-04",
+      "publishedAt": "2026-02-04T08:53:45+08:00",
+      "originalTime": "Wed, 04 Feb 2026 00:53:45 GMT",
+      "isHistorical": true,
+      "timeline": "历史回顾",
+      "ageDays": 58,
+      "tags": [
+        "国内国际民生",
+        "联合早报",
+        "政策",
+        "历史稿",
+        "历史回顾"
+      ]
+    },
+    {
+      "category": "国内国际民生",
+      "title": "中央一号文件再提整治农村高额彩礼",
+      "summary": "中共中央一号文件再提整治农村高额彩礼，称要引导树立正确的婚恋观、生育观、家庭观，培育简约文明的婚俗文化。 据新华社， 2026年中央一号文件《中共中央国务院关于锚定农业农村现代化扎实推进乡村全面振兴的意见》星期二（2月3日）发布，这也是中国“十五五”首个中央一号文件。文件提出，持续整治农村高额彩礼，加强省际毗邻地区联动治理。引导树立正确的婚恋观、生育观、家庭观，培育简约文明的婚俗文化。 中国农业农村部农村经济研究中心乡村治理与社会文化研究室副研究员庞静泊说，整治农村高额彩礼，本质上是扭转乡土风俗陋习、推动乡村文化治理，体现出党和国家对培育文明婚俗、涵养良好家风的重视。 2019年的一号文件首次明确把 “天价彩礼” 等不良婚俗纳入中央层面治理范围，之后的三年的中央一号文件继续多次提到推进农村移风易俗、治理高价彩礼等问题。 在新华社相关报道的微博下，许多留言称，一号文件的提法治标不治本，整治农村高额彩礼，就“不要认为女方是嫁到男方家的说法，双方父母都要出资买房及需要品”，“彩礼和嫁妆都是为了新组建家庭能承担房屋和生育的压力”。",
+      "url": "https://www.zaobao.com/news/china/story20260204-8295371",
+      "resolvedUrl": "https://www.zaobao.com/news/china/story20260204-8295371",
+      "source": "联合早报",
+      "time": "2026-02-04",
+      "publishedAt": "2026-02-04T08:39:35+08:00",
+      "originalTime": "Wed, 04 Feb 2026 00:39:35 GMT",
+      "isHistorical": true,
+      "timeline": "历史回顾",
+      "ageDays": 58,
+      "tags": [
+        "国内国际民生",
+        "联合早报",
+        "政策",
+        "历史稿",
+        "历史回顾"
+      ]
     }
   ],
   "hackernews": [
     {
       "rank": 1,
-      "title": "谷歌发布 Gemma 4 开放模型",
+      "title": "Google releases Gemma 4 open models",
       "url": "https://deepmind.google/models/gemma/gemma-4/",
       "score": 1032,
       "by": "jeffmcjunkin",
@@ -449,7 +1889,7 @@
     },
     {
       "rank": 4,
-      "title": "阿耳忒弥斯二号的厕所是月球任务的里程碑",
+      "title": "Artemis II's toilet is a moon mission milestone",
       "url": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
       "score": 99,
       "by": "1659447091",
@@ -459,7 +1899,7 @@
     },
     {
       "rank": 5,
-      "title": "光标3",
+      "title": "Cursor 3",
       "url": "https://cursor.com/blog/cursor-3",
       "score": 255,
       "by": "adamfeldman",
@@ -489,7 +1929,7 @@
     },
     {
       "rank": 8,
-      "title": "乔治·戈布尔去世",
+      "title": "George Goble has died",
       "url": "https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779",
       "score": 94,
       "by": "finaard",
@@ -539,7 +1979,7 @@
       {
         "name": "asgeirtj/system_prompts_leaks",
         "stars": "-",
-        "description": "从 ChatGPT（GPT-5.4、GPT-5.3、Codex）、Claude（Opus 4.6、Sonnet 4.6、Claude Code）、Gemini（3.1 Pro、3 Flash、CLI）、Grok（4.2、4）、Perplexity 等中提取系统提示。定期更新。",
+        "description": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
         "url": "https://github.com/asgeirtj/system_prompts_leaks",
         "language": "",
         "topics": []
@@ -630,7 +2070,7 @@
       {
         "name": "CasimiroVasco/lamda-3lk",
         "stars": "-",
-        "description": "🔍 使用 lamda-3lk 简化您的数据分析，这是一种从大型数据集中提取见解并增强决策的有效工具。",
+        "description": "🔍 Streamline your data analysis with lamda-3lk, an efficient tool for extracting insights from large datasets and enhancing decision-making.",
         "url": "https://github.com/CasimiroVasco/lamda-3lk",
         "language": "",
         "topics": [
@@ -654,7 +2094,7 @@
       {
         "name": "ShouryaKING/ada-ydu",
         "stars": "-",
-        "description": "🛠️ 使用 ada-ydu 构建您的自适应学习环境，旨在增强用户参与度并简化教育体验。",
+        "description": "🛠️ Build your adaptive learning environment with ada-ydu, designed to enhance user engagement and streamline educational experiences.",
         "url": "https://github.com/ShouryaKING/ada-ydu",
         "language": "",
         "topics": [
@@ -730,7 +2170,7 @@
       {
         "name": "Rehmanking123/julia-v0n",
         "stars": "-",
-        "description": "🧮 使用 julia-v0n 简化数值计算，这是一个强大的库，专为 Julia 中的高效数据分析和建模而设计。",
+        "description": "🧮 Simplify numerical computations with julia-v0n, a powerful library designed for efficient data analysis and modeling in Julia.",
         "url": "https://github.com/Rehmanking123/julia-v0n",
         "language": "",
         "topics": [
