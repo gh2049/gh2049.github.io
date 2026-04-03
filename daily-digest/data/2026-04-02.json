@@ -1,7 +1,7 @@
 {
   "version": 1,
   "date": "2026-04-02",
-  "generatedAt": "2026-04-02T00:22:04.413Z",
+  "generatedAt": "2026-04-02T05:24:22.531Z",
   "source": {
     "dailySources": {
       "usedDate": "2026-04-02",
@@ -11,385 +11,385 @@
   "stats": {
     "news": 50,
     "hackerNews": 10,
-    "githubGeneral": 10,
+    "githubGeneral": 7,
     "githubAi": 10
   },
   "news": [
     {
       "category": "国际秩序",
-      "title": "加拿大政治家和社会活动家斯蒂芬·刘易斯去世，享年 88 岁",
-      "summary": "刘易斯是阿维·刘易斯的父亲，阿维·刘易斯在父亲去世前一天当选为进步的新民主党领导人。 加拿大外交官、政治家和人权倡导者斯蒂芬·刘易斯几十年来孜孜不倦地致力于让全球关注艾滋病毒/艾滋病流行病，如今他因癌症去世。刘易斯曾担任加拿大驻联合国大使，以及安大略省新民主党（NDP）党魁，现年 88 岁。继续阅读...",
-      "url": "https://www.theguardian.com/world/2026/apr/01/stephen-lewis-canadian-politician-and-social-activist-dies-aged-88",
+      "title": "中国式现代化始终以人为本（国际论坛·读懂中国·读懂中国式现代化）",
+      "summary": "中国式现代化始终以人为本（国际论坛·读懂中国·读懂中国式现代化） 人民日报",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BbkloS1VQNlFtVVpTbF95ZDZqZG9OenozRmJwcDZfLW1xaTZwaDdCYVVjdDNEcEZuVVVyZVNVT0dXNzJBNHJMTGtfZzNUSXlTYVZfdWI2TUJjYk1OVHVhd1NmSWVwWkJoelBEQ250c1dNLVoyMHZqT0FkNHZvRVE?oc=5",
+      "source": "人民日报",
+      "time": "Wed, 01 Apr 2026 08:32:59 GMT"
+    },
+    {
+      "category": "国际秩序",
+      "title": "特朗普关于退出北约的最新言论对该联盟意味着什么？",
+      "summary": "特朗普批评北约成员国对美国在伊朗的目标缺乏支持。",
+      "url": "https://www.bbc.com/news/articles/c79je4vldq5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "time": "Wed, 01 Apr 2026 16:31:17 GMT"
+    },
+    {
+      "category": "国际秩序",
+      "title": "以色列加强对黎巴嫩的袭击并袭击真主党控制之外的地区",
+      "summary": "随着以色列宣布打算控制黎巴嫩南部大片地区，袭击仍在继续。",
+      "url": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "time": "Wed, 01 Apr 2026 10:33:35 GMT"
+    },
+    {
+      "category": "国际秩序",
+      "title": "家人涌入希腊法院接受最严重火车事故的审判",
+      "summary": "2023 年，两列火车相撞，造成 57 人死亡，这是希腊历史上最严重的铁路事故，预计将持续数年进行审判，其中 36 人被指控。",
+      "url": "https://www.bbc.com/news/articles/cx2wq13758no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "time": "Wed, 01 Apr 2026 16:30:17 GMT"
+    },
+    {
+      "category": "国际秩序",
+      "title": "前欧尔班盟友彼得·马扎尔（Peter Magyar）在匈牙利争夺权力",
+      "summary": "自欧尔班·维克多 (Viktor Orban) 于 2010 年赢得四连胜中的第一场以来，马扎尔对他在匈牙利的统治构成了最大的威胁。",
+      "url": "https://www.bbc.com/news/articles/c78l7vyylgqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "time": "Wed, 01 Apr 2026 13:43:10 GMT"
+    },
+    {
+      "category": "国际秩序",
+      "title": "大规模机器人出租车故障导致中国城市交通中断",
+      "summary": "百度尚未回应有关此次停电的置评请求，此次停电影响了至少 100 辆汽车。",
+      "url": "https://www.bbc.com/news/articles/cvge91r9j80o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "time": "Wed, 01 Apr 2026 11:34:31 GMT"
+    },
+    {
+      "category": "国际秩序",
+      "title": "悲痛欲绝的意大利人面临着世界杯失败的“第三次灾难”",
+      "summary": "意大利队连续第三次未能获得世界杯参赛资格后，蓝衣军团的球迷和管理层都在思考到底出了什么问题。",
+      "url": "https://www.bbc.com/news/articles/cj943rmkkm4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "time": "Wed, 01 Apr 2026 12:05:34 GMT"
+    },
+    {
+      "category": "国际秩序",
+      "title": "印度尼西亚发生7.4级地震，引发海啸警报",
+      "summary": "地震深度为 35 公里，震中位于北摩鹿加海地区特尔纳特西北偏西 127 公里（79 英里）处。美国地质调查局 (USGS) 表示，印度尼西亚北摩鹿加海地区发生了 7.4 级地震。美国地质调查局表示，这次地震于当地时间周四早些时候发生，震源深度为 35 公里，震中位于印度尼西亚特尔纳特西北偏西 127 公里（79 英里）处。继续阅读...",
+      "url": "https://www.theguardian.com/world/2026/apr/02/magnitude-78-earthquake-strikes-in-indonesia-sparking-tsunami-alert",
       "source": "The Guardian",
-      "time": "Wed, 01 Apr 2026 01:31:04 GMT"
+      "time": "Wed, 01 Apr 2026 23:16:53 GMT"
     },
     {
       "category": "国际秩序",
-      "title": "澳大利亚政治直播：总理今晚将就伊朗和燃料危机向全国发表讲话；新的交通数据显示汽车逃离城市街道",
-      "summary": "总理向全国发表的讲话将于澳大利亚东部时间晚上 7 点在所有电视和广播网络上同步播出。关注今天的新闻直播 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 今天早上与 Anthony Albanese 会面后，Claude.ai 的制造商将成为第一家签署澳大利亚国家人工智能计划的公司。全球最大的人工智能公司之一 Anthropic 将与英国首相、科学部长蒂姆·艾尔斯 (Tim Ayres) 和助理科学部长安德鲁·查尔顿 (Andrew Charlton) 会面，签署一份谅解备忘录。澳大利亚政府和 Anthropic 正在共同努力，负责任地利用人工智能——确保对澳大利亚能源网的投资，提高经济弹性和所有澳大利亚人的安全。我们今天宣布的内容将使我们的系统更加灵活，我们的供应链反应更加灵敏，企业也更加支持。显然，提供这种优惠待遇是有一个门槛的，但澳大利亚税务局准备在显然是由于我们在中东所看到的情况而提供这种支持。继续阅读...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/apr/01/australian-politics-live-cost-of-living-fuel-crisis-excise-inflation-anthony-albanese-jim-chalmers-budget-health-insurance-premiums-ntwnfb",
+      "title": "“系统故障”导致中国机器人出租车停在路中间",
+      "summary": "被困数小时的乘客表示，Apollo Go 客服人员提供了“无用的陈词滥调”，警方证实，在乘客被困数小时后，中国的几辆自动驾驶机器人出租车因“系统故障”而熄火。中国中部城市武汉的地方当局表示，周二晚上，他们开始“接连”接到乘客打来的电话，称中国互联网公司百度运营的自动驾驶汽车已被冻结。继续阅读...",
+      "url": "https://www.theguardian.com/technology/2026/apr/01/system-malfunction-causes-robotaxis-to-stall-in-the-middle-of-the-road-in-china",
       "source": "The Guardian",
-      "time": "Wed, 01 Apr 2026 02:33:52 GMT"
+      "time": "Wed, 01 Apr 2026 17:17:52 GMT"
     },
     {
       "category": "国际秩序",
-      "title": "查尔默斯在公布支持措施时表示，小企业正在为中东冲突“付出代价”",
-      "summary": "财政部长表示，伊朗战争对全球经济“产生了极大影响”，阿尔巴尼亚人就燃料危机向全国发表讲话 关注我们的澳大利亚新闻直播博客，了解最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 吉姆·查尔默斯 (Jim Chalmers) 公布了一套新冠时代的支持措施，为那些在油价飙升中苦苦挣扎的企业提供支持，总理将向全国发表讲话，这是政府正在为美以对伊朗战争造成的更严重经济衰退做准备的最新迹象。 “中东战争正在对全球经济产生极端影响。澳大利亚人和澳大利亚小企业正在为此付出代价，”财长周三对记者表示。继续阅读...",
-      "url": "https://www.theguardian.com/australia-news/2026/apr/01/chalmers-says-small-business-paying-the-price-for-middle-east-conflict-as-he-unveils-support-measures",
+      "title": "澳大利亚新闻直播：新南威尔士州政府拒绝发布秘密仇恨言论报告； CSIRO警告西澳可能出现鼠疫",
+      "summary": "克里斯·明斯 (Chris Minns) 表示，在内阁做出政策决定之前，新南威尔士州政府不会发布仇恨言论报告。关注实时更新 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 “还不如告诉我们他晚餐要吃什么”：影子部长痛斥向全国发表的讲话 针对阿尔巴尼斯向全国发表的讲话的俏皮话不断出现。影子能源部长丹·特汉 (Dan Tehan) 告诉美国广播公司广播电台：他还不如告诉我们他昨晚晚餐要吃什么。里面并没有什么新意。他没有将澳大利亚人民置于他的信任之下。他没有对透明度做出任何承诺……总理没有承诺告诉我们船舶是否被取消、是否被延误、我们目前持有的库存有多少、短缺在哪里、有多少加油站没有燃料、他们正在采取什么措施来确保向这些加油站提供燃料——什么也没有。我们将参与其中。据我了解，接下来 24 小时内这将是一次虚拟会议，外交部长将代表澳大利亚出席该会议。澳大利亚签署了英国主导的声明……所有这些国家和澳大利亚都希望看到霍尔木兹海峡尽快开放。我们将看看澳大利亚能做什么。继续阅读...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/apr/02/anthony-albanese-fuel-crisis-angus-taylor-middle-east-labor-liberals-easter-travel-press-club-ntwnfb",
       "source": "The Guardian",
-      "time": "Wed, 01 Apr 2026 01:04:52 GMT"
+      "time": "Wed, 01 Apr 2026 23:49:55 GMT"
     },
     {
       "category": "国际秩序",
-      "title": "“获得你自己的石油”：特朗普对欧洲不参加伊朗战争发起长篇大论",
-      "summary": "许多欧洲国家称这场冲突为非法，一些国家阻止以色列和美国飞机在其领空运送武器。 中东危机——实时更新唐纳德·特朗普对拒绝加入其对伊朗战争的欧洲国家发起了长篇大论，并点名英国和法国，因为跨大西洋关系因不断升级的冲突而恶化，这场冲突对全球经济造成了严重破坏。在他的真相社会网站上，美国总统告诉担心燃油价格的各国政府通过武力从海湾地区“获取自己的石油”，这一言论导致油价进一步走高。继续阅读...",
-      "url": "https://www.theguardian.com/world/2026/mar/31/trump-launches-tirade-against-european-countries-not-joining-iran-war",
+      "title": "黄英贤将与除美国外的35个国家举行会谈，探讨重新开放霍尔木兹海峡的方法",
+      "summary": "由英国召集的会谈将审查“所有可行的外交和政治措施”，以开放关键航道 关注我们的澳大利亚新闻直播博客以获取最新动态 获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客 澳大利亚政府周四证实，澳大利亚将参加由英国召集的与 35 个国家的会谈，探讨重新开放霍尔木兹海峡的方法。英国首相凯尔·斯塔默周三宣布召开会议，美国将被排除在外，讨论“一切可行的外交和政治措施”，以确保航道安全并恢复航行自由。会议预计将于澳大利亚东部时间周四晚上 10 点左右举行。继续阅读...",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/02/penny-wong-to-join-talks-with-35-countries-excluding-us-to-explore-ways-to-reopen-strait-of-hormuz",
       "source": "The Guardian",
-      "time": "Wed, 01 Apr 2026 00:06:29 GMT"
+      "time": "Wed, 01 Apr 2026 23:45:19 GMT"
     },
     {
       "category": "国际秩序",
-      "title": "萨拉表示叙利亚不会参与与伊朗的战争，除非受到攻击",
-      "summary": "“14年的战争对叙利亚来说已经足够了”：艾哈迈德·沙拉表示，叙利亚将不参与美以对伊朗的战争。",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/al-sharaa-says-syria-to-stay-out-of-war-on-iran-unless-attacked?traffic_source=rss",
+      "title": "美国联邦调查局特工抵达古巴调查快艇枪击事件",
+      "summary": "在古巴政府称一艘武装人员试图潜入该岛后，特朗普政府否认参与其中。",
+      "url": "https://www.aljazeera.com/news/2026/4/1/fbi-agents-from-us-arrive-in-cuba-to-probe-lethal-speedboat-shooting?traffic_source=rss",
       "source": "Al Jazeera",
-      "time": "Wed, 01 Apr 2026 02:07:14 +0000"
+      "time": "Wed, 01 Apr 2026 23:31:14 +0000"
     },
     {
       "category": "国际秩序",
-      "title": "波斯尼亚球迷庆祝球队淘汰意大利晋级世界杯",
-      "summary": "支持者庆祝波斯尼亚和黑塞哥维那在点球大战中击败意大利，获得 2026 年世界杯参赛资格。",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/bosnia-fans-celebrate-as-team-qualifies-for-world-cup-knocking-italy-out?traffic_source=rss",
+      "title": "联合国支持的镇压帮派部队的第一批部队抵达海地",
+      "summary": "该部队的初步任务是在海地选举前解决海地广泛的帮派暴力问题，为期 12 个月。",
+      "url": "https://www.aljazeera.com/news/2026/4/1/first-troops-from-un-backed-gang-suppression-force-arrive-in-haiti?traffic_source=rss",
       "source": "Al Jazeera",
-      "time": "Wed, 01 Apr 2026 01:07:51 +0000"
+      "time": "Wed, 01 Apr 2026 23:19:08 +0000"
     },
     {
       "category": "国际秩序",
-      "title": "紧急救援人员搜寻以色列空袭贝鲁特的遇难者",
-      "summary": "以色列空袭杰纳街区后，紧急救援人员在贝鲁特的废墟中进行搜寻。",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/emergency-workers-search-for-victims-of-israeli-airstrikes-on-beirut?traffic_source=rss",
+      "title": "阿耳忒弥斯二号成功将四名宇航员送入太空",
+      "summary": "美国宇航局 (NASA) 于周三晚上成功将四名宇航员送入太空，进行为期 10 天的月球飞行。",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/artemis-ii-successfully-launches-four-astronauts-into-space?traffic_source=rss",
       "source": "Al Jazeera",
-      "time": "Wed, 01 Apr 2026 00:56:38 +0000"
+      "time": "Wed, 01 Apr 2026 23:09:58 +0000"
     },
     {
       "category": "国际秩序",
-      "title": "“仅适用于巴勒斯坦人的死亡法”",
-      "summary": "抗议者要求英国首相凯尔·斯塔默采取行动，而不仅仅是谴责以色列对巴勒斯坦人的死刑法。",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/a-law-of-death-that-only-applies-to?traffic_source=rss",
+      "title": "NASA 的阿耳忒弥斯二号升空前往月球",
+      "summary": "此次任务是美国宇航局将人类送回月球并最终将宇航员送上火星的计划的重要一步。",
+      "url": "https://www.aljazeera.com/news/2026/4/1/nasas-artemis-ii-lifts-off-to-the-moon?traffic_source=rss",
       "source": "Al Jazeera",
-      "time": "Wed, 01 Apr 2026 00:56:02 +0000"
-    },
-    {
-      "category": "国际秩序",
-      "title": "法官暂时叫停特朗普耗资 4 亿美元的白宫宴会厅项目",
-      "summary": "地区法官理查德·莱昂表示，在国会提供法定授权之前，施工必须停止。",
-      "url": "https://www.aljazeera.com/news/2026/4/1/judge-temporarily-halts-trumps-400m-white-house-ballroom-project?traffic_source=rss",
-      "source": "Al Jazeera",
-      "time": "Wed, 01 Apr 2026 00:50:22 +0000"
-    },
-    {
-      "category": "国际秩序",
-      "title": "特朗普告诉盟友“自己搞石油”，称伊朗战争可能在两到三周内结束",
-      "summary": "迫于国内汽油价格飙升的压力，美国总统表示无需达成协议即可结束对伊朗的战争。",
-      "url": "https://www.aljazeera.com/news/2026/4/1/trump-tells-allies-get-your-own-oil-says-iran-war-could-end-in-2-3-weeks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "time": "Wed, 01 Apr 2026 00:14:19 +0000"
-    },
-    {
-      "category": "国际秩序",
-      "title": "地缘冲突下欧洲电价涨三倍，中国新能源转型之路这么走｜聚焦中关村论坛",
-      "summary": "地缘冲突下欧洲电价涨三倍，中国新能源转型之路这么走｜聚焦中关村论坛 &nbsp;&nbsp; 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBSUo3VHdfc1NiX0QzQVJvWldNTDNfZnJUZEl6SGxBNkJOUHN1Y3FzaEwyQTFVQUl4cFFxcV94Y3NoYzRlMmNBMFRhajVWeE1DNzNBd1A2cnNwcW8xVVFkZWdMdzl2ZlJBM0RHWDFn?oc=5",
-      "source": "新浪财经",
-      "time": "Tue, 31 Mar 2026 06:26:05 GMT"
+      "time": "Wed, 01 Apr 2026 22:39:26 +0000"
     },
     {
       "category": "财经",
-      "title": "今日开盘：两市双双高开 沪指涨幅1.23%",
-      "summary": "今日开盘：两市双双高开 沪指涨幅1.23% &nbsp;&nbsp; 财新",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jVHdtamxPZkUtZVV1cEZ6UWZlMzA2c3U5VGtIdXBNU3RQa2ZiS0lIQkdveERsN1VnNWJjREstOHNoWkJxTlhFblA3VXF0LWRkUDE3aEkxN1RSRWRYMU1LUHNn?oc=5",
+      "title": "造假高发、索赔增多 上海金融法院2025年虚假陈述案激增3倍",
+      "summary": "造假高发、索赔增多 上海金融法院2025年虚假陈述案激增3倍 财新",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96STBlZ010cUNadGkzYzY0Y0pKeEFyd2hGWHFlcWJDZUV6RFlMNk1tMHRtajc4bGFHM0lCV196NUowampua0F4dndRVFhLeGszQkhlZzN6WENpR1pEZDY1d2dR?oc=5",
       "source": "财新网",
-      "time": "Wed, 01 Apr 2026 01:29:00 GMT"
+      "time": "Wed, 01 Apr 2026 10:42:00 GMT"
     },
     {
       "category": "财经",
-      "title": "浦发银行2025年归母净利润同比增超10% 注重长三角区域策略",
-      "summary": "浦发银行2025年归母净利润同比增超10% 注重长三角区域策略 &nbsp;&nbsp; 财新",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1ZlZBbWdVWENETmEzcmNtZFJKQ29NOGpsb1lBLVB0bnVRemNVSEhwTUdGT3QzQld6Ul8wZFlFZkdURWo0Zm9ySFlvYVhPdTNyVnBUemw0eGt5c3VnT18yS0VR?oc=5",
+      "title": "两大上市AMC利润增长背后难掩隐忧 股权投资收益掩盖主业压力",
+      "summary": "两大上市AMC利润增长背后难掩隐忧 股权投资收益掩盖主业压力 财新",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEaWVLNFhKS1Q4NG42TzZaeDI3amdaWkQ5dnprRkZScG83UnNIaEx2UTdHN1VaM3JmWldfTjMxUk1hTzVLMFNFUWtsYkhXd3I2TENVSjJ6NUlFcEtSSU0xM0Fn?oc=5",
       "source": "财新网",
-      "time": "Wed, 01 Apr 2026 02:33:00 GMT"
+      "time": "Wed, 01 Apr 2026 07:33:00 GMT"
     },
     {
       "category": "财经",
-      "title": "6大上市券商利润破百亿 券业经营业绩仅次于2015年牛市",
-      "summary": "6大上市券商利润破百亿 券业经营业绩仅次于2015年牛市 &nbsp;&nbsp; 财新",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE54cV9RODB4NHZpUGgyZ0F6eFA5cnN6UnRMZHNYTUlpZHV3QUJpbGxsZmR0RWcxLTJaTWhuTU9Va2VGSVVoeldvTUJnSzNSTDRXVGhpR0NSZFJ0TlE4NlFJLWp3?oc=5",
+      "title": "经济学为什么总是充满争议",
+      "summary": "经济学为什么总是充满争议 财新",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sTUVWOGc3YnpNeWsxd3E3RUQ3dUZZalFpT2ZzbDJvMml3UG9jNElnWGczek9zNGtjbXg2WnVVS2JyOUJfYWhVRFozaXhxS2J2LWhTNjgyUGEtallNYzlBU2tB?oc=5",
       "source": "财新网",
-      "time": "Wed, 01 Apr 2026 02:17:00 GMT"
+      "time": "Wed, 01 Apr 2026 08:02:00 GMT"
     },
     {
       "category": "财经",
-      "title": "中东冲突后金融市场定价逻辑的变化",
-      "summary": "中东冲突后金融市场定价逻辑的变化 &nbsp;&nbsp; 财新",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aY2hMaGYxRFMwX25FVDFNNUxxdXZoSHY3aGljWHlsYWd2MC1sR2VDZUh2bGUtMy11Nmk3eUx2TFhvSDJTcTQ1RjhPaFR4bWUwczRyVVN6cjg5THNYRmVxdnl3?oc=5",
+      "title": "原油加速世界“洗牌”",
+      "summary": "原油加速世界“洗牌” 财新",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4ydkE4Q2hZTjhETEI1NHAtSDY5bDJ6NjdyWC1oN0JnQUgyS0ZrNXc4Z2ZuTkJNQnA5aVgzZU9vbXJpNGRldFpBSzlyU0FNVzUzcXo3emlUVjBZQzQ0UEQ1azR3?oc=5",
       "source": "财新网",
-      "time": "Tue, 31 Mar 2026 02:20:00 GMT"
+      "time": "Wed, 01 Apr 2026 05:41:00 GMT"
     },
     {
       "category": "财经",
       "title": "香港首批合规稳定币牌照推迟落地 金管局：正全力推进",
-      "summary": "香港首批合规稳定币牌照推迟落地 金管局：正全力推进 &nbsp;&nbsp; 财新",
+      "summary": "香港首批合规稳定币牌照推迟落地 金管局：正全力推进 财新",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TZ1Zxak1lR0t6ZGhqNkc1Z0szR1ROOG03ZDN3Q25VTElURnF2dENkZWVtbzBGRmpIU0l2N0FJaGl5SklXck9JaDExWGRJRkJJOFBkSGRxRDVDYzM4bHBnLTln?oc=5",
       "source": "财新网",
       "time": "Tue, 31 Mar 2026 12:28:00 GMT"
     },
     {
       "category": "财经",
-      "title": "浙商银行2025年净利润下降14.85% 非息收入大幅下降拖累营收",
-      "summary": "浙商银行2025年净利润下降14.85% 非息收入大幅下降拖累营收 &nbsp;&nbsp; 财新",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kYjE3bTN1SjVaRUhmRlhJdGMwSHVndUV5blRQRGg4SEZrSW1NbmNXRzR4WkFkTlZfMjdjeU8tQzZYYVNhNmZTanl5Q1YyX05FcXBtTE9VU29TYzJEejZZTUJB?oc=5",
+      "title": "今日开盘：两市双双高开 沪指涨幅1.23%",
+      "summary": "今日开盘：两市双双高开 沪指涨幅1.23% 财新",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jVHdtamxPZkUtZVV1cEZ6UWZlMzA2c3U5VGtIdXBNU3RQa2ZiS0lIQkdveERsN1VnNWJjREstOHNoWkJxTlhFblA3VXF0LWRkUDE3aEkxN1RSRWRYMU1LUHNn?oc=5",
       "source": "财新网",
-      "time": "Tue, 31 Mar 2026 06:44:00 GMT"
-    },
-    {
-      "category": "财经",
-      "title": "央行：规范信贷市场经营行为 降低融资中间费用",
-      "summary": "央行：规范信贷市场经营行为 降低融资中间费用 &nbsp;&nbsp; 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZWF3OElEaGpMZzNMbjZycTBVLS1faTdjUWxSSE9zblNDb0tpWVVrM1g2WnBUQnRXc2prVThFRG5neGV1T2VSUnRON1FsTFRFTkJlaUpqMjl3UzFZQ18wcTJId3hVOG93VG1kUlNXUTZxd0JGck1kOHFXdUJmWkN2ZHBLUlA0b3JPNnRZUm5TajdPLWtIbkRfbQ?oc=5",
-      "source": "新浪财经",
-      "time": "Wed, 01 Apr 2026 00:38:19 GMT"
-    },
-    {
-      "category": "财经",
-      "title": "华泰期货：宏观情绪扰动，黑色系期货承压下跌",
-      "summary": "华泰期货：宏观情绪扰动，黑色系期货承压下跌 &nbsp;&nbsp; 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWXFDZGlvUWhrYlRCQ0Q2RTNaYnBXcGFXYTlJZkZCQ3YwcWlHcm1UVGVhQWxMbmlqQ1R1aU1zdUlkMlo0UmJxRG1BZ1NKd1N0OHBEWF9HRXp3MzFabTIyd0VhN1lKeXpJLWFfQXN3Q0ctSkpwYWVjRjBzejNINVFnZkg4WkowYU9SeDRaQUdDWXFWOV9mc0JMaTBzMjhiX09PeFJPRWtnNGRBMXM1MkQ1cHZBV2EtNWpQRG1abGpXbUNEd1RuUEJ4dThaRUtqdGtiQkhNb0FYTGFXSnlOa1hTWmlIYw?oc=5",
-      "source": "新浪财经",
       "time": "Wed, 01 Apr 2026 01:29:00 GMT"
     },
     {
       "category": "财经",
-      "title": "3月PMI重返扩张区间 经济景气水平回升",
-      "summary": "3月PMI重返扩张区间 经济景气水平回升 &nbsp;&nbsp; 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhYjBGRnlLUDBWQmVWbzRmRWRYWmpEZXBsN0g0bkF2SFdlcVlmdENjd1pxVkNTZkhKLWl3OFJCMkZlOXhteHNkdThoU2J4ZHhVaEdEMnU4SEMtUlI2M0FqckJjc0RraGVFcS13OWF4d2ktTU5ZWmdXNkRzajB1X1U?oc=5",
-      "source": "新华社",
-      "time": "Wed, 01 Apr 2026 01:10:41 GMT"
-    },
-    {
-      "category": "财经",
-      "title": "白宫表示，特朗普周三晚上将就伊朗战争向全国发表讲话",
-      "summary": "唐纳德·特朗普总统表示，他预计美国军队将在“两到三周”内撤离伊朗。",
-      "url": "https://www.cnbc.com/2026/03/31/trump-iran-war.html",
-      "source": "CNBC",
-      "time": "Wed, 01 Apr 2026 00:12:49 GMT"
-    },
-    {
-      "category": "财经",
-      "title": "特朗普暗示在能源中断的情况下退出伊朗战争，油价在创纪录的月度上涨后扩大涨幅",
-      "summary": "由于交易员权衡波斯湾袭击升级以及唐纳德·特朗普总统正在考虑退出伊朗冲突的迹象，原油价格扩大涨幅。",
-      "url": "https://www.cnbc.com/2026/04/01/oil-prices-today-brent-wti.html",
-      "source": "CNBC",
-      "time": "Wed, 01 Apr 2026 02:38:10 GMT"
-    },
-    {
-      "category": "财经",
-      "title": "特朗普称伊朗战争可能在几周内结束，韩国综合股价指数引领亚洲市场反弹",
-      "summary": "周二，特朗普在美国国内表示，美国可能会在“两到三周”内离开伊朗，并补充说“我们离开是因为我们没有理由这样做”。",
-      "url": "https://www.cnbc.com/2026/04/01/asia-markets-live-today-nikkei-kospi-boj-tankan-iran-war.html",
-      "source": "CNBC",
-      "time": "Wed, 01 Apr 2026 02:52:01 GMT"
-    },
-    {
-      "category": "财经",
-      "title": "特朗普在 2026 年美国大选前签署限制邮寄投票的行政命令",
-      "summary": "特朗普向国会施压，要求其通过《拯救美国法案》，该法案要求提供带照片的身份证明和美国公民身份证明才能投票。",
-      "url": "https://www.cnbc.com/2026/03/31/trump-mail-in-voting-executive-order.html",
-      "source": "CNBC",
-      "time": "Wed, 01 Apr 2026 00:42:07 GMT"
-    },
-    {
-      "category": "财经",
-      "title": "泰格·伍兹表示，他在佛罗里达州酒驾翻车事故后正在寻求治疗",
-      "summary": "唐纳德·特朗普总统的前儿媳瓦妮莎·特朗普正在与伍兹约会，他告诉《纽约邮报》，伍兹“过着痛苦的生活”。",
-      "url": "https://www.cnbc.com/2026/03/31/tiger-woods-opioids-dui-arrest-affidavit.html",
-      "source": "CNBC",
-      "time": "Wed, 01 Apr 2026 00:33:20 GMT"
+      "title": "加大逆周期和跨周期调节力度",
+      "summary": "加大逆周期和跨周期调节力度 人民日报",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZFYtV2FLUnBGREZaVjhaNEhBX3dmSmVBSWIwcjFEMVh6WFVva3JDSG9DQ0ZNU1d5SDJZWDBPTkR3SVZCRUl4eTlHeWxNWi16RjNxMTJnSUVNVGk1NEtrc3l2WlZjaGJoYnFBY08wMWpZbnVyYjUyM2pQRk5TdFpTaHkwQQ?oc=5",
+      "source": "人民日报",
+      "time": "Wed, 01 Apr 2026 14:43:14 GMT"
     },
     {
       "category": "财经",
       "title": "南方财经全媒体集团",
-      "summary": "南方财经全媒体集团 &nbsp;&nbsp; 南方财经",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VNGtYZzJFWUNaZDRRVUQ4bWVGQjBUb2FORVpoUVRDV0gxVnV3eWZ5eHRPVXVCaEg5YUkyOVd0Vk9FVjJWTkQxQk5oa0E0Y3MxMURmdUtCMy1hRzZWSl91Y3Fsd29kUQ?oc=5",
+      "summary": "南方财经全媒体集团 南方财经",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4WW1HRHNrU29SQkxHLUUwRkJsU3ZEYVJUVnN0Z0s2ZjVVNnYyOWtIRDh1NTJ4MDF3WVVnWFA5aEtCMGcycl9oU0YwOTBxRmZ0S091dUpfM20zNWhla2tUQnl5SW8?oc=5",
       "source": "南方财经",
-      "time": "Tue, 31 Mar 2026 12:52:35 GMT"
+      "time": "Wed, 01 Apr 2026 23:08:38 GMT"
     },
     {
       "category": "财经",
-      "title": "【新华解读】3月PMI重回扩张区间 多因素支撑经济景气水平回升",
-      "summary": "【新华解读】3月PMI重回扩张区间 多因素支撑经济景气水平回升 &nbsp;&nbsp; 中国金融信息网",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02VE03V1J2MVV5ZVNuYmtPVG85Qkl0NHliLTNOQTVWOTRvM2wyWDVncU1NLUlTVHZIUmJ5WWpreE9kWEZ1Ymo5T1BPR0tMbTd1U2M2QnhzenRfZkx5YVdQTU9scFk0TEE?oc=5",
-      "source": "中国金融信息网",
-      "time": "Tue, 31 Mar 2026 11:29:00 GMT"
+      "title": "宏观暖风下铜价大涨，基本面“高库存、弱需求”成反弹绊脚石",
+      "summary": "宏观暖风下铜价大涨，基本面“高库存、弱需求”成反弹绊脚石 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcmJXUHZFTmVoS1dkZExEV0ptMWlpcFMzZEpnV0ZyRTM4cklsMm1HRy02YzJUTkZ6RlNoNmNzcGktYmd5eGx6WUIxVXkwTVNVam4wQnprZVRfX0s5RElDbXhIV0ZOTWNia0pLQXNYMms3a2pUUmVvc0VjWG0waFhFZm1iM1gyN29hWmxnMHBFQThBOTZPc2RxUjBBbTNnVXhGR0ZkX2w4STR2Y2lZNUk2NHQycFh5cktwaVp5R3c4SmF0MGcxQ2h5WmdaaWJ1ZEkwcUljZXE5bV9JU2J4ZkJSVg?oc=5",
+      "source": "新浪财经",
+      "time": "Wed, 01 Apr 2026 08:52:00 GMT"
+    },
+    {
+      "category": "财经",
+      "title": "美国银行苏进：AI驱动亚洲增长，全球投资者聚焦中国新兴行业",
+      "summary": "美国银行苏进：AI驱动亚洲增长，全球投资者聚焦中国新兴行业 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QUUw0VXZVUUFCT2F2bXpWTDRicGF5NlZ5YjZiOHJMTk5NTTBtNkVpS3RwVlFTeHZhNkFJRGtDUXNXS3JIazU5UmFzNHBEdjdONXQ5ODJhOW9ZazZPRUNNZVV1cFpkdlA1T1NWdkhJVG5rakFTb3UtWg?oc=5",
+      "source": "新浪财经",
+      "time": "Wed, 01 Apr 2026 06:17:00 GMT"
+    },
+    {
+      "category": "财经",
+      "title": "【长江宏观于博团队· 深度】中东石油史：历史上的油价、经济与市场——秩序重构下的新旧资产系列4",
+      "summary": "【长江宏观于博团队· 深度】中东石油史：历史上的油价、经济与市场——秩序重构下的新旧资产系列4 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WcXU3eU5hOUxXUU1tcVhTN3BFWHhJaDhHMExnMGRnSlUyVm03RlZyQVNsdVFqYVpTQnpzLVNDTmh4Q0ZoclFaTDlPcS1XS0M5ZXJkTWNaVTRBQ3NibGVUZW0zNWRiZ1pnWll2YzMzbDNOcVVEbmc?oc=5",
+      "source": "新浪财经",
+      "time": "Wed, 01 Apr 2026 15:22:00 GMT"
+    },
+    {
+      "category": "财经",
+      "title": "【环球财经】欧元区2月失业率为6.2% 劳动力市场总体平稳",
+      "summary": "【环球财经】欧元区2月失业率为6.2% 劳动力市场总体平稳 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vLVJNbmV2WjMtbk1XSGxWVVRSamUyQ0VwdklSR0VzZ1RBd0w4ZWpQdml2dUJjLXBIcnQ2b2p2OGhjSzdkWnloTmZZMXZzWjdidHpiNkFnQktseGQ3SG4xNk1MYkxMRzBjSUhOSFpfM1BWYkFMSjBvSQ?oc=5",
+      "source": "新浪财经",
+      "time": "Wed, 01 Apr 2026 10:46:00 GMT"
     },
     {
       "category": "体育",
-      "title": "老虎离开高尔夫寻求治疗",
-      "summary": "泰格·伍兹在佛罗里达州被捕四天后发表声明，周二表示，他“致力于花时间回到一个更健康、更强大、更专注的地方，无论是个人还是职业。”",
-      "url": "https://www.espn.com/golf/story/_/id/48361336/tiger-woods-stepping-away-golf-seek-treatment",
+      "title": "法官规定伍兹可以离开美国接受治疗",
+      "summary": "周三，佛罗里达州一名法官批准了泰格·伍兹的请求，允许他出国旅行并进入综合住院治疗机构。",
+      "url": "https://www.espn.com/golf/story/_/id/48371629/judge-grants-tiger-woods-permission-leave-us-treatment",
       "source": "ESPN",
-      "time": "Tue, 31 Mar 2026 21:18:53 EST"
+      "time": "Wed, 1 Apr 2026 20:01:22 EST"
     },
     {
       "category": "体育",
-      "title": "葡萄牙在普利西奇进球荒中超越美国",
-      "summary": "美国队周二连续第二场比赛失利，在亚特兰大梅赛德斯奔驰体育场举行的一场友谊赛中输给了葡萄牙队，结束了三月份的国际比赛。",
-      "url": "https://www.espn.com/soccer/report/_/gameId/762259",
+      "title": "堪萨斯队主教练塞尔夫将于 2026-27 赛季回归",
+      "summary": "堪萨斯男篮教练比尔·塞尔夫将于 2026-27 赛季回归，他在周三的一份声明中表示，他仍然“专注并致力于堪萨斯”并“争夺全国冠军”。",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/48372657/bill-self-return-kansas-jayhawks-men-basketball-coach",
       "source": "ESPN",
-      "time": "Tue, 31 Mar 2026 21:18:53 EST"
+      "time": "Wed, 1 Apr 2026 20:01:22 EST"
     },
     {
       "category": "体育",
-      "title": "古德尔在诉讼威胁中支持鲁尼规则",
-      "summary": "NFL 专员罗杰·古德尔表示，他最近受到佛罗里达州总检察长威胁，如果不取消鲁尼规则，可能会提起民事诉讼，他认为鲁尼规则“符合”招聘法。",
-      "url": "https://www.espn.com/nfl/story/_/id/48362846/goodell-backs-rooney-rule-says-diversity-benefit-nfl",
+      "title": "QB 门多萨在印第安纳州职业日上亮相",
+      "summary": "周三，预计状元秀费尔南多·门多萨在所有 32 支 NFL 球队的球探和 100 多名媒体成员面前传出大约 56 次传球。",
+      "url": "https://www.espn.com/nfl/story/_/id/48372927/expected-no-1-fernando-mendoza-puts-show-indiana-pro-day",
       "source": "ESPN",
-      "time": "Tue, 31 Mar 2026 21:18:53 EST"
+      "time": "Wed, 1 Apr 2026 20:01:22 EST"
     },
     {
       "category": "体育",
-      "title": "意大利因点球大战连续第三次无缘世界杯",
-      "summary": "周二在泽尼察举行的点球大战中，意大利队输给了波斯尼亚和黑塞哥维那，从而连续第三次无缘世界杯。",
-      "url": "https://www.espn.com/soccer/story/_/id/48359181/italy-miss-3rd-straight-world-cup-loss-bosnia",
+      "title": "密歇根大学的卡多因可能出现过敏反应而接受治疗",
+      "summary": "密歇根州控球后卫埃利奥特·卡多因可能的过敏反应正在接受治疗，并将于周三晚些时候在印第安纳波利斯与狼獾队会面。",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/48371635/michigan-says-elliot-cadeau-receiving-medical-treatment",
       "source": "ESPN",
-      "time": "Tue, 31 Mar 2026 21:18:54 EST"
+      "time": "Wed, 1 Apr 2026 20:01:22 EST"
     },
     {
       "category": "体育",
-      "title": "NFL 老板同意两项重大重播更改",
-      "summary": "NFL owners approved a contingency plan Tuesday to centralize officiating in the event of a work stoppage as negotiations continue on a CBA with the NFL Referees Association.",
-      "url": "https://www.espn.com/nfl/story/_/id/48358865/plan-assist-replacement-refs-five-approved-nfl-rules",
+      "title": "NCAA提议禁止留在选秀中的球员",
+      "summary": "NCAA第一级内阁将考虑对资格规则进行拟议的修改，其中包括禁止已经进入并留在职业体育选秀中的运动员参加大学比赛。",
+      "url": "https://www.espn.com/espn/story/_/id/48372762/ncaa-proposes-barring-players-opt-remain-draft",
       "source": "ESPN",
-      "time": "Tue, 31 Mar 2026 21:18:54 EST"
+      "time": "Wed, 1 Apr 2026 20:01:22 EST"
     },
     {
       "category": "体育",
-      "title": "赫尔利：我以为裁判想要“撞胸”",
-      "summary": "康涅狄格大学主教练丹·赫尔利（Dan Hurley）淡化了周日 NCAA 锦标赛战胜杜克大学后与裁判的奇怪互动，称他认为裁判想要“拍拍我的胸部来庆祝”。",
-      "url": "https://www.espn.com/mens-college-basketball/story/_/id/48359957/dan-hurley-thought-ncaa-tournament-ref-was-looking-chest-bump",
+      "title": "熊队的球场选择“春末夏初”",
+      "summary": "芝加哥熊队总裁兼首席执行官凯文·沃伦表示，球队的目标是“春末夏初”，以决定球队新体育场的建设地点。",
+      "url": "https://www.espn.com/nfl/story/_/id/48371358/bears-ceo-stadium-decision-likely-late-spring-early-summer",
       "source": "ESPN",
-      "time": "Tue, 31 Mar 2026 21:18:54 EST"
+      "time": "Wed, 1 Apr 2026 20:01:22 EST"
     },
     {
       "category": "体育",
-      "title": "波黑点球大战获胜，意大利再次无缘世界杯",
-      "summary": "这个故事将讲述意大利的另一场灾难，对于一个已经赢得四届男足世界杯但在连续第三次错失世界杯后开始相信可能永远不会再有的国家来说，这又是一个臭名昭著的时刻。北马其顿队在 2022 年突如其来，五年前两回合惨败于瑞典队，之后他们在 2026 年找到了一条新的出路——在附加赛决赛对阵波斯尼亚和黑塞哥维那的比赛中点球被淘汰。继续阅读...",
-      "url": "https://www.theguardian.com/football/2026/mar/31/bosnia-herzegovina-italy-world-cup-2026-qualifying-playoff-match-report",
+      "title": "《卫报》实力排名：法国领先，塞内加尔和日本进入前十",
+      "summary": "从阿尔及利亚到乌兹别克斯坦，我们来自世界各地的作家和撰稿人评估了 48 个世界杯参赛国家的状况，本周法国队以 2-1 击败巴西队，尽管达约特·乌帕梅卡诺在 55 分钟后被红牌罚下，基利安·姆巴佩还是不祥地说道：“这里的人才和潜力比 2022 年还要多。”他很可能是对的。在本窗口的第二场比赛中，对阵哥伦比亚，迪迪埃·德尚更换了整个首发阵容，但仍然能够对马库斯·图拉姆、德西雷·杜埃、拉扬·切尔基和马格尼斯·阿克利乌什进行进攻。杜埃梅开二度，以 3-1 轻松获胜。 “我很清楚，我不会引进一些非常优秀的球员，因为在我看来，还有更好的球员，”德尚说。马库斯·克里斯滕森 继续阅读...",
+      "url": "https://www.theguardian.com/football/2026/apr/01/guardian-power-rankings-france-senegal-japan-top-10-world-cup-2026",
       "source": "The Guardian",
-      "time": "Tue, 31 Mar 2026 21:56:38 GMT"
+      "time": "Wed, 01 Apr 2026 20:30:07 GMT"
     },
     {
       "category": "体育",
-      "title": "日本击败英格兰让图赫尔头疼世界杯 米托玛猛扑",
-      "summary": "这不是托马斯·图切尔想在今年夏天的世界杯上解决的问题，而是他在英格兰在温布利的盛大告别赛中表现出色的问题。如果没有哈里·凯恩，球队能否在强大的对手中茁壮成长？答案在越来越令人沮丧的 90 分钟内揭晓。答案是否定的。这不仅仅是凯恩的问题，他因脚痛错过了比赛。但人们很容易将英格兰队缺乏尖端技术与他的缺席混为一谈。图赫尔周一强调了他的其他进攻球员的糟糕进球回报。他们需要为聚会带来更多。只有直率。继续阅读...",
-      "url": "https://www.theguardian.com/football/2026/mar/31/england-japan-international-friendly-match-report",
+      "title": "托马斯·图赫尔谈在英格兰训练营遭遇糟糕的情况后什么也没有隐藏",
+      "summary": "主教练精心策划的计划落空了，他可能成为世界杯领军人物的温布利友谊赛中全部缺席。“我们试图在三天内组建一支足球队，对阵乌拉圭，”托马斯·图赫尔在句末忍不住笑了起来。英格兰主教练想补充一句，这很荒谬，尽管他没有说出口。但当他回顾过去的国际训练营时，怀疑是主题，当时精心设计的计划失败了，他开始感到自己被无法控制的情况所困。这就是图赫尔想要的框架方式，也是他在出现问题时倾向于框架的方式。上周五在温布利球场 1-1 战平乌拉圭队以及周二同样在国家体育场 1-0 负于日本队的比赛中，正是发生了这样的情况。它比替代阅读更好继续阅读...",
+      "url": "https://www.theguardian.com/football/2026/apr/01/thomas-tuchel-england-uruguay-japan-world-cup-2026",
       "source": "The Guardian",
-      "time": "Tue, 31 Mar 2026 21:02:24 GMT"
+      "time": "Wed, 01 Apr 2026 18:00:04 GMT"
+    },
+    {
+      "category": "国内国际民生",
+      "title": "重点关注 | 国务院3月重要政策",
+      "summary": "重点关注 | 国务院3月重要政策 金股讯",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ycjdIeDRrV3pvUV9DRHUxaXdBTHNJaTMtNXROeFlJY0FVOF9KSVB6LWt4bm5lTFlqazFlWWZwQVo3VzlkUU4xMmp6TXlKeXp6ekE?oc=5",
+      "source": "金股讯",
+      "time": "Wed, 01 Apr 2026 09:07:11 GMT"
     },
     {
       "category": "国内国际民生",
       "title": "央行货币政策委员会一季度例会新提“降低融资中间费用” 专家：后续类似于服务费、渠道费等或优先压降",
-      "summary": "央行货币政策委员会一季度例会新提“降低融资中间费用” 专家：后续类似于服务费、渠道费等或优先压降 &nbsp;&nbsp; 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUlgwQ2M5bEZGSTF1VWdBQ29HRHlYUGxuUldjblh6cnhTRHpoa3M1NFBickpjdFZ4RUNYZHNGa1JtdVJOMjBGMVgwaDRIeV9PZWVfSTBMS19vbjJ1QTdpNEdqWU5yZ2w2MUNJd0VmUjl4LUVxQXFmYmdlWVpkYURsUG9WRHRKVUpaaHdkN1VnTUlhYkdDYXdKdA?oc=5",
-      "source": "新浪财经",
-      "time": "Wed, 01 Apr 2026 01:36:46 GMT"
+      "summary": "央行货币政策委员会一季度例会新提“降低融资中间费用” 专家：后续类似于服务费、渠道费等或优先压降 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBWFVmRnI1Tlg3RTJlVWk5TTNDNVBRdkFlcld4MnRIaXZEbEoyYzlnR2ZUeFhSMDdtRDdYZFVEX2VoMVA3Q0ZRc3RKZkNCVEJGYTA5blByaVZRa2VOZ0dZV2w2WFdSSEVMNFJJTXBfWXJBLVVqS0J5dA?oc=5",
+      "source": "新浪网",
+      "time": "Wed, 01 Apr 2026 06:00:00 GMT"
     },
     {
       "category": "国内国际民生",
-      "title": "4月7日起兰州住房公积金提取政策优化调整",
-      "summary": "4月7日起兰州住房公积金提取政策优化调整 &nbsp;&nbsp; 人民网",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03VFYwdFQtdFdUY0pnbkVJMTlxREloRGZFMV93dDAteUtxa1NRTGJFYW9sX19EbHFSOVBDZzdLMFVCajZEcEFhekhtYUZpblVpNktKSkZjV2ZHWHJvRUxVMkloWHlyc1pVYlE?oc=5",
-      "source": "人民日报",
-      "time": "Wed, 01 Apr 2026 01:22:00 GMT"
+      "title": "逆回购创逾十年最小规模，央行锚定加强货币政策调控",
+      "summary": "逆回购创逾十年最小规模，央行锚定加强货币政策调控 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVUFRVXVkQkFTV0J5Q2RSYkhwVWNCNTkwMUM4ZmJqMm9yQ083UEpOZFZsS0RoTFY0Vk1kaDdNd2xMR1ptWE51T1Z1aVg2NEpnV1FrRm9HTWJjdUVLczM0OXNTYmdfZFFHMjlYYUtLMUFtREx0T0lHanlKamE5c1NZVnVtT2h3REhNRGRTLVB0M1RJcnJRNzNDUQ?oc=5",
+      "source": "新浪网",
+      "time": "Wed, 01 Apr 2026 14:44:33 GMT"
     },
     {
       "category": "国内国际民生",
-      "title": "央行重磅会议！事关下阶段货币政策思路",
-      "summary": "央行重磅会议！事关下阶段货币政策思路 &nbsp;&nbsp; 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4S2R4SHNvbm5BM0V4V2k5dnBOamd4dGNlMHFQeS1RY0YtbmlhbmI0VmhGRG04UEVMQWNlV1NNd1laREVxSGU0LWRTMEROdlRlX3RCQmhzcGNNTWQtZmF3LTlsa3QxTEl2ZVMyN2loWi1LRUNzUGc?oc=5",
-      "source": "新浪财经",
-      "time": "Tue, 31 Mar 2026 09:58:00 GMT"
-    },
-    {
-      "category": "国内国际民生",
-      "title": "美联储缩表预期升温叠加2026年降息路径展望，市场重新定价政策周期与流动性环境",
-      "summary": "美联储缩表预期升温叠加2026年降息路径展望，市场重新定价政策周期与流动性环境 &nbsp;&nbsp; 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNekVuZF9lbnp1LXExXzQycjJpbmgybGxyVTVGbjBvbllfNUlJM3ROa0FocjdMcHA3N2tfaHN0anR6SHh3RHYwRndzdlRYX2x0Q1liSlZkcXdLLVozYW5RVDBlclI0aEgyUHJ4bDBqQjdUSkZzVFR6cnpGRjVQUWJadnlMdlM2dFgxTFhUZml4dzV0NkRmcU43S24tbWhSUDR4WFBvcVlhMHJFWEw3Rkp5SWQzSnBmY2FOS09YM1ZZRHJSZWxwc3hGb0FpVDk0Rnh6b2hQdlhOM1dKZ2JMb3Fieg?oc=5",
-      "source": "新浪财经",
-      "time": "Tue, 31 Mar 2026 07:18:00 GMT"
+      "title": "中华人民共和国教育部政府门户网站",
+      "summary": "中华人民共和国教育部政府门户网站 moe.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9NdHNnaU9ZbXNpMGdZU2ZwM2hxalhnLVlqYl8wRzF4QmFNN2RaZkYwbi1yWW1LMm5vX1E?oc=5",
+      "source": "moe.gov.cn",
+      "time": "Wed, 01 Apr 2026 22:44:25 GMT"
     },
     {
       "category": "国内国际民生",
       "title": "民生政策 落地有声丨沉浸式体验“家门口养老”的一天",
-      "summary": "民生政策 落地有声丨沉浸式体验“家门口养老”的一天 &nbsp;&nbsp; 新华网",
+      "summary": "民生政策 落地有声丨沉浸式体验“家门口养老”的一天 新华网",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wTUZOUmM2M2d6Q2tJaHNSUzRYdTFJakZsTURzYTBnTWlKUC1SMEUySlFjR2RqbXJQYnQ4cFN2ZGh3cHkzR3ZTQzdVX2FmOTFkNEQ3ZkVxZUl2enZ3YTdWeGMxeGhoQzZBZ2NsSkZtTWxwNUZ2elhDVUdoamZNQQ?oc=5",
       "source": "新华社",
       "time": "Tue, 31 Mar 2026 13:04:50 GMT"
     },
     {
       "category": "国内国际民生",
+      "title": "4月7日起兰州住房公积金提取政策优化调整",
+      "summary": "4月7日起兰州住房公积金提取政策优化调整 人民网",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03VFYwdFQtdFdUY0pnbkVJMTlxREloRGZFMV93dDAteUtxa1NRTGJFYW9sX19EbHFSOVBDZzdLMFVCajZEcEFhekhtYUZpblVpNktKSkZjV2ZHWHJvRUxVMkloWHlyc1pVYlE?oc=5",
+      "source": "人民日报",
+      "time": "Wed, 01 Apr 2026 01:22:00 GMT"
+    },
+    {
+      "category": "国内国际民生",
+      "title": "果洛州民族团结进步创建工作综述——在全域创建、文化引领、跨区交融、民生赋能上持续发力",
+      "summary": "果洛州民族团结进步创建工作综述——在全域创建、文化引领、跨区交融、民生赋能上持续发力 qh.chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Wa290TUNDWEh6UHA3Q2xjRnF0MXJzMHVtVkhJUzR1Skk5VktrQUVIeDNFajhyZVFaTk10RGZFaXYwU0hGSVBhWWVjTVNLNWNKOHhtWThkMTR0eWdpVkhhN2R2ZV9JTC1hVDdfdmRvWVU?oc=5",
+      "source": "chinanews.com.cn",
+      "time": "Wed, 01 Apr 2026 10:27:00 GMT"
+    },
+    {
+      "category": "国内国际民生",
+      "title": "国台办：两岸融合发展示范区建设取得阶段性进展",
+      "summary": "国台办：两岸融合发展示范区建设取得阶段性进展 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xYjVJMHRRMjhmV3lNVVhZTWszdE9aeVlEWTc5VUdzdzVKVXQ4R0lXck5kU2ZXV1BHZ29OaGE3NGFJNVZ0dlJXUlViSVRIZDZGNy1YQmdkRjUyMTY0R25seG43aklRS1YyaHhzSDc4Z2RHTTgzZ0taWXJ5UFBzUQ?oc=5",
+      "source": "新华社",
+      "time": "Wed, 01 Apr 2026 08:14:21 GMT"
+    },
+    {
+      "category": "国内国际民生",
+      "title": "详情页",
+      "summary": "详情页 data.people.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdlczQ3Fxek12VmJwdUd0aE9vNFIxdXlvY3liTUhEZ0drZVoyV3RFM2RHam9Femxsbnp3a2FfNkhmeG5XZThBUG0yaEljUDBmODIySW03UEJNbG52N0FFSE1wa2FkWmtQVVI3UkhydTNMejZsRmNwellOMVUxMWRZVA?oc=5",
+      "source": "人民日报",
+      "time": "Wed, 01 Apr 2026 07:20:54 GMT"
+    },
+    {
+      "category": "国内国际民生",
+      "title": "央行一季度货币政策会议释放出的新信号",
+      "summary": "央行一季度货币政策会议释放出的新信号 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZnEwMW5QWS1OVk40Z0hqREdVM3FPdkxPRVliTXZPdXZjWHRmN0IxRlliZW8zWHctdThOTTN5MXR5T2t1cWdxamhycWxqcHNrUlg4Qi05THpRQTNUb1hQZDFLQlJWOWFNa0lCOVNUOFczRTZjeHU5NWEzUHR3aTJVVFNlaw?oc=5",
+      "source": "新浪网",
+      "time": "Wed, 01 Apr 2026 00:39:20 GMT"
+    },
+    {
+      "category": "国内国际民生",
+      "title": "北京市科学技术委员会、中关村科技园区管理委员会关于征集中关村国家自主创新示范区提升国际化发展水平项目部分政策支持方向的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会",
+      "summary": "北京市科学技术委员会、中关村科技园区管理委员会关于征集中关村国家自主创新示范区提升国际化发展水平项目部分政策支持方向的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会 北京市科学技术委员会",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SZ1JERl9iZ21IY09sUjZyOVE2YUhiSHBkM0libEZxX3VSVzYzN3NVTmEyWElrRHd6QWdlRVRKemp5SVltTEhtUTlUUDFxOC1UaWJ5Qk1wdFRUZzh5dVNDZTNzckl3NElISTRTa0pxNHdEWjQ?oc=5",
+      "source": "北京市科学技术委员会",
+      "time": "Wed, 01 Apr 2026 01:27:00 GMT"
+    },
+    {
+      "category": "国内国际民生",
       "title": "提额扩面 多地优化公积金政策",
-      "summary": "提额扩面 多地优化公积金政策 &nbsp;&nbsp; 新华网",
+      "summary": "提额扩面 多地优化公积金政策 新华网",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRTNtTTVRQ3ltQXRoU3E0OXkydDJLR25EUjVlVFh2RlUwc1E4WkpkblpoZWNKaFY0cTRVQnAtYTByd0VHVFNpMFNBMnV4T1JtZnVTNTFBSXVybVdPZmxOd0ZOU29xZXlHT25vNlRsZzNXYTBDcTU4Mkd4TTlrQkNWUGNRWUk2MUNH?oc=5",
       "source": "新华社",
       "time": "Tue, 31 Mar 2026 02:11:49 GMT"
-    },
-    {
-      "category": "国内国际民生",
-      "title": "阿拉善盟：深耕民生实事 擦亮幸福底色",
-      "summary": "阿拉善盟：深耕民生实事 擦亮幸福底色 &nbsp;&nbsp; 人民网",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96Ql9keFVBUEFDbEF3V0gxZzRLY01FamFONTFWZTlubmhBM2JfeHF5ZktrcnV4S2RxSDJ2MDJhOEJpem5pLWpnZXRBcUtCdFBsVU12NkhGU3p0a1hZbFpWTzhlR2xWYUVyVWc?oc=5",
-      "source": "人民日报",
-      "time": "Wed, 01 Apr 2026 00:53:00 GMT"
-    },
-    {
-      "category": "国内国际民生",
-      "title": "北京市规划和自然资源委员会北京市住房和城乡建设委员会北京市国防动员办公室关于印发《北京市房屋建筑工程施工图事后检查要点（2026年3月局部修订版）》的通知_其他文件",
-      "summary": "北京市规划和自然资源委员会北京市住房和城乡建设委员会北京市国防动员办公室关于印发《北京市房屋建筑工程施工图事后检查要点（2026年3月局部修订版）》的通知_其他文件 &nbsp;&nbsp; 北京市规划和自然资源委员会",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTlJWZGhzRmh3WG5ja2t3dHhnNXBMQ1R1bHp0Mi0xOXNaZkJnUFF4ZTFXVzFGZHgtQ2tPMTlSUTVjY0JZQVdGQlhQMkQwb1RqeGxPQjJrYnQzdGd4Z2JlR3JELTBDUVU5OG1CbGFNbnpUMWNRMUt2dThyRlNIeGV2T0JRb3dRSWw5czFJ?oc=5",
-      "source": "北京市规划和自然资源委员会",
-      "time": "Tue, 31 Mar 2026 04:32:45 GMT"
-    },
-    {
-      "category": "国内国际民生",
-      "title": "北京市司法局召开2025年行政复议和行政应诉工作白皮书暨北京市“复议护企”十大典型案例新闻发布会",
-      "summary": "北京市司法局召开2025年行政复议和行政应诉工作白皮书暨北京市“复议护企”十大典型案例新闻发布会 &nbsp;&nbsp; 北京司法局",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sWG14UHZkejlvX2l5dmhyTXh1LTZ5WFpWTFFHX1hKakhtTXIyZV82azNfT0lDc0FHS0ZIdGluaGZpU2V5aUMzakRZOWFyVzRZNFNRc1Z5N3BhbTlrOGV0YjFTOFBCaDhUaTdUZV9NS00yWHc?oc=5",
-      "source": "北京司法局",
-      "time": "Tue, 31 Mar 2026 09:56:30 GMT"
-    },
-    {
-      "category": "国内国际民生",
-      "title": "【理响中国】坚持“投资于人”与“投资于物”的辩证统一",
-      "summary": "【理响中国】坚持“投资于人”与“投资于物”的辩证统一 &nbsp;&nbsp; chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KaXlPcFd0OTBhSFNBRWNmLWoyY0t6c2VOMk12SkFvQWswdC1ZQ0dNQm4wN2xhS1BROTg3bFZhQ3d3dUtnbkxtUEE4VEpQbVNva25IT2s5cWtjVUNqVzJkYnFRMVByZG13?oc=5",
-      "source": "chinanews.com.cn",
-      "time": "Tue, 31 Mar 2026 09:12:37 GMT"
-    },
-    {
-      "category": "国内国际民生",
-      "title": "习近平总书记关切事丨“长护险”守护夕阳红",
-      "summary": "习近平总书记关切事丨“长护险”守护夕阳红 &nbsp;&nbsp; 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5DSWJCb3RLdWZJby04LXBtQzBkeEEtaUVXMnZISDVtdlFMSzB2VDVESFg4UUYwQktvbTVZaEtwSE1PZ256OGY5ZUowTDRVSnVjS1RBWFJCWWtUV3J2bF9pYzFXQWlPQnNyTlI0QnZfbVpRVXc0SGdkLTdadlZ5dw?oc=5",
-      "source": "新华社",
-      "time": "Tue, 31 Mar 2026 12:09:29 GMT"
-    },
-    {
-      "category": "国内国际民生",
-      "title": "宁夏审计聚焦“一老一小”守好民生底线",
-      "summary": "宁夏审计聚焦“一老一小”守好民生底线 &nbsp;&nbsp; 人民网",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZYVJDOUZ5UHVoVDBNbk1ERFJuU3dIU1RVQnE0VldhQ3BiWDlvSHZxRHJrYWVPNmpyb1I4NWgxaE9KakRSaDd3VlZSMkNwM2JLdkhydG4tcHhxeTVCS2N5YzA1YmRkRXB1Qmc?oc=5",
-      "source": "人民日报",
-      "time": "Tue, 31 Mar 2026 01:12:00 GMT"
     },
     {
       "category": "国内国际民生",
@@ -419,113 +419,113 @@
   "hackernews": [
     {
       "rank": 1,
-      "title": "我们拦截了白宫应用程序的流量。 77% 的请求发送给第三方",
-      "url": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/",
-      "score": 41,
-      "by": "donutpepperoni",
-      "time": "2026-04-01T09:58:45+08:00",
-      "descendants": 11,
-      "hnLink": "https://news.ycombinator.com/item?id=47595865"
+      "title": "DRAM 定价正在扼杀爱好者 SBC 市场",
+      "url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
+      "score": 226,
+      "by": "ingve",
+      "time": "2026-04-02T05:36:41+08:00",
+      "descendants": 156,
+      "hnLink": "https://news.ycombinator.com/item?id=47606840"
     },
     {
       "rank": 2,
-      "title": "克劳德代码源泄漏：假工具、挫败正则表达式、卧底模式",
-      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-      "score": 869,
-      "by": "alex000kim",
-      "time": "2026-03-31T21:04:30+08:00",
-      "descendants": 350,
-      "hnLink": "https://news.ycombinator.com/item?id=47586778"
+      "title": "ocamlc 的新 C++ 后端",
+      "url": "https://github.com/ocaml/ocaml/pull/14701",
+      "score": 25,
+      "by": "glittershark",
+      "time": "2026-04-02T07:35:02+08:00",
+      "descendants": 2,
+      "hnLink": "https://news.ycombinator.com/item?id=47608058"
     },
     {
       "rank": 3,
-      "title": "TinyLoRA – 学习 13 个参数的推理",
-      "url": "https://arxiv.org/abs/2602.04118",
-      "score": 83,
-      "by": "sorenjan",
-      "time": "2026-03-27T20:11:12+08:00",
-      "descendants": 8,
-      "hnLink": "https://news.ycombinator.com/item?id=47541733"
+      "title": "阿耳忒弥斯二号升空：四名宇航员开始为期 10 天的月球任务",
+      "url": "https://www.theguardian.com/science/live/2026/apr/01/artemis-ii-launch-nasa-orion-moon-trip-live-updates",
+      "score": 262,
+      "by": "Philpax",
+      "time": "2026-04-02T06:38:25+08:00",
+      "descendants": 156,
+      "hnLink": "https://news.ycombinator.com/item?id=47607447"
     },
     {
       "rank": 4,
-      "title": "松露红宝石",
-      "url": "https://chrisseaton.com/truffleruby/",
-      "score": 43,
-      "by": "tosh",
-      "time": "2026-03-29T02:39:39+08:00",
-      "descendants": 3,
-      "hnLink": "https://news.ycombinator.com/item?id=47557171"
+      "title": "EmDash – WordPress 的精神继承者，解决插件安全问题",
+      "url": "https://blog.cloudflare.com/emdash-wordpress/",
+      "score": 435,
+      "by": "elithrar",
+      "time": "2026-04-02T00:14:38+08:00",
+      "descendants": 312,
+      "hnLink": "https://news.ycombinator.com/item?id=47602832"
     },
     {
       "rank": 5,
-      "title": "每天一点，远离混乱",
-      "url": "https://scottlawsonbc.com/post/dot-system",
-      "score": 170,
-      "by": "scottlawson",
-      "time": "2026-04-01T05:15:01+08:00",
-      "descendants": 58,
-      "hnLink": "https://news.ycombinator.com/item?id=47593556"
+      "title": "以错误的方式签署数据结构",
+      "url": "https://blog.foks.pub/posts/domain-separation-in-idl/",
+      "score": 66,
+      "by": "malgorithms",
+      "time": "2026-04-02T03:52:00+08:00",
+      "descendants": 37,
+      "hnLink": "https://news.ycombinator.com/item?id=47605677"
     },
     {
       "rank": 6,
-      "title": "Ministack（LocalStack 的替代品）",
-      "url": "https://ministack.org/",
-      "score": 151,
-      "by": "kerblang",
-      "time": "2026-04-01T04:48:15+08:00",
-      "descendants": 29,
-      "hnLink": "https://news.ycombinator.com/item?id=47593285"
+      "title": "快速华丽的侵蚀滤镜",
+      "url": "https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html",
+      "score": 34,
+      "by": "runevision",
+      "time": "2026-03-31T16:41:24+08:00",
+      "descendants": 6,
+      "hnLink": "https://news.ycombinator.com/item?id=47584386"
     },
     {
       "rank": 7,
-      "title": "为了“国家安全”，美国免除石油工业保护海湾动物的责任",
-      "url": "https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security",
-      "score": 114,
-      "by": "Jimmc414",
-      "time": "2026-04-01T09:18:51+08:00",
-      "descendants": 43,
-      "hnLink": "https://news.ycombinator.com/item?id=47595620"
+      "title": "Show HN：Git bayesect – 用于非确定性错误的贝叶斯 Git 二分法",
+      "url": "https://github.com/hauntsaninja/git_bayesect",
+      "score": 180,
+      "by": "hauntsaninja",
+      "time": "2026-03-29T04:32:01+08:00",
+      "descendants": 24,
+      "hnLink": "https://news.ycombinator.com/item?id=47557921"
     },
     {
       "rank": 8,
-      "title": "Show HN：1-Bit Bonsai，第一个商业上可行的 1-Bit LLM",
-      "url": "https://prismml.com/",
-      "score": 120,
-      "by": "PrismML",
-      "time": "2026-04-01T05:01:18+08:00",
-      "descendants": 49,
-      "hnLink": "https://news.ycombinator.com/item?id=47593422"
+      "title": "美国生产的水泥和混凝土的人工智能",
+      "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
+      "score": 127,
+      "by": "latchkey",
+      "time": "2026-04-02T01:17:24+08:00",
+      "descendants": 102,
+      "hnLink": "https://news.ycombinator.com/item?id=47603737"
     },
     {
       "rank": 9,
-      "title": "OpenAI 以 852B 美元估值完成融资",
-      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-      "score": 345,
-      "by": "surprisetalk",
-      "time": "2026-04-01T04:07:30+08:00",
-      "descendants": 299,
-      "hnLink": "https://news.ycombinator.com/item?id=47592755"
+      "title": "混淆不是安全——人工智能可以对任何缩小的 JavaScript 代码进行反混淆",
+      "url": "https://www.afterpack.dev/blog/claude-code-source-leak",
+      "score": 6,
+      "by": "rvz",
+      "time": "2026-04-02T07:25:29+08:00",
+      "descendants": 0,
+      "hnLink": "https://news.ycombinator.com/item?id=47607947"
     },
     {
       "rank": 10,
-      "title": "4D 末日",
-      "url": "https://github.com/danieldugas/HYPERHELL",
-      "score": 140,
-      "by": "chronolitus",
-      "time": "2026-03-28T06:19:34+08:00",
-      "descendants": 30,
-      "hnLink": "https://news.ycombinator.com/item?id=47549128"
+      "title": "问 HN：谁在招聘？ （2026 年 4 月）",
+      "url": "https://news.ycombinator.com/item?id=47601859",
+      "score": 185,
+      "by": "whoishiring",
+      "time": "2026-04-01T23:01:36+08:00",
+      "descendants": 154,
+      "hnLink": "https://news.ycombinator.com/item?id=47601859"
     }
   ],
   "github": {
     "general": [
       {
-        "name": "luongnv89/claude-howto",
+        "name": "anthropics/claude-code",
         "stars": "-",
-        "description": "克劳德代码的可视化、示例驱动指南——从基本概念到高级代理，以及可带来即时价值的复制粘贴模板。",
-        "url": "https://github.com/luongnv89/claude-howto",
-        "language": "Python",
+        "description": "Claude Code 是一种代理编码工具，它位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理 git 工作流程来帮助您更快地编码 - 所有这些都通过自然语言命令进行。",
+        "url": "https://github.com/anthropics/claude-code",
+        "language": "Shell",
         "topics": []
       },
       {
@@ -537,323 +537,285 @@
         "topics": []
       },
       {
-        "name": "Yeachan-Heo/oh-my-claudecode",
+        "name": "google-research/timesfm",
         "stars": "-",
-        "description": "Claude Code 的团队优先多代理编排",
-        "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
-        "language": "TypeScript",
+        "description": "TimesFM（时间序列基础模型）是 Google Research 开发的用于时间序列预测的预训练时间序列基础模型。",
+        "url": "https://github.com/google-research/timesfm",
+        "language": "Python",
         "topics": []
       },
       {
-        "name": "shanraisshan/claude-code-best-practice",
+        "name": "luongnv89/claude-howto",
         "stars": "-",
-        "description": "练习使克劳德变得完美",
-        "url": "https://github.com/shanraisshan/claude-code-best-practice",
+        "description": "克劳德代码的可视化、示例驱动指南——从基本概念到高级代理，以及可带来即时价值的复制粘贴模板。",
+        "url": "https://github.com/luongnv89/claude-howto",
+        "language": "Python",
+        "topics": []
+      },
+      {
+        "name": "axios/axios",
+        "stars": "-",
+        "description": "适用于浏览器和 Node.js 的基于 Promise 的 HTTP 客户端",
+        "url": "https://github.com/axios/axios",
+        "language": "JavaScript",
+        "topics": []
+      },
+      {
+        "name": "openai/codex",
+        "stars": "-",
+        "description": "在您的终端中运行的轻量级编码代理",
+        "url": "https://github.com/openai/codex",
+        "language": "Rust",
+        "topics": []
+      },
+      {
+        "name": "f/prompts.chat",
+        "stars": "-",
+        "description": "F.K.A.很棒的 ChatGPT 提示。分享、发现并收集社区中的提示。免费和开源——为您的组织自行托管，并具有完全的隐私。",
+        "url": "https://github.com/f/prompts.chat",
         "language": "HTML",
-        "topics": []
-      },
-      {
-        "name": "NousResearch/hermes-agent",
-        "stars": "-",
-        "description": "与您共同成长的代理商",
-        "url": "https://github.com/NousResearch/hermes-agent",
-        "language": "Python",
-        "topics": []
-      },
-      {
-        "name": "obra/superpowers",
-        "stars": "-",
-        "description": "有效的代理技能框架和软件开发方法。",
-        "url": "https://github.com/obra/superpowers",
-        "language": "Shell",
-        "topics": []
-      },
-      {
-        "name": "microsoft/agent-lightning",
-        "stars": "-",
-        "description": "点亮AI特工的绝对训练师。",
-        "url": "https://github.com/microsoft/agent-lightning",
-        "language": "Python",
-        "topics": []
-      },
-      {
-        "name": "PaddlePaddle/PaddleOCR",
-        "stars": "-",
-        "description": "将任何 PDF 或图像文档转换为 AI 的结构化数据。一款功能强大、轻量级的 OCR 工具包，可弥合图像/PDF 和法学硕士之间的差距。支持 100 多种语言。",
-        "url": "https://github.com/PaddlePaddle/PaddleOCR",
-        "language": "Python",
-        "topics": []
-      },
-      {
-        "name": "Dimillian/Skills",
-        "stars": "-",
-        "description": "我的法典技能",
-        "url": "https://github.com/Dimillian/Skills",
-        "language": "Shell",
-        "topics": []
-      },
-      {
-        "name": "sherlock-project/sherlock",
-        "stars": "-",
-        "description": "通过社交网络上的用户名查找社交媒体帐户",
-        "url": "https://github.com/sherlock-project/sherlock",
-        "language": "Python",
         "topics": []
       }
     ],
     "ai": [
       {
-        "name": "Romainiaccc/awesome-QAI-Papers-QML",
+        "name": "mwalz365/prolog-kne",
         "stars": "-",
-        "description": "📚 发现有关量子机器学习 (QML) 的重要研究论文，并探索迁移学习框架、应用程序和优化策略。",
-        "url": "https://github.com/Romainiaccc/awesome-QAI-Papers-QML",
+        "description": "🧠 使用 Prolog-KNE 增强逻辑编程，Prolog-KNE 是 Prolog 环境中知识提取和自然语言理解的工具包。",
+        "url": "https://github.com/mwalz365/prolog-kne",
         "language": "",
         "topics": [
-          "academic-papers",
-          "ai-research",
           "artificial-intelligence",
-          "awesome-qai",
-          "data-science",
-          "innovative-techniques",
-          "machine-learning",
-          "open-access",
-          "papers",
-          "qml",
-          "quantum-algorithms",
-          "quantum-computing",
-          "quantum-machine-learning",
-          "research-papers",
-          "technical-reports"
-        ]
-      },
-      {
-        "name": "SyntheticAutonomicMind/CLIO",
-        "stars": 90,
-        "description": "命令行智能编排器",
-        "url": "https://github.com/SyntheticAutonomicMind/CLIO",
-        "language": "Perl",
-        "topics": [
-          "agentic-ai-development",
-          "ai",
-          "apple",
-          "artificial-intelligence",
-          "autonomous-agents",
-          "chat",
-          "developer-tools",
-          "development",
-          "development-environment",
-          "github-copilot",
-          "linux",
-          "macos",
+          "constraints",
+          "declarative-programming",
+          "educational-tools",
+          "expert-systems",
+          "knowledge-representation",
+          "logic-programming",
+          "natural-language-processing",
           "open-source",
-          "openai",
-          "oss",
-          "pair-programming",
-          "perl",
-          "wsl2"
+          "problem-solving",
+          "programming-languages",
+          "prolog",
+          "reasoning",
+          "rule-based-systems",
+          "theorem-proving"
         ]
       },
       {
-        "name": "clouatre-labs/setup-kiro-action",
-        "stars": 5,
-        "description": "为工作流程安装和缓存 Kiro CLI 的 GitHub Action",
-        "url": "https://github.com/clouatre-labs/setup-kiro-action",
-        "language": "",
-        "topics": [
-          "ai",
-          "artificial-intelligence",
-          "automation",
-          "aws",
-          "cache",
-          "ci-cd",
-          "cli",
-          "composite-action",
-          "devops",
-          "github-actions",
-          "kiro",
-          "kiro-cli",
-          "security",
-          "sigv4"
-        ]
-      },
-      {
-        "name": "clouatre-labs/setup-goose-action",
-        "stars": 6,
-        "description": "用于安装和缓存工作流程的 Goose AI 代理的 GitHub Action",
-        "url": "https://github.com/clouatre-labs/setup-goose-action",
-        "language": "",
-        "topics": [
-          "actions",
-          "ai",
-          "ai-agent",
-          "artificial-intelligence",
-          "automation",
-          "ci-cd",
-          "cicd",
-          "cli-tool",
-          "composite-action",
-          "devtools",
-          "github-actions",
-          "goose",
-          "setup"
-        ]
-      },
-      {
-        "name": "thedotmack/claude-mem",
-        "stars": 44121,
-        "description": "一个 Claude 代码插件，可自动捕获 Claude 在编码会话期间所做的一切，使用 AI 对其进行压缩（使用 Claude 的代理 SDK），并将相关上下文注入到未来的会话中。",
-        "url": "https://github.com/thedotmack/claude-mem",
-        "language": "TypeScript",
-        "topics": [
-          "ai",
-          "ai-agents",
-          "ai-memory",
-          "anthropic",
-          "artificial-intelligence",
-          "chromadb",
-          "claude",
-          "claude-agent-sdk",
-          "claude-agents",
-          "claude-code",
-          "claude-code-plugin",
-          "claude-skills",
-          "embeddings",
-          "long-term-memory",
-          "mem0",
-          "memory-engine",
-          "openmemory",
-          "rag",
-          "sqlite",
-          "supermemory"
-        ]
-      },
-      {
-        "name": "WildCraftsmanFilter/AI-Voice-Changer-Real-Time-Desktop",
+        "name": "amr-khaled164/GRLMSL",
         "stars": 1,
-        "description": "⭐️ AI Voice-Changer Real-Time 2026 是先进的 AI 变声软件，由深度学习和神经网络提供支持，可进行实时语音转换。它非常适合流媒体、游戏、Discord、Zoom 和内容创建，提供低延迟、高清音频质量、自定义语音效果和用于专业语音调制的 GPU 加速。 ⭐️",
-        "url": "https://github.com/WildCraftsmanFilter/AI-Voice-Changer-Real-Time-Desktop",
-        "language": "C++",
+        "description": "🚀 使用 GRLMSL 的高级图强化学习模型优化边缘计算中的微服务实例选择和负载平衡。",
+        "url": "https://github.com/amr-khaled164/GRLMSL",
+        "language": "Python",
         "topics": [
-          "ai",
+          "algorithms",
           "artificial-intelligence",
-          "audio-processing",
-          "audio-software",
-          "desktop-app",
-          "gaming-tools",
-          "live-streaming",
-          "microphone-input",
-          "real-time",
-          "real-time-audio",
-          "sound-design",
-          "streaming-tools",
-          "voice-effects",
-          "windows-application"
-        ]
-      },
-      {
-        "name": "simstudioai/sim",
-        "stars": 27292,
-        "description": "构建、部署和编排 AI 代理。 Sim 是 AI 员工队伍的中央智能层。",
-        "url": "https://github.com/simstudioai/sim",
-        "language": "TypeScript",
-        "topics": [
-          "agent-workflow",
-          "agentic-workflow",
-          "agents",
-          "ai",
-          "aiagents",
-          "anthropic",
-          "artificial-intelligence",
-          "automation",
-          "chatbot",
-          "deepseek",
-          "gemini",
-          "low-code",
-          "nextjs",
-          "no-code",
-          "openai",
-          "rag",
-          "react",
-          "typescript"
-        ]
-      },
-      {
-        "name": "MuhammadUsman-Khan/MuhammadUsman-Khan",
-        "stars": "-",
-        "description": "数据科学家 |机器学习开发人员 |人工智能解决方案开发商。热衷于将数据转化为可行的见解并构建智能系统。专注于 Python、机器学习、Power BI 和 FastAPI。对合作和机会持开放态度。",
-        "url": "https://github.com/MuhammadUsman-Khan/MuhammadUsman-Khan",
-        "language": "",
-        "topics": [
-          "artificial-intelligence",
-          "computer-vision",
+          "big-data",
           "data-analysis",
           "data-science",
           "data-visualization",
           "deep-learning",
-          "docker",
-          "fastapi",
-          "firebase",
-          "keras",
+          "grlmsl",
           "machine-learning",
-          "natural-language-processing",
-          "numpy",
-          "pandas",
-          "power-bi",
+          "neural-networks",
+          "predictive-modeling",
+          "project-management",
           "python",
-          "scikit-learn",
-          "streamlit",
-          "tensorflow"
+          "research",
+          "statistics"
         ]
       },
       {
-        "name": "FMCalisto/FMCalisto",
-        "stars": 5,
-        "description": ":crystal_ball: 我的个人开源简介",
-        "url": "https://github.com/FMCalisto/FMCalisto",
+        "name": "Saitoti-tect/kirmanjiku-16",
+        "stars": "-",
+        "description": "🚀 使用 kirmanjiku-16 简化数据处理，这是一款用于高效数据管理和分析的强大工具。",
+        "url": "https://github.com/Saitoti-tect/kirmanjiku-16",
         "language": "",
         "topics": [
+          "api",
           "artificial-intelligence",
-          "breast-cancer",
-          "front-end",
-          "health-informatics",
-          "heatlhcare",
-          "human-computer-interaction",
-          "introduction",
-          "medical-imaging",
-          "readme",
-          "readme-profile",
-          "researcher",
-          "software-engineering",
-          "user-centered-design",
-          "ux-research"
+          "chatbot",
+          "data-processing",
+          "documentation",
+          "kirmanjiku",
+          "machine-learning",
+          "nlp",
+          "open-source",
+          "project-management",
+          "python",
+          "software-development",
+          "unit-testing",
+          "user-interface",
+          "web-app"
         ]
       },
       {
-        "name": "aiqing20230305-bot/AgentForge-v0.1.0---MVP-Release-",
-        "stars": 2,
-        "description": "让 AI Agent 开发像玩 RPG 一样有趣 | Gamified AI Agent Development Platform - 5min to start vs 5hr for LangChain",
-        "url": "https://github.com/aiqing20230305-bot/AgentForge-v0.1.0---MVP-Release-",
-        "language": "TypeScript",
+        "name": "ammarftasc/Number-Guess-Ai",
+        "stars": "-",
+        "description": "🤖 猜测 1 到 100 之间的数字，因为 AI 使用智能逻辑根据您的提示快速找到它。以最少的尝试享受有趣的挑战！",
+        "url": "https://github.com/ammarftasc/Number-Guess-Ai",
+        "language": "Python",
         "topics": [
-          "agent",
           "ai",
-          "ai-agent",
+          "algorithms",
           "artificial-intelligence",
-          "autogpt",
-          "automation",
-          "claude",
-          "developer-tools",
-          "electron",
-          "gamification",
-          "langchain",
-          "llm",
+          "command-line-tool",
+          "data-science",
+          "educational",
+          "game-development",
+          "interactive-app",
           "machine-learning",
-          "openai",
-          "opensource",
-          "pwa",
-          "react",
-          "rpg",
-          "typescript"
+          "math",
+          "number-guessing-game",
+          "python",
+          "randomness",
+          "simulation",
+          "user-interface"
+        ]
+      },
+      {
+        "name": "mariakumar-code/netflix-t5n4e",
+        "stars": "-",
+        "description": "🎬 探索受 Netflix 启发的创意项目集合，为娱乐爱好者提供随意性和乐趣。",
+        "url": "https://github.com/mariakumar-code/netflix-t5n4e",
+        "language": "JavaScript",
+        "topics": [
+          "algorithm",
+          "artificial-intelligence",
+          "big-data",
+          "content-recommendation",
+          "data-analysis",
+          "deep-learning",
+          "entertainment",
+          "machine-learning",
+          "natural-language-processing",
+          "netflix",
+          "personalization",
+          "recommendation-system",
+          "t5n4e",
+          "user-experience",
+          "video-streaming"
+        ]
+      },
+      {
+        "name": "Petru652/intel-ydiel",
+        "stars": "-",
+        "description": "🎲 探索 intel-ydiel 存储库中随机创建的演示文件，旨在展示各种功能和概念。",
+        "url": "https://github.com/Petru652/intel-ydiel",
+        "language": "JavaScript",
+        "topics": [
+          "algorithms",
+          "analytics",
+          "artificial-intelligence",
+          "data-analysis",
+          "data-science",
+          "deep-learning",
+          "intel",
+          "machine-learning",
+          "open-source",
+          "programming",
+          "python",
+          "research-tools",
+          "software-development",
+          "visualization",
+          "ydiel"
+        ]
+      },
+      {
+        "name": "Droni29/ibm-jie0b",
+        "stars": "-",
+        "description": "🐱 使用 ibm-jie0b 轻松生成动态 README 文件，旨在增强开发人员体验并简化项目文档。",
+        "url": "https://github.com/Droni29/ibm-jie0b",
+        "language": "JavaScript",
+        "topics": [
+          "algorithms",
+          "analytics",
+          "artificial-intelligence",
+          "automation",
+          "big-data",
+          "cloud-computing",
+          "data-science",
+          "data-visualization",
+          "ibm",
+          "jie0b",
+          "machine-learning",
+          "neural-networks",
+          "open-source",
+          "project-management",
+          "software-development"
+        ]
+      },
+      {
+        "name": "mahm0ud2007/ibm-lbgsn",
+        "stars": "-",
+        "description": "🐱 使用 ibm-lbgsn 增强您的开发体验，这是一种生成随机 README 内容以提高项目可见性和参与度的工具。",
+        "url": "https://github.com/mahm0ud2007/ibm-lbgsn",
+        "language": "JavaScript",
+        "topics": [
+          "algorithms",
+          "api",
+          "artificial-intelligence",
+          "cloud-computing",
+          "data-analytics",
+          "data-science",
+          "data-visualization",
+          "ibm",
+          "lbgsn",
+          "machine-learning",
+          "networking",
+          "open-source",
+          "repositories",
+          "software-development",
+          "statistics"
+        ]
+      },
+      {
+        "name": "CYBERSTONE-dev/microsoft-pxzz2",
+        "stars": "-",
+        "description": "🎨 探索一系列受 Microsoft 启发的创意项目，为您的编码体验带来随机性和创新。",
+        "url": "https://github.com/CYBERSTONE-dev/microsoft-pxzz2",
+        "language": "JavaScript",
+        "topics": [
+          "algorithms",
+          "api-integration",
+          "artificial-intelligence",
+          "automation",
+          "big-data",
+          "cloud-computing",
+          "data-analysis",
+          "data-visualization",
+          "machine-learning",
+          "microsoft",
+          "open-source",
+          "pxzz2",
+          "software-development",
+          "user-interface",
+          "web-development"
+        ]
+      },
+      {
+        "name": "soloangema/nvidia-8z6ms",
+        "stars": "-",
+        "description": "🐱 生成随机自述文件以增强 DX 农业，由 NVIDIA 技术提供支持，提供引人入胜的开发体验。",
+        "url": "https://github.com/soloangema/nvidia-8z6ms",
+        "language": "JavaScript",
+        "topics": [
+          "artificial-intelligence",
+          "computer-vision",
+          "cuda",
+          "data-science",
+          "deep-learning",
+          "gpu",
+          "image-processing",
+          "machine-learning",
+          "neural-networks",
+          "nvidia",
+          "parallel-computing",
+          "performance-optimization",
+          "pytorch",
+          "tensor",
+          "video-processing"
         ]
       }
     ]
