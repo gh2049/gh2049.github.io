@@ -45,8 +45,15 @@ function App() {
     return Object.entries(groups).sort((a, b) => b[0].localeCompare(a[0]));
   }, [archiveDates]);
 
-  const featureNews = filterNews.length > 0 ? filterNews[0] : null;
-  const standardNews = filterNews.length > 1 ? filterNews.slice(1) : [];
+  // Group news by category, preserving insertion order
+  const newsByCategory = useMemo(() => {
+    const groups: Record<string, typeof filterNews> = {};
+    filterNews.forEach(n => {
+      if (!groups[n.category]) groups[n.category] = [];
+      groups[n.category].push(n);
+    });
+    return Object.entries(groups);
+  }, [filterNews]);
 
   return (
     <main className="relative z-10 max-w-[1300px] mx-auto p-[32px_16px_80px]">
@@ -133,15 +140,31 @@ function App() {
         total={data?.news?.length}
       >
         {filterNews.length === 0 ? <p className="text-muted font-mono italic py-8 border-t-[3px] border-text border-dashed">NO DATA FEED.</p> :
-          <div>
-            {featureNews && <NewsFeatureCard item={featureNews} />}
-            <div className="columns-1 md:columns-2 lg:columns-3 gap-8 space-y-8">
-              {standardNews.map((n, i) => (
-                <div key={i} className="break-inside-avoid">
-                  <NewsCard item={n} />
+          <div className="space-y-14">
+            {newsByCategory.map(([category, items], ci) => {
+              const isFirst = ci === 0;
+              const featureItem = isFirst ? items[0] : null;
+              const cardItems = isFirst ? items.slice(1) : items;
+              return (
+                <div key={category}>
+                  <div className="flex items-center gap-4 mb-6">
+                    <h3 className="font-mono text-[11px] font-bold tracking-[0.2em] uppercase text-bg bg-text px-3 py-1.5">
+                      {category}
+                    </h3>
+                    <span className="font-mono text-[10px] text-muted tracking-widest">{items.length} stories</span>
+                    <span className="flex-1 h-px bg-line"></span>
+                  </div>
+                  {featureItem && <NewsFeatureCard item={featureItem} />}
+                  <div className="columns-1 md:columns-2 lg:columns-3 gap-8 space-y-8">
+                    {cardItems.map((n, i) => (
+                      <div key={i} className="break-inside-avoid">
+                        <NewsCard item={n} />
+                      </div>
+                    ))}
+                  </div>
                 </div>
-              ))}
-            </div>
+              );
+            })}
           </div>
         }
       </Section>
