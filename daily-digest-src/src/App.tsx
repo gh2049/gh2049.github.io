@@ -62,11 +62,9 @@ function App() {
           <div className="flex flex-col">
             <div className="font-mono text-text font-bold text-[12px] tracking-[0.2em] uppercase mb-6 flex gap-3 items-center">
               <span>Vol. {data?.date?.replace(/-/g, '') || '0000'}</span>
-              <span className="w-12 h-[2px] bg-primary"></span>
-              <span>Openclaw</span>
             </div>
             <h1 className="m-0 text-[3.5rem] md:text-8xl editorial-heading tracking-tighter uppercase leading-none">
-              THE DAILY DIGEST
+              THE DISPATCH
             </h1>
             <span className="font-mono text-[9px] text-muted uppercase tracking-widest mt-4">
               Printed: <strong className="text-text">{data ? new Date(data.generatedAt).toLocaleString('en-US', {hour12: false}) : '--'}</strong>
